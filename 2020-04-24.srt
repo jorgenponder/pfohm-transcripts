@@ -1,0 +1,1304 @@
+1
+00:00:00,000 --> 00:00:05,600
+ Välkomna hit. Vi börjar som vanligt med den globala situationen.
+
+2
+00:00:05,600 --> 00:00:11,320
+ Som ni ser fortsätter det uppåt med nått hundratusentalf fall om dagen.
+
+3
+00:00:11,320 --> 00:00:16,720
+ Det börjar närma sig nästan 3 miljoner och 200 000 avlidna i det.
+
+4
+00:00:16,720 --> 00:00:25,160
+ Av dem finns nu ungefär en tredjedel av fallen, eller drygt hälften av dem i Europa.
+
+5
+00:00:25,160 --> 00:00:29,000
+ Antal fall ökar snabbare i resten av världen.
+
+6
+00:00:29,000 --> 00:00:34,200
+ Men vi har fortfarande en hög andel avlidna i Europa.
+
+7
+00:00:34,200 --> 00:00:37,200
+ Vi kan komma tillbaka till att diskutera det.
+
+8
+00:00:37,200 --> 00:00:40,600
+ Det beror säkert på åldersstruktur och många andra saker.
+
+9
+00:00:40,600 --> 00:00:43,800
+ Varför vi ser just den skillnaden.
+
+10
+00:00:43,800 --> 00:00:49,800
+ I Sverige har vi nu hamnat på lite högre nivå.
+
+11
+00:00:49,800 --> 00:00:54,800
+ Som vi håller på att försöka få lite koll på.
+
+12
+00:00:54,800 --> 00:00:58,000
+ Vi har inte fått någon bra statistik, men vi har pratat med regionerna.
+
+13
+00:00:58,000 --> 00:01:03,200
+ Det finns en blandning av tre orsaker till att vi nu ligger på lite högre nivå.
+
+14
+00:01:03,200 --> 00:01:07,200
+ Dels har man börjat provta betydligt mer personal.
+
+15
+00:01:07,200 --> 00:01:09,200
+ Vilket är jättebra.
+
+16
+00:01:09,200 --> 00:01:13,200
+ Kanske runt hälften till en tredjedel av de nya fallen kommer därifrån.
+
+17
+00:01:13,200 --> 00:01:16,200
+ Dessutom har man börjat provta på äldreboende.
+
+18
+00:01:16,200 --> 00:01:20,200
+ Även de som bor där i större utsträckning och ytterligare några fall kommer därifrån.
+
+19
+00:01:20,200 --> 00:01:26,400
+ Men sen finns det också en viss ökning av inläggningar inlagda i detta.
+
+20
+00:01:26,400 --> 00:01:39,400
+ Om vi tittar på vad som händer på IVA så ligger trenden kvar att det är en ganska konstant nivå.
+
+21
+00:01:39,400 --> 00:01:42,400
+ De här sista dagarna som alltid är lite osäkra.
+
+22
+00:01:42,400 --> 00:01:44,400
+ Men inga ökningar där.
+
+23
+00:01:44,400 --> 00:01:49,400
+ Trots att det är betydligt fler som totalt har anmälts.
+
+24
+00:01:49,400 --> 00:01:54,400
+ Det stöder väl hypotesen att ganska många av de här kommer från grupper som inte är jättesjuka.
+
+25
+00:01:54,400 --> 00:01:56,400
+ Utan som har hittats av andra skäl.
+
+26
+00:01:56,400 --> 00:02:06,400
+ Vi kan också visa att de fallen som har anmälts de senaste veckorna är yngre än de tidigare veckorna.
+
+27
+00:02:06,400 --> 00:02:12,400
+ Så det finns ett antal saker som tyder på att det är en annan grupp som har hittats på det här viset.
+
+28
+00:02:12,400 --> 00:02:18,400
+ Om vi går tillbaka till det regionala så visar vi fortfarande Stockholm.
+
+29
+00:02:18,400 --> 00:02:21,400
+ För det är här som det händer mest.
+
+30
+00:02:21,400 --> 00:02:26,400
+ Ni ser att det är ungefär samma utveckling som vi såg på den nationella nivån.
+
+31
+00:02:26,400 --> 00:02:29,400
+ Med de två senaste dagarna rätt höga siffror.
+
+32
+00:02:29,400 --> 00:02:34,400
+ Men som sagt, i Stockholm har man rätt bra koll på det.
+
+33
+00:02:34,400 --> 00:02:40,400
+ Drygt hälften av dem är från personal och lite på ytterligare äldreboende.
+
+34
+00:02:40,400 --> 00:02:46,400
+ Det finns också en ökning av sjukfall i detta som har kommit in till sjukvården.
+
+35
+00:02:46,400 --> 00:02:51,400
+ Sen tittar vi på några regioner med lite färre invånare.
+
+36
+00:02:51,400 --> 00:02:55,400
+ Som ni ser så är det väldigt få fall här på varje dag.
+
+37
+00:02:55,400 --> 00:02:58,400
+ Därför måste man alltid tolka kurvan med viss försiktighet.
+
+38
+00:02:58,400 --> 00:03:09,400
+ Men vi kan se att i ett antal andra regioner nu så har vi en tendens till uppåtgående antal fall.
+
+39
+00:03:09,400 --> 00:03:13,400
+ Väldigt tydligt är det i Kronoberg, inte lika tydligt i Västernorrland.
+
+40
+00:03:13,400 --> 00:03:18,400
+ Men också ganska tydligt i Kalmar.
+
+41
+00:03:18,400 --> 00:03:21,400
+ På något sätt växer det koncentriskt runt Stockholm.
+
+42
+00:03:21,400 --> 00:03:28,400
+ Avlina per dag har diskuterats mycket på sistone.
+
+43
+00:03:28,400 --> 00:03:32,400
+ Så jag ska undvika att säga något om hur jag tror det kommer att bli i framtiden.
+
+44
+00:03:32,400 --> 00:03:38,400
+ Vad man tydligt kan säga är att vi har mer och mer eftersläpning av inrapporteringen av fall.
+
+45
+00:03:38,400 --> 00:03:40,400
+ Det är inte riktigt varför det har blivit så.
+
+46
+00:03:40,400 --> 00:03:42,400
+ Det har vi inte riktigt fått koll på.
+
+47
+00:03:42,400 --> 00:03:45,400
+ Möjligen är det påskhelgen som fortfarande spökar och att man inte riktigt har med.
+
+48
+00:03:45,400 --> 00:03:52,400
+ Och att det därför fortfarande kommer in fall från den perioden som man har fått ordning på nu.
+
+49
+00:03:52,400 --> 00:04:00,400
+ Så det är drygt 2000 fall totalt hittills i Sverige.
+
+50
+00:04:00,400 --> 00:04:06,400
+ Sen har vi mer i den här kurvan som kanske inte är helt lätt tolkad.
+
+51
+00:04:06,400 --> 00:04:10,400
+ Men det här är facit som vi har pratat om tidigare.
+
+52
+00:04:10,400 --> 00:04:22,400
+ Den lila kurvan visar hur antalet dödsfall ser ut i Sverige under de senaste 3-4 åren.
+
+53
+00:04:22,400 --> 00:04:30,400
+ Den blå kurvan visar hur många fall det har varit i snitt de senaste 5 åren.
+
+54
+00:04:30,400 --> 00:04:32,400
+ Så det är en slags baslinje.
+
+55
+00:04:32,400 --> 00:04:40,400
+ Vi kan se att under vissa veckor av vintertid har vi ganska mycket mer fall än förväntat.
+
+56
+00:04:40,400 --> 00:04:48,400
+ Om ni tittar på de två första topparna så är det influensasäsongen som skördar ganska många dödsfall varje år.
+
+57
+00:04:48,400 --> 00:04:54,400
+ Någonstans mellan 1000 och 2000 dödsfall under de här åren när det är mycket allvarlig influensa.
+
+58
+00:04:54,400 --> 00:04:57,400
+ Så ni ser att det är rätt många fall som hamnar där.
+
+59
+00:04:57,400 --> 00:05:04,400
+ Under en sommar när det är väldigt få dödsfall, det är väldigt få i Sverige som dör på sommaren.
+
+60
+00:05:04,400 --> 00:05:06,400
+ Vi har en väldigt stor övervikt på vintrarna.
+
+61
+00:05:06,400 --> 00:05:09,400
+ Så kan vi se vår värmebölja för ett par år sen.
+
+62
+00:05:09,400 --> 00:05:15,400
+ Sen har vi haft två influensasäsonger, de två sista, som har varit väldigt milda.
+
+63
+00:05:15,400 --> 00:05:18,400
+ Där har vi inte haft någon extra dödlighet överhuvudtaget.
+
+64
+00:05:18,400 --> 00:05:23,400
+ Nu kan ni se att den lilla kurvan går brant uppåt.
+
+65
+00:05:23,400 --> 00:05:29,400
+ Det är alltså de två, tre första veckorna av pandemin i Sverige.
+
+66
+00:05:29,400 --> 00:05:34,400
+ Det var egentligen vecka 13-14 som gick igång ordentligt.
+
+67
+00:05:34,400 --> 00:05:41,400
+ Då visar den här statistiken, som är en statistik som görs i alla länder i hela Europa,
+
+68
+00:05:41,400 --> 00:05:46,400
+ enligt etablerat system, så är många år tillbaka på ungefär 1000 fler dödsfall.
+
+69
+00:05:46,400 --> 00:05:52,400
+ Vi kan se att vi har nästan exakt 1000 dödsfall i vår coronaregistrering.
+
+70
+00:05:52,400 --> 00:05:59,400
+ Det här är ett facit på att även om det är lite sent ibland, så har vi väldigt bra kontroll på hur många som dör i covid-19.
+
+71
+00:05:59,400 --> 00:06:09,400
+ Så det är bara att även om vi inte vet det så snabbt, så kommer vi ha väldigt bra kontroll i Sverige på hur många som egentligen dör i den här sjukdomen.
+
+72
+00:06:09,400 --> 00:06:17,400
+ Med det som bakgrund, med en dödlighet som vi ändå ser som är allvarlig,
+
+73
+00:06:17,400 --> 00:06:25,400
+ vi är nu uppe i 2000 fall, som är ungefär vad vi har sett runt en väldigt allvarlig årlig influensaepidemi,
+
+74
+00:06:25,400 --> 00:06:31,400
+ så är det viktigt att vi fortsätter att tänka på hur viktigt det är att hålla ner den här kurvan,
+
+75
+00:06:31,400 --> 00:06:35,400
+ så att alla de som behöver vård kan få vård på ett bra sätt.
+
+76
+00:06:35,400 --> 00:06:41,400
+ Vi har klarat av det bra, det har varit slitsamt, det är definitivt inte över.
+
+77
+00:06:41,400 --> 00:06:48,400
+ Den här lilla ökningen i Stockholm igen, det gör oss bra påminnes om att det är viktigt att fortsätta tänka på
+
+78
+00:06:48,400 --> 00:06:54,400
+ att vi måste hjälpas åt för att hålla oss under den här sträckade linjen som visar hur många sjukhusplatser vi har.
+
+79
+00:06:54,400 --> 00:07:00,400
+ Ännu så länge ligger vi under, men börjar vi slappna av så är det en rätt stor risk att vi når upp dit ganska snabbt,
+
+80
+00:07:00,400 --> 00:07:06,400
+ för det är inte så långt kvar. Därför är det viktigt att tänka på vad vi behöver göra tillsammans.
+
+81
+00:07:06,400 --> 00:07:11,400
+ Stanna hemma om du känner dig minsta sjuk, jobba gärna hemifrån om du kan det,
+
+82
+00:07:11,400 --> 00:07:17,400
+ tänk på det här med hygien och resande, undvika sociala sammanhang.
+
+83
+00:07:17,400 --> 00:07:24,400
+ För de äldre är det viktigt att försöka minimera nära kontakter med olika personer.
+
+84
+00:07:24,400 --> 00:07:32,400
+ Stanna hemma omkring, ni behöver inte sitta inlåst eller instängd utan det är jättebra att vara ute och röra på sig.
+
+85
+00:07:32,400 --> 00:07:37,400
+ Vi säger det varje gång, men vi får ändå frågor om det så jag tycker det är viktigt att understryka
+
+86
+00:07:37,400 --> 00:07:42,400
+ att vara utomhus är absolut ingen nackdel så länge man inte är i nära kontakt med någon annan.
+
+87
+00:07:42,400 --> 00:07:48,400
+ Att träffa folk utomhus om man håller bra avstånd är inte heller något stort problem så länge det är enstaka personer
+
+88
+00:07:48,400 --> 00:07:55,400
+ om man inte ger sig in i större folksamlingar. Men det är som sagt jätteviktigt att vi får bättre kontroll
+
+89
+00:07:55,400 --> 00:08:02,400
+ på alla de dödsfallen som vi ser bland de äldre och speciellt i äldreboende.
+
+90
+00:08:02,400 --> 00:08:06,400
+ Så det var det hela för idag. Varsågod Joanna.
+
+91
+00:08:06,400 --> 00:08:16,400
+ Jag börjar med en rapport kring Socialstyrelsens operativa arbete och sen kommer Thomas förtydliga
+
+92
+00:08:16,400 --> 00:08:21,400
+ omkring de kunskapsstöd bland annat som vi har rapporterat om tidigare.
+
+93
+00:08:21,400 --> 00:08:28,400
+ Den utbyggnad av intensivvården och den omställning som görs i sjukvården fortgår.
+
+94
+00:08:28,400 --> 00:08:36,400
+ Vi har samma siffra på tillgängliga intensivvårdsplatser idag som igår, 1131 stycken.
+
+95
+00:08:36,400 --> 00:08:47,400
+ Precis som Anders sa så finns det en tillgänglig kapacitet. Idag ligger det 533 patienter med covid-19
+
+96
+00:08:47,400 --> 00:08:55,400
+ på Sveriges intensivvårdsplatser. Men det är inte en jättestor överkapacitet utan vi måste fortsätta
+
+97
+00:08:55,400 --> 00:08:58,400
+ hålla i de råd och rekommendationer som gäller.
+
+98
+00:08:58,400 --> 00:09:06,400
+ Vi ser också fortsatt variation i belastning över landet och den nationella koordinering som startade
+
+99
+00:09:06,400 --> 00:09:13,400
+ under den här veckan och som också kompletteras av utökad transportkapacitet är igång.
+
+100
+00:09:13,400 --> 00:09:19,400
+ Det ser vi väldigt positivt på. Ett bra samarbete mellan Sveriges kommuner, regioner och Socialstyrelsen.
+
+101
+00:09:19,400 --> 00:09:27,400
+ Mitt grunduppdrag i vanliga fall brukar vi kalla den katastrofmedicinska beredskapen.
+
+102
+00:09:27,400 --> 00:09:34,400
+ Den följer vi också fortfarande. Vi har ingen stor påverkan på den katastrofmedicinska beredskapen
+
+103
+00:09:34,400 --> 00:09:39,400
+ i landet, men även där skiljer sig påverkan något.
+
+104
+00:09:39,400 --> 00:09:46,400
+ Vi har en fortsatt icke-uthållig skyddsutrustningssituation. Det blev ett jättelångt ord.
+
+105
+00:09:46,400 --> 00:09:49,400
+ Vi är fortfarande inte hållbara vad gäller skyddsutrustningsfrågan.
+
+106
+00:09:49,400 --> 00:10:00,400
+ Däremot ser vi att vi kan vara den gapfiller som vi ska vara i ganska stor utsträckning, både till kommuner och regioner.
+
+107
+00:10:00,400 --> 00:10:09,400
+ Vi ser också många bra nya samarbeten som börjar ta form för att vi inom en ganska snar framtid
+
+108
+00:10:09,400 --> 00:10:12,400
+ ska kunna ha en annan situation.
+
+109
+00:10:12,400 --> 00:10:21,400
+ Vi har börjat få in de lägesbilder som vi har velat få från kommunerna via länsstyrelserna.
+
+110
+00:10:21,400 --> 00:10:27,400
+ Vi har en 75-procentig rapporterad lägesbild i dagsläget.
+
+111
+00:10:27,400 --> 00:10:31,400
+ Vi är kvalitetssäkra och analyserar denna.
+
+112
+00:10:31,400 --> 00:10:40,400
+ Förhoppningsvis kan vi också fatta bättre beslut utifrån fakta, så att vi kan göra rätt prioritering av den skyddsutrustning som vi har.
+
+113
+00:10:40,400 --> 00:10:43,400
+ Slut från mig, över till dig Thomas.
+
+114
+00:10:43,400 --> 00:10:50,400
+ Tack så mycket. Några korta budskap från mig i relation till en del saker som vi gör.
+
+115
+00:10:50,400 --> 00:11:00,400
+ Först vill jag upprepa det budskapet att oavsett om man tolkar kurvorna som att de innebär en avmattning av smittan
+
+116
+00:11:00,400 --> 00:11:08,400
+ så är sjukvården fortfarande hårt belastad och sjukvården kommer att ligga några veckor efter spridningen av sjukdomen i samhället.
+
+117
+00:11:08,400 --> 00:11:15,400
+ Den belastningen är inte jämnt fördelad i landet, men vi följer läget kontinuerligt.
+
+118
+00:11:15,400 --> 00:11:24,400
+ Vi har publicerat dokument i stöd för prioritering, dels av intensivvård och dels av annan vård.
+
+119
+00:11:24,400 --> 00:11:27,400
+ Det har varit diskussion kring dem.
+
+120
+00:11:27,400 --> 00:11:41,400
+ Vi har i avstämningar med Sveriges kommuner och regioner och med regionernas chefläkare fått indikationer för att våra stöd för prioriteringar används.
+
+121
+00:11:41,400 --> 00:11:54,400
+ Vi har i de kontakterna inga indikationer på att några andra principer än de nationella gäller eller tillämpas i någon av regionerna.
+
+122
+00:11:54,400 --> 00:12:04,400
+ I relation till akuta besvär som inte har med covid-19 att göra att vården finns och fungerar.
+
+123
+00:12:04,400 --> 00:12:09,400
+ Ingen är bortprioriterad för den vård man behöver för att hålla sig frisk.
+
+124
+00:12:09,400 --> 00:12:15,400
+ Sök vård när du behöver och gå på de nödvändiga besök du blir kallad till.
+
+125
+00:12:15,400 --> 00:12:22,400
+ Sjukvården bokar om dem som kan vänta, men det är viktigt att man går på de besök man behöver för att hålla sig frisk.
+
+126
+00:12:22,400 --> 00:12:37,400
+ Jag ska också nämna om det regeringsuppdrag som vi fick för att identifiera riskgrupper som löper störst risk att drabbas av ett allvarligt sjukdomsförlopp vid covid-19.
+
+127
+00:12:37,400 --> 00:12:45,400
+ Vi har levererat det på kort tid som ett underlag till regeringen att eventuellt fatta beslut om en ny stödform.
+
+128
+00:12:45,400 --> 00:12:54,400
+ Det levereras på kort tid och vi kommer att komplettera det efterhand i den takt som det uppstår ny kunskap.
+
+129
+00:12:54,400 --> 00:13:05,400
+ Det har inkommit en del frågor och jag vill särskilt förtydliga utifrån en fråga som vi får ofta att det här dokumentet gäller inte barn utan det gäller enbart vuxna.
+
+130
+00:13:05,400 --> 00:13:09,400
+ Det har varit efterfrågat med det förtydligandet.
+
+131
+00:13:09,400 --> 00:13:17,400
+ Vi gör också en hel del olika stöd för att underlätta för sjukvårdens planering i det här läget.
+
+132
+00:13:17,400 --> 00:13:29,400
+ Idag publicerar vi ett kunskapsstöd vid covid-19 hos personer med demenssjukdom i särskilt boende.
+
+133
+00:13:29,400 --> 00:13:36,400
+ Det är avsett att vara ett stöd både till personal och chefer i sådana verksamheter.
+
+134
+00:13:36,400 --> 00:13:47,400
+ Vi gör det därför att dels äldre är en riskgrupp och att personer med demenssjukdom har svårt att följa de regler och anvisningar som behövs.
+
+135
+00:13:47,400 --> 00:13:55,400
+ Även på grund av sin sjukdom kan ha en del beteenden som ökar risken för smittspridning.
+
+136
+00:13:55,400 --> 00:14:08,400
+ I det här dokumentet finns tips om olika arbetssätt för att minska smitta, smittspridning och risk för förvärring i sjukdomen under de speciella omständigheter som gäller.
+
+137
+00:14:08,400 --> 00:14:15,400
+ Men det finns inga nya regler eller anvisningar om tvångsåtgärder eller liknande.
+
+138
+00:14:15,400 --> 00:14:17,400
+ Tack!
+
+139
+00:14:20,400 --> 00:14:32,400
+ Varje vecka tar myndigheten för samhällsskydd och beredskap, MSB, fram en nationell samlad lägesbild där vi bedömer de konsekvenser som pandemin har på samhället i stort.
+
+140
+00:14:32,400 --> 00:14:41,400
+ Hur bra vi kan värna människors liv och hälsa, att samhällsviktig verksamhet fungerar, konsekvenser för demokrati och tillit med mera.
+
+141
+00:14:41,400 --> 00:14:47,400
+ För att kunna göra den här bedömningen utgår vi från samhällsviktig verksamhet i hela samhället, alla samhällssektorer.
+
+142
+00:14:47,400 --> 00:14:55,400
+ Det kan handla om energiförsörjning, finansiella tjänster, hälso- och sjukvård, skydd och säkerhet, livsmedelsförsörjning och så vidare.
+
+143
+00:14:55,400 --> 00:15:01,400
+ Lägesbilden bygger på rapporter från alla länsstyrelser och ett stort antal centrala myndigheter.
+
+144
+00:15:01,400 --> 00:15:10,400
+ Den här veckan ser vi, precis som förra veckan, det vi beskriver som en måttlig påverkan på verksamhet inom de flesta samhällssektorer.
+
+145
+00:15:10,400 --> 00:15:19,400
+ Med måttlig påverkan kan det då betyda att det är ett besvärligt resursläge, att man behöver prioritera hårdare inom verksamheten
+
+146
+00:15:19,400 --> 00:15:26,400
+ eller att belastningen på personalen är på gränsen, men att man ändå klarar situationen bra som helhet.
+
+147
+00:15:26,400 --> 00:15:33,400
+ Ett undantag är läget i hälso- och sjukvården, där det i vissa av regionerna är betydligt allvarligare påverkan,
+
+148
+00:15:33,400 --> 00:15:40,400
+ vilket innebär att det där är betydligt mer besvärligt. Det berättar Socialstyrelsen regelmässigt här om.
+
+149
+00:15:40,400 --> 00:15:49,400
+ Vi ser också en viss ökning i graden av påverkan inom handel och industri, där flera länsstyrelser lyfter fram att läget är allvarligt
+
+150
+00:15:49,400 --> 00:15:52,400
+ och att det påverkar länet som helhet.
+
+151
+00:15:52,400 --> 00:16:00,400
+ Flera länsstyrelser lyfter också att redan ekonomiskt utsatta grupper och personer med ekonomiskt små marginaler
+
+152
+00:16:00,400 --> 00:16:07,400
+ nu när pandemin har pågått ett tag, riskerar att drabbas särskilt hårt.
+
+153
+00:16:07,400 --> 00:16:14,400
+ Det görs nu ganska tuffa prioriteringar inom många samhällsviktiga verksamheter.
+
+154
+00:16:14,400 --> 00:16:23,400
+ Prioriteringar som i de flesta fall beror på personalbortfall och att man då måste fokusera på att säkerställa att det allra viktigaste funkar.
+
+155
+00:16:23,400 --> 00:16:34,400
+ På kort sikt är det här normalt inga problem, men om underhåll, förnyelse, utveckling av teknik med mera skjuts på framtiden
+
+156
+00:16:34,400 --> 00:16:40,400
+ skulle det på längre sikt kunna påverka driftsäkerhet och förmågan att möta ökade behov med mera.
+
+157
+00:16:40,400 --> 00:16:48,400
+ Det här är därför något som alla ansvariga myndigheter, kommuner, regioner och företag som ansvarar för samhällsviktig verksamhet
+
+158
+00:16:48,400 --> 00:16:51,400
+ måste vara uppmärksamma på.
+
+159
+00:16:51,400 --> 00:17:00,400
+ Flera myndigheter tar i sin rapportering upp hur viktigt det är att fortsätta påminna medborgarna om allvaret i den här situationen.
+
+160
+00:17:00,400 --> 00:17:11,400
+ MSB delar bedömningen att det finns en betydande risk att människor börjar slappna av för tidigt och i praktiken struntar i rekommendationerna eller delar av dem.
+
+161
+00:17:11,400 --> 00:17:20,400
+ Så jag säger som jag sa förra veckan, fortsätt följa myndigheternas råd, fortsätt vara källkritisk, fortsätt hjälpa till och vara en del av lösningen.
+
+162
+00:17:20,400 --> 00:17:26,400
+ Med tanke på prognoserna för helgen, glöm inte heller brandrisken som jag nämnde igår.
+
+163
+00:17:26,400 --> 00:17:30,400
+ Vi vill inte ha flera stora händelser att hantera just nu.
+
+164
+00:17:30,400 --> 00:17:35,400
+ Var försiktiga när ni är ute i skog och mark. Tack!
+
+165
+00:17:35,400 --> 00:17:38,400
+ Tack! Sveriges Television.
+
+166
+00:17:38,400 --> 00:17:47,400
+ Susanne Lisena från Rapport. Jag undrar till Anders Tegnell, med anledning av att ett större antal personer har avlidit än ni förväntat,
+
+167
+00:17:47,400 --> 00:17:57,400
+ hade kunskap om det tidigare inneburit att du hade rekommenderat några ytterligare eller hårdare restriktioner för att försöka minska smittspridningen?
+
+168
+00:17:57,400 --> 00:18:04,400
+ Nej, det hade vi inte gjort. Den nivån var redan hög nog för att vi skickade ut väldigt mycket varningssignaler om att det här var på gång.
+
+169
+00:18:04,400 --> 00:18:07,400
+ Att den var ännu högre ändrar inte den.
+
+170
+00:18:07,400 --> 00:18:19,400
+ Kanske innebär det att du på motsvarande sätt inte vill föreslå några ytterligare restriktioner i nuläget eller att några lättnader skjuts upp?
+
+171
+00:18:19,400 --> 00:18:26,400
+ Nej, i nuläget är fokus på att försöka förstå varför vi har den här spridningen på äldreboende.
+
+172
+00:18:26,400 --> 00:18:29,400
+ Det är det som är det stora problemet just nu.
+
+173
+00:18:29,400 --> 00:18:38,400
+ Det bedrivs diverse utredningar i olika delar, på olika myndigheter, i olika delar av landet för att försöka hitta bättre modeller för det.
+
+174
+00:18:38,400 --> 00:18:47,400
+ Det är det som är vårt absoluta fokus och den högsta prioriteringen, att vi ska försöka hitta modeller för att minska den risken så mycket som möjligt.
+
+175
+00:18:47,400 --> 00:18:49,400
+ Expressen.
+
+176
+00:18:51,400 --> 00:18:54,400
+ Daniel Ingmo, Expressen, fråga till Folkhälsomyndigheten.
+
+177
+00:18:54,400 --> 00:19:00,400
+ Du har tidigare sagt att överdödligheten inte borde skilja sig så mycket från en vanlig säsongsinfluensa.
+
+178
+00:19:00,400 --> 00:19:03,400
+ Det såg väldigt annorlunda ut på den här grafen.
+
+179
+00:19:03,400 --> 00:19:08,400
+ Vad säger du nu? Hur stor skillnad är det mellan covid-19 och en vanlig säsongsinfluensa?
+
+180
+00:19:08,400 --> 00:19:13,400
+ Som jag sa, under två veckor hade vi alltså en överdelning på tusen personer.
+
+181
+00:19:13,400 --> 00:19:17,400
+ Redan det är en väldigt allvarlig säsongsinfluensa.
+
+182
+00:19:17,400 --> 00:19:20,400
+ Det här kommer upp i målningen att bli betydligt mer än en vanlig säsongsinfluensa.
+
+183
+00:19:20,400 --> 00:19:22,400
+ Det vet vi inte än.
+
+184
+00:19:22,400 --> 00:19:28,400
+ Det beror väldigt mycket på hur pass mycket vi lyckas med att skydda våra äldreboende.
+
+185
+00:19:28,400 --> 00:19:31,400
+ En väldigt stor del av dödligheten ligger där.
+
+186
+00:19:31,400 --> 00:19:35,400
+ Om jag inte minns fel så var det här något du sa för en vecka sedan.
+
+187
+00:19:35,400 --> 00:19:39,400
+ Du har lärt dig mer under den här veckan om det här.
+
+188
+00:19:39,400 --> 00:19:42,400
+ Jag hoppas jag lär mig mer varje dag. Det är mitt absoluta mål.
+
+189
+00:19:45,400 --> 00:19:48,400
+ John Granlund Aftonblad, en fråga till Anders Tegnell.
+
+190
+00:19:48,400 --> 00:19:54,400
+ Hammarby fotboll och Zlatan Ibrahimović spelade en slags träningsmatch idag på Tele2 Arena.
+
+191
+00:19:54,400 --> 00:19:56,400
+ Vad har du för åsikter om det?
+
+192
+00:19:56,400 --> 00:20:01,400
+ Regerverket säger tydligt att det inte ska vara några matcher på seniornivå.
+
+193
+00:20:01,400 --> 00:20:06,400
+ Vad man sedan definierar som match och inte match, det har vi pratat med Riksidrottsförbundet
+
+194
+00:20:06,400 --> 00:20:09,400
+ och Fortspåtsförbundet om att det är en fråga som de hanterar.
+
+195
+00:20:09,400 --> 00:20:12,400
+ Så vad man anser att det här är, den frågan får gå till dem.
+
+196
+00:20:12,400 --> 00:20:16,400
+ Men vår regerverket är väldigt tydligt.
+
+197
+00:20:16,400 --> 00:20:20,400
+ Vad ser du på att förebilder för unga och så inte följer de här reglerna?
+
+198
+00:20:20,400 --> 00:20:24,400
+ Jag återgår till att säga att regerverket är jättetydligt.
+
+199
+00:20:24,400 --> 00:20:29,400
+ Om man väljer att bryta med det så är det förstås en dialog med Fortspåtsförbundet
+
+200
+00:20:29,400 --> 00:20:33,400
+ och Riksidrottsförbundet runt den frågan för att man ska vara överens om att det här är
+
+201
+00:20:33,400 --> 00:20:39,400
+ en match eller en träningsmatch som regerverket säger inte skattar plats.
+
+202
+00:20:39,400 --> 00:20:43,400
+ Då får man ta det därifrån och diskutera vidare vad man kan vita för åtgärder.
+
+203
+00:20:43,400 --> 00:20:48,400
+ –Niklas Svan på TT till Anders Signell.
+
+204
+00:20:48,400 --> 00:20:57,400
+ Ni använde under påsken mobildataövervakning som ett hjälpmedel för att se hur folk reser
+
+205
+00:20:57,400 --> 00:21:04,400
+ eller spårar folks telefoner. Är det aktuellt nu? Håller ni fortfarande på med det?
+
+206
+00:21:04,400 --> 00:21:12,400
+ –Nu vet jag att jag uppfattade frågan fel. Nej, det är Telia som följer trafikintensiteten.
+
+207
+00:21:12,400 --> 00:21:18,400
+ På ett sätt kan man följa resandemönster och hur pass mycket personer som vistas
+
+208
+00:21:18,400 --> 00:21:22,400
+ inom vissa geografiska områden. Det är en funktion som Telia har rullande hela tiden
+
+209
+00:21:22,400 --> 00:21:25,400
+ och som delar med sig resultat till oss.
+
+210
+00:21:25,400 --> 00:21:29,400
+ –Men frågan var nog hur ni använder det fortfarande?
+
+211
+00:21:29,400 --> 00:21:33,400
+ –Vi får de rapporterna från Telia fortfarande och vi kommer att ta upp dem
+
+212
+00:21:33,400 --> 00:21:37,400
+ och följa utvecklingen.
+
+213
+00:21:37,400 --> 00:21:45,400
+ –Amanda Dahl, DN. Den här lilla ökningen i antal fall kom ju väldigt "timet"
+
+214
+00:21:45,400 --> 00:21:53,400
+ med värmen som har varit och också era siffror från Telia om att Stockholm rör sig mer.
+
+215
+00:21:53,400 --> 00:21:57,400
+ Kan man utgå ifrån att det är en konsekvens?
+
+216
+00:21:57,400 --> 00:22:05,400
+ –Det är svårt att veta. De flesta fallen som kommer in i sjukvården är äldre personer.
+
+217
+00:22:05,400 --> 00:22:09,400
+ Men det finns ett ökat antal fall bland yngre också.
+
+218
+00:22:09,400 --> 00:22:16,400
+ Det kan vara så att just påskhelgerna och lite andra sociala kontakter under de helgerna
+
+219
+00:22:16,400 --> 00:22:19,400
+ kan ha sparkat igång någonting igen. Det är fullt möjligt.
+
+220
+00:22:19,400 --> 00:22:23,400
+ Vi får se hur den fortsätta utvecklingen ser ut. Om vi har en topp som sen försvinner
+
+221
+00:22:23,400 --> 00:22:27,400
+ så är det tydligt så. Men det återigen skickar det tydliga budskapet
+
+222
+00:22:27,400 --> 00:22:32,400
+ hur viktigt det är att vi inte tappar bort de grundläggande rekommendationerna
+
+223
+00:22:32,400 --> 00:22:35,400
+ och reglerna som finns på plats. Att det inte går att slappna av på dem.
+
+224
+00:22:35,400 --> 00:22:39,400
+ För gör vi det så ser vi den här typen av ökningar väldigt snabbt igen.
+
+225
+00:22:39,400 --> 00:22:50,400
+ –Hanna Juljusson, EKOT, Folkhälsomyndigheten. Ni ser fler yngre som testas positivt nu.
+
+226
+00:22:50,400 --> 00:22:58,400
+ –Fler medelåldern har blivit något yngre. Men vi vet inte hur många som testas
+
+227
+00:22:58,400 --> 00:23:00,400
+ i olika åldersgrupper tyvärr.
+
+228
+00:23:00,400 --> 00:23:07,400
+ –Vad gäller avlidna personer under 50, ser ni att det fortfarande är personer i riskgrupper
+
+229
+00:23:07,400 --> 00:23:10,400
+ eller ser ni också att fullt friska också avlider?
+
+230
+00:23:10,400 --> 00:23:16,400
+ –Den statistiken ligger kvar. Det finns något enstaka fall utan tydliga riskfaktorer.
+
+231
+00:23:16,400 --> 00:23:20,400
+ Men om man tittar på andelen som är riskfaktorer så är det de allra flesta fortfarande.
+
+232
+00:23:20,400 --> 00:23:22,400
+ Det är ingen ändring.
+
+233
+00:23:22,400 --> 00:23:27,400
+ –Hej, Mia Pettersson från Göteborgs Posten. En fråga till Anders Tegnell.
+
+234
+00:23:27,400 --> 00:23:33,400
+ Ni utreder olika förklaringar till varför det ser ut som att det gör med smittspridningen
+
+235
+00:23:33,400 --> 00:23:40,400
+ på äldreboenden. Kan det landa i att om vi hade stängt igen mer tidigare
+
+236
+00:23:40,400 --> 00:23:42,400
+ så hade vi kunnat undvika det?
+
+237
+00:23:42,400 --> 00:23:50,400
+ –Vi ska inte utesluta någonting, men tittar vi på kurvan över hur många fall vi har på äldreboende
+
+238
+00:23:50,400 --> 00:23:54,400
+ så finns det en kontinuerligt uppgående kurva när den förändras varken när vi rekommenderar
+
+239
+00:23:54,400 --> 00:23:58,400
+ att man inte skulle besöka eller när vi lagstiftar dem att icke besöka.
+
+240
+00:23:58,400 --> 00:24:02,400
+ Det finns inga klara samband med den typen av regelverk.
+
+241
+00:24:02,400 --> 00:24:06,400
+ –Vi har med oss Sveriges Radio Uppland.
+
+242
+00:24:09,400 --> 00:24:13,400
+ –Hallå, Julia Björnman Görans på P4 Uppland.
+
+243
+00:24:13,400 --> 00:24:18,400
+ Jag skulle vilja fråga, när man har sett den här smittspridningen på äldreboenden
+
+244
+00:24:18,400 --> 00:24:24,400
+ varför har inte Folkhälsomyndigheten gått ut med en rekommendation om att personal
+
+245
+00:24:24,400 --> 00:24:30,400
+ på äldreboenden och i hemtjänst ska bära extraskydd som till exempel visir och munskydd
+
+246
+00:24:30,400 --> 00:24:34,400
+ även hos till synes friska äldre?
+
+247
+00:24:37,400 --> 00:24:41,400
+ –Menar du att äldre skulle använda dem eller personalen?
+
+248
+00:24:41,400 --> 00:24:44,400
+ Men hur som helst, det spelar inte så stor roll.
+
+249
+00:24:44,400 --> 00:24:47,400
+ Vi tycker att det är viktigt att titta på hela situationen.
+
+250
+00:24:47,400 --> 00:24:51,400
+ Det här är en väldigt komplex verksamhet, äldreboende och stöd till äldre.
+
+251
+00:24:51,400 --> 00:24:56,400
+ Det är väldigt viktigt att man inte tror att man kan lösa det genom att lösa någon liten del av det.
+
+252
+00:24:56,400 --> 00:25:00,400
+ Vi vill se så att vi tillsammans med Socialstyrelsen, IVO och andra
+
+253
+00:25:00,400 --> 00:25:05,400
+ tittar på det på ett brett och bra sätt och kommer med en bred karta med saker
+
+254
+00:25:05,400 --> 00:25:09,400
+ som man behöver åtgärda så att vi verkligen får en god effekt på de här områdena.
+
+255
+00:25:09,400 --> 00:25:14,400
+ Att bara säga någonting om skyddsutrustning och tro att det är hela lösningen
+
+256
+00:25:14,400 --> 00:25:20,400
+ är väldigt farligt för då missar vi helt säkert en massa andra saker som också behöver rättas till.
+
+257
+00:25:20,400 --> 00:25:30,400
+ –Men varför inte då innan man har den kompletta större kunskapen införa sådana här mindre lösningar
+
+258
+00:25:30,400 --> 00:25:33,400
+ för att hjälpa lite grann?
+
+259
+00:25:33,400 --> 00:25:36,400
+ –För att vi inte vet om det kommer att hjälpa lite grann.
+
+260
+00:25:36,400 --> 00:25:41,400
+ Det är jätteviktigt och jag tror att det här är en stor komplex verksamhet med väldigt många inblandade.
+
+261
+00:25:41,400 --> 00:25:46,400
+ Det här måste man ha väldigt tydlig när man går in så att man inte skickar budskap
+
+262
+00:25:46,400 --> 00:25:49,400
+ om att det här är lösningen utan man måste komma dit på ett väldigt tydligt sätt
+
+263
+00:25:49,400 --> 00:25:53,400
+ till alla verksamheter gemensamt så att vi inte tappar bort den chansen
+
+264
+00:25:53,400 --> 00:25:57,400
+ att förbättra dem på ett bra sätt genom att glida iväg och göra någon liten grej först
+
+265
+00:25:57,400 --> 00:26:00,400
+ som tolkas som att det här är lösningen och vi behöver inte göra mer.
+
+266
+00:26:00,400 --> 00:26:04,400
+ –Nya Värmlandstidningen.
+
+267
+00:26:04,400 --> 00:26:09,400
+ –Vilken stund och mark här på Nya Värmlandstidningen. Min fråga går till Anders Keknell.
+
+268
+00:26:09,400 --> 00:26:13,400
+ Värmland har än så länge få fall och läget har rapporterat väldigt lugnt.
+
+269
+00:26:13,400 --> 00:26:17,400
+ Det var hett att börja men nu är det lugnt. Samtidigt är vården i stundberedskap
+
+270
+00:26:17,400 --> 00:26:19,400
+ och det känns som att alla går och väntar på staden.
+
+271
+00:26:19,400 --> 00:26:23,400
+ Vi tänkte kolla hur ser prognosen ut för ett län som Värmland?
+
+272
+00:26:23,400 --> 00:26:26,400
+ Varför har det klarat sig bra och vad har vi att vänta?
+
+273
+00:26:26,400 --> 00:26:33,400
+ –Vi vet inte. Det allra svåraste med de regioner som har få eller nästan inga fall
+
+274
+00:26:33,400 --> 00:26:37,400
+ för då har vi ingenting att gå på. Jag tror att man gör väldigt klokt i att ha
+
+275
+00:26:37,400 --> 00:26:43,400
+ väldigt bra beredskap för att återseende att ska komma är väldigt höga.
+
+276
+00:26:43,400 --> 00:26:46,400
+ Det är mer en fråga om när.
+
+277
+00:26:46,400 --> 00:26:52,400
+ –Apropå frågan om när. Det pratas om toppar igen. Vi ligger veckor efter Stockholm
+
+278
+00:26:52,400 --> 00:26:55,400
+ och tänker kolla om det väl kommer ett topp. Vad kan man räkna att det blir för topp?
+
+279
+00:26:55,400 --> 00:27:00,400
+ Vi har även kommuner som är väldigt glesbefolkade. Vad menas med topp i det sammanhanget?
+
+280
+00:27:00,400 --> 00:27:04,400
+ –Det finns en prognos. Nu kan jag inte de exakta siffrorna från Värmland
+
+281
+00:27:04,400 --> 00:27:08,400
+ men det finns prognoser för varje region på vår hemsida som man kan titta på.
+
+282
+00:27:08,400 --> 00:27:13,400
+ Där har vi gjort en bedömning av hur många fall som kan dyka upp under de värsta veckorna
+
+283
+00:27:13,400 --> 00:27:17,400
+ i varje region och hur många IVA-fall som det skulle kunna tänkas innebära.
+
+284
+00:27:17,400 --> 00:27:19,400
+ Det har regionen fått.
+
+285
+00:27:19,400 --> 00:27:21,400
+ –Tack. Dagens ETT-Sättra.
+
+286
+00:27:21,400 --> 00:27:27,400
+ –Hej. Sam Linderoth på Dagens ETT-Sättra.
+
+287
+00:27:27,400 --> 00:27:32,400
+ Det är många som har hört av sig och tycker att den fråga som jag ställde igår
+
+288
+00:27:32,400 --> 00:27:37,400
+ inte riktigt blev besvarad. Så jag kommer ställa samma fråga igen.
+
+289
+00:27:37,400 --> 00:27:41,400
+ Så får den som känner sig manad svara.
+
+290
+00:27:41,400 --> 00:27:48,400
+ Antalet avlidna ligger nu på drygt 2100 personer.
+
+291
+00:27:48,400 --> 00:27:55,400
+ Samtidigt är antalet patienter som har vårdats på IVA drygt 1200 personer.
+
+292
+00:27:55,400 --> 00:27:58,400
+ Betydligt färre alltså.
+
+293
+00:27:58,400 --> 00:28:04,400
+ Beaktar man att en hel del IVA-patienter dessutom tillfrisknar så verkar det på
+
+294
+00:28:04,400 --> 00:28:09,400
+ de här siffrorna som att en stor andel av dem som avlider är sådana som
+
+295
+00:28:09,400 --> 00:28:12,400
+ inte har fått IVA-vård.
+
+296
+00:28:12,400 --> 00:28:17,400
+ Vad beror det här på? Varför ser det ut som det gör?
+
+297
+00:28:17,400 --> 00:28:20,400
+ –Vill du börja Thomas?
+
+298
+00:28:20,400 --> 00:28:25,400
+ –Utan att precis kommentera dina siffror så kan jag säga att intensivvård är
+
+299
+00:28:25,400 --> 00:28:28,400
+ någonting som frestar på kroppen ganska mycket.
+
+300
+00:28:28,400 --> 00:28:33,400
+ Man behöver ha en ganska stor reservkapacitet för att kunna tillgodogöra sig
+
+301
+00:28:33,400 --> 00:28:36,400
+ en behandling på en intensivvårdsavdelning.
+
+302
+00:28:36,400 --> 00:28:41,400
+ I en del fall är det säkert så att man bedömer att personen är för skör
+
+303
+00:28:41,400 --> 00:28:44,400
+ för att kunna dra nytta av den typen av behandling.
+
+304
+00:28:44,400 --> 00:28:49,400
+ Därför är det medicinskt korrekt att inte erbjuda den behandling som
+
+305
+00:28:49,400 --> 00:28:52,400
+ patienten inte kan dra nytta av.
+
+306
+00:28:52,400 --> 00:28:55,400
+ Det kan vara en del i svaret.
+
+307
+00:28:55,400 --> 00:28:57,400
+ –Tack.
+
+308
+00:28:57,400 --> 00:29:00,400
+ –Tack. Vi hade en fråga här inne också.
+
+309
+00:29:00,400 --> 00:29:06,400
+ –Ja, Axel Lundh TV4. Den här externa referensgruppen med experter, den tillsattes
+
+310
+00:29:06,400 --> 00:29:12,400
+ för en dryg vecka sedan. Har den hunnit vara till nytta? Har ni sammanträtt?
+
+311
+00:29:12,400 --> 00:29:19,400
+ Man tog inte med några av de här forskarna som varit kritiska offentligt i gruppen.
+
+312
+00:29:19,400 --> 00:29:22,400
+ Varför gjorde man inte det i gruppen?
+
+313
+00:29:22,400 --> 00:29:29,400
+ –Det är alltid extremt nyttigt att ha en dialog med externa personer.
+
+314
+00:29:29,400 --> 00:29:35,400
+ Den här gruppen var fokuserad på frågor runt virologi, infektionsmedicin
+
+315
+00:29:35,400 --> 00:29:40,400
+ och smittskydd. Vi ville framför allt ha personer som hade tid att vara med.
+
+316
+00:29:40,400 --> 00:29:44,400
+ Vi har ett flertal av dem som är pensionerade.
+
+317
+00:29:44,400 --> 00:29:48,400
+ Då landar vi i den här gruppen som hade en bra mix inom just de specialiteterna.
+
+318
+00:29:48,400 --> 00:29:53,400
+ Det är inte specifikt statistik, epidemiologi eller modellera.
+
+319
+00:29:53,400 --> 00:29:59,400
+ Den här gruppen är just till för att vi ska få kunskap om de här områdena.
+
+320
+00:29:59,400 --> 00:30:03,400
+ –Tack. Då har vi inga fler frågor. Tack för att ni kom hit.
+
+321
+00:30:03,400 --> 00:30:09,400
+ Det är även idag en lång lista, 14-15 medier, så det blir korta intervjuer utomhus.
+
+322
+00:30:09,400 --> 00:30:11,400
+ Tack.
+
+323
+00:30:11,400 --> 00:30:12,400
+ Över.
+
+324
+00:30:12,400 --> 00:30:12,600
+ Över.
+
+325
+00:30:12,600 --> 00:30:13,120
+ Över.
+
+326
+00:30:13,120 --> 00:30:14,400
+ Över.
+

@@ -1,0 +1,1944 @@
+1
+00:00:00,000 --> 00:00:05,800
+ Välkomna hit. Vi börjar med att titta igenom de klassiska bilderna.
+
+2
+00:00:05,800 --> 00:00:09,200
+ Världsläget fortsätter oförändrat på samma sätt.
+
+3
+00:00:09,200 --> 00:00:13,800
+ Går upp med ungefär lika många fall som idag fortsättningsvis.
+
+4
+00:00:13,800 --> 00:00:20,000
+ Fortfarande är Europa inte riktigt hälften längre.
+
+5
+00:00:20,000 --> 00:00:25,000
+ Även om Ryssland börjar röra på sig litegrann så är det framförallt Amerika som är
+
+6
+00:00:25,000 --> 00:00:28,000
+ det stora bekymmersområdet just nu.
+
+7
+00:00:28,000 --> 00:00:33,000
+ Även om man i Kina också börjar bli lite orolig för att man börjar se nya fall där igen.
+
+8
+00:00:33,000 --> 00:00:36,000
+ Man vet inte riktigt hur man ska tänka runt om.
+
+9
+00:00:36,000 --> 00:00:42,000
+ I Europa är det 800 000 fall nu. 77 000 döda drygt.
+
+10
+00:00:42,000 --> 00:00:49,000
+ I Sverige är det fortfarande så att vi inte riktigt är i vardagen än.
+
+11
+00:00:49,000 --> 00:00:54,000
+ Det är först i morgon som vi får riktiga siffror.
+
+12
+00:00:54,000 --> 00:00:59,000
+ Vi ligger kvar på ungefär samma nivå som vi gjorde förra helgen.
+
+13
+00:00:59,000 --> 00:01:05,000
+ Så vi får se i morgon vad som händer med de fallen som vi inte har hunnit igenom systemet än.
+
+14
+00:01:05,000 --> 00:01:10,000
+ Men som sagt var det drygt 11 000 fall.
+
+15
+00:01:10,000 --> 00:01:13,000
+ Knappt 1000 våldade på IVA hittills.
+
+16
+00:01:13,000 --> 00:01:17,000
+ Men allt fler skrivs ut från IVA nu.
+
+17
+00:01:17,000 --> 00:01:20,000
+ Johanna kommer tillbaka till lite mer beläggningssiffror.
+
+18
+00:01:20,000 --> 00:01:26,000
+ Men ni kan se att det är en väldigt plan kurva på den svarta strecket längst ner.
+
+19
+00:01:26,000 --> 00:01:28,000
+ När det gäller inläggningar på IVA.
+
+20
+00:01:28,000 --> 00:01:33,000
+ Så nu när det har hållit på några veckor så går det in och ut hyfsat ihop.
+
+21
+00:01:33,000 --> 00:01:37,000
+ Men situationen är förstås fortfarande anstängd i sjukvården.
+
+22
+00:01:37,000 --> 00:01:39,000
+ Det ska vi inte meka.
+
+23
+00:01:39,000 --> 00:01:47,000
+ Vi har fortfarande kvar den här bilden för att se vad som händer i Stockholm jämfört med övriga landet.
+
+24
+00:01:47,000 --> 00:01:50,000
+ Som ni ser så är det ungefär samma läge som i vattentagning.
+
+25
+00:01:50,000 --> 00:01:52,000
+ Att ungefär hälften av fallen kommer från Stockholm.
+
+26
+00:01:52,000 --> 00:01:56,000
+ Vi återkommer imorgon med lite uppdelning på olika regioner.
+
+27
+00:01:56,000 --> 00:02:00,000
+ För att få lite bättre koll på vad som händer i resten av landet också.
+
+28
+00:02:00,000 --> 00:02:05,000
+ Avlina per dag är nog den siffra vi kan lita minst på idag.
+
+29
+00:02:05,000 --> 00:02:08,000
+ För att här brukar det vara ganska mycket eftersläpning.
+
+30
+00:02:08,000 --> 00:02:11,000
+ När det gäller helgerna. Så det kommer väl att fyllas på.
+
+31
+00:02:11,000 --> 00:02:18,000
+ Så att vi blir rätt mycket högre siffror på alla de dagarna under helgen än vad vi har hittills.
+
+32
+00:02:18,000 --> 00:02:23,000
+ Så jag tror inte vi ska lägga för mycket tid på att diskutera de siffrorna just idag.
+
+33
+00:02:23,000 --> 00:02:29,000
+ Däremot så har vi börjat titta på lite annan statistik utifrån frågor som vi har fått.
+
+34
+00:02:29,000 --> 00:02:38,000
+ Det här är andelen som har blivit smittade med covid i Sverige.
+
+35
+00:02:38,000 --> 00:02:44,000
+ Då måste man komma ihåg att det här är i huvudsak personer som har kommit till sjukvården.
+
+36
+00:02:44,000 --> 00:02:47,000
+ Alltså att sjuka. Uppminns om så här långt.
+
+37
+00:02:47,000 --> 00:02:50,000
+ Nu börjar vi testa allt mer och mer personal.
+
+38
+00:02:50,000 --> 00:02:54,000
+ Därför kommer nog det här att ändra sig en del.
+
+39
+00:02:54,000 --> 00:02:58,000
+ Vi kommer nog behöva diskutera hur mycket vi kan följa trenderna på samma sätt.
+
+40
+00:02:58,000 --> 00:03:02,000
+ För nu testar vi 4-5 tusen mer varje vecka.
+
+41
+00:03:02,000 --> 00:03:10,000
+ Men hur som helst så är observationen som vi har fått från många olika håll att vi har en överrepresentation av personer som är födda i andra länder.
+
+42
+00:03:10,000 --> 00:03:13,000
+ Den stämmer uppenbarligen också.
+
+43
+00:03:13,000 --> 00:03:26,000
+ Det här är alltså andel personer som har smittats med covid-19 jämfört med andelen i befolkningen av personer som är födda i samma land.
+
+44
+00:03:26,000 --> 00:03:31,000
+ Som ni ser är Somalia en rätt kraftig överrepresentation.
+
+45
+00:03:31,000 --> 00:03:34,000
+ Irak likadant. Syrien något mindre.
+
+46
+00:03:34,000 --> 00:03:47,000
+ Sen har vi några länder som Finland och Jugoslavien som i första hand beror på att befolkningsgrupperna som är födda i de länderna är nu tillhör de grupperna som har hög sjuklighet.
+
+47
+00:03:47,000 --> 00:03:50,000
+ Alltså i över 60-70-80 år gamla många av dem.
+
+48
+00:03:50,000 --> 00:03:59,000
+ Men det här är ett viktigt budskap till oss alla. Det är viktigt att vi också kan viktiga insatser mot de här grupperna.
+
+49
+00:03:59,000 --> 00:04:07,000
+ Vi kommer att följa dem också över tid och se om det här håller i sig eller om vi lyckas nå de grupperna bättre med våra budskap än vad vi gjort hittills.
+
+50
+00:04:07,000 --> 00:04:18,000
+ Men vi jobbar fortfarande på det här och som jag sagt tidigare så börjar kurvan allt mer och mer likna den blåa kurvan här i Stockholm.
+
+51
+00:04:18,000 --> 00:04:27,000
+ Vi ska jobba hårt för att den fortsätter att ligga kvar där och att den ligger kvar så att vi får en liknande kurva i övriga delar av landet.
+
+52
+00:04:27,000 --> 00:04:30,000
+ Då gäller det att vi fortsätter att komma ihåg det här.
+
+53
+00:04:30,000 --> 00:04:35,000
+ Alla vi som är här men också alla de som lyssnar på oss på olika sätt.
+
+54
+00:04:35,000 --> 00:04:37,000
+ Är man sjuk, stanna hemma.
+
+55
+00:04:37,000 --> 00:04:42,000
+ Är man över 70, stanna hemma överhuvudtaget.
+
+56
+00:04:42,000 --> 00:04:46,000
+ Gå gärna ut och gå och röra på er men spring inte på för mycket andra människor.
+
+57
+00:04:46,000 --> 00:04:51,000
+ Undvik sammanhang där det finns mycket folk som har färor och liknandet.
+
+58
+00:04:51,000 --> 00:04:59,000
+ Och som sagt för oss alla, tänk på handhygienen, tänk på att sociala sammanhang om de inte kan skjutas upp.
+
+59
+00:04:59,000 --> 00:05:01,000
+ Håll igen på onödiga resor.
+
+60
+00:05:01,000 --> 00:05:11,000
+ Vi har fått statistik från helgen som ni kanske också sett redan i nyhetsflödet att i Telia så har resandet minskat drastiskt under helgen.
+
+61
+00:05:11,000 --> 00:05:16,000
+ Framförallt den långväga resan till en del korta resor ligger kvar på samma nivå.
+
+62
+00:05:16,000 --> 00:05:23,000
+ Många drar sitt strå till stacken här till att hålla ner kurvan på det här viset som vi hittills lyckats göra.
+
+63
+00:05:23,000 --> 00:05:25,000
+ Men det var allt för idag.
+
+64
+00:05:25,000 --> 00:05:26,000
+ Johanna.
+
+65
+00:05:26,000 --> 00:05:27,000
+ Tack.
+
+66
+00:05:27,000 --> 00:05:35,000
+ Precis vad gäller beläggningsgrad och IVA så är det såklart som Anders säger att vi har en ansträngd sjukvård.
+
+67
+00:05:35,000 --> 00:05:42,000
+ Den omställning som pågår tar både tid och resurser men det ger också resultat.
+
+68
+00:05:42,000 --> 00:05:46,000
+ Vi fortsätter att öka de disponibla IVA-platserna från dag till dag.
+
+69
+00:05:46,000 --> 00:05:52,000
+ Dagens siffra är 1046 vilket är en fördubbling från utgångsläget ungefär.
+
+70
+00:05:52,000 --> 00:06:03,000
+ Det ligger 530 patienter på IVA idag på grund av covid-19 och ett 300-tal andra personer som behöver intensivvård.
+
+71
+00:06:03,000 --> 00:06:10,000
+ Det finns en tillgänglighet kvar vad gäller IVA-kapaciteten i Sverige.
+
+72
+00:06:10,000 --> 00:06:17,000
+ Jag kan återupprepa ett budskap som vi försökte skicka förra veckan att man ska inte vara rädd för att söka sjukvård.
+
+73
+00:06:17,000 --> 00:06:22,000
+ Man ska ringa 1177 och man ska besöka sin akutmottagning om man har problem.
+
+74
+00:06:22,000 --> 00:06:25,000
+ Vi har fått några sådana signaler till oss.
+
+75
+00:06:25,000 --> 00:06:30,000
+ När det gäller sjukvårdsmaterial så jobbar vi på i ganska stark takt.
+
+76
+00:06:30,000 --> 00:06:33,000
+ Det ser definitivt inte sämre ut, det ser bättre ut.
+
+77
+00:06:33,000 --> 00:06:37,000
+ Men uthållighet är inget vi börjar prata om ännu.
+
+78
+00:06:37,000 --> 00:06:44,000
+ Men vi ser att både kommuners och regioners arbete och det arbete som vi kompletterar med ger resultat.
+
+79
+00:06:44,000 --> 00:06:48,000
+ Vi har färre regioner som har en kritisk påverkan som vi kallar det.
+
+80
+00:06:48,000 --> 00:06:51,000
+ Det vill säga att man har ett jätteakut behov.
+
+81
+00:06:51,000 --> 00:06:58,000
+ Däremot så finns det ganska många regioner som identifierar att man inte är särskilt uthållig över de närmaste dagarna.
+
+82
+00:06:58,000 --> 00:07:02,000
+ Men inte åt fel håll utan lite åt rätt håll.
+
+83
+00:07:02,000 --> 00:07:04,000
+ Slut.
+
+84
+00:07:04,000 --> 00:07:06,000
+ Tack.
+
+85
+00:07:06,000 --> 00:07:14,000
+ Myndigheten för samhällsskydd och beredskap, MSB, har vid ett antal tillfällen lyft vikten av uthållighet och framåtblick.
+
+86
+00:07:14,000 --> 00:07:24,000
+ Vi har betonat att samhället behöver ha en beredskap för att den här pandemin kan få följdverkningar i andra delar av samhället än smittskyddet och sjukvården.
+
+87
+00:07:24,000 --> 00:07:32,000
+ Vi har varit relativt transparenta i det här och öppna med vilka frågor vi har tittat särskilt på tillsammans med andra myndigheter.
+
+88
+00:07:32,000 --> 00:07:38,000
+ Jag vill vara tydlig här med att vi lyfter de här framåtblickande krisberedskapsperspektiven.
+
+89
+00:07:38,000 --> 00:07:44,000
+ Det betyder ju inte att vi tror att alla de här riskerna vi nämner kommer att realiseras.
+
+90
+00:07:44,000 --> 00:07:47,000
+ Tvärtom skulle man faktiskt kunna säga.
+
+91
+00:07:47,000 --> 00:07:55,000
+ Vi lyfter upp möjliga risker för att myndigheterna tillsammans ska kunna åtgärda dem, få bort riskerna, eller åtminstone minska dem, minimera dem.
+
+92
+00:07:55,000 --> 00:08:02,000
+ Och naturligtvis för att öka samhällets beredskap och förmåga att hantera dem om de trots allt skulle bli verklighet.
+
+93
+00:08:02,000 --> 00:08:07,000
+ I det här finns ett budskap även till dig som privatperson.
+
+94
+00:08:07,000 --> 00:08:13,000
+ Förbered dig för att det kan ta tid innan det här är över och att det kan bli ännu besvärligare.
+
+95
+00:08:13,000 --> 00:08:18,000
+ Samarbeta med andra i din närhet och hjälp till där du har möjlighet. Tack!
+
+96
+00:08:18,000 --> 00:08:21,000
+ Rågård TV4.
+
+97
+00:08:21,000 --> 00:08:29,000
+ En fråga till Anders Tegnell.
+
+98
+00:08:29,000 --> 00:08:40,000
+ Det kommer väldigt hård kritik från 22 forskare på DN Debatt idag om att Sveriges dödstal nu ligger på samma nivå som Italien.
+
+99
+00:08:40,000 --> 00:08:44,000
+ Den trenden förstärks ju bara av de siffror som presenteras här idag.
+
+100
+00:08:44,000 --> 00:08:53,000
+ Hur ser du på den kritiken då också om att man inte, enligt de här forskarna, har någon genomarbetad välfungerande strategi i nuläget?
+
+101
+00:08:53,000 --> 00:09:00,000
+ För det första vill jag absolut förneka att vi inte har en genomarbetad strategi. Det har vi visst. Det förstår jag för dem.
+
+102
+00:09:00,000 --> 00:09:04,000
+ Dessutom är de dödstal de citerar felaktiga.
+
+103
+00:09:04,000 --> 00:09:08,000
+ De stämmer inte med de svenska dödstalen som ni ser på siffrorna här.
+
+104
+00:09:08,000 --> 00:09:11,000
+ De stämmer ännu mindre om man går på dödsdatum.
+
+105
+00:09:11,000 --> 00:09:16,000
+ Dessutom vet vi att i Italien så registreras nu bara dödsfall på sjukhus.
+
+106
+00:09:16,000 --> 00:09:20,000
+ Så det finns ett antal grundläggande felaktigheter i den artikeln tyvärr.
+
+107
+00:09:20,000 --> 00:09:24,000
+ Jag har inga mer kommentarer om det.
+
+108
+00:09:24,000 --> 00:09:30,000
+ Och när det gäller just nu då, du betonar idag igen att det är en eftersläpning nu för påsksiffrorna.
+
+109
+00:09:30,000 --> 00:09:36,000
+ Det är 114 nya fall idag. Hur mycket mer kan vi vänta oss de kommande dagarna?
+
+110
+00:09:36,000 --> 00:09:43,000
+ Om du tittar på kurvan så ser du att vi ganska konsekvent haft 60-talet fall per dag.
+
+111
+00:09:43,000 --> 00:09:46,000
+ Det har ökat lite från vecka till vecka.
+
+112
+00:09:46,000 --> 00:09:50,000
+ Vi går upp i 65 den här veckan vilket är ungefär hur mycket vi ökade förra veckan.
+
+113
+00:09:50,000 --> 00:09:54,000
+ Så vi kommer att landa där som en daglig dödssiffra.
+
+114
+00:09:54,000 --> 00:09:58,000
+ Men att den här dagliga dödssiffran fortsätter att stiga, hur länge till?
+
+115
+00:09:58,000 --> 00:10:04,000
+ Om du tittar på dödsdatum så har vi ingen stigande kurva utan den ligger i hyfsat konsekvens.
+
+116
+00:10:04,000 --> 00:10:08,000
+ Men det är som vi har sagt, vi har haft en väldigt olycklig utveckling i Sverige
+
+117
+00:10:08,000 --> 00:10:12,000
+ jämfört med framförallt våra järnländer med en introduktion på väldigt många äldreboende.
+
+118
+00:10:12,000 --> 00:10:16,000
+ Och den speglar sig i de här siffrorna vi ser nu.
+
+119
+00:10:16,000 --> 00:10:21,000
+ Och där har vi ju nu tillsammans med många andra myndigheter verkligen börjat jobba hårt på det här.
+
+120
+00:10:21,000 --> 00:10:25,000
+ Stockholm har gått ut med en enkät häromdagen för att försöka förstå vad det är som har hänt
+
+121
+00:10:25,000 --> 00:10:27,000
+ och vad man kan göra för att bli bättre.
+
+122
+00:10:27,000 --> 00:10:31,000
+ Och man jobbar ju hårt i hela landet för att hindra att det här ska hända i övriga delar av landet.
+
+123
+00:10:31,000 --> 00:10:41,000
+ [Skatt]
+
+124
+00:10:41,000 --> 00:10:44,000
+ Ja, Amanda Dahl, Dagens Nyheter.
+
+125
+00:10:44,000 --> 00:10:50,000
+ Jag fortsätter lite på samma spår där med de här 22 forskarna, för de pratar bland annat om att
+
+126
+00:10:50,000 --> 00:10:58,000
+ om man hade vidtagit hårdare restriktioner så hade man också kunnat ge samhället
+
+127
+00:10:58,000 --> 00:11:04,000
+ ett andrum där man kunde göra en del av de förberedelser som nu sker parallellt med att
+
+128
+00:11:04,000 --> 00:11:11,000
+ tackla smittspridningen. Varför har man valt att inte göra så?
+
+129
+00:11:11,000 --> 00:11:15,000
+ Ja, men jag förstår fortfarande inte riktigt vad de menar då.
+
+130
+00:11:15,000 --> 00:11:18,000
+ Vår sjukvård har ju hela tiden kunnat lägga ett steg före.
+
+131
+00:11:18,000 --> 00:11:21,000
+ Vi har aldrig varit inom kris inom sjukvården, det har varit jobbigt.
+
+132
+00:11:21,000 --> 00:11:25,000
+ Men de har hela tiden ställt om så att man har hela tiden haft tomma platser på intensivvården
+
+133
+00:11:25,000 --> 00:11:32,000
+ eller disponibla platser. Det här äldrevårdsproblemen är ett långt tillbakagående problem
+
+134
+00:11:32,000 --> 00:11:35,000
+ som jag inte tror att vi har löst på några veckor.
+
+135
+00:11:35,000 --> 00:11:39,000
+ Sen kan man också titta på de länder som har vidtagit väldigt hårda åtgärder
+
+136
+00:11:39,000 --> 00:11:45,000
+ som till exempel Belgien, där man nu har en utveckling som är väsentligt mycket sämre än i Sverige.
+
+137
+00:11:45,000 --> 00:11:49,000
+ Så det finns mycket man kan fundera på, framför allt tror jag man ska vara väldigt försiktig
+
+138
+00:11:49,000 --> 00:11:53,000
+ med att försöka göra någon slags bedömningar om hur väl man har lyckats med olika saker
+
+139
+00:11:53,000 --> 00:11:57,000
+ i olika länder i det här läget, när vi befinner oss mitt i och vi uppenbarligen
+
+140
+00:11:57,000 --> 00:12:00,000
+ befinner oss på väldigt olika ställen i utveckling.
+
+141
+00:12:00,000 --> 00:12:09,000
+ Jag är Joakim Karpner, Aftonbladet.
+
+142
+00:12:09,000 --> 00:12:15,000
+ Ni berättade i början av presskonferensen om den stora smittspridningen
+
+143
+00:12:15,000 --> 00:12:18,000
+ bland svensk-somalier och svensk-iraker bland annat.
+
+144
+00:12:18,000 --> 00:12:22,000
+ Stadsdelarna Rinkeby, Kista och Spånga, Tensta har ju den största andelen
+
+145
+00:12:22,000 --> 00:12:24,000
+ coronasmittade i Stockholm.
+
+146
+00:12:24,000 --> 00:12:27,000
+ Det är också de stadsdelar där trångbordheten är värst.
+
+147
+00:12:27,000 --> 00:12:30,000
+ Kan den större smittspridningen bero på trångbordheten?
+
+148
+00:12:30,000 --> 00:12:35,000
+ Det kan den säkert. Det finns absolut aspekter på den här smittan som talar för att
+
+149
+00:12:35,000 --> 00:12:37,000
+ trångbordhet är en riskfaktor.
+
+150
+00:12:37,000 --> 00:12:41,000
+ Sen så tror jag att man måste jobba väldigt mycket med den här typen av siffror
+
+151
+00:12:41,000 --> 00:12:45,000
+ innan man vet exakt vad som ligger bakom dem, så att man inte ramlar på lätta lösningar.
+
+152
+00:12:45,000 --> 00:12:48,000
+ Det finns säkert många aspekter som man behöver fundera på.
+
+153
+00:12:48,000 --> 00:12:53,000
+ Men här finns det absolut signaler på att vi behöver jobba bättre och mer intensivt
+
+154
+00:12:53,000 --> 00:12:58,000
+ mot de här områdena och mot de här grupperna i befolkningen, så att vi minskar det här.
+
+155
+00:12:58,000 --> 00:13:03,000
+ Vi kommer också succister kunna titta på utvecklingen, för vi är inte riktigt säkra på
+
+156
+00:13:03,000 --> 00:13:05,000
+ att det ser lika illa ut fortfarande.
+
+157
+00:13:05,000 --> 00:13:10,000
+ Ja, sen har jag en fråga till angående den här debattartikeln.
+
+158
+00:13:10,000 --> 00:13:15,000
+ De här 22 forskarna hävdar att ni är på Folkhälsomyndigheten,
+
+159
+00:13:15,000 --> 00:13:17,000
+ ni är tjänstemän utan talang. Vad säger de?
+
+160
+00:13:17,000 --> 00:13:21,000
+ Jag vet inte hur jag resisterar, varken mig själv eller mina kollegor.
+
+161
+00:13:21,000 --> 00:13:30,000
+ Johan Ilsson, TT. Du Anders berättade om att Socialstyrelsen har gått ut med en enkät
+
+162
+00:13:30,000 --> 00:13:35,000
+ för att fråga kommunerna. Var det Stockholm?
+
+163
+00:13:36,000 --> 00:13:42,000
+ Men vad mer konkret gör Socialstyrelsen och Folkhälsomyndigheten för att stötta kommunerna
+
+164
+00:13:42,000 --> 00:13:44,000
+ med arbetet inom äldreomsorgen och hemtjänsten?
+
+165
+00:13:44,000 --> 00:13:46,000
+ Vill du börja?
+
+166
+00:13:46,000 --> 00:13:52,000
+ Ja, absolut. Vi gör ganska mycket, framförallt har det handlat om vägledningar, stöd och utbildningar.
+
+167
+00:13:52,000 --> 00:13:58,000
+ Det som kanske blir mer påtagligt, imorgon kommer vi också ha en liten fördjupning
+
+168
+00:13:58,000 --> 00:14:03,000
+ på den här pressträffen, just om vårt arbete kopplat till socialtjänstens verksamhet.
+
+169
+00:14:04,000 --> 00:14:09,000
+ När vi pratar om skyddsutrustning och den typen av stöd så har vi ju nu sjösatt en process
+
+170
+00:14:09,000 --> 00:14:16,000
+ tillsammans med MSB och länsstyrelserna för att få igång den lägesbildning om den begäran om stöd också.
+
+171
+00:14:16,000 --> 00:14:23,000
+ Samtidigt som kommunerna och regionerna också har gått ihop för att skapa starka inköpscentraler
+
+172
+00:14:23,000 --> 00:14:25,000
+ för att kunna säkerställa materialtillgång.
+
+173
+00:14:32,000 --> 00:14:36,000
+ Har man identifierat vad som fallerar inom äldreomsorgen respektive hemtjänsten?
+
+174
+00:14:36,000 --> 00:14:39,000
+ Nej, men jag tror att det är det vi håller på att göra nu.
+
+175
+00:14:39,000 --> 00:14:43,000
+ Jag tror att man ska vara försiktig med att hoppa på enkla lösningar
+
+176
+00:14:43,000 --> 00:14:46,000
+ genom att tro att det kanske hjälper i alla munskydd och liknande.
+
+177
+00:14:46,000 --> 00:14:48,000
+ För det är säkert mycket mer komplex än så.
+
+178
+00:14:48,000 --> 00:14:52,000
+ Det är den analysen som vi nu håller på att jobba med tillsammans,
+
+179
+00:14:52,000 --> 00:14:55,000
+ framförallt med Stockholm som har drabbats värst av det här.
+
+180
+00:14:55,000 --> 00:14:59,000
+ För att försöka förstå varför det händer på vissa ställen och inte på andra ställen.
+
+181
+00:14:59,000 --> 00:15:02,000
+ Vad man förhoppningsvis kan göra för att bli bättre.
+
+182
+00:15:02,000 --> 00:15:04,000
+ Det finns säkert väldigt mycket olika saker man behöver göra.
+
+183
+00:15:04,000 --> 00:15:09,000
+ En del har säkert redan gjorts på många ställen, men det kan säkert förbättras.
+
+184
+00:15:09,000 --> 00:15:14,000
+ Framförallt är det viktigt nu att man kan sprida den här kunskapen och erfarenheten
+
+185
+00:15:14,000 --> 00:15:16,000
+ till resten av landet. Det är jätteviktigt.
+
+186
+00:15:16,000 --> 00:15:18,000
+ Därför är det viktigt att samla in den här datan.
+
+187
+00:15:18,000 --> 00:15:22,000
+ Det handlar väldigt mycket om det, att uppmärksamma äldreboende
+
+188
+00:15:22,000 --> 00:15:24,000
+ och de som har hand om äldreboende på problemet.
+
+189
+00:15:24,000 --> 00:15:27,000
+ Det är där som egentligen vår stora uppgift ligger.
+
+190
+00:15:27,000 --> 00:15:31,000
+ Sen är det väldigt mycket deras arbete som måste tas vidare.
+
+191
+00:15:31,000 --> 00:15:35,000
+ Dagens industri finns med på länk.
+
+192
+00:15:35,000 --> 00:15:40,000
+ Har ni med nu?
+
+193
+00:15:40,000 --> 00:15:42,000
+ Yes.
+
+194
+00:15:42,000 --> 00:15:49,000
+ Google och Apple har sagt att de går samman för att hjälpa med smittspårningen.
+
+195
+00:15:49,000 --> 00:15:53,000
+ De ska i maj lansera någonting som använder sig inte av GPS utan Bluetooth
+
+196
+00:15:53,000 --> 00:16:00,000
+ som är kontaktspårning. Det vill säga att man ska kunna få veta
+
+197
+00:16:00,000 --> 00:16:04,000
+ att jag inte var tid och plats eller någonting integritetskränkande
+
+198
+00:16:04,000 --> 00:16:07,000
+ men att man ska kunna få veta att man har varit i närheten av någon
+
+199
+00:16:07,000 --> 00:16:09,000
+ som visar sig ha varit smittad.
+
+200
+00:16:09,000 --> 00:16:14,000
+ Till Anders Tegnell, är det någonting som du tror att Folklandsmyndigheten
+
+201
+00:16:14,000 --> 00:16:17,000
+ kan ha nytta av i ett skede längre fram?
+
+202
+00:16:17,000 --> 00:16:22,000
+ Till exempel när vi är förbi pucken och samhället börjar öppnas upp eller liknande?
+
+203
+00:16:24,000 --> 00:16:27,000
+ Jo, det tror jag. Dessutom finns den här redan.
+
+204
+00:16:27,000 --> 00:16:30,000
+ Den är utnyttjad bland annat i Sydkorea, just den teknologin.
+
+205
+00:16:30,000 --> 00:16:35,000
+ Det blir inget nytt. Vi har ett stort antal aktörer som har kommit till oss
+
+206
+00:16:35,000 --> 00:16:37,000
+ och erbjudit liknande teknologi.
+
+207
+00:16:37,000 --> 00:16:41,000
+ Teknologin är nog inte svår utan det gäller att använda den vid rätt tillfälle.
+
+208
+00:16:41,000 --> 00:16:48,000
+ Jag tror att längre fram när Sverige börjar bli ett av lågprevalensländerna
+
+209
+00:16:48,000 --> 00:16:51,000
+ med rätt lite, då tror jag att det här kan bli viktigt igen.
+
+210
+00:16:51,000 --> 00:16:55,000
+ Just nu så ligger all kraft på att försöka ta hand om de som blir sjuka
+
+211
+00:16:55,000 --> 00:16:58,000
+ och minska smittspridningen i samhället så mycket som möjligt.
+
+212
+00:16:58,000 --> 00:17:01,000
+ Men vi kommer säkert så småningom att hamna i ett läge där vi återigen
+
+213
+00:17:01,000 --> 00:17:05,000
+ går tillbaka till att smittspårning är en viktig bit för att fånga upp
+
+214
+00:17:05,000 --> 00:17:08,000
+ de fallen vi har kvar och smittspårar runt om.
+
+215
+00:17:08,000 --> 00:17:11,000
+ Då kan säkert den här teknologin vara värd.
+
+216
+00:17:11,000 --> 00:17:15,000
+ När i tiden kan vi tänka oss att det är då?
+
+217
+00:17:16,000 --> 00:17:19,000
+ Jättesvårt att veta. Det beror på när det börjar gå åt det hållet.
+
+218
+00:17:19,000 --> 00:17:23,000
+ Men vi pratar säkert någon eller några månader in i framtiden tyvärr.
+
+219
+00:17:23,000 --> 00:17:30,000
+ Just det. Det här är en teknik som förenar Apple och Googles telefoner
+
+220
+00:17:30,000 --> 00:17:32,000
+ så det blir de flesta smartphones.
+
+221
+00:17:32,000 --> 00:17:36,000
+ Är det någonting som ni kommer att gå ut och propagera för att man ska använda
+
+222
+00:17:36,000 --> 00:17:40,000
+ sådana här typer av tjänster? Vem det nu blir som blir standard.
+
+223
+00:17:41,000 --> 00:17:45,000
+ Ja, det tror jag säkert att vi kommer att göra.
+
+224
+00:17:45,000 --> 00:17:48,000
+ Men det här är lite komplext för att smittspårning och sånt har
+
+225
+00:17:48,000 --> 00:17:51,000
+ även legala aspekter i Sverige. Så jag tror att det här kommer vi
+
+226
+00:17:51,000 --> 00:17:54,000
+ att behöva göra ett arbete för att fundera på hur vi som myndighet
+
+227
+00:17:54,000 --> 00:17:57,000
+ kan använda ett sådant system på ett klokt sätt.
+
+228
+00:17:57,000 --> 00:18:02,000
+ Vad gäller de legala aspekterna, tycker du att det räcker för GPS-spårning?
+
+229
+00:18:02,000 --> 00:18:05,000
+ Då är det ju positionering och tid och plats var man har varit.
+
+230
+00:18:05,000 --> 00:18:08,000
+ Här handlar det bara om att man får veta att man var i närheten
+
+231
+00:18:08,000 --> 00:18:12,000
+ av någon annan som har fått smittan. Räcker det, tror du, juridiskt
+
+232
+00:18:12,000 --> 00:18:15,000
+ för att det ska vara integritetsskyddande?
+
+233
+00:18:15,000 --> 00:18:19,000
+ Jag låter våra jurister ta den frågan för jag tror inte det är självklart.
+
+234
+00:18:19,000 --> 00:18:22,000
+ Man behöver säkert sätta upp det på ett sätt så att man uppfyller
+
+235
+00:18:22,000 --> 00:18:25,000
+ de lagar och regelverk som finns på plats.
+
+236
+00:18:25,000 --> 00:18:29,000
+ Vi ska gå vidare till... Skolvärlden är med också på länk.
+
+237
+00:18:29,000 --> 00:18:31,000
+ Ska vi se...
+
+238
+00:18:31,000 --> 00:18:33,000
+ Ja, hör ni mig?
+
+239
+00:18:33,000 --> 00:18:34,000
+ Ja.
+
+240
+00:18:34,000 --> 00:18:35,000
+ Vad bra.
+
+241
+00:18:35,000 --> 00:18:40,000
+ Skolvärldens primära läsgrupp är lärare och vi har daglig kontakt
+
+242
+00:18:40,000 --> 00:18:45,000
+ med lärare som hör av sig till oss och säger att vi inte både kan
+
+243
+00:18:45,000 --> 00:18:50,000
+ följa Folkhälsomyndighetens restriktioner och göra vårt jobb.
+
+244
+00:18:50,000 --> 00:18:55,000
+ De här restriktionerna gäller inte på skolan men de är fortfarande
+
+245
+00:18:55,000 --> 00:18:59,000
+ samhällsmedborgare och människor och ser restriktionerna och undrar
+
+246
+00:18:59,000 --> 00:19:02,000
+ vad ska vi göra med den dubbla informationen.
+
+247
+00:19:02,000 --> 00:19:06,000
+ De upplever inte att de får tydliga svar för hur de ska agera.
+
+248
+00:19:06,000 --> 00:19:10,000
+ De kan inte följa separationen och att alla ska sätta händerna.
+
+249
+00:19:10,000 --> 00:19:14,000
+ Ja, men det finns...
+
+250
+00:19:14,000 --> 00:19:18,000
+ Om man ska börja från början så bygger hela den svenska approachen
+
+251
+00:19:18,000 --> 00:19:22,000
+ till att man lägger en väldigt stor möjlighet på olika aktörer
+
+252
+00:19:22,000 --> 00:19:25,000
+ på att göra det bästa möjligt i den situation man befinner sig.
+
+253
+00:19:25,000 --> 00:19:30,000
+ Det är därför vi har valt att inte gå in med absoluta två personers
+
+254
+00:19:30,000 --> 00:19:34,000
+ och andra regler utan att man i varje verksamhet ska kunna lägga upp
+
+255
+00:19:34,000 --> 00:19:37,000
+ den på ett sätt så att man minimerar riskerna så långt som möjligt.
+
+256
+00:19:37,000 --> 00:19:41,000
+ Jag är övertygad om att det finns väldigt mycket att göra i skolan
+
+257
+00:19:41,000 --> 00:19:43,000
+ och man har gjort väldigt mycket i skolan.
+
+258
+00:19:43,000 --> 00:19:46,000
+ Men de här reglerna är ju inte absoluta på det sättet och det är ju
+
+259
+00:19:46,000 --> 00:19:49,000
+ lite grann poängen med dem. Att man ska försöka hitta ett arbetssätt
+
+260
+00:19:49,000 --> 00:19:52,000
+ där man minskar riskerna så mycket som möjligt, inte tar bort dem.
+
+261
+00:19:52,000 --> 00:19:58,000
+ Jag tror att det som lärarna har svårt att få ihop är det här att
+
+262
+00:19:58,000 --> 00:20:06,000
+ vissa reglerna är inte så strikta men viruset bryr sig inte om det.
+
+263
+00:20:06,000 --> 00:20:10,000
+ Man pratar om att barn inte smittas så mycket men lärarna är inte barn.
+
+264
+00:20:10,000 --> 00:20:12,000
+ De smittas ju lika lätt som andra och så vidare.
+
+265
+00:20:12,000 --> 00:20:15,000
+ Så även om reglerna är lite lösa, varför är de det och så vidare?
+
+266
+00:20:15,000 --> 00:20:18,000
+ Det finns helt enkelt en oro där ute.
+
+267
+00:20:18,000 --> 00:20:21,000
+ Och de upplever inte att de får några tydliga svar.
+
+268
+00:20:21,000 --> 00:20:25,000
+ Vi får väl titta på det men vi har hittills inte fått några signaler
+
+269
+00:20:25,000 --> 00:20:29,000
+ om att lärare är en grupp som är mer sjuka än någon annan.
+
+270
+00:20:29,000 --> 00:20:33,000
+ Nu finns ju den här smittan i hela samhället och ska man dra slutsatser
+
+271
+00:20:33,000 --> 00:20:37,000
+ från vad man vet från andra länder så är ju platser man smittas i
+
+272
+00:20:37,000 --> 00:20:40,000
+ framförallt i hemmet med sina allra närmsta som man umgås väldigt nära med
+
+273
+00:20:40,000 --> 00:20:44,000
+ hela dagarna och inte i andra platser i samhället.
+
+274
+00:20:44,000 --> 00:20:46,000
+ Det gäller förmodligen också i Sverige.
+
+275
+00:20:46,000 --> 00:20:50,000
+ Vi har också väldigt lite tecken på omfattande spridning i skolor
+
+276
+00:20:50,000 --> 00:20:55,000
+ överhuvudtaget. De få som finns har visat sig vara vuxna i skolan
+
+277
+00:20:55,000 --> 00:20:58,000
+ som har kommit hit med symptom och sen smittat andra vuxna
+
+278
+00:20:58,000 --> 00:21:00,000
+ utan att barnen varit inblandade.
+
+279
+00:21:00,000 --> 00:21:04,000
+ Så jag tror inte, det finns liksom inga tecken på att just den miljön
+
+280
+00:21:04,000 --> 00:21:08,000
+ skulle vara mer smittförande än andra miljöer i landet just nu.
+
+281
+00:21:08,000 --> 00:21:11,000
+ Tack! Vi ska till Gotlandstidningar också.
+
+282
+00:21:11,000 --> 00:21:17,000
+ Ja, hej Lars Lindsson, Gotlandstidningar, Vd för Gotland.
+
+283
+00:21:17,000 --> 00:21:22,000
+ Jag pratar med smittskyddsläkaren på Gotland idag och man har än så länge
+
+284
+00:21:22,000 --> 00:21:25,000
+ försonat från kärnsmittspridning.
+
+285
+00:21:25,000 --> 00:21:29,000
+ Det är svårt att höra det. Kan du dra upp micken så tar den närmare munnen?
+
+286
+00:21:29,000 --> 00:21:31,000
+ Nej, vi prövar igen.
+
+287
+00:21:31,000 --> 00:21:33,000
+ Nu låter det bättre.
+
+288
+00:21:33,000 --> 00:21:39,000
+ Jo, smittskyddsläkaren på Gotland uppger att man hittills inte har någon
+
+289
+00:21:39,000 --> 00:21:42,000
+ kärnsmittspridning i särskilda boenden, alltså äldreomsorgen.
+
+290
+00:21:42,000 --> 00:21:46,000
+ Vilket är ungefär 600 platser på Gotland.
+
+291
+00:21:46,000 --> 00:21:52,000
+ Här införde man ett lokalt besöksförbud den 12 mars.
+
+292
+00:21:52,000 --> 00:21:55,000
+ Smittskyddsläkaren drar inga stora växlar på det.
+
+293
+00:21:55,000 --> 00:21:58,000
+ Men jag tänkte ändå att det kunde vara intressant att få höra en reflektion
+
+294
+00:21:58,000 --> 00:22:03,000
+ från Anders Stegnell om det går att dra några slutsatser eller vad som
+
+295
+00:22:03,000 --> 00:22:05,000
+ finns värt att säga om det.
+
+296
+00:22:05,000 --> 00:22:12,000
+ Våra signaler var nog att man hade mer eller mindre totalt besöksstopp
+
+297
+00:22:12,000 --> 00:22:15,000
+ på väldigt många ställen från de datumen.
+
+298
+00:22:15,000 --> 00:22:18,000
+ Det verkar ha fungerat på en del ställen och inte på andra.
+
+299
+00:22:18,000 --> 00:22:23,000
+ Vi jobbar vidare med det, men de preliminära tittningarna på sånt
+
+300
+00:22:23,000 --> 00:22:27,000
+ talar vi inte för att just besöken är det stora problemet i äldrevården.
+
+301
+00:22:27,000 --> 00:22:31,000
+ Det finns andra aspekter som man behöver förstärka istället.
+
+302
+00:22:31,000 --> 00:22:35,000
+ Du tänker på personal som kommer dit?
+
+303
+00:22:35,000 --> 00:22:41,000
+ Ja, det finns mycket inom äldrevården som man kan tänka på.
+
+304
+00:22:41,000 --> 00:22:44,000
+ En hel del som säkert fungerar bra redan, men vi får väldigt mycket
+
+305
+00:22:44,000 --> 00:22:48,000
+ signaler från enskilda personer som jobbar i äldrevården som pekar på
+
+306
+00:22:48,000 --> 00:22:52,000
+ brister på olika sätt. Jag tror att det finns mycket att göra där.
+
+307
+00:22:52,000 --> 00:22:58,000
+ Gotland sticker alltså inte på något sätt ut när det gäller att i praktiken
+
+308
+00:22:58,000 --> 00:23:02,000
+ ha infört besöksförbud lång tidigare än det nationella förbudet?
+
+309
+00:23:02,000 --> 00:23:04,000
+ Nej, det är inte min uppfattning.
+
+310
+00:23:04,000 --> 00:23:07,000
+ Tack så mycket, vi ska gå vidare här inne.
+
+311
+00:23:07,000 --> 00:23:12,000
+ Hej, Frank Frodozovic, Radio Sverige. Jag har en klarifierande
+
+312
+00:23:12,000 --> 00:23:17,000
+ fråga till Anders Tegnell. För döds i Sverige, om någon inte
+
+313
+00:23:17,000 --> 00:23:24,000
+ testats för covid-19 och dör, men visar symptom för virusen,
+
+314
+00:23:24,000 --> 00:23:29,000
+ vad händer? Vem gör beslutet om det finns en eftermordagstest?
+
+315
+00:23:29,000 --> 00:23:34,000
+ Eller är det alltid en eftermordagstest för att se om de har virusen eller inte?
+
+316
+00:23:34,000 --> 00:23:39,000
+ Nej, det är alltid den som bestämmer om det ska finnas en eftermordagstest
+
+317
+00:23:39,000 --> 00:23:44,000
+ eller inte. Det är alltid så, inte annorlunda nu än annars.
+
+318
+00:23:44,000 --> 00:23:49,000
+ Jag skulle säga att det är samma sak i alla länder, så Sverige är inte
+
+319
+00:23:49,000 --> 00:23:52,000
+ annorlunda än någon annan. Jag skulle säga att vi uppfattar fler döds
+
+320
+00:23:52,000 --> 00:23:56,000
+ här än i de flesta andra länder. Dessutom har vi också en system
+
+321
+00:23:56,000 --> 00:24:01,000
+ för att se tillbaka på dödsförhållanden, där vi kan se om det finns
+
+322
+00:24:01,000 --> 00:24:07,000
+ en överlopp av dödsförhållanden en del veckor senare.
+
+323
+00:24:07,000 --> 00:24:12,000
+ Vi gör det just nu, vi ser en ökning, men vi måste förklara hur mycket
+
+324
+00:24:12,000 --> 00:24:16,000
+ det kan vara kopplat till corona eller inte. Vi kommer att få en bild
+
+325
+00:24:16,000 --> 00:24:21,000
+ inte på individuell nivå, men på populärnivå, på antal fall som
+
+326
+00:24:21,000 --> 00:24:24,000
+ döde under den här perioden.
+
+327
+00:24:24,000 --> 00:24:27,000
+ Jag har två snabba följ-upp. Finns det enligt regler för de som
+
+328
+00:24:27,000 --> 00:24:34,000
+ är förlånade att om någon visar symptom så ska testet följas ut.
+
+329
+00:24:34,000 --> 00:24:42,000
+ För att komma till högsta nivån måste man testa positivt.
+
+330
+00:24:42,000 --> 00:24:46,000
+ Eller är det bara att det är förväntningar som gör att någon har viruset?
+
+331
+00:24:46,000 --> 00:24:54,000
+ Nej, det finns inga specifika regler för att testa för covid-19.
+
+332
+00:24:54,000 --> 00:24:58,000
+ Jag skulle säga det oppositet, att hela reglen om att testa för covid-19
+
+333
+00:24:58,000 --> 00:25:01,000
+ är inte direkt till att ställa fram skälet till döden.
+
+334
+00:25:01,000 --> 00:25:06,000
+ Den är väldigt fokuserad på att stoppa spridningen.
+
+335
+00:25:06,000 --> 00:25:11,000
+ Därför är den inte inkluderad i fallstrafik och så vidare.
+
+336
+00:25:11,000 --> 00:25:14,000
+ Tvånda frågan var...
+
+337
+00:25:14,000 --> 00:25:20,000
+ För att kasta sig mot dödsfall måste man ha testat positivt för viruset.
+
+338
+00:25:20,000 --> 00:25:24,000
+ Det är aldrig bara för att de visade symptom?
+
+339
+00:25:24,000 --> 00:25:28,000
+ Nej, det är sant för alla länder jag har frågat.
+
+340
+00:25:28,000 --> 00:25:33,000
+ Förväntade eller förväntade fall är inte längre kallade.
+
+341
+00:25:33,000 --> 00:25:36,000
+ De var i början av epidemin, men inte längre.
+
+342
+00:25:36,000 --> 00:25:41,000
+ Vi måste alltid minnsa att de mängder som vi kastar och testar
+
+343
+00:25:41,000 --> 00:25:45,000
+ är bara en liten del av alla fall vi har i samhället.
+
+344
+00:25:45,000 --> 00:25:49,000
+ Vi måste vara väldigt viktiga när vi diskuterar om det ska vara ett, två eller tre
+
+345
+00:25:49,000 --> 00:25:53,000
+ mer per dag, för det ger oss aldrig den verkliga figuren.
+
+346
+00:25:53,000 --> 00:25:57,000
+ Hej, Christian Stichler, Tysk TV.
+
+347
+00:25:57,000 --> 00:26:01,000
+ Anders, vi pratade före påsk om svenska strategin.
+
+348
+00:26:01,000 --> 00:26:05,000
+ Om man bara tar dödssiffror, tyska, norra och danmark,
+
+349
+00:26:05,000 --> 00:26:09,000
+ och jämför med svenska dödssiffror,
+
+350
+00:26:09,000 --> 00:26:13,000
+ just nu i dag att vi har gått över 1 000 döda här i Sverige,
+
+351
+00:26:13,000 --> 00:26:18,000
+ skulle du fortfarande bedöma att den svenska strategin funkar?
+
+352
+00:26:18,000 --> 00:26:22,000
+ Och andra frågan, har du en förklaring varför dödssiffran i Sverige är så hög
+
+353
+00:26:22,000 --> 00:26:26,000
+ jämfört med de andra länderna? Beror det kanske på restriktioner som de hade infört?
+
+354
+00:26:26,000 --> 00:26:33,000
+ Ja, samtidigt om du jämför med New York, som är ungefär lika stort som Sverige
+
+355
+00:26:33,000 --> 00:26:36,000
+ befolkningsmässigt, har tio gånger så många döda.
+
+356
+00:26:36,000 --> 00:26:40,000
+ Belgien har också betydligt mer än vad vi har, så det finns många länder som också har gått åt andra hållet.
+
+357
+00:26:40,000 --> 00:26:46,000
+ Återigen, vi ska vara väldigt försiktiga med att göra några uttalande så här tidigt i en pandemi.
+
+358
+00:26:46,000 --> 00:26:50,000
+ Det kan ändra sig åt många olika håll innan vi är klara.
+
+359
+00:26:50,000 --> 00:26:56,000
+ För oss är det ganska klart att vad som har hänt i Sverige är att vi har fått in smittan på våra äldreboenden.
+
+360
+00:26:56,000 --> 00:27:02,000
+ Det är helt uppenbart att äldreboende i Sverige är en miljö där det är väldigt farligt att få in smittan.
+
+361
+00:27:02,000 --> 00:27:04,000
+ Den är väldigt känslig för att få in smitta.
+
+362
+00:27:04,000 --> 00:27:11,000
+ Det innebär att när man får in smittan i den åldersgruppen så får man mycket dödsfall.
+
+363
+00:27:11,000 --> 00:27:17,000
+ Jag har tittat i alla fall på Norge och vet att medelåldern på de som är smittade i Norge är väldigt mycket lägre än i Sverige.
+
+364
+00:27:17,000 --> 00:27:21,000
+ Så det är inte ett misslyckande för någon övergripande strategi, skulle jag vilja påstå.
+
+365
+00:27:21,000 --> 00:27:26,000
+ Men det är ett misslyckande för vårt sätt att skydda våra äldre som bor i äldreboendet.
+
+366
+00:27:26,000 --> 00:27:33,000
+ Anledningen till att det här på äldreboende händer där, det är grunden för att dödssiffrorna skiljer sig så mycket
+
+367
+00:27:33,000 --> 00:27:35,000
+ mellan Tyskland till exempel och Sverige.
+
+368
+00:27:35,000 --> 00:27:43,000
+ Jag vet inte om det finns sådana siffror från Tyskland, men vi vet ju att här i Sverige så är nästan hälften av alla dödsfall
+
+369
+00:27:43,000 --> 00:27:48,000
+ hos personer över 70 år är ju personer som bor i äldreboende.
+
+370
+00:27:48,000 --> 00:27:54,000
+ Det betyder att att bo i äldreboende är en väldigt mycket ökad risk jämfört med andra.
+
+371
+00:27:54,000 --> 00:27:59,000
+ Men jag tror inte ni har någon typ av statistik i Tyskland som ni kan titta på sånt.
+
+372
+00:27:59,000 --> 00:28:01,000
+ Jag vet inte, aldrig sett i alla fall.
+
+373
+00:28:01,000 --> 00:28:04,000
+ Äldreboende finns också i Tyskland i många fall.
+
+374
+00:28:04,000 --> 00:28:05,000
+ Men jag har en annan fråga också.
+
+375
+00:28:05,000 --> 00:28:09,000
+ I Tyskland och Danmark diskuteras mycket om skolöppningar nu.
+
+376
+00:28:09,000 --> 00:28:16,000
+ De har vissa åtgärder, två meter avstånd mellan eleverna och smågrupper på kindergarten.
+
+377
+00:28:16,000 --> 00:28:19,000
+ Jag ser här, Sverige har gjort inte så mycket.
+
+378
+00:28:19,000 --> 00:28:26,000
+ Jag har själv varit på en skola där barnen var ihop som vanligt i ett klassrum utan den här avstånd.
+
+379
+00:28:26,000 --> 00:28:30,000
+ Och barn på barnhagar, de leker tillsammans.
+
+380
+00:28:30,000 --> 00:28:35,000
+ Har ni erfarenhet här från Sverige som ni kan ta över till Danmark eller Tyskland
+
+381
+00:28:35,000 --> 00:28:40,000
+ just med smittspridning under skolor och förskolor?
+
+382
+00:28:40,000 --> 00:28:45,000
+ Det skillnas väldigt mycket nu när de öppnar skolor i Danmark och Tyskland.
+
+383
+00:28:45,000 --> 00:28:49,000
+ Och här i Sverige rullar det nästan som vanligt.
+
+384
+00:28:49,000 --> 00:28:53,000
+ Har ni vissa erfarenheter som ni kan dela ut till de andra?
+
+385
+00:28:53,000 --> 00:28:55,000
+ Vi får väl titta närmare på det.
+
+386
+00:28:55,000 --> 00:28:59,000
+ Men vi kan ju säga så här mycket att vi har väldigt lite fall i de åldersgrupperna.
+
+387
+00:28:59,000 --> 00:29:06,000
+ Alltså vi har inte mer fall i skolbarns åldersgrupper än vad man har i de andra länderna.
+
+388
+00:29:06,000 --> 00:29:08,000
+ Utan det är väldigt få fall.
+
+389
+00:29:08,000 --> 00:29:11,000
+ Då kommer man säkert att hävda att de grupperna får väldigt lite symptom.
+
+390
+00:29:11,000 --> 00:29:13,000
+ Ja, så kan det vara.
+
+391
+00:29:13,000 --> 00:29:17,000
+ Men helt uppenbart så orsakar det ingen stor sjuklighet att ha skolorna öppna.
+
+392
+00:29:17,000 --> 00:29:19,000
+ Stefan Bjarnfors, Göteborgs Posten.
+
+393
+00:29:19,000 --> 00:29:24,000
+ Den här grafen visade om överrepresenterade länder.
+
+394
+00:29:24,000 --> 00:29:29,000
+ Kan du berätta lite mer om det här med trångbrådhet?
+
+395
+00:29:29,000 --> 00:29:33,000
+ Varför de här länderna, eller ursprungsländerna, är överrepresenterade?
+
+396
+00:29:33,000 --> 00:29:35,000
+ Av födelseländerna?
+
+397
+00:29:35,000 --> 00:29:38,000
+ Nej, det måste vi ju titta närmare på.
+
+398
+00:29:38,000 --> 00:29:40,000
+ Det kan ju finnas ett antal olika förklaringar.
+
+399
+00:29:40,000 --> 00:29:44,000
+ Men socioekonomisk bakgrund är ju säkert viktigt.
+
+400
+00:29:44,000 --> 00:29:45,000
+ Det tror jag är ett sektor.
+
+401
+00:29:45,000 --> 00:29:50,000
+ Om det kompenserar hela vägen, eller om det finns andra faktorer, det får vi återkomma till.
+
+402
+00:29:50,000 --> 00:29:53,000
+ Hur går ni vidare med den informationen?
+
+403
+00:29:53,000 --> 00:30:00,000
+ Vi tittar på den mer. Vi har hämtat ur mer data från SCB om de här personerna.
+
+404
+00:30:00,000 --> 00:30:03,000
+ Vi får se om vi kan komma vidare och analysera.
+
+405
+00:30:03,000 --> 00:30:07,000
+ Jag tror det viktigaste just nu är inte exakt varför, utan att vi vet att det finns i de grupperna.
+
+406
+00:30:07,000 --> 00:30:09,000
+ Det är ju den signalen som vi behöver ha.
+
+407
+00:30:09,000 --> 00:30:12,000
+ För vi behöver jobba bättre mot de grupperna upplysningsmässigt.
+
+408
+00:30:12,000 --> 00:30:19,000
+ Följa upp dem. Se vad man kan göra för insatser lokalt i de här kommunerna eller stadsdelarna.
+
+409
+00:30:19,000 --> 00:30:24,000
+ När man har mycket spridning för att få ner smittspridningstalet så mycket som möjligt.
+
+410
+00:30:24,000 --> 00:30:29,000
+ Pelle Sakkrisson, Nyheter idag.
+
+411
+00:30:29,000 --> 00:30:32,000
+ Jag tänkte fråga Anders Tegnell.
+
+412
+00:30:32,000 --> 00:30:39,000
+ Hur många gånger har du träffat statsminister Stefan Löfven och informerat honom om covid-19?
+
+413
+00:30:39,000 --> 00:30:47,000
+ Min chef och generaldirektör har ju kontakt med regeringen flera gånger i veckan.
+
+414
+00:30:47,000 --> 00:30:51,000
+ Hur många gånger har han informerat statsminister?
+
+415
+00:30:51,000 --> 00:30:53,000
+ Inte exakt.
+
+416
+00:30:53,000 --> 00:30:56,000
+ Jag har en fråga till Johanna Sandwall.
+
+417
+00:30:56,000 --> 00:31:07,000
+ Du berättade om att man har fördubblat antal platser på IVA i Sverige.
+
+418
+00:31:07,000 --> 00:31:11,000
+ Hur har den här fördubblingen gått till?
+
+419
+00:31:11,000 --> 00:31:17,000
+ Hur har man kunnat behålla patientsäkerheten?
+
+420
+00:31:17,000 --> 00:31:21,000
+ Det är två delar. Dels hur man bygger ut men också det vi kallar omställning.
+
+421
+00:31:21,000 --> 00:31:25,000
+ Det vill säga att man låter sån vård som kan vänta vänta.
+
+422
+00:31:25,000 --> 00:31:29,000
+ Man ställer in planerade operationer och verksamhet.
+
+423
+00:31:29,000 --> 00:31:37,000
+ Och styr personalresurser och materialresurser till en utökad intensivvård.
+
+424
+00:31:37,000 --> 00:31:46,000
+ Har varje sjuksköterska fått utökad ansvar för fler patienter på IVA?
+
+425
+00:31:46,000 --> 00:31:49,000
+ Hur man bedriver vården är arbetsgivarens ansvar.
+
+426
+00:31:49,000 --> 00:31:52,000
+ Hur man planerar den på ett säkert sätt är också arbetsgivarens ansvar.
+
+427
+00:31:52,000 --> 00:31:56,000
+ Så det sker regionalt och på respektive sjukhus.
+
+428
+00:31:56,000 --> 00:32:06,000
+ Hej, Jesper Johansson från XACT24.
+
+429
+00:32:06,000 --> 00:32:09,000
+ Jag har en fråga som också är bra, det här med dödsfallen.
+
+430
+00:32:09,000 --> 00:32:13,000
+ I Amerika har CDC i början av april skickat ut en föreskrift
+
+431
+00:32:13,000 --> 00:32:17,000
+ för hur man som läkare ska fylla i dödsattester i coronakrisen.
+
+432
+00:32:17,000 --> 00:32:21,000
+ Man låter läkare skriva att covid-19 är en förmodad dödsorsak
+
+433
+00:32:21,000 --> 00:32:27,000
+ hos patienter som kan ha dött av covid-19, trots att detta inte är fastställt.
+
+434
+00:32:27,000 --> 00:32:31,000
+ Du sa att det var något man gjorde i början av pandemin.
+
+435
+00:32:31,000 --> 00:32:36,000
+ Men det här kom ut i början av april, så hur vill du kommentera det?
+
+436
+00:32:36,000 --> 00:32:40,000
+ Jag har pratat om hur vi gör i Sverige och Europa, hur man gör i resten av världen.
+
+437
+00:32:40,000 --> 00:32:43,000
+ Det har jag inte stängt koll på hela tiden.
+
+438
+00:32:43,000 --> 00:32:47,000
+ Det är hela tiden en fråga om balans, med vilken nytta man har av de här siffrorna.
+
+439
+00:32:47,000 --> 00:32:51,000
+ Normalt sett när man börjar få något som är väldigt vanligt
+
+440
+00:32:51,000 --> 00:32:55,000
+ så går man istället över till att analysera de säkra fallen.
+
+441
+00:32:55,000 --> 00:32:58,000
+ Det ger mycket bättre data på när man vill diskutera riskgrupper,
+
+442
+00:32:58,000 --> 00:33:02,000
+ utveckling och annat, istället för att lägga in fall där man har en stor tveksamhet.
+
+443
+00:33:02,000 --> 00:33:05,000
+ Sen kan jag tänka mig att man har en annan situation i USA,
+
+444
+00:33:05,000 --> 00:33:09,000
+ för där har man haft det extremt svårt att få igång testkapacitet.
+
+445
+00:33:09,000 --> 00:33:13,000
+ Det var säkert det som triggade igång att CDC gjorde så här.
+
+446
+00:33:13,000 --> 00:33:17,000
+ För att man testade under de första veckorna, någon gång i mars,
+
+447
+00:33:17,000 --> 00:33:21,000
+ så testade vi fler personer i Sverige än vad man gjorde i hela USA.
+
+448
+00:33:21,000 --> 00:33:25,000
+ Jag tror det var det som låg bakom att CDC gick fram med det här.
+
+449
+00:33:25,000 --> 00:33:29,000
+ För att överhuvudtaget ha någon aning om hur många fall man hade
+
+450
+00:33:29,000 --> 00:33:33,000
+ så var man tvungen att gå fram med det här, eftersom deras testkapacitet var så dålig.
+
+451
+00:33:33,000 --> 00:33:40,000
+ Enligt senator i Minnesota och läkare Scott Jensen
+
+452
+00:33:40,000 --> 00:33:43,000
+ så är det första gången man gör på det här viset att man rekommenderar folk
+
+453
+00:33:43,000 --> 00:33:46,000
+ att skriva något som inte är fastställt.
+
+454
+00:33:46,000 --> 00:33:51,000
+ Han menar att det här är med och driver upp dödstalen högre än vad de är.
+
+455
+00:33:51,000 --> 00:33:53,000
+ Hur ser du på det?
+
+456
+00:33:53,000 --> 00:33:58,000
+ Jag tror inte man kan överskatta dödstalen i USA.
+
+457
+00:33:58,000 --> 00:34:00,000
+ De är helt uppenbart väldigt höga.
+
+458
+00:34:00,000 --> 00:34:03,000
+ Som jag sa, när man har den situationen att man vet
+
+459
+00:34:03,000 --> 00:34:05,000
+ att man inte kan testa väldigt många personer
+
+460
+00:34:05,000 --> 00:34:07,000
+ så är man tvungen att hitta något annat sätt
+
+461
+00:34:07,000 --> 00:34:10,000
+ på att få åtminstone en rimlig statistik.
+
+462
+00:34:10,000 --> 00:34:13,000
+ Jag tror vi får gå vidare.
+
+463
+00:34:13,000 --> 00:34:17,000
+ Vi har en fråga på länk från Dagens Industri.
+
+464
+00:34:17,000 --> 00:34:19,000
+ En ny som har kopplat upp sig.
+
+465
+00:34:19,000 --> 00:34:22,000
+ Tack så mycket, hörs jag?
+
+466
+00:34:22,000 --> 00:34:30,000
+ Jo, det är några privata vårdgivare som har köpt in ett kinesiskt antikroppstest
+
+467
+00:34:30,000 --> 00:34:34,000
+ från ett svenskt initiativ, ett nystartat företag.
+
+468
+00:34:34,000 --> 00:34:38,000
+ Bland annat har Attendo köpt in ett tusentals tester.
+
+469
+00:34:38,000 --> 00:34:41,000
+ Det här testet utvärderas nu på uppdrag av bolaget
+
+470
+00:34:41,000 --> 00:34:46,000
+ av Akademiska Uppsala, under ledning av Åke Lundqvist.
+
+471
+00:34:46,000 --> 00:34:50,000
+ Jag undrar om Folkhälsomyndigheten har någon kommentar kring den här typen av tester.
+
+472
+00:34:50,000 --> 00:34:54,000
+ På hemsidan står det att ni anser fortfarande att de här är osäkra.
+
+473
+00:34:54,000 --> 00:34:59,000
+ Ja, antikroppstesterna per definition är hittills osäkra.
+
+474
+00:34:59,000 --> 00:35:02,000
+ Det har varit svårt att hitta en bra standard för dem.
+
+475
+00:35:02,000 --> 00:35:06,000
+ Vår allmänna åsikt är som myndighet att det är bra
+
+476
+00:35:06,000 --> 00:35:09,000
+ om man får de här godkända enligt de procedure som finns
+
+477
+00:35:09,000 --> 00:35:11,000
+ för medicinstekniska produkter.
+
+478
+00:35:11,000 --> 00:35:14,000
+ Men samtidigt kan jag förstå att man har bråttom ibland.
+
+479
+00:35:14,000 --> 00:35:17,000
+ Det är möjligt att de här testerna är bättre än inga tester alls.
+
+480
+00:35:17,000 --> 00:35:21,000
+ Men så får vi se vad den här utvärderingen leder till.
+
+481
+00:35:21,000 --> 00:35:23,000
+ Tack så mycket.
+
+482
+00:35:23,000 --> 00:35:25,000
+ Då är vi klara. Tack för att ni kom hit.
+
+483
+00:35:25,000 --> 00:35:28,000
+ Alla intervjuer nu utomhus.
+
+484
+00:35:29,000 --> 00:35:30,000
+ Textning.nu
+
+485
+00:35:30,000 --> 00:35:32,000
+ Svensktextning.nu
+
+486
+00:35:32,000 --> 00:35:35,000
+ [Text]
+

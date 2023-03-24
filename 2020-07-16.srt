@@ -1,0 +1,1380 @@
+1
+00:00:00,000 --> 00:00:06,140
+ Tack så mycket och välkomna hit. Jag tänkte prata lite om det epidemiologiska läget i första hand.
+
+2
+00:00:06,140 --> 00:00:15,100
+ Och börja med världskartan. Det är som ni vet en ganska besvärlig situation i många håll.
+
+3
+00:00:15,100 --> 00:00:23,300
+ USA ser en ganska kraftig ökning på vissa håll.
+
+4
+00:00:24,060 --> 00:00:33,540
+ Sydamerika som tidigare, Brasilien i första hand som är det största landet men även andra länder omkring har haft stora bekymmer.
+
+5
+00:00:33,540 --> 00:00:38,900
+ I Asien är det i första hand indiska subkontinenten där man ser stor spridning.
+
+6
+00:00:38,900 --> 00:00:42,500
+ Och i Afrika, Sydafrika.
+
+7
+00:00:42,500 --> 00:00:54,020
+ Vi har också fått sedan förra veckan ett antal nya utbrott i länder som tidigare
+
+8
+00:00:54,240 --> 00:00:58,540
+ har genom åtgärder tryckt ner smittan på ett tag.
+
+9
+00:00:58,540 --> 00:01:04,220
+ Det gäller inte minst Europa där vi har sett ytterligare nya utbrott i Spanien.
+
+10
+00:01:04,220 --> 00:01:14,460
+ Vi har också en smittspridning pågående på Balkan som kan sägas inte vara under kontroll på det viset.
+
+11
+00:01:14,460 --> 00:01:18,020
+ Vi har fortfarande en ökning på många håll.
+
+12
+00:01:20,600 --> 00:01:25,180
+ Så här ser det ut fram till halva den här veckan.
+
+13
+00:01:25,180 --> 00:01:32,640
+ Vi har en fortsatt kraftigare ökningstakt än vi har haft tidigare när det gäller globala.
+
+14
+00:01:32,640 --> 00:01:35,780
+ Nu ska vi veta att det här är bara de konstaterade fallet.
+
+15
+00:01:35,780 --> 00:01:42,900
+ Vi har ovanpå det här också ett stort mörkertal som dessutom kan vara kraftigare i vissa länder
+
+16
+00:01:42,900 --> 00:01:46,060
+ på grund av dålig kapacitet för testning och så vidare.
+
+17
+00:01:46,060 --> 00:01:50,060
+ I Europa ser det mer stabilt ut.
+
+18
+00:01:50,300 --> 00:01:55,740
+ Vi har ett läge som håller sig ganska stabilt.
+
+19
+00:01:55,740 --> 00:01:59,020
+ Jag tror vi har kommenterat vecka 27 tidigare.
+
+20
+00:01:59,020 --> 00:02:06,940
+ Det var om disponering och omplacering av anmälda fall, framförallt i Storbritannien.
+
+21
+00:02:06,940 --> 00:02:13,780
+ Men om vi bortser från den där luckan som en felaktighet så har vi en till syne stabil situation.
+
+22
+00:02:13,780 --> 00:02:17,020
+ Men under den här ytan så är det ganska stora rörelser.
+
+23
+00:02:17,380 --> 00:02:25,460
+ Vi har sjunkande tal i många länder men vi har också, som jag sa på Balkan och i ett antal stora utbrott,
+
+24
+00:02:25,460 --> 00:02:33,980
+ en mer bekymmersam situation som gör att vi hela tiden har att räkna med att infektionen,
+
+25
+00:02:33,980 --> 00:02:39,900
+ pandemin, kan göra entré på nya håll i Europa också.
+
+26
+00:02:39,900 --> 00:02:45,540
+ Den svenska situationen ser fortfarande gynnsam ut.
+
+27
+00:02:45,540 --> 00:02:55,660
+ Vi har, när man tittar på medelvärdena, över insjuknande så har vi fortfarande sjunkande tal.
+
+28
+00:02:55,660 --> 00:03:05,060
+ Vi har både när det gäller de allvarliga sjukdomsfallen eller de som diagnostiseras inom vården.
+
+29
+00:03:05,060 --> 00:03:11,140
+ Alla de är säkert inte allvarliga men åtminstone de som gått inför bedömning för patienten
+
+30
+00:03:11,140 --> 00:03:17,300
+ har ansetts ha påtagliga symptom. Den violetta linjen där, de sjunker.
+
+31
+00:03:17,300 --> 00:03:24,900
+ Men framförallt är det sjunkande siffror på de mer okomplicerade fallen.
+
+32
+00:03:24,900 --> 00:03:31,140
+ Vår bedömning sedan tidigare står fast att det har dels varit en testningsskuld.
+
+33
+00:03:31,140 --> 00:03:36,180
+ Det kom många människor till testning när man öppnade för allmän testning i många regioner.
+
+34
+00:03:36,180 --> 00:03:43,220
+ Nu är den avbetad och vi ser sjunkande tal i stort sett över hela landet.
+
+35
+00:03:43,220 --> 00:03:50,900
+ Det är samma när det gäller intensivvården och Socialstyrelsen kommer att kommentera det närmare.
+
+36
+00:03:50,900 --> 00:03:55,940
+ Det är bara enstaka nya patienter som läggs i intensivvård numera.
+
+37
+00:03:55,940 --> 00:04:00,500
+ Vi har också haft dagar som vi inte haft någon anmält intensivvårdsfall.
+
+38
+00:04:00,500 --> 00:04:11,700
+ Nu är det avlidna per dag. Eftersom det är mitten av veckan, torsdag, har vi en uppsamling där vi
+
+39
+00:04:11,700 --> 00:04:19,140
+ kör bakåt och jämför med statistiska centralbyrånssiffror. Då hittar vi 21 fall och de faller
+
+40
+00:04:19,140 --> 00:04:25,700
+ tillbaka på 13 olika dagar från den 23 juni och framåt. De sista dagarna är det inte mycket
+
+41
+00:04:25,700 --> 00:04:30,740
+ rapporterat och inte ens den sista veckan. De flesta av fallen är fall som har varit
+
+42
+00:04:30,740 --> 00:04:37,940
+ orapporterade från midsommar och framåt. Kurvan ser fortfarande gynnsam ut.
+
+43
+00:04:37,940 --> 00:04:45,860
+ Den planar ut på ungefär samma sätt som den har gjort sedan början av juni.
+
+44
+00:04:45,860 --> 00:04:51,860
+ Jag ska säga någonting om hälsorapport. Det är en undersökning som vi gör med jämna
+
+45
+00:04:51,860 --> 00:05:00,820
+ mellanrum. Det var tre månader sist. Vi tittar på levnadsvanor, psykisk ohälsa och oro.
+
+46
+00:05:00,820 --> 00:05:09,140
+ För att försöka få någon uppfattning om det här blir en försämrad situation under pandemin.
+
+47
+00:05:09,140 --> 00:05:15,060
+ 93 procent av de 1400 svarande, det är en fast panel som vi har, det är samma människor som
+
+48
+00:05:15,060 --> 00:05:24,260
+ svarar varje gång, säger att de anser sig må bra. Vilket är en oförändrad hög siffra.
+
+49
+00:05:24,260 --> 00:05:34,260
+ Det som bör ha ökat i den här situationen är att väldigt många känner sig oroliga.
+
+50
+00:05:34,260 --> 00:05:39,140
+ Inte väldigt oroliga, men som det står lite oroliga. Måttligt oroliga för att någon
+
+51
+00:05:39,140 --> 00:05:44,260
+ anhörig skulle bli allvarligt sjuk. Det är klart att alla människor i stort sett har äldre
+
+52
+00:05:44,260 --> 00:05:50,900
+ anhöriga som riskerar att bli allvarligt sjuka. Det är en oro som hänger ihop med den
+
+53
+00:05:50,900 --> 00:05:57,300
+ situation vi befinner oss i. När det gäller stressbesvär och nedstämdhet är det ganska
+
+54
+00:05:57,300 --> 00:06:05,460
+ oförändrade siffror. I den här studien som är grov men som speglar hela landet ser vi ingen
+
+55
+00:06:05,460 --> 00:06:13,700
+ påtaglig skillnad mot tidigare. Det finns oros äldre personer och det finns också en
+
+56
+00:06:13,700 --> 00:06:22,660
+ stor oro för mindre än man kan förvänta över att pandemin kan påverka studier och arbete.
+
+57
+00:06:22,660 --> 00:06:26,980
+ Jag ska säga något om levnadsvanorna. Här har vi inte tittat på distansering och de råd vi har
+
+58
+00:06:26,980 --> 00:06:35,460
+ gett utan mer de traditionella levnadsvanorna, fysisk aktivitet, utomhusvistelse, tobak,
+
+59
+00:06:35,460 --> 00:06:41,300
+ alkohol och spel om pengar. I grunden är det ganska oförändrade siffror. Det är något
+
+60
+00:06:41,300 --> 00:06:51,300
+ färre som säger att de har rökt eller använt alkohol. Det är flera som har varit utomhus.
+
+61
+00:06:51,300 --> 00:06:56,020
+ Även om den fysiska aktiviteten inte varit väldigt hög, så har man åtminstone rört sig
+
+62
+00:06:56,020 --> 00:07:02,900
+ mer utomhus än man gör normalt sett. Det är något vi ser på daglig basis.
+
+63
+00:07:02,900 --> 00:07:13,220
+ Det är många människor som är ute och rör sig. Det här är det mantra vi alltid
+
+64
+00:07:13,220 --> 00:07:20,500
+ återupprepar vid presskonferenserna. Det som är det viktiga och det som gör att vi får
+
+65
+00:07:20,500 --> 00:07:26,260
+ sjunkande siffror är att man håller sig borta om man bara känner sig lite sjuk.
+
+66
+00:07:26,260 --> 00:07:34,100
+ Man är inte ute och rör sig bland folk. Människor som är 70 år eller äldre ska dessutom
+
+67
+00:07:34,100 --> 00:07:45,460
+ i ännu högre utsträckning undvika nära kontakter. Vi kommer att komplettera våra
+
+68
+00:07:45,460 --> 00:07:52,500
+ bedömningar eller smittsamhet nästa vecka med ytterligare underlag. I grunden har vi
+
+69
+00:07:52,500 --> 00:07:58,900
+ pratat om hur man ska förhålla sig när man har visat sig ha antikroppar mot det här.
+
+70
+00:07:58,900 --> 00:08:04,020
+ Man har genomgången sjukdom. Man kan förflytta sig in i den. Från att vara i den
+
+71
+00:08:04,020 --> 00:08:10,660
+ riskgruppen kan man med fortsatt social distansering flytta sig in i den övriga gruppen
+
+72
+00:08:10,660 --> 00:08:15,460
+ där vi alla ska iaktta de här försiktighetsåtgärderna.
+
+73
+00:08:15,460 --> 00:08:21,940
+ Tvätta händerna, avstå sociala sammanhang med större antal deltagare och hålla avstånd.
+
+74
+00:08:21,940 --> 00:08:23,940
+ Det är det viktigaste.
+
+75
+00:08:23,940 --> 00:08:30,740
+ Den här sommarsliden som vi har haft uppe några gånger vill jag kommentera på några
+
+76
+00:08:30,740 --> 00:08:35,540
+ punkter. Det har varit mycket diskussion om trängsel i resandet och trängsel på
+
+77
+00:08:35,540 --> 00:08:41,620
+ badplatser och trängsel i vissa varuhus. Det finns områden som är fortsatt
+
+78
+00:08:41,620 --> 00:08:46,900
+ problematiska. När det gäller resandet jobbar vi med transportstyrelsen för att ta fram
+
+79
+00:08:46,900 --> 00:08:53,060
+ tydliga underlag där de har kontakt med branschorganisationerna.
+
+80
+00:08:53,060 --> 00:08:58,180
+ Vi får också fundera på om vi vill uppdatera vår egen föreskrift på ett tydligare sätt
+
+81
+00:08:58,180 --> 00:09:01,620
+ om det nu anses vara otydligt, vilket vi egentligen inte tycker.
+
+82
+00:09:01,620 --> 00:09:10,260
+ Detsamma gäller affärslivet. Det krävs att affärsinnehavare tar ett stort ansvar.
+
+83
+00:09:10,260 --> 00:09:17,460
+ Att man ser till att trängseln inte uppstår och att man hanterar insläpp i butiker
+
+84
+00:09:17,460 --> 00:09:20,100
+ och varuhus på ett ansvarsfullt sätt.
+
+85
+00:09:20,100 --> 00:09:25,620
+ Även där bollar vi tillbaka, dels med branschen men också med länsstyrelserna som har
+
+86
+00:09:25,620 --> 00:09:32,820
+ ett viktigt uppdrag och gör ett väldigt stort jobb nu med att påpeka de brister som finns
+
+87
+00:09:32,820 --> 00:09:38,420
+ och återkoppla till regeringen men också till de kommuner som är ansvariga till exempel
+
+88
+00:09:38,420 --> 00:09:42,260
+ för badplatser och den allmänna ordningen.
+
+89
+00:09:42,260 --> 00:09:47,620
+ Jag vill ändå säga att vår allmänna uppfattning är att det här fungerar ganska väl.
+
+90
+00:09:47,620 --> 00:09:51,620
+ Det är ändå nästan 10,5 miljoner människor i det här landet.
+
+91
+00:09:51,620 --> 00:09:58,420
+ Det är tiotusentals olika butiker och platser och transportmedel som går.
+
+92
+00:09:58,420 --> 00:10:03,380
+ Går man runt här på gatorna, som jag själv gjort i Mälardalsområdet de sista veckorna
+
+93
+00:10:03,380 --> 00:10:09,540
+ på olika ställen så är min spontana intryck och den signal vi får från många håll
+
+94
+00:10:09,540 --> 00:10:14,340
+ att det görs ett oerhört gediget arbete och att folk håller sig väldigt mycket
+
+95
+00:10:14,340 --> 00:10:17,940
+ till de rekommendationer som finns.
+
+96
+00:10:17,940 --> 00:10:22,340
+ Jag vet att kommunerna har lagt ner oerhört mycket jobb på detta och det har varit
+
+97
+00:10:22,340 --> 00:10:25,300
+ reportage i medierna om det också och det vill jag tacka särskilt för.
+
+98
+00:10:25,300 --> 00:10:30,580
+ Här görs det stora framsteg även om det naturligtvis finns områden som
+
+99
+00:10:30,580 --> 00:10:35,700
+ vi fortsatt måste hantera. Då slutar jag där, tack.
+
+100
+00:10:35,700 --> 00:10:37,700
+ Tack.
+
+101
+00:10:37,700 --> 00:10:41,300
+ God eftermiddag, jag ska lämna en kort lägesrapport från Socialstyrelsens
+
+102
+00:10:41,300 --> 00:10:44,500
+ särskilda organisation med anledning av covid-19.
+
+103
+00:10:44,500 --> 00:10:49,700
+ Ganska liknande som Folkhälsomyndigheten så är läget i stort oförändrat
+
+104
+00:10:49,700 --> 00:10:54,260
+ från tisdagens rapportering när vi får in lägesbilder och rapporter
+
+105
+00:10:54,260 --> 00:10:59,380
+ och även de olika samverkansforum och nätverk som vi har med regionerna.
+
+106
+00:10:59,380 --> 00:11:04,340
+ Antalet patienter som intensivvårdas med anledning av covid-19 fortsätter
+
+107
+00:11:04,340 --> 00:11:10,020
+ minska. Dagens rapportering är det 73 patienter som vårdas på landets
+
+108
+00:11:10,020 --> 00:11:15,380
+ 579 tillgängliga intensivvårdsplatser som har covid.
+
+109
+00:11:15,380 --> 00:11:20,340
+ Fem av landets regioner rapporterar även idag att det är noll inlagda
+
+110
+00:11:20,340 --> 00:11:24,980
+ patienter med anledning av covid och fyra regioner har endast en
+
+111
+00:11:24,980 --> 00:11:30,180
+ inneliggande patient på intensivvården. Det är likadant när vi tittar på
+
+112
+00:11:30,180 --> 00:11:33,780
+ andra sjukvårdsavdelningar eller andra avdelningar genom slutenvården.
+
+113
+00:11:33,780 --> 00:11:39,620
+ Det är 321 patienter som vårdas idag. Så trenderna håller i sig även
+
+114
+00:11:39,620 --> 00:11:45,940
+ de senaste två dygnen. Även när vi tittar på tillgång till förbrukningsmateriell
+
+115
+00:11:45,940 --> 00:11:49,700
+ och katastrofmedicinsk beredskap och de andra faktorerna har inte varit
+
+116
+00:11:49,700 --> 00:11:53,620
+ några större förändringar. Katastrofmedicinsk beredskap bedöms kunna
+
+117
+00:11:53,620 --> 00:11:59,780
+ upprätthållas utan påverkan eller endast måttlig påverkan i 86% av landet.
+
+118
+00:11:59,780 --> 00:12:07,460
+ Vilket hela tiden är det vi bevakar parallellt med det som vi hanterar
+
+119
+00:12:07,460 --> 00:12:12,340
+ särskilt för pandemin och de behov som uppstår på grund av covid.
+
+120
+00:12:12,340 --> 00:12:17,060
+ Men det här innebär inte att vi slutar arbeta för att kunna förstärka
+
+121
+00:12:17,060 --> 00:12:21,220
+ om det behövs. Det här arbetet bedrivs framförallt i samverkan och
+
+122
+00:12:21,220 --> 00:12:26,660
+ en väldigt nära samverkan med resurssamordning med MSB och Försvarsmakten
+
+123
+00:12:26,660 --> 00:12:31,940
+ där vi tittar på beredskapställandet av IVA-moduler ifall något annat
+
+124
+00:12:31,940 --> 00:12:37,860
+ skulle hända. Men också transportresurser som ni har hört om under våren
+
+125
+00:12:37,860 --> 00:12:42,980
+ med helikopterresurser. Jag ska också nämna att Socialstyrelsen, inte den
+
+126
+00:12:42,980 --> 00:12:46,180
+ särskilda organisationen men andra avdelningar på Socialstyrelsen
+
+127
+00:12:46,180 --> 00:12:50,340
+ publicerade igår, precis som varje onsdag, en hel del statistik som finns
+
+128
+00:12:50,340 --> 00:12:55,700
+ att hämta på vår hemsida. Bland annat publiceras statistik över
+
+129
+00:12:55,700 --> 00:13:00,900
+ vårdtider för sluten vårdade covid-patienter med laboratoriebekräftad
+
+130
+00:13:00,900 --> 00:13:05,860
+ covid som har kunnat följas minst 30 dagar sedan inskrivningstatum.
+
+131
+00:13:05,860 --> 00:13:11,460
+ På hemsidan och via hemtjänsten kan ni komma i kontakt med rätt kontaktperson
+
+132
+00:13:11,460 --> 00:13:15,940
+ och talespersoner som kan beskriva det här arbetet mer om ni har detaljerade
+
+133
+00:13:15,940 --> 00:13:20,420
+ frågor. Men utifrån vårt perspektiv och den särskilda organisationens
+
+134
+00:13:20,420 --> 00:13:24,260
+ uppdrag att hela tiden kontinuerligt både under våren och under de här
+
+135
+00:13:24,260 --> 00:13:28,820
+ sommarmånaderna men nu också i och med regeringens nya uppdrag att
+
+136
+00:13:28,820 --> 00:13:33,620
+ säkerställa ifall det blir olika scenarioutvecklingar utifrån Folkhälsomyndighetens
+
+137
+00:13:33,620 --> 00:13:40,420
+ bedömningar inför hösten. Så tillför det ytterligare en dimension om varför det
+
+138
+00:13:40,420 --> 00:13:46,180
+ är viktigt att vi fortsätter tjata om att personalens uthållighet måste
+
+139
+00:13:46,180 --> 00:13:51,300
+ säkerställas och behovet av välbehövlig vila. Att vi får ner den här
+
+140
+00:13:51,300 --> 00:14:00,900
+ smittspridningen och den här dimensionen kan utläsas att ungefär 950 av de
+
+141
+00:14:00,900 --> 00:14:07,300
+ 12 400 patienter som har vårdats och skrivits ut från slutenvården har
+
+142
+00:14:07,300 --> 00:14:13,060
+ vårdats i antingen 30 vårddygn eller 30 eller fler vårddygn. Så när vi
+
+143
+00:14:13,060 --> 00:14:18,820
+ pratar om att det är långa vårdtider så har vi dels givetvis uppdraget att
+
+144
+00:14:18,820 --> 00:14:22,580
+ hela tiden säkerställa patienten att vi har bästa kunskapsstyrning för att
+
+145
+00:14:22,580 --> 00:14:26,500
+ patienterna ska få så bra vård som möjligt. Men utifrån mitt perspektiv och
+
+146
+00:14:26,500 --> 00:14:30,100
+ den särskilda organisationen under operativuppdraget så måste vi
+
+147
+00:14:30,100 --> 00:14:36,420
+ säkerställa att det också finns personal som orkar få en förståelse för vad
+
+148
+00:14:36,420 --> 00:14:43,860
+ de har varit med om under den här våren och fortsätter med om. Jag ska
+
+149
+00:14:43,860 --> 00:14:48,820
+ avsluta också kort med en nationell lägesbild som rapporteras från
+
+150
+00:14:48,820 --> 00:14:52,580
+ kommunerna. På onsdagar får vi in den kommunala lägesbilden innan jag
+
+151
+00:14:52,580 --> 00:14:58,820
+ lämnar över ordet till Michaela. Av de 264 kommuner som har rapporterat in
+
+152
+00:14:58,820 --> 00:15:05,860
+ lägesbild av de 290 kommunerna som finns så är det då ingen kommun som
+
+153
+00:15:05,860 --> 00:15:10,420
+ rapporterar en kritisk påverkan på något av de områden som vi följer
+
+154
+00:15:10,420 --> 00:15:14,820
+ varje vecka. Det är väldigt liknande som vi följer för regionernas
+
+155
+00:15:14,820 --> 00:15:21,060
+ lägesbilder. Förbrukningsmateriell, läkemedelsförsörjning och påverkan
+
+156
+00:15:21,060 --> 00:15:26,980
+ på personal. Däremot så rapporteras den måttlig påverkan den här andra
+
+157
+00:15:26,980 --> 00:15:32,260
+ graden på nästan samtliga områden. Där är det fortfarande väldigt mycket
+
+158
+00:15:32,260 --> 00:15:36,900
+ orosmoment. Ibland är det rent konkreta behov som vi givetvis följer upp
+
+159
+00:15:36,900 --> 00:15:42,180
+ men väldigt mycket också oro för sommarbemanning och tillgång till
+
+160
+00:15:42,180 --> 00:15:47,380
+ sjuksköterskor som växer som orosområde. Men också en oro att skyddsutrustning
+
+161
+00:15:47,380 --> 00:15:51,780
+ ska ta slut och så vidare. Tack.
+
+162
+00:15:51,780 --> 00:15:57,380
+ -Tack så mycket. Jag ska informera om ett nytt stödmaterial som vi har
+
+163
+00:15:57,380 --> 00:16:02,660
+ lagert fram till Sveriges kommuner som publiceras idag på vår hemsida.
+
+164
+00:16:02,660 --> 00:16:07,780
+ Socialstyrelsen har sedan pandemin start arbetat intensivt med att ta fram
+
+165
+00:16:07,780 --> 00:16:13,220
+ både information och stöd till personalen inom både hälso- och sjukvård
+
+166
+00:16:13,220 --> 00:16:19,540
+ och socialtjänsten. Vi vet att i många kommuner pågår redan ett systematiskt
+
+167
+00:16:19,540 --> 00:16:25,780
+ kvalitetsarbete kring covid-19. Så det materialet som jag presenterar här idag
+
+168
+00:16:25,780 --> 00:16:31,380
+ ska ses som en komplement till det pågående arbete.
+
+169
+00:16:31,380 --> 00:16:37,940
+ Genom att arbeta med systematisk uppföljning kan varje kommun, varje
+
+170
+00:16:37,940 --> 00:16:45,620
+ verksamhet bidra till att stödja arbete mot en mer kunskapsbaserad socialtjänst.
+
+171
+00:16:45,620 --> 00:16:51,380
+ Socialstyrelsen har tagit fram ett material som syftar till att stödja
+
+172
+00:16:51,380 --> 00:16:58,820
+ kommunerna att få en lokal bild av förutsättningar, åtgärder och utmaningar
+
+173
+00:16:58,820 --> 00:17:04,420
+ för att hindra smitta av covid-19 inom särskilda boende för äldre.
+
+174
+00:17:04,420 --> 00:17:11,380
+ Användning av materialet kan ge underlag till ett mer systematiskt kvalitetsarbete
+
+175
+00:17:11,380 --> 00:17:19,380
+ på de särskilda boenden. Material vänder sig till socialchefer, medicinsk
+
+176
+00:17:19,380 --> 00:17:24,660
+ ansvariga sjuksköterskor men också till verksamhetschefer inom kommunal
+
+177
+00:17:24,660 --> 00:17:32,180
+ hälso- och sjukvård. Den vänder sig också som stöd till den som på lokal
+
+178
+00:17:32,180 --> 00:17:38,580
+ nivå, efter beslut, ansvarar för praktiskt genomförande av det här.
+
+179
+00:17:38,580 --> 00:17:45,620
+ Materialet består av antal enkelanketfrågor och en användarstöd som
+
+180
+00:17:45,620 --> 00:17:51,780
+ beskriver hur kommunen kan arbeta med att genomföra enkelundersökning,
+
+181
+00:17:51,780 --> 00:17:58,900
+ men också hur man kan analysera resultatet. Enkelfrågorna är baserade
+
+182
+00:17:58,900 --> 00:18:04,500
+ bland annat på material och undersökning som genomfördes tidigare under
+
+183
+00:18:04,500 --> 00:18:11,940
+ våren både i Stockholm och i Sörmlands region. Tanken är att om flera
+
+184
+00:18:11,940 --> 00:18:18,500
+ kommuner i en region använder samma enkät kan resultatet användas för
+
+185
+00:18:18,500 --> 00:18:23,700
+ jämförelse och analyser mellan kommunerna. Det här är ett material som
+
+186
+00:18:23,700 --> 00:18:31,140
+ är frivilligt och kompletterande till det pågående arbete i kommunerna.
+
+187
+00:18:31,140 --> 00:18:39,300
+ Sedan hade jag tänkt säga några ord om allmänna råd och besökförbud på
+
+188
+00:18:39,300 --> 00:18:45,780
+ äldreboende som uppdaterades i veckan. Socialstyrelsen har tagit fram råd
+
+189
+00:18:45,780 --> 00:18:51,860
+ om vilka undantag som kan göras. Vad gäller dessa vill jag passa på att
+
+190
+00:18:51,860 --> 00:18:58,180
+ tydliggöra att det är den verksamhetsansvarige för boende som kan medge
+
+191
+00:18:58,180 --> 00:19:05,700
+ att man gör en undantag från besökförbudet. Enligt våra nya rekommendationer
+
+192
+00:19:05,700 --> 00:19:12,740
+ kan ett tillförlitligt antikroppstest från en person som är symptomfri och
+
+193
+00:19:12,740 --> 00:19:19,220
+ vill göra ett besök vara en av flera omständigheter som man kan ta med i
+
+194
+00:19:19,220 --> 00:19:27,460
+ bedömningen. Det är ingen rätt att göra ett besök. Det är den verksamhetsansvarige
+
+195
+00:19:27,460 --> 00:19:35,140
+ som ska göra en bedömning och besluta i frågan. Om man får göra ett besök
+
+196
+00:19:35,140 --> 00:19:40,500
+ ska fortfarande det som gäller i övrigt följas. Det betyder bland annat
+
+197
+00:19:40,500 --> 00:19:46,100
+ tvätta händerna och hålla avstånd. Tack.
+
+198
+00:19:46,100 --> 00:19:50,980
+ -God eftermiddag. I dag har MSB inget nytt men vi finns för att svara på
+
+199
+00:19:50,980 --> 00:19:53,780
+ eventuella frågor.
+
+200
+00:19:53,780 --> 00:20:00,100
+ -Tack. Då går vi över till frågestunden.
+
+201
+00:20:00,100 --> 00:20:10,820
+ -Fråga till Johan Carlsson. Antalet fall av covid-19 har ökat kraftigt i
+
+202
+00:20:10,820 --> 00:20:16,020
+ Florida, USA. Florida har passerat 300 000 bekräftade fall. Hur ser ni på
+
+203
+00:20:16,020 --> 00:20:19,540
+ siffrorna från Florida?
+
+204
+00:20:19,540 --> 00:20:25,700
+ -Både i Florida och i många andra stater så är det besvärande siffror som tyder
+
+205
+00:20:25,700 --> 00:20:31,460
+ på att distanseringsåtgärderna inte har kunnat upprätthållas. Många av de
+
+206
+00:20:31,460 --> 00:20:39,780
+ här staterna hade något som man beskriver som locktarn, åtminstone
+
+207
+00:20:39,780 --> 00:20:49,700
+ kraftfulla åtgärder av olika typer. Men släppte upp det så småningom.
+
+208
+00:20:49,700 --> 00:20:55,380
+ Vi har inte nån närmare kännedom om exakt hur frågorna hanteras i olika
+
+209
+00:20:55,380 --> 00:21:00,580
+ stater men uppenbart så att allt det som vi arbetar hårt med, den fysiska
+
+210
+00:21:00,580 --> 00:21:07,860
+ distanseringen, inte bara generellt utan i ganska stor detalj i olika
+
+211
+00:21:07,860 --> 00:21:15,300
+ områden, inte fungerar. Då får man en sån här situation. På det viset är
+
+212
+00:21:15,300 --> 00:21:20,740
+ Florida och Kalifornien och många andra stater, de har en bekymmersam
+
+213
+00:21:20,740 --> 00:21:24,260
+ situation i det här läget.
+
+214
+00:21:24,260 --> 00:21:34,260
+ -Ole Bengtsson, Dagens Nyheter, frågat till Johan Karlsson. Folkhälsomyndigheten
+
+215
+00:21:34,260 --> 00:21:39,380
+ utgår ifrån att en immunitet varar i cirka 6 månader. Det har kommit en
+
+216
+00:21:39,380 --> 00:21:45,060
+ brittisk och spansk studie som talar om 20-30 dagar. Även när det kommer till
+
+217
+00:21:45,060 --> 00:21:51,860
+ T-celler, en studie i Nature som talar om flera års immunitet. Hur förhåller
+
+218
+00:21:51,860 --> 00:21:56,660
+ ni er till de stora spannen och hur kan man bygga tydliga riktlinjer när det
+
+219
+00:21:56,660 --> 00:21:58,900
+ är så stora skillnader?
+
+220
+00:21:58,900 --> 00:22:04,580
+ -Det är naturligtvis ett jättesvårt läge. Vi har ett smittämne som är helt
+
+221
+00:22:04,580 --> 00:22:14,980
+ nytt. Vi har utgått från ett normalläge där även om antikroppshalten sjunker
+
+222
+00:22:14,980 --> 00:22:20,740
+ så är det ofta så att man är skyddad från allvarlig sjukdom, även om det
+
+223
+00:22:20,740 --> 00:22:26,740
+ kanske kan bli smittad. I den andra änden har vi de här studierna på SARS-viruset,
+
+224
+00:22:26,740 --> 00:22:32,580
+ det viruset som kom för 17 år sedan. Det visar att man fortfarande, åtminstone
+
+225
+00:22:32,580 --> 00:22:42,340
+ i laboratoriet, kan ha ett något kortare läge, immunitet, än 6 månader.
+
+226
+00:22:42,340 --> 00:22:46,980
+ Å andra sidan har vi inte sett upplossande infektioner hos människor.
+
+227
+00:22:46,980 --> 00:22:51,940
+ Det har gått ungefär ett halvår sedan den första infektionen kom. Det är det
+
+228
+00:22:51,940 --> 00:22:57,860
+ vi bygger på. Vi måste bygga på erfarenhet snarare än experimentella studier.
+
+229
+00:22:57,860 --> 00:23:04,260
+ Det verkar vara ett läge vi kan förhålla oss till. Sen kan det vara så att det
+
+230
+00:23:04,260 --> 00:23:07,780
+ håller i sig mycket längre, vilket är positivt naturligtvis. Men vi vågar
+
+231
+00:23:07,780 --> 00:23:09,780
+ inte dra sådana slutsatser nu.
+
+232
+00:23:11,780 --> 00:23:18,500
+ Nelly Åkansson, Aftonbladet. Jag har en fråga till Johan Karlsson.
+
+233
+00:23:18,500 --> 00:23:23,620
+ Det rör lite det du nämnde tidigare om trängsel i resande. Nu kan ju
+
+234
+00:23:23,620 --> 00:23:27,620
+ symptomfria personer resa inom Sverige och Folkhälsomyndigheten betonar
+
+235
+00:23:27,620 --> 00:23:32,020
+ vikten av att fortsätta hålla avstånd. Samtidigt ser man bilder på hur
+
+236
+00:23:32,020 --> 00:23:37,140
+ företag fyller sina bussar till bredden och inte ser till att folk kan
+
+237
+00:23:37,140 --> 00:23:41,780
+ hålla avstånd. Är det att ha ansvar som företag under pandemin?
+
+238
+00:23:41,780 --> 00:23:46,820
+ Jag tycker det är bekymmersamt. Nu ska vi inte säga att det är generellt
+
+239
+00:23:46,820 --> 00:23:52,820
+ sjuka hos alla företag. Men vi har sett från vissa företag där man tycker
+
+240
+00:23:52,820 --> 00:23:57,460
+ att man kan sitta. Vår uppfattning är att man inte ska behöva ha nära
+
+241
+00:23:57,460 --> 00:24:00,980
+ imposer med människor man inte reser tillsammans med. Man ska hantera det
+
+242
+00:24:00,980 --> 00:24:06,660
+ på det sätt som statens järnvägar har försökt. Nu har man inte lyckats
+
+243
+00:24:06,660 --> 00:24:13,460
+ fullt ut men man har en ambition att göra det och man tänker hantera de
+
+244
+00:24:13,460 --> 00:24:18,820
+ frågor som återstår. Vi har haft kontakt med C. Jag tycker också att
+
+245
+00:24:18,820 --> 00:24:24,420
+ bussbolagen ska fundera på det. Är det så att man trots detta och trots
+
+246
+00:24:24,420 --> 00:24:28,020
+ att Transportstyrelsen kommer att hjälpa oss i det här arbetet inte kommer
+
+247
+00:24:28,020 --> 00:24:31,380
+ fram med den frågan så är jag inte främmande för att vara tydligare och
+
+248
+00:24:31,380 --> 00:24:38,100
+ i föreskriften reglerar det på ett tydligare sätt. Det är inte helt lätt
+
+249
+00:24:38,100 --> 00:24:40,980
+ att skriva sådana här föreskrifter. Ibland åker man gruppvis och ibland
+
+250
+00:24:40,980 --> 00:24:46,020
+ stiger man av och på. Men i grunden så är det vår hållning att det ska inte
+
+251
+00:24:46,020 --> 00:24:50,340
+ vara så att man sitter axel mot axel i en buss med människor man inte
+
+252
+00:24:50,340 --> 00:24:52,340
+ har reser tillsammans med.
+
+253
+00:24:52,340 --> 00:25:00,820
+ -Anneli Megneron heter jag, TV4. Fråga till Socialstyrelsen tror jag.
+
+254
+00:25:00,820 --> 00:25:06,580
+ Ni kan själva bedöma vem som vill svara på den. Regeringen kommer att
+
+255
+00:25:06,580 --> 00:25:14,260
+ utvärdera vården till långtidssjuka. Alltså de som har varit sjuka i covid-19
+
+256
+00:25:14,260 --> 00:25:20,260
+ i 8-10 veckor eller i vissa fall längre än så. Har ni någon uppfattning om
+
+257
+00:25:20,260 --> 00:25:24,020
+ hur stor den här gruppen är? Hur många personer det är?
+
+258
+00:25:24,020 --> 00:25:35,540
+ -Jag kan börja. Regeringen har gett SBU och oss i uppdrag att titta på det här.
+
+259
+00:25:35,540 --> 00:25:42,580
+ Ganska tidigt tog vi kontakt med SBU för att titta på kunskapsläget kring
+
+260
+00:25:42,580 --> 00:25:46,580
+ hur många det rör sig om. Vi har inte fått en sammanställning utan i augusti
+
+261
+00:25:46,580 --> 00:25:52,180
+ förväntar vi oss att det finns en början. För första gången vi tog kontakt och
+
+262
+00:25:52,180 --> 00:25:56,500
+ tittade på det så fanns det inte tillräckligt med underlag. Men som sagt
+
+263
+00:25:56,500 --> 00:26:01,780
+ idag kom det regeringsuppdraget och vi kommer samarbeta och förhoppningsvis
+
+264
+00:26:01,780 --> 00:26:06,260
+ kommer vi ha mer information att dela.
+
+265
+00:26:06,260 --> 00:26:12,660
+ -I augusti kanske ni har en uppfattning ungefär hur många det är då?
+
+266
+00:26:12,660 --> 00:26:19,380
+ -Jag återigen, jag ber bara de detaljerade frågorna om just hur uppdraget,
+
+267
+00:26:19,380 --> 00:26:24,820
+ det kommer idag och det är inte mitt sakområde men vi tittar på det
+
+268
+00:26:24,820 --> 00:26:27,140
+ tillsammans med SBU.
+
+269
+00:26:27,140 --> 00:26:31,780
+ -Kan du säga något om hur ni kommer gå till väga för att ta reda på hur många
+
+270
+00:26:31,780 --> 00:26:38,660
+ det är? De allra flesta har inte testat sig. Kommer ni göra en enkätundersökning
+
+271
+00:26:38,660 --> 00:26:47,780
+ med olika primärvårdcentraler för att höra vad de har gett för diagnoser?
+
+272
+00:26:47,780 --> 00:26:51,060
+ Utifrån det kanske göra en bedömning.
+
+273
+00:26:51,060 --> 00:26:58,340
+ -Jag är inte rätt person att svara på det här. Nästa vecka hoppas jag att vi
+
+274
+00:26:58,340 --> 00:27:03,140
+ har en talesperson som kan prata om det här uppdraget lite mer detaljerat
+
+275
+00:27:03,140 --> 00:27:06,660
+ men även innan dess så tror jag att om du kontaktar vår presscenter så kan
+
+276
+00:27:06,660 --> 00:27:10,820
+ vi sätta dig i kontakt med exakt hur det är uppsyltat. Tyvärr kan jag inte
+
+277
+00:27:10,820 --> 00:27:14,020
+ svara i detalj.
+
+278
+00:27:14,020 --> 00:27:22,980
+ -Då har vi några frågor på länk också. Vi kan börja med Göteborgs posten.
+
+279
+00:27:22,980 --> 00:27:32,420
+ -Jag har två frågor till Folkhälsomyndigheten. Första frågan är 17 000
+
+280
+00:27:32,420 --> 00:27:38,580
+ göteborgare fick test hemskickat och testat sig. Omkring 6000 personer
+
+281
+00:27:38,580 --> 00:27:44,740
+ deltog. Om en dryg tredjedel deltar får man en rättvis bild av hur läget såg ut
+
+282
+00:27:44,740 --> 00:27:47,540
+ i den tidpunkten tycker ni?
+
+283
+00:27:47,540 --> 00:27:52,980
+ -Det går inte riktigt att svara på så enkelt. Det beror lite på hur bortfallet
+
+284
+00:27:52,980 --> 00:27:56,740
+ ser ut. Man gör en så kallad bortfallsanalys och ser om det är särskilda
+
+285
+00:27:56,740 --> 00:28:04,820
+ åldrar som har fallit bort, särskilda stadsdelar. Det här är ett randomiserat
+
+286
+00:28:04,820 --> 00:28:10,980
+ utskick, en slump med sitt urval. Är bortfallet väldigt skevt kan man ha
+
+287
+00:28:10,980 --> 00:28:17,220
+ anledning att misstänka att det finns allvarliga skevheter i materialet.
+
+288
+00:28:17,220 --> 00:28:25,140
+ Är det likvärdigt så brukar man kunna hantera det statistiskt. Det är bättre att
+
+289
+00:28:25,140 --> 00:28:29,300
+ få in alla än att få in en tredjedel. Det är inte så att det är värdelöst.
+
+290
+00:28:29,300 --> 00:28:35,060
+ Man kan dra ganska många stora slutsatser om vi gör en ordentlig bortfallsanalys.
+
+291
+00:28:35,060 --> 00:28:42,260
+ -Svensk elitfotboll räknar med att klubbarna i Allsvenskan och Superettan
+
+292
+00:28:42,260 --> 00:28:50,020
+ kan tappa omkring en halv miljard på en publiklös höst. Hur stora förhoppningar
+
+293
+00:28:50,020 --> 00:28:53,700
+ ska klubbarna ha att man ska kunna spela inför publik någon gång under
+
+294
+00:28:53,700 --> 00:28:55,700
+ den här hösten?
+
+295
+00:28:55,700 --> 00:29:04,020
+ -Fotbollen brukar väl sluta i månadsskiftet oktober-november.
+
+296
+00:29:04,020 --> 00:29:11,220
+ Jag tycker det är svårt att säga än så länge. Vår ambition är att komma med
+
+297
+00:29:11,220 --> 00:29:20,100
+ mer tydliga prognoser och underlag en bit in i augusti. Lite beroende på hur
+
+298
+00:29:20,100 --> 00:29:29,300
+ svårt det är. Ju bättre folk är på att hålla social distansering, tvätta händerna,
+
+299
+00:29:29,300 --> 00:29:34,820
+ hålla sig borta om man är sjuk, desto större är chansen att spela elitfotboll
+
+300
+00:29:34,820 --> 00:29:36,820
+ med publik.
+
+301
+00:29:36,820 --> 00:29:42,660
+ -Hur låg smittspridning måste det vara för att släppa in folk på arenorna?
+
+302
+00:29:42,660 --> 00:29:46,340
+ -Det går inte riktigt att säga, för det är ingen som har sett det här förut.
+
+303
+00:29:46,340 --> 00:29:52,500
+ Vi vill se riktningen och fundera på vilka sätt man kan göra det. Där är
+
+304
+00:29:52,500 --> 00:29:56,500
+ lagstiftningen lite trubbig. Det är inte våra riktlinjer, utan det är
+
+305
+00:29:56,500 --> 00:30:01,780
+ ordningslagens bestämmelser. Ordningslagen är lite av och på, lite on-off
+
+306
+00:30:01,780 --> 00:30:07,060
+ lagstiftning. Antingen har man en nivå på 50 personer eller 200 personer.
+
+307
+00:30:07,060 --> 00:30:16,980
+ Då gäller det vad det än må vara. Här får vi väl ta upp en dialog med
+
+308
+00:30:16,980 --> 00:30:21,300
+ lagstiftaren i första hand om det finns möjligheter på så här kort varsel
+
+309
+00:30:21,300 --> 00:30:26,260
+ att ta fram någonting som gör att man kan stå mer utspridd. Det ligger inte
+
+310
+00:30:26,260 --> 00:30:29,460
+ i våra händer, för det här är inte smittskyddslagstiftning utan det är
+
+311
+00:30:29,460 --> 00:30:34,340
+ ordningslagens bestämmelser som används för att kunna hantera den här
+
+312
+00:30:34,340 --> 00:30:42,500
+ situationen. Det är ganska komplext. Jag utgår från att alla vill att man
+
+313
+00:30:42,500 --> 00:30:49,700
+ ska undvika åtgärder som inte är tillgång för smittspridning i större
+
+314
+00:30:49,700 --> 00:30:55,140
+ utsträckning och dessutom drabbar på ett obalanserat sätt. Vi får återkomma
+
+315
+00:30:55,140 --> 00:30:57,060
+ i frågan.
+
+316
+00:30:57,060 --> 00:30:58,820
+ –Tack så mycket.
+
+317
+00:30:58,820 --> 00:31:02,340
+ –Då har vi även en fråga från BBC News.
+
+318
+00:31:02,340 --> 00:31:07,380
+ –Tack.
+
+319
+00:31:07,380 --> 00:31:13,220
+ –Vad är din justerad förutsättning för antikvotenskap i Sverige eller
+
+320
+00:31:13,220 --> 00:31:17,380
+ Stockholm om du inte kan ge en nationell förutsättning?
+
+321
+00:31:17,380 --> 00:31:20,740
+ Tror du att Sverige fortfarande är i en bättre position än andra
+
+322
+00:31:20,740 --> 00:31:24,420
+ europeiska länder för att handla en möjlig second wave i året?
+
+323
+00:31:24,420 --> 00:31:36,980
+ –De senaste bilderna visade 17,5/20% positivitet i Stockholm.
+
+324
+00:31:36,980 --> 00:31:44,180
+ Vi har även T-cell-faktorn att titta på. Vi vet inte hur man kan titta på
+
+325
+00:31:44,180 --> 00:31:51,620
+ det, men det var sagt i studierna om T-cell-immuniteten kan vara lika stor som
+
+326
+00:31:51,620 --> 00:31:59,300
+ antivirkappen. Det betyder att vi teoretiskt kan ha en större immunnedsats
+
+327
+00:31:59,300 --> 00:32:09,540
+ än andra länder. I flera områden, och i remota delar.
+
+328
+00:32:09,540 --> 00:32:16,180
+ För att ansvara din andra fråga, så är det inte så. Vi står inte bara där
+
+329
+00:32:16,180 --> 00:32:23,860
+ och väntar på en ny utbruk. Vi måste också ta styrkor.
+
+330
+00:32:23,860 --> 00:32:32,020
+ Om du har en stor proportion av den populär som har en immunnedsats
+
+331
+00:32:32,020 --> 00:32:36,660
+ så är du i bättre form. Om du inte har surveillance-metoder,
+
+332
+00:32:36,660 --> 00:32:42,980
+ testmetoder, tracingsmetoder, så hjälper det inte så mycket.
+
+333
+00:32:42,980 --> 00:32:47,940
+ Det är en stor proportion av den populär som är oskyldig.
+
+334
+00:32:47,940 --> 00:32:53,620
+ Jag säger nej, det är inte så. Vi måste jobba hårt för att få
+
+335
+00:32:53,620 --> 00:32:58,820
+ en bra surveillance-metod, tracing och testing.
+
+336
+00:32:58,820 --> 00:33:00,820
+ -Tack.
+
+337
+00:33:00,820 --> 00:33:05,780
+ -Det verkar inte vara fler frågor, så vi avslutar för idag.
+
+338
+00:33:05,780 --> 00:33:07,780
+ Över till enskilda intervjuer. Tack.
+
+339
+00:33:09,620 --> 00:33:11,620
+ -Tack.
+
+340
+00:33:13,460 --> 00:33:14,260
+ Textning.nu
+
+341
+00:33:14,260 --> 00:33:16,260
+ (Textning.nu)
+
+342
+00:33:16,260 --> 00:33:18,260
+ (Textning.nu)
+
+343
+00:33:18,260 --> 00:33:20,260
+ (Textning.nu)
+
+344
+00:33:20,260 --> 00:33:22,260
+ Svensktextning.nu
+
+345
+00:33:22,260 --> 00:33:24,260
+ [Text]
+

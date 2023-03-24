@@ -1,0 +1,1804 @@
+1
+00:00:00,000 --> 00:00:09,560
+ Välkomna hit. Vi börjar med att titta på den globala bilden med de siffror som finns inrapporterade till ECDC just nu.
+
+2
+00:00:09,560 --> 00:00:14,360
+ Ni kan se att globalt fortsätter ökningen för varje vecka.
+
+3
+00:00:14,360 --> 00:00:20,480
+ Den sista stapeln är som ni redan vet bara en halv vecka och kan därför inte räknas med.
+
+4
+00:00:20,480 --> 00:00:26,720
+ Man är uppe i över 5,5 miljoner fall globalt med 350 000 avlidna.
+
+5
+00:00:26,720 --> 00:00:36,480
+ I Europa däremot så blir det allt bättre. Vi sjunker med ungefär lika mycket varje vecka nu.
+
+6
+00:00:36,480 --> 00:00:39,240
+ Återigen så är den sista veckan inte fullständig än.
+
+7
+00:00:39,240 --> 00:00:47,440
+ Men det är ganska fast runt 1,4 miljoner fall och 160 000 avlidna.
+
+8
+00:00:47,440 --> 00:00:59,160
+ Globalt så är det allt mer och mer tydligt att det blir Sydamerika som kommer att vara den kontinent som genererar flest fall nu i fortsättningen.
+
+9
+00:00:59,160 --> 00:01:04,760
+ Inte bara Brasilien utan allt fler länder där ser allt mer ökad antal fall.
+
+10
+00:01:04,760 --> 00:01:11,760
+ Det är stora länder med stora befolkningar som nu står för en ganska stor del av antalet fall i världen.
+
+11
+00:01:11,760 --> 00:01:17,720
+ Det ligger väl också vissa klimataspekter i detta eftersom det är vintersäsong där.
+
+12
+00:01:17,720 --> 00:01:20,960
+ Då ser man ofta större spridning av den här typen av virus.
+
+13
+00:01:20,960 --> 00:01:27,080
+ USA har fortfarande mycket fall, Ryssland och Indien också mycket fall.
+
+14
+00:01:27,080 --> 00:01:36,720
+ I Sverige så ligger vi kvar på den sakta nedgående platon som vi har legat på ganska länge nu.
+
+15
+00:01:36,720 --> 00:01:45,920
+ Det är en lite, inte helt förklarlig ökning under de senaste dagarna som vi inte riktigt vet vad den står för.
+
+16
+00:01:45,920 --> 00:01:47,920
+ Vi håller på att analysera den närmare.
+
+17
+00:01:47,920 --> 00:01:55,720
+ Det är helt säkert så att det ligger väldigt mycket mer personalfall i den stapeln än vad det har stått hittills.
+
+18
+00:01:55,720 --> 00:01:58,720
+ Men vi återkommer till det i månaden när vi har fått ett bättre analys på den.
+
+19
+00:01:58,720 --> 00:02:05,440
+ IVA-fall fortsätter också försiktigt nedför.
+
+20
+00:02:05,440 --> 00:02:08,720
+ Men även där är det lite högre fall än för ett par dagar sen.
+
+21
+00:02:08,720 --> 00:02:13,720
+ Det är möjligen kopplat till den storhäll som vi precis gått igenom.
+
+22
+00:02:13,720 --> 00:02:17,720
+ Ibland ligger det fler fall direkt efter sådana.
+
+23
+00:02:17,720 --> 00:02:21,720
+ Avlidna per dag.
+
+24
+00:02:21,720 --> 00:02:26,720
+ Den här sänkningen börjar nu bli allt mer och mer tydlig.
+
+25
+00:02:26,720 --> 00:02:37,720
+ Medelvärdet som vi brukar prata om som låg uppe över 80 när det var som värst är nu nere på 58 tror jag idag.
+
+26
+00:02:37,720 --> 00:02:40,720
+ Men ni ser att det hela tiden är ganska stor eftersläpning.
+
+27
+00:02:40,720 --> 00:02:44,720
+ Men siffrorna för ungefär tio dagar sen är ganska säkra.
+
+28
+00:02:44,720 --> 00:02:47,720
+ Det kan röra sig om några ytterligare fall.
+
+29
+00:02:47,720 --> 00:02:51,720
+ Men totalsiffran är förstås väldigt hög.
+
+30
+00:02:51,720 --> 00:03:00,720
+ Och väldigt tråkigt att så många har fått sätta livet till under den här pandemin i Sverige.
+
+31
+00:03:00,720 --> 00:03:08,720
+ Vi tänkte idag titta på några olika regioner för att återigen visa hur stor skillnad det är i olika delar av landet.
+
+32
+00:03:08,720 --> 00:03:12,720
+ Men också att vi har en väldigt stabil situation i olika delar av landet.
+
+33
+00:03:12,720 --> 00:03:17,720
+ Man tittar på Skåne som man under lång tid lägger under 20 fall per dag.
+
+34
+00:03:17,720 --> 00:03:19,720
+ När det gäller övriga.
+
+35
+00:03:19,720 --> 00:03:21,720
+ Och sen testar man allt mer och mer personal.
+
+36
+00:03:21,720 --> 00:03:26,720
+ Men siffran ligger väldigt stabilt.
+
+37
+00:03:26,720 --> 00:03:31,720
+ Och det är ungefär samma som man ser i Västra Götalanden.
+
+38
+00:03:31,720 --> 00:03:33,720
+ Men också ligger något högre totalt.
+
+39
+00:03:33,720 --> 00:03:38,720
+ Men också ligger väldigt stabilt över tid.
+
+40
+00:03:38,720 --> 00:03:47,720
+ Uppsala, också ungefär samma siffror som vi ser i Skåne och Västra Götaland.
+
+41
+00:03:47,720 --> 00:03:49,720
+ På samma nivå som Skåne.
+
+42
+00:03:49,720 --> 00:03:53,720
+ Men återigen samma bild av att man ligger på de här övriga.
+
+43
+00:03:53,720 --> 00:03:59,720
+ Alltså de sjukhusfallen på en väldigt stabil nivå i nästan alla regioner i Sverige nu.
+
+44
+00:03:59,720 --> 00:04:03,720
+ Det gäller även om man går norrut upp till Västerbotten.
+
+45
+00:04:03,720 --> 00:04:07,720
+ Så är det visserligen så pass få fall som man får lite ryckigheter i kurvan.
+
+46
+00:04:07,720 --> 00:04:09,720
+ Men även här ligger kurvan väldigt flack.
+
+47
+00:04:09,720 --> 00:04:12,720
+ Så vi har nu en väldigt stabil situation inför sommaren.
+
+48
+00:04:12,720 --> 00:04:22,720
+ Vilket gör att det är jätteviktigt att vi fortsätter att tänka på det här med att hålla trycket på vården under den här sträckade linjen.
+
+49
+00:04:22,720 --> 00:04:27,720
+ Att vi får den här flacka kurvan som är extremt tydligt att vi har nu överallt i Sverige.
+
+50
+00:04:27,720 --> 00:04:31,720
+ Och det gör vi ju genom, som ni nu i det här laget väl vet.
+
+51
+00:04:31,720 --> 00:04:36,720
+ Genom att framförallt stanna hemma när man har det minsta sjukdomssymptom.
+
+52
+00:04:36,720 --> 00:04:39,720
+ Är man äldre än 70 år.
+
+53
+00:04:39,720 --> 00:04:43,720
+ Att man håller igen på sina sociala kontakter så mycket som möjligt.
+
+54
+00:04:43,720 --> 00:04:46,720
+ Man tänker på hygien.
+
+55
+00:04:46,720 --> 00:04:50,720
+ Håller avstånd både inomhus och utomhus.
+
+56
+00:04:50,720 --> 00:04:55,720
+ Och försöker undvika de här stora sociala sammanhangen och håller ner på sitt resande.
+
+57
+00:04:55,720 --> 00:05:03,720
+ Kan vi göra det ett tag till och det fortsätter på det här viset så ser vi framför oss att trycket på vården kommer successivt att minska.
+
+58
+00:05:03,720 --> 00:05:07,720
+ Vi kan ha en hyfsad sommar där i år. Vilket ju är jätteviktigt.
+
+59
+00:05:07,720 --> 00:05:10,720
+ Det var det hela för mig.
+
+60
+00:05:10,720 --> 00:05:17,720
+ God eftermiddag. Jag ska lämna en kort lägesrapport från Socialstyrelsens operativa organisation.
+
+61
+00:05:17,720 --> 00:05:19,720
+ Med anledning av covid-19.
+
+62
+00:05:19,720 --> 00:05:30,720
+ Det totala antalet kritiskt sjuka patienter som vårdas nu på landets intensivvårdsavdelningar med anledning av covid-19 är idag 339 patienter.
+
+63
+00:05:30,720 --> 00:05:36,720
+ Tillsammans med de patienter som vårdas på grund av andra anledningar.
+
+64
+00:05:36,720 --> 00:05:42,720
+ En covid-19 så har vi 585 patienter som omhändertas inom landets intensivvård.
+
+65
+00:05:42,720 --> 00:05:46,720
+ Vi är alltså under 600 patienter totalt.
+
+66
+00:05:46,720 --> 00:05:54,720
+ Vi har tidigare diskuterat och pratat om att vi har legat på 20% över den här normala kapaciteten.
+
+67
+00:05:54,720 --> 00:06:03,720
+ Vi ligger nu på att intensivvård omhändertas drygt 10% över den här normala eller ordinarie maxkapaciteten.
+
+68
+00:06:03,720 --> 00:06:10,720
+ Innan det här omställningsarbetet påbörjades med anledning av de behov man såg framför sig.
+
+69
+00:06:10,720 --> 00:06:18,720
+ Att man skulle behöva expandera för att omhänderta covid-19 relaterade behov.
+
+70
+00:06:18,720 --> 00:06:24,720
+ Den disponibla icke-belagda nationella IVA-kapaciteten kvarstår kring 30%.
+
+71
+00:06:24,720 --> 00:06:26,720
+ Den är 34% idag.
+
+72
+00:06:26,720 --> 00:06:28,720
+ Det har den gjort en längre tid nu.
+
+73
+00:06:28,720 --> 00:06:33,720
+ Även om man går ner i antalet disponibla, det har vi pratat om ett par gånger,
+
+74
+00:06:33,720 --> 00:06:39,720
+ så säkerställer man nu kontinuerligt över hela landet att åtminstone landets kapacitet ligger kvar.
+
+75
+00:06:39,720 --> 00:06:44,720
+ Den här bevakar vi väldigt noggrant för att det ska finnas en kapacitetslucka.
+
+76
+00:06:44,720 --> 00:06:48,720
+ Vi ska absolut inte ha för mycket icke-belagda platser.
+
+77
+00:06:48,720 --> 00:06:52,720
+ Vi ska inte ha en planering som är överdriven.
+
+78
+00:06:52,720 --> 00:07:01,720
+ Men det ska hela tiden finnas en buffert-kapacitet för det här behovet som kan förändras.
+
+79
+00:07:01,720 --> 00:07:03,720
+ Förändring ser vi.
+
+80
+00:07:03,720 --> 00:07:07,720
+ Återigen varierar tillgången från region till region.
+
+81
+00:07:07,720 --> 00:07:13,720
+ Idag har vi några regioner utan några patienter på intensivvårdsavdelningarna.
+
+82
+00:07:13,720 --> 00:07:17,720
+ Vare sig covid-19 eller andra intensivvårdsbehov.
+
+83
+00:07:17,720 --> 00:07:25,720
+ Men vi har också regioner där man vårdar patienter med covid-19 på samtliga intensivvårdsplatser.
+
+84
+00:07:25,720 --> 00:07:29,720
+ De regionala skillnaderna fortsätter.
+
+85
+00:07:29,720 --> 00:07:35,720
+ Beroende på det vi har pratat om ett tag nu, att det är kritiskt och fortsatt kritiskt viktigt att nå ut med det här.
+
+86
+00:07:35,720 --> 00:07:43,720
+ Informationen att även om vi i dag exempelvis har sju regioner som rapporterar färre patienter med covid-19 på IVA
+
+87
+00:07:43,720 --> 00:07:48,720
+ jämfört med gårdagen, majoriteten, det vill säga 11 regioner ligger kvar på samma kapacitet.
+
+88
+00:07:48,720 --> 00:07:52,720
+ Vi har tre regioner som har ett ökat antal på intensivvårdsavdelningarna.
+
+89
+00:07:52,720 --> 00:07:58,720
+ Så det spelar väldigt stor roll vilka tre regioner det är beroende på vad du har för kapacitet till att börja med.
+
+90
+00:07:58,720 --> 00:08:08,720
+ Detsamma gäller variationerna i antalet covid-19 som är inneliggande på andra avdelningar än IVA.
+
+91
+00:08:08,720 --> 00:08:13,720
+ I dag är det 1482 patienter, det är 24 färre än igår.
+
+92
+00:08:13,720 --> 00:08:21,720
+ Någonstans i allt det här så är det viktigt i all vår omställningsarbete och det stödet vi försöker ge
+
+93
+00:08:21,720 --> 00:08:27,720
+ även från den operativa delen av verksamheten på Socialstyrelsen att bakom varje rapporterad siffra
+
+94
+00:08:27,720 --> 00:08:31,720
+ så finns det en patient och den patienten kommer att ha unika behov.
+
+95
+00:08:31,720 --> 00:08:34,720
+ De här måste omhändertas på bästa sätt.
+
+96
+00:08:34,720 --> 00:08:40,720
+ Så vi försöker fortsätta vara lyhörda för vad regionerna och kommunerna har för behov.
+
+97
+00:08:40,720 --> 00:08:47,720
+ Vi försöker tillföra stöd och samordning ytterligare en tid framåt.
+
+98
+00:08:47,720 --> 00:08:49,720
+ Tack!
+
+99
+00:08:49,720 --> 00:08:53,720
+ Tack! Nu ska vi fokusera lite på statistik.
+
+100
+00:08:53,720 --> 00:08:57,720
+ Socialstyrelsen är Sveriges kunskapsmyndighet för vård och omsorg.
+
+101
+00:08:57,720 --> 00:09:06,720
+ Genom samarbete, oberoende experter och pålitlig kunskap så styr, stöder och utvecklar vi hälso- och sjukvården och socialtjänsten.
+
+102
+00:09:06,720 --> 00:09:14,720
+ Kunskapsstyrning som är ett av våra vassaste verktyg handlar om att utveckla, sprida och tillämpa bästa tillgängliga kunskap
+
+103
+00:09:14,720 --> 00:09:21,720
+ och göra den tillgänglig i de situationer när vårdare möter brukare och patienter.
+
+104
+00:09:21,720 --> 00:09:29,720
+ Kunskapsstyrning inom hälso- och sjukvård omfattar alla styr- och ledningsprocesser.
+
+105
+00:09:29,720 --> 00:09:35,720
+ Syftet är att etablera och utveckla en evidensbaserad och verklighetsbaserad praktik.
+
+106
+00:09:35,720 --> 00:09:43,720
+ Att implementera bästa möjliga kunskap, det vill säga se till att kunskap används i mötet med patienter och brukare.
+
+107
+00:09:43,720 --> 00:09:54,720
+ Att skapa och upprätthålla en ändamålsenlig infrastruktur för kunskapsutveckling, det vill säga att vi konstant lär oss och blir bättre.
+
+108
+00:09:54,720 --> 00:09:58,720
+ Det handlar om ett system som består av tre viktiga komponenter.
+
+109
+00:09:58,720 --> 00:10:02,720
+ Ska det systemet hänga ihop så måste alla komponenter fungera.
+
+110
+00:10:02,720 --> 00:10:07,720
+ I det här ingår som en viktig komponent statistik, uppföljningar och utvärderingar
+
+111
+00:10:07,720 --> 00:10:12,720
+ som ger en bild av läge, utveckling och resultat i vården.
+
+112
+00:10:12,720 --> 00:10:19,720
+ I dessa speciella tider som vi befinner oss i nu så är en gedigen och pålitlig statistik en förutsättning
+
+113
+00:10:19,720 --> 00:10:27,720
+ både för att bättre kunna förstå sjukdomen, att kunna planera verksamheter och insatser i hälso- och sjukvården
+
+114
+00:10:27,720 --> 00:10:35,720
+ och dessutom för att kunna veta vart nya insatser, stöd och så vidare ska riktas.
+
+115
+00:10:35,720 --> 00:10:41,720
+ Nu ska min kollega Anna berätta lite om statistik som är ny för idag.
+
+116
+00:10:41,720 --> 00:10:48,720
+ Det här är den första svenska statistiken som vi har lyckats ta fram
+
+117
+00:10:48,720 --> 00:10:52,720
+ som handlar om sjukhusvården av patienter som har covid-19.
+
+118
+00:10:52,720 --> 00:10:56,720
+ I den här statistiken som publiceras i eftermiddag på vår hemsida
+
+119
+00:10:56,720 --> 00:11:00,720
+ så kan man bland annat se hur länge de här patienterna vårdas på sjukhus
+
+120
+00:11:00,720 --> 00:11:03,720
+ och hur stor andel som får intensivvård.
+
+121
+00:11:03,720 --> 00:11:08,720
+ Den här statistiken är särskilt insamlad för just pandemin
+
+122
+00:11:08,720 --> 00:11:12,720
+ och baseras på uppgifter om slutenvård som Socialstyrelsen samlar in från regionerna.
+
+123
+00:11:12,720 --> 00:11:18,720
+ 15 regioner rapporterar frivilligt in varje vecka och resten rapporterar in varje månad.
+
+124
+00:11:18,720 --> 00:11:23,720
+ Det vi presenterar nu, det här som ni kommer se nu, baseras på 15 regioner
+
+125
+00:11:23,720 --> 00:11:26,720
+ inklusive Stockholm, Östergötland och Sörmland.
+
+126
+00:11:26,720 --> 00:11:29,720
+ Det är alltså inte totaluppgifter för riket.
+
+127
+00:11:29,720 --> 00:11:34,720
+ De här uppgifterna från regionerna kopplar vi sen till Svenska intensivvårdsregistret
+
+128
+00:11:34,720 --> 00:11:38,720
+ Folkhälsomyndighetens registrerade personer som testat positivt för covid-19
+
+129
+00:11:38,720 --> 00:11:41,720
+ och Skatteverkets uppgifter om personer som har avlidit.
+
+130
+00:11:41,720 --> 00:11:46,720
+ Då kan vi följa patienterna från att de skrivs in på sjukhus till att de skrivs ut.
+
+131
+00:11:46,720 --> 00:11:51,720
+ 43 procent av de som låg på sjukhus för covid-19 var kvinnor
+
+132
+00:11:51,720 --> 00:11:55,720
+ och 43 procent var 70 år eller äldre i det här materialet som vi har.
+
+133
+00:11:55,720 --> 00:11:59,720
+ Nästan 9 av 10 patienterna vårdades på vanliga vårdavdelningar
+
+134
+00:11:59,720 --> 00:12:01,720
+ under hela sin sjukhusvistelse.
+
+135
+00:12:01,720 --> 00:12:05,720
+ Resten, ungefär 12 procent, var intensivvårdade.
+
+136
+00:12:05,720 --> 00:12:09,720
+ Då är det alltså under någon period, vilket är något tillfälle.
+
+137
+00:12:09,720 --> 00:12:14,720
+ Vi såg också att ungefär 20 procent av de som sluten vårdades avled på sjukhus.
+
+138
+00:12:14,720 --> 00:12:18,720
+ Det var en större andel intensivvårdade patienter som avled jämfört med patienter
+
+139
+00:12:18,720 --> 00:12:20,720
+ som inte hade intensivvårdats.
+
+140
+00:12:20,720 --> 00:12:24,720
+ Det var ungefär lika stor andel män och kvinnor som avled på sjukhus.
+
+141
+00:12:24,720 --> 00:12:27,720
+ Det var något fler äldre bland de avlidna.
+
+142
+00:12:29,720 --> 00:12:34,720
+ Den här figuren kanske är lite svår att förklara.
+
+143
+00:12:34,720 --> 00:12:40,720
+ Den här figuren visar fördelningen av vårdtider för patienter med covid-19.
+
+144
+00:12:40,720 --> 00:12:44,720
+ De här patienterna som visas här har skrivits ut inom 30 dagar
+
+145
+00:12:44,720 --> 00:12:46,720
+ från att de blev inlagda.
+
+146
+00:12:46,720 --> 00:12:50,720
+ Det finns också ungefär 20 procent av de intensivvårdade patienterna
+
+147
+00:12:50,720 --> 00:12:53,720
+ som har legat in i längre än 30 dagar.
+
+148
+00:12:53,720 --> 00:12:55,720
+ De är inte mer i den här figuren.
+
+149
+00:12:55,720 --> 00:12:59,720
+ Det är den sammanlagda vårdtiden som vi har räknat.
+
+150
+00:12:59,720 --> 00:13:02,720
+ Det vill säga från att man skrivs in till att man skrivs ut.
+
+151
+00:13:02,720 --> 00:13:08,720
+ Om en patient har legat på en intensivvårdsavdelning så är det ingående i den totala tiden.
+
+152
+00:13:08,720 --> 00:13:11,720
+ Det kan vara någonstans i mitten, början eller slutet.
+
+153
+00:13:11,720 --> 00:13:13,720
+ Någonstans i det.
+
+154
+00:13:13,720 --> 00:13:19,720
+ De blå staplarna visar hur antalet vårdtider ser ut
+
+155
+00:13:19,720 --> 00:13:22,720
+ för de patienter som inte har intensivvårdats.
+
+156
+00:13:22,720 --> 00:13:26,720
+ De bruna staplarna visar intensivvårdade patienter.
+
+157
+00:13:26,720 --> 00:13:30,720
+ Ungefär som ett exempel för hur man ska tolka figuren så kan man se
+
+158
+00:13:30,720 --> 00:13:35,720
+ att ungefär 8 procent av de som inte hade intensivvårdats
+
+159
+00:13:35,720 --> 00:13:37,720
+ låg på sjukhus i fem dagar.
+
+160
+00:13:37,720 --> 00:13:39,720
+ Så kan ni se en stapel där.
+
+161
+00:13:39,720 --> 00:13:44,720
+ Som ni ser så är det en stor variation i hur många dygn de här covid-19-patienterna ligger på sjukhus.
+
+162
+00:13:44,720 --> 00:13:49,720
+ Bland de som inte är intensivvårdade så är det en topp som planar ut.
+
+163
+00:13:49,720 --> 00:13:51,720
+ Medan för intensivvården så är det lite jämnare.
+
+164
+00:13:51,720 --> 00:13:55,720
+ Medianvårdtiden för de som inte är intensivvårdade så är det 6 dygn.
+
+165
+00:13:55,720 --> 00:14:00,720
+ Medianvårdtiden för de som har intensivvård så vid något tillfälle är 20 dygn.
+
+166
+00:14:00,720 --> 00:14:10,720
+ Den här statistiken tillsammans med ett faktablad publiceras idag på vår hemsida.
+
+167
+00:14:10,720 --> 00:14:15,720
+ Utöver det som jag har presenterat nu så finns det även statistik om enskilda regioner
+
+168
+00:14:15,720 --> 00:14:18,720
+ och mer bakgrundsinformation om de här patienterna.
+
+169
+00:14:20,720 --> 00:14:25,720
+ Vi följer frågan om just intensivvårdade patienter för att vi ser att de vårdas ganska länge på sjukhus
+
+170
+00:14:25,720 --> 00:14:28,720
+ och då behöver man kunna följa dem under en lång tid.
+
+171
+00:14:28,720 --> 00:14:34,720
+ Så vi följer det och måste vänta in att fler patienter skrivs ut från sjukhuset för att få säkrare siffror.
+
+172
+00:14:34,720 --> 00:14:41,720
+ Slutligen så vill jag bara säga att Socialstyrelsen fortsätter ta fram statistik om covid-19 och relaterade ämnen.
+
+173
+00:14:41,720 --> 00:14:43,720
+ Där vi ser att det finns ett behov.
+
+174
+00:14:43,720 --> 00:14:49,720
+ För att få veta hur läget ser ut och där vi gör bedömningar att det finns bra underlag för att ta fram statistik
+
+175
+00:14:49,720 --> 00:14:51,720
+ som man kan lita på.
+
+176
+00:14:51,720 --> 00:14:57,720
+ Det som kommer mycket snart nu är statistik om smittade och avlidna personer med assistansersättning
+
+177
+00:14:57,720 --> 00:15:00,720
+ där vi har fått uppgifter från Försäkringskassan.
+
+178
+00:15:00,720 --> 00:15:02,720
+ Tack för mig!
+
+179
+00:15:02,720 --> 00:15:09,720
+ Tack för det!
+
+180
+00:15:09,720 --> 00:15:14,720
+ Ivo är den myndighet som står för tillsyn och tillståndsprövning av all vård och omsorg.
+
+181
+00:15:14,720 --> 00:15:17,720
+ Vi har en riskbaserad utgångspunkt.
+
+182
+00:15:17,720 --> 00:15:22,720
+ Vi agerar på de största riskerna och bristerna för patienter och brukare.
+
+183
+00:15:22,720 --> 00:15:28,720
+ Vi får till oss information om risker och brister genom olika kanaler.
+
+184
+00:15:28,720 --> 00:15:34,720
+ Det kan vara Lex Maria-ärenden, Lex Sara-ärenden, klagomål och så vidare.
+
+185
+00:15:34,720 --> 00:15:39,720
+ Men vi kan just nu inte bara förlita oss på de traditionella kanalerna.
+
+186
+00:15:39,720 --> 00:15:45,720
+ Därför har vi förstärkt vår upplysningstjänst med en tipsfunktion.
+
+187
+00:15:45,720 --> 00:15:51,720
+ Med den här tipstjänsten vill vi underlätta, inte minst för personal inom vård och omsorg,
+
+188
+00:15:51,720 --> 00:15:56,720
+ att berätta för oss om de brister man ser anonymt om man vill.
+
+189
+00:15:56,720 --> 00:16:02,720
+ Det här är väldigt viktig information för oss som ett komplement i vår riskanalys och planeringen av vår tillsyn.
+
+190
+00:16:02,720 --> 00:16:10,720
+ Vår nationella riskbild utgår från den information vi fått till oss genom den här tipsfunktionen.
+
+191
+00:16:10,720 --> 00:16:16,720
+ Här är fokus på de riskindikationer som vi har fått med tydlig koppling till covid-19.
+
+192
+00:16:16,720 --> 00:16:20,720
+ Men vår samlade riskbild omfattar alla signaler.
+
+193
+00:16:20,720 --> 00:16:24,720
+ I själva tillsynen har vi ett helhetsperspektiv.
+
+194
+00:16:24,720 --> 00:16:30,720
+ All vård och omsorg måste klaras av, inte bara covidvården.
+
+195
+00:16:30,720 --> 00:16:36,720
+ Sedan mitten på mars har vi fått ungefär 3000 indikationer på risk.
+
+196
+00:16:36,720 --> 00:16:41,720
+ Ungefär 40 procent av de här bedömer vi vara av allvarlig karaktär.
+
+197
+00:16:41,720 --> 00:16:46,720
+ Andelen allvarliga riskindikationer ökar.
+
+198
+00:16:46,720 --> 00:16:52,720
+ I mitten av april var det här ungefär 23 procent och är alltså uppe över 40 procent nu.
+
+199
+00:16:52,720 --> 00:16:57,720
+ Vi får flest indikationer gällande Stockholmsområdet.
+
+200
+00:16:57,720 --> 00:17:03,720
+ Färre gäller områden som inte drabbas lika hårt av smittan, till exempel regioner i norr.
+
+201
+00:17:03,720 --> 00:17:11,720
+ Riskindikationer med koppling till covid-19 är fler inom omsorgen än inom hälso- och sjukvården.
+
+202
+00:17:11,720 --> 00:17:19,720
+ Ungefär 37 procent av riskindikationerna, både vad gäller omsorg och hälso- och sjukvård, rör covid-19.
+
+203
+00:17:19,720 --> 00:17:23,720
+ Äldreomsorgen sticker ut i ett covid-hänseende.
+
+204
+00:17:23,720 --> 00:17:29,720
+ Där finns överlägset flest riskindikationer kopplade till covid, sett över hela vård- och omsorgssektorn.
+
+205
+00:17:29,720 --> 00:17:36,720
+ Den risktyp som är störst är vårdhygien, och så har det varit tidigare också.
+
+206
+00:17:36,720 --> 00:17:45,720
+ Inom hälso- och sjukvården är det i den slutna somatiska vården där vi har flest riskindikationer med koppling till covid-19.
+
+207
+00:17:45,720 --> 00:17:51,720
+ Allvarlighetsgraden är också högst inom de här vårdgrenarna.
+
+208
+00:17:51,720 --> 00:17:59,720
+ 54 procent av alla riskindikationer som vi har inom äldreomsorgen är allvarliga.
+
+209
+00:17:59,720 --> 00:18:05,720
+ Mycket av det vi ser och det vi får till oss är av allvarlig karaktär.
+
+210
+00:18:05,720 --> 00:18:12,720
+ Det är risker för patienter och brukare som vi måste agera på, och därför prioriterar vi att göra riskbaserad tillsyn.
+
+211
+00:18:12,720 --> 00:18:20,720
+ Samtidigt så pågår ordinarie arbete, till exempel med Lex Maria, Lexara och så vidare, i princip som vanligt.
+
+212
+00:18:20,720 --> 00:18:30,720
+ För några veckor sedan genomförde Ivo en stor tillsyn av mer än tusen verksamheter inom omsorgen, framför allt äldreomsorgen.
+
+213
+00:18:30,720 --> 00:18:42,720
+ Det vi konstaterar från den tillsynen är att merparten av äldreomsorgen bedömer att vi kan hantera den rådande situationen.
+
+214
+00:18:42,720 --> 00:18:49,720
+ Det är tufft och det är krävande, men merparten klarar detta hyggligt, i många fall bra.
+
+215
+00:18:49,720 --> 00:18:53,720
+ Det görs ansträngningar för att minska smittspridningen.
+
+216
+00:18:53,720 --> 00:19:01,720
+ Några särskilt viktiga faktorer för att vara framgångsrik i det här som vi ser är ett aktivt och nära ledarskap.
+
+217
+00:19:01,720 --> 00:19:05,720
+ Ett aktivt arbete med basala hygienrutiner.
+
+218
+00:19:05,720 --> 00:19:15,720
+ Vi har sammanställt och kommer att sprida goda exempel från de här verksamheterna som är duktiga och som jobbar med att begränsa smittspridning
+
+219
+00:19:15,720 --> 00:19:21,720
+ och hur man kan ge en god omsorg även under dessa väldigt krävande förhållanden.
+
+220
+00:19:21,720 --> 00:19:28,720
+ I var tionde verksamhet som vi tillsynade har vi identifierat brister av allvarlig karaktär.
+
+221
+00:19:28,720 --> 00:19:36,720
+ Det rör sig om brister, både sådana som vi tidigare har påtalat, men även brister som har uppstått under en pågående pandemin.
+
+222
+00:19:36,720 --> 00:19:39,720
+ Såklart svårigheter när det gäller att begränsa smittspridning.
+
+223
+00:19:39,720 --> 00:19:45,720
+ Här går vi vidare och fortsätter att fördjupa vår tillsyn av dessa verksamheter.
+
+224
+00:19:45,720 --> 00:19:49,720
+ Ungefär var tionde i den här tusentilsynen.
+
+225
+00:19:49,720 --> 00:19:52,720
+ Utöver det här har vi gjort iakttagelser.
+
+226
+00:19:52,720 --> 00:20:00,720
+ Vi har också fått allvarliga riskindikationer som handlar om den vård och behandling som ges till personer som bor på särskilda boenden för äldre.
+
+227
+00:20:00,720 --> 00:20:08,720
+ Bra att uppgifter om till exempel att man inte i alla delar gör medicinska bedömningar av läkare.
+
+228
+00:20:08,720 --> 00:20:12,720
+ Att man inte får en individuell bedömning till exempel.
+
+229
+00:20:12,720 --> 00:20:23,720
+ Utifrån de riskindikationerna går vi nu vidare och har startat arbetet med en ny omfattande tillsyn vad gäller just detta.
+
+230
+00:20:23,720 --> 00:20:29,720
+ Som omfattar den vård och behandling som ges vid samtliga särskilda boenden för äldre.
+
+231
+00:20:29,720 --> 00:20:31,720
+ Det är 1700 totalt i landet.
+
+232
+00:20:31,720 --> 00:20:40,720
+ I den här tillsynen granskar vi helt enkelt om personer som bor på de här boendena får vård och behandling utifrån sina enskilda behov.
+
+233
+00:20:40,720 --> 00:20:51,720
+ Ett annat aktuellt exempel på en riskbaserad tillsynsinsats är den tillsyn som vi gör av intensivvården på samtliga akutsjukhus i region Stockholm.
+
+234
+00:20:51,720 --> 00:21:01,720
+ Där vi har fått riskindikationer på att personer som har behov av vård prioriteras bort eller ner med hänvisning till en pågående pandemin.
+
+235
+00:21:01,720 --> 00:21:03,720
+ Trots att det finns kapacitet.
+
+236
+00:21:03,720 --> 00:21:09,720
+ Det här är indikationer som vi bland annat har fått till oss genom den här tipsfunktionen som vi har.
+
+237
+00:21:09,720 --> 00:21:20,720
+ I den här tillsynen tittar vi på och granskar hur man planerar, leder och kontrollerar verksamheten när det gäller prioritering av patienter som behöver den här typen av vård.
+
+238
+00:21:20,720 --> 00:21:28,720
+ I detta och i vårt övriga arbete tar vi hänsyn till att det är ett krisläge.
+
+239
+00:21:28,720 --> 00:21:37,720
+ Vi agerar inte helt som vanligt men vi agerar på de största riskerna och bristerna för patienter och brukare.
+
+240
+00:21:37,720 --> 00:21:40,720
+ Men för att identifiera dem så behöver vi hjälp.
+
+241
+00:21:40,720 --> 00:21:49,720
+ Vår tipstjänst är en viktig kanal för oss och vi hoppas att den fortsatt ska underlätta framförallt för personal inom vård och omsorg att berätta om de brister som man ser.
+
+242
+00:21:49,720 --> 00:21:54,720
+ Tack för nu så lämnar jag över till MSB.
+
+243
+00:21:54,720 --> 00:22:07,720
+ På MSB, Myndigheten för samhällsskydd och beredskap, så arbetar vi som ni vet för att hela samhället ska klara att hantera pandemin och dess konsekvenser.
+
+244
+00:22:07,720 --> 00:22:12,720
+ Att det ska finnas uthållighet och beredskap för olika möjliga händelseutvecklingar.
+
+245
+00:22:12,720 --> 00:22:20,720
+ MSB arbetar på flera sätt med att bidra till samordningen av samhällets resurser under pandemin och vi har hållit på med det sen starten.
+
+246
+00:22:20,720 --> 00:22:26,720
+ En stor del av arbetet handlar om att stödja Socialstyrelsens arbete med resurser till sjukvård och omsorg.
+
+247
+00:22:26,720 --> 00:22:30,720
+ Men utöver det arbetar vi också med att förmedla resurser till helt andra områden.
+
+248
+00:22:30,720 --> 00:22:38,720
+ Det har kommit in en mängd erbjudanden under den här perioden och vi har kunnat bidra till att möta upp behov inom flera områden.
+
+249
+00:22:38,720 --> 00:22:48,720
+ Vi har till exempel förmedlat skyddsutrustning till kriminalvården, Rättsmedicinalverket, begravningsbyråer med mera så att de kan bedriva sin verksamhet på ett säkert sätt.
+
+250
+00:22:48,720 --> 00:23:04,720
+ Vi bedriver även nu ett proaktivt arbete där vi frågar myndigheter inom olika samhällssektorer hur deras behov ser ut på 3-6 månaders sikt och försöker på det sättet fånga upp behov framåt.
+
+251
+00:23:04,720 --> 00:23:10,720
+ De erbjudanden som vi tar emot kommer både från privata och offentliga aktörer.
+
+252
+00:23:10,720 --> 00:23:18,720
+ Från privatpersoner, företag med produktion i Sverige och utomlands, forskargrupper, myndigheter och frivilliga organisationer.
+
+253
+00:23:18,720 --> 00:23:21,720
+ Det finns ett stort engagemang runt om i landet.
+
+254
+00:23:21,720 --> 00:23:30,720
+ Jag vill passa på att framföra ett tack till alla de som inkommit med sammantaget närmare 1000 erbjudanden som kommit in under våren.
+
+255
+00:23:30,720 --> 00:23:36,720
+ Det är förstås osäkert hur den här händelsen kommer att utvecklas framöver.
+
+256
+00:23:36,720 --> 00:23:46,720
+ Från MSBs sida ser vi som sagt ett behov att ta höjd för ett förvärrat läge, en eventuell andra våg av pandemin eller andra händelseutvecklingar.
+
+257
+00:23:46,720 --> 00:23:55,720
+ Bland annat med det i åtanke så har vi utvecklat en webbaserad resursportal som finns tillgänglig via vår webbplats msb.se.
+
+258
+00:23:55,720 --> 00:24:03,720
+ Den här portalen ska underlätta och förenkla kontakten mellan den som erbjuder resurser och den som är i behov av resurser.
+
+259
+00:24:03,720 --> 00:24:12,720
+ I portalen finns en sökfunktion i form av en karta för att göra det enklare att hitta resurser där man själv befinner sig eller i ett önskat geografiskt område.
+
+260
+00:24:12,720 --> 00:24:14,720
+ Eller söka över hela landet.
+
+261
+00:24:14,720 --> 00:24:23,720
+ Givare och mottagare ska kunna hitta varandra snabbare och utan att MSB behöver finnas med som en mellanhand i det arbetet.
+
+262
+00:24:23,720 --> 00:24:35,720
+ Målsättningen är att det här ska bli ett allt mer robust system som är anpassat efter olika förutsättningar i landet och som håller under lång tid för varierande omständigheter.
+
+263
+00:24:35,720 --> 00:24:38,720
+ Så att resurser kan komma till mottagare i rätt tid.
+
+264
+00:24:38,720 --> 00:24:44,720
+ I nuläget så är det centrala myndigheter och länsstyrelser som kan gå in i det här verktyget och se vilka resurser som erbjuds.
+
+265
+00:24:44,720 --> 00:24:52,720
+ När det gäller kommunernas tillgång till verktyget så arbetar vi på regionalt anpassade lösningar för det tillsammans med länsstyrelserna.
+
+266
+00:24:52,720 --> 00:25:00,720
+ För dig som har resurser som du vill erbjuda men inte vet vem du ska vända dig till så är det enklare.
+
+267
+00:25:00,720 --> 00:25:04,720
+ Då går du in på msb.se där resursportalen finns lätt tillgänglig.
+
+268
+00:25:04,720 --> 00:25:06,720
+ Enkel att fylla i.
+
+269
+00:25:06,720 --> 00:25:19,720
+ Resursportalen ska användas endast i samband med covid-19-hanteringen och enbart i syfte att underlätta för kommuner, myndigheter eller annan samhällsviktig verksamhet för att man ska kunna utföra sitt uppdrag.
+
+270
+00:25:19,720 --> 00:25:29,720
+ Vad gäller sjukvårdsutrustning och andra resurser för sjukvård och omsorg hänvisar vi även fortsättningsvis till socialstyrelsen som har det särskilda uppdraget inom det området.
+
+271
+00:25:29,720 --> 00:25:33,720
+ Återigen, tack till alla som bidrar.
+
+272
+00:25:33,720 --> 00:25:44,720
+ Tänk på att vi alla faktiskt kan bidra genom att fortsätta följa myndigheternas rekommendationer, fortsätta hålla kontakten med någon som behöver det, fortsätta vara en del av lösningen.
+
+273
+00:25:44,720 --> 00:25:45,720
+ Tack!
+
+274
+00:25:45,720 --> 00:25:47,720
+ Tack! TT hade en fråga.
+
+275
+00:25:47,720 --> 00:25:52,720
+ Gjörns Polander, TT. En fråga till Ivo först.
+
+276
+00:25:52,720 --> 00:25:58,720
+ Ni nämnde att ni gjort en granskning av äldreomsorgen, tillsyn. När gjorde ni det senast?
+
+277
+00:25:58,720 --> 00:26:03,720
+ Det gjorde vi ganska nyligen före den här stora tillsynen.
+
+278
+00:26:03,720 --> 00:26:11,720
+ Vi jobbar ju stegvis. Vi har gjort mindre insatser regionalt utifrån olika riskindikationer.
+
+279
+00:26:11,720 --> 00:26:21,720
+ Även om vi inte gjort en sån här stor nationell tillsyn tidigare så har vi gjort regionala motsvarigheter relativt löpande.
+
+280
+00:26:21,720 --> 00:26:25,720
+ Hur var läget då? Tyckte ni det var ett tillfredsställande läge?
+
+281
+00:26:25,720 --> 00:26:27,720
+ Före pandemin?
+
+282
+00:26:27,720 --> 00:26:36,720
+ Ivo har under en rad av år pekat ut utmaningar, brister och risker som finns inom äldreomsorgen.
+
+283
+00:26:36,720 --> 00:26:43,720
+ De enheter inom äldreomsorgen som har haft problem tidigare har ännu större problem nu.
+
+284
+00:26:43,720 --> 00:26:58,720
+ Det vi ser nu är att verksamheter som tidigare haft problem med kompetensförsörjning, kontinuitet och hygienrutiner är extra utsatta under pandemin.
+
+285
+00:26:58,720 --> 00:27:03,720
+ En kort fråga till Folkhälsomyndigheten.
+
+286
+00:27:03,720 --> 00:27:09,720
+ Du nämnde att du pratar med dina nordiska kollegor varje vecka.
+
+287
+00:27:09,720 --> 00:27:14,720
+ När det gäller resande i Norden så går det mycket politik i det.
+
+288
+00:27:14,720 --> 00:27:21,720
+ Men när ni pratar om den frågan mer ur ett medicinskt perspektiv, hur går snacket då?
+
+289
+00:27:21,720 --> 00:27:29,720
+ Vi är hyfsat ensamma. Det är inte jättestora risker involverat med resandet.
+
+290
+00:27:29,720 --> 00:27:35,720
+ Med tanke på att i de flesta regioner i Sverige och i de andra länderna så har vi väldigt liten smittspridning just nu.
+
+291
+00:27:35,720 --> 00:27:38,720
+ Aftonbladet.
+
+292
+00:27:38,720 --> 00:27:43,720
+ Jag har två frågor. Först till Anders Tegnell.
+
+293
+00:27:43,720 --> 00:27:49,720
+ Du sa att ni ser en uppgång i fallen i Sverige som ni inte har någon förklaring till.
+
+294
+00:27:49,720 --> 00:27:53,720
+ Kan det hänga ihop med ökad testning eller vad är teorin?
+
+295
+00:27:53,720 --> 00:27:57,720
+ För två dagar sedan hade vi en lite extra hög.
+
+296
+00:27:57,720 --> 00:28:00,720
+ Det ligger förmodligen en hel del personaltestning i den.
+
+297
+00:28:00,720 --> 00:28:07,720
+ Det finns inte alla regioner som kan koda de här fallen om de är personal eller övrig grupp.
+
+298
+00:28:07,720 --> 00:28:12,720
+ Samma dag som det händer så har vi en viss eftersläppning på just den uppdelningen.
+
+299
+00:28:12,720 --> 00:28:15,720
+ Det är troligen väldigt mycket sånt som vi ger.
+
+300
+00:28:15,720 --> 00:28:18,720
+ En fråga till Socialstyrelsen också.
+
+301
+00:28:18,720 --> 00:28:25,720
+ Ni nämnde att bland de som har vårdats på sjukhus är det 20 procent som har dött och 12 procent som har intensivvårdats.
+
+302
+00:28:25,720 --> 00:28:32,720
+ Det finns en grupp som inte har intensivvårdats och ändå dött. Varför har inte de fått intensivvård?
+
+303
+00:28:32,720 --> 00:28:38,720
+ Vi kan inte se på den detaljeringsgraden exakt.
+
+304
+00:28:38,720 --> 00:28:47,720
+ Vi antar att man gör en bedömning av enskilda patienter och att de får den vård som den patienten behöver.
+
+305
+00:28:47,720 --> 00:28:54,720
+ Vi vet också att respiratorvård och intensivvård är en tuff behandling.
+
+306
+00:28:54,720 --> 00:28:58,720
+ Alla patienter klarar inte det.
+
+307
+00:28:58,720 --> 00:29:09,720
+ Men vi ser att de här patienterna som har avlidit, de ligger länge på sjukhus.
+
+308
+00:29:09,720 --> 00:29:14,720
+ Man gör allt man kan för att de ska klara sig.
+
+309
+00:29:14,720 --> 00:29:24,720
+ Man ser att om man tittar på vårdtiden innan man avlider, från att man skrivs ut tills man avlider, så är det ganska långa vårdtider.
+
+310
+00:29:24,720 --> 00:29:32,720
+ Jag kanske ska förtydliga också att vi har tittat på de som har avlidit på sjukhus.
+
+311
+00:29:32,720 --> 00:29:37,720
+ Det är inte den totala patientgruppen som har.
+
+312
+00:29:37,720 --> 00:29:48,720
+ Siffran 20% är inte samma som när Folkhälsomyndigheten pratar om avlidna covid-19-smittade personer.
+
+313
+00:29:48,720 --> 00:30:06,720
+ Alexander Galliano här på EKÅT. Ekåts granskning som vi rapporterade om i morse har kunnat visa att kommunerna initialt hamnade i skuggan i förberedelserna inför en pandemi.
+
+314
+00:30:06,720 --> 00:30:16,720
+ Flera smittskyddsläkare menar då i Ekåt att det har lett till försenade åtgärder på exempelvis äldreboenden som kan ha kostat liv.
+
+315
+00:30:16,720 --> 00:30:24,720
+ Första frågan kring det ämnet till Folkhälsomyndigheten, Anders Tegnell. Vilken är din kommentar till det?
+
+316
+00:30:24,720 --> 00:30:29,720
+ Jag tycker det är bra att man gör den här eftertanken och genomgången på regional nivå.
+
+317
+00:30:29,720 --> 00:30:33,720
+ Hur samarbetet mellan regionnivå och kommunal nivå fungerar.
+
+318
+00:30:33,720 --> 00:30:39,720
+ Det är ett viktigt samarbete och ett samarbete som vi historiskt vet inte har fungerat helt optimalt.
+
+319
+00:30:39,720 --> 00:30:44,720
+ Att man nu går tillbaka och funderar på hur man kan få det ännu bättre är jättebra.
+
+320
+00:30:44,720 --> 00:30:47,720
+ Vad tror du om det som smittskyddsläkaren säger?
+
+321
+00:30:47,720 --> 00:30:58,720
+ Den bedömningen kan de göra mycket bättre som sitter närmare det här samarbetet som faktiskt ska finnas där men som inte alltid är så bra som det kunde vara.
+
+322
+00:30:58,720 --> 00:31:02,720
+ På samma tema, en fråga till Socialstyrelsen.
+
+323
+00:31:02,720 --> 00:31:14,720
+ Det dröjde till mitten av mars, i samband med att Sverige fick en konstaterad samhällsspridning tills Socialstyrelsen gjorde en lägesbild av beredskapen i kommunerna.
+
+324
+00:31:14,720 --> 00:31:20,720
+ Något som alltså gjordes drygt en månad tidigare för regionerna. Varför dröjde det så länge?
+
+325
+00:31:20,720 --> 00:31:33,720
+ Nu kan jag inte alla datum utan min uppfattning är att lägesbilden var länsstyrelsens lägesbild av situationen i kommunerna.
+
+326
+00:31:33,720 --> 00:31:38,720
+ Vi lämnade väl en lägesbild lite tidigare, jag tänker inte stå här och gissa vilket datum.
+
+327
+00:31:38,720 --> 00:31:46,720
+ Det jag kan säga är att vi har varit senare med kommunerna jämfört med regionerna.
+
+328
+00:31:46,720 --> 00:31:51,720
+ Det betyder inte att någon från vårt håll, den operativa delen, att nå ut med den här informationen.
+
+329
+00:31:51,720 --> 00:32:02,720
+ Vi har stöttat både kommuner, framförallt de som var drabbade i början när det gäller skyddsutrustning och så vidare, på deras inlämnade lägesbild.
+
+330
+00:32:02,720 --> 00:32:10,720
+ Däremot så att ha en nationell lägesbild över hela alla landets kommuner, det dröjde, det stämmer.
+
+331
+00:32:10,720 --> 00:32:19,720
+ Vi gjorde en enkätundersökning som vi sammanställde i en mindre lägesbild, du kan säkert datumet bättre än jag,
+
+332
+00:32:19,720 --> 00:32:31,720
+ där det inte var ens betydande påverkan på tillgången till skyddsutrustning eller påverkansgrad.
+
+333
+00:32:31,720 --> 00:32:39,720
+ Det var några som uttryckte en oro, man uttryckte en måttlig påverkan.
+
+334
+00:32:39,720 --> 00:32:50,720
+ Det här har tagit tid att systematisera hela processen, att vi hämställde via MSB till länsstyrelsen att vi fått igång rapporteringsverktyget,
+
+335
+00:32:50,720 --> 00:32:55,720
+ att det kom igång, att vi får de här lägesbilderna. Det dröjde.
+
+336
+00:32:55,720 --> 00:33:04,720
+ Fast jag är gammalforskare, jag är alltid självkritisk.
+
+337
+00:33:06,720 --> 00:33:15,720
+ Mia Pettersson från Göteborgs Posten, en fråga till Ivo först. Ni säger att de allvarliga fallen ökar, har du någon uppfattning om varför?
+
+338
+00:33:15,720 --> 00:33:24,720
+ Det är väldigt svårt att veta varför de allvarliga fallen ökar. Det kan bero på att mörkertalet minskar, att vi får reda på mer.
+
+339
+00:33:24,720 --> 00:33:28,720
+ Det kan också såklart bero på att det blir mer allvarligt.
+
+340
+00:33:28,720 --> 00:33:40,720
+ Det vi vet från tidigare undersökningar är att det finns ett mörkertal. I vissa verksamheter finns det också en rädsla för att berätta om fel som händer.
+
+341
+00:33:40,720 --> 00:33:48,720
+ Det här är ju farligt för patienter och brukare om man inte vågar berätta om det som går fel.
+
+342
+00:33:48,720 --> 00:34:01,720
+ Min förhoppning är att allvarlighetsgraden ökar är ett uttryck för att mörkertalet minskar och att vi därigenom får bättre förutsättningar att förhindra att misstag upprepas.
+
+343
+00:34:01,720 --> 00:34:06,720
+ Det finns egentligen inget säkert underlag för att säga vad det beror på.
+
+344
+00:34:06,720 --> 00:34:16,720
+ En fråga till Folkhälsomyndigheten. Efter reaktionerna i går med att det inte blev någon åldershöjning eller lättnader för 70-plusarna.
+
+345
+00:34:16,720 --> 00:34:22,720
+ Hur ser ni på risken för psykisk ohälsa i den här gruppen och hur följer ni det?
+
+346
+00:34:22,720 --> 00:34:33,720
+ Det är en jätteviktig aspekt och det är därför vi parallellt med det här gick ut med hur viktigt det är och hur många sätt det faktiskt finns att umgås även för 70-plusare.
+
+347
+00:34:33,720 --> 00:34:38,720
+ Även med de här restriktionerna. Man kan ju faktiskt göra väldigt mycket tillsammans utomhus.
+
+348
+00:34:38,720 --> 00:34:46,720
+ Är man yrkesverksam så är det inte så och når 70-årsåldern så är det inte så att vi på något sätt säger att man ska sluta vara yrkesverksam.
+
+349
+00:34:46,720 --> 00:34:50,720
+ Det går definitivt att organisera ett arbete efter 70.
+
+350
+00:34:50,720 --> 00:34:55,720
+ Så det finns många möjligheter och kanske man inte tagit tillvara på dem i alla lägen.
+
+351
+00:34:55,720 --> 00:35:02,720
+ Så jag tror att det kan vara en del av det. Men vi följer den frågan väldigt nära. Det är en väldigt viktig aspekt på just hanteringen av pandemin.
+
+352
+00:35:02,720 --> 00:35:13,720
+ Linn Warving, SVT. Jag är inne på lite av samma spår där. Igår var det nog en del 70-plusare som blev lite besvikna när rekommendationerna inte justerades.
+
+353
+00:35:13,720 --> 00:35:21,720
+ Var det bara inte helt rätt tajming eller kommer det bli aktuellt att de här rekommendationerna kommer justeras?
+
+354
+00:35:21,720 --> 00:35:28,720
+ Nej, ja. Så här. Riskfördelningen på olika åldrar tror jag inte kommer att ändras.
+
+355
+00:35:28,720 --> 00:35:34,720
+ För det här är så att vi har så pass många personer som har blivit drabbade i Sverige. Så det här är väldigt stabila data.
+
+356
+00:35:34,720 --> 00:35:40,720
+ Sen den andra aspekten som man förstås måste ha med det här. Hur mycket smittspridning har vi i samhället runt omkring?
+
+357
+00:35:40,720 --> 00:35:45,720
+ Det är klart att när den går ner ordentligt, vilket den ju kommer att göra en vacker dag, vi vet inte exakt när.
+
+358
+00:35:45,720 --> 00:35:53,720
+ Då får man utifrån det justera de råden vi har till 70-plusarna och ha en annan typ av diskussion än vi har idag.
+
+359
+00:35:56,720 --> 00:36:00,720
+ En fråga till Socialstyrelsen från Ekot, Susanne Andrén.
+
+360
+00:36:00,720 --> 00:36:06,720
+ Jag undrar lite kring den här totala siffran på de som har IVA vårdats 2002.
+
+361
+00:36:06,720 --> 00:36:10,720
+ Var det nu? Om jag minns det hela rätt.
+
+362
+00:36:10,720 --> 00:36:13,720
+ Jag har dagens siffra. Eller hur menar du, totala?
+
+363
+00:36:13,720 --> 00:36:14,720
+ Totala.
+
+364
+00:36:14,720 --> 00:36:15,720
+ Jag undrar hela tiden.
+
+365
+00:36:15,720 --> 00:36:25,720
+ Ja, precis. Kan man se någonstans där hur många som har avlidit och hur många som har tillfrisknat och till och med skrivits ut från sjukhus?
+
+366
+00:36:26,720 --> 00:36:29,720
+ Inte riktigt säker på att jag förstår frågan, men jag ska försöka svara.
+
+367
+00:36:29,720 --> 00:36:34,720
+ För ni hade ju de här 15 regionernas. Var det totalsiffran också så att säga?
+
+368
+00:36:34,720 --> 00:36:42,720
+ Ja, precis. Vi har följt de här patienterna tills dess att de skrivs ut.
+
+369
+00:36:42,720 --> 00:36:54,720
+ För att gå in på detaljer så är det så att det här materialet baseras på personer som är smittade mellan 14 mars till 15 april.
+
+370
+00:36:54,720 --> 00:37:01,720
+ Och sen har man då kunnat sluta vårdas och skrivits in och skrivits ut före 15 maj.
+
+371
+00:37:01,720 --> 00:37:09,720
+ För det är ju så med statistiken så att alla som ingår i det här måste haft lika stor chans att ha vårdats på sjukhus ungefär lika länge.
+
+372
+00:37:09,720 --> 00:37:11,720
+ Så det är därför vi har gjort den begränsningen.
+
+373
+00:37:11,720 --> 00:37:19,720
+ Så det här är en totalsiffra för de här 15 regionerna, men det finns ändå vissa begränsningar i.
+
+374
+00:37:19,720 --> 00:37:32,720
+ Så det representerar inte alla intensivvårdade personer. Det här är de som har skrivits ut och som har under sin sjukvårdsperiod fått diagnosen covid-19 på sjukhuset.
+
+375
+00:37:32,720 --> 00:37:44,720
+ Så det finns en viss eftersläpning i hur regionerna rapporterar diagnoser till exempel som gör att siffrorna kan skilja sig lite grann beroende på vilken datakällan man tittar på.
+
+376
+00:37:44,720 --> 00:37:48,720
+ Tack. Det finns ju också möjlighet för individuella intervjuer efteråt i den här statistiken.
+
+377
+00:37:48,720 --> 00:37:51,720
+ Vi har med oss Sveriges Radio och Kristianstad.
+
+378
+00:37:51,720 --> 00:37:59,720
+ Ja, tack. Vi har en fråga här till Anders Tegnell angående antikroppstester.
+
+379
+00:37:59,720 --> 00:38:04,720
+ Det har ju skett en stor räkning av företag som nu säljer olika slags antikroppstester.
+
+380
+00:38:04,720 --> 00:38:09,720
+ Vad är Folkhälsomyndighetens rekommendation gällande de här testerna?
+
+381
+00:38:10,720 --> 00:38:18,720
+ Vi har ju ingen rekommendation. Vi pekar på någon speciell tillverkare eller speciellt fabrikator av de här testerna.
+
+382
+00:38:18,720 --> 00:38:26,720
+ Vi har ännu inte landat i att det finns mycket kunskap för att göra en bra tolkning av de här svaren på individnivå.
+
+383
+00:38:26,720 --> 00:38:35,720
+ Däremot så använder vi ju de själva och följer ett antal andra universitet, regioner och liknande när man tittar på befolkningsnivåer.
+
+384
+00:38:35,720 --> 00:38:41,720
+ Just nu tittar vi på lite olika varianter på testning för att hitta någon som fungerar riktigt bra.
+
+385
+00:38:41,720 --> 00:38:45,720
+ På befolkningsnivå så fungerar de här testerna väldigt bra idag.
+
+386
+00:38:45,720 --> 00:38:50,720
+ Lars Björk, Frilands journalist.
+
+387
+00:38:50,720 --> 00:38:56,720
+ Det lät som att det var på gång där.
+
+388
+00:38:56,720 --> 00:39:00,720
+ Ja, jag trodde att jag hade mött ljudavslaget. Ursäkta.
+
+389
+00:39:00,720 --> 00:39:08,720
+ Jag har en fråga här till Ivo. Ni säger nu att ni tidigare genomfört granskningar på äldreomsorgen.
+
+390
+00:39:08,720 --> 00:39:15,720
+ Ni då hittade och påpekade problem och risker för de olika aktörerna som granskade.
+
+391
+00:39:15,720 --> 00:39:18,720
+ Varför har inte de bristerna åtgärdats?
+
+392
+00:39:18,720 --> 00:39:26,720
+ Det är en bra fråga. Jag skulle vilja säga att det beror ju på att det är svårt att åtgärda dem.
+
+393
+00:39:26,720 --> 00:39:35,720
+ I flera av de här exemplen som vi har pekat på så är det komplexa problem som till exempel kan ha att göra med kompetensförsörjning.
+
+394
+00:39:35,720 --> 00:39:42,720
+ Att man kan ha utmaningar där det är bemanningspersonal, det är vikarier, det är annan vårdpersonal.
+
+395
+00:39:42,720 --> 00:39:44,720
+ Att man har svårt att få till kontinuitet.
+
+396
+00:39:44,720 --> 00:39:47,720
+ Det här är inte helt unikt för äldreomsorgen.
+
+397
+00:39:47,720 --> 00:39:59,720
+ Men det är en typ av exempel på brister som får negativa konsekvenser för säkerheten och kvaliteten i omsorgen.
+
+398
+00:39:59,720 --> 00:40:04,720
+ Det kan också vara brister där man faktiskt har åtgärdat, gjort saker.
+
+399
+00:40:04,720 --> 00:40:10,720
+ Det kanske har blivit bättre, men sen har det ändå hänt saker som har gjort att man har tappat och man är tillbaka.
+
+400
+00:40:10,720 --> 00:40:18,720
+ En del av de här sakerna handlar om det vi brukar kalla för systembrister och systemproblem.
+
+401
+00:40:18,720 --> 00:40:26,720
+ De är komplexa. En del saker vet vi om vad man kan göra för att det ska få effekt.
+
+402
+00:40:26,720 --> 00:40:32,720
+ Men det är också uppenbart att vi har en bit kvar innan vi riktigt kommer vidare.
+
+403
+00:40:32,720 --> 00:40:40,720
+ Har de aktörer som fått brister påpekade av IVO, har inte de skyldighet att åtgärda de bristerna?
+
+404
+00:40:40,720 --> 00:40:46,720
+ Jo, ytterst har vi ganska skarpa verktyg och vi går in med dem.
+
+405
+00:40:46,720 --> 00:40:56,720
+ Det finns verkligen exempel på där vi har pekat på brister, fattat beslut med olika typer av innehåll.
+
+406
+00:40:56,720 --> 00:40:59,720
+ Det kan vara kritik eller förelägganden.
+
+407
+00:40:59,720 --> 00:41:02,720
+ Vi har exempel där man verkligen har tagit till sig det här.
+
+408
+00:41:02,720 --> 00:41:05,720
+ Man kanske har gjort ett antal åtgärder.
+
+409
+00:41:05,720 --> 00:41:11,720
+ Det kan ha fått viss effekt, men en tid senare ser vi ändå att man är tillbaka.
+
+410
+00:41:11,720 --> 00:41:16,720
+ Och det har inte riktigt fått den hållbarhet som man vill att det ska få.
+
+411
+00:41:16,720 --> 00:41:25,720
+ Jag tror att man också ska ha klart för sig att det här inte bara är saker som man försummar att göra.
+
+412
+00:41:25,720 --> 00:41:29,720
+ Det finns utmaningar som är ganska komplexa.
+
+413
+00:41:29,720 --> 00:41:34,720
+ Kompetensförsörjning är ett ganska bra exempel på det, men det finns många andra exempel också.
+
+414
+00:41:34,720 --> 00:41:37,720
+ Tack. Dagens Etsättra.
+
+415
+00:41:37,720 --> 00:41:46,720
+ Hej, Sam Lindrot på Dagens Etsättra. En fråga till Anders Tegnell.
+
+416
+00:41:46,720 --> 00:41:52,720
+ De senaste dagarna har det varit en del diskussion kring att man borde testa smittspårar
+
+417
+00:41:52,720 --> 00:41:56,720
+ och isolera drabbade mer som en del av strategin.
+
+418
+00:41:56,720 --> 00:42:04,720
+ Men som jag förstår det menar ni på Folkhälsomyndigheten att smittspridningen måste vara på en rimlig nivå
+
+419
+00:42:04,720 --> 00:42:07,720
+ för att det här ska vara möjligt att genomföra.
+
+420
+00:42:07,720 --> 00:42:14,720
+ Jag undrar då vilken nivå talar vi om här och hur görs den bedömningen?
+
+421
+00:42:16,720 --> 00:42:21,720
+ Dels är det så att det här görs redan i ett antal av de regioner som har en låg spridning.
+
+422
+00:42:21,720 --> 00:42:27,720
+ När man bara har några enstaka fall då och då så gör man smittspårar och har bra kontroll på det här
+
+423
+00:42:27,720 --> 00:42:32,720
+ istället som Gotland, Gävle och liknande.
+
+424
+00:42:32,720 --> 00:42:34,720
+ Så det händer redan.
+
+425
+00:42:34,720 --> 00:42:40,720
+ I slutändan är det regionerna som måste göra den bedömningen när de har en kapacitet
+
+426
+00:42:40,720 --> 00:42:44,720
+ att gå över till den typen av modell av kontroll.
+
+427
+00:42:44,720 --> 00:42:48,720
+ Det kommer nog att variera lite grann beroende på storlek och sånt.
+
+428
+00:42:48,720 --> 00:42:51,720
+ Exakt var den siffran ligger någonstans.
+
+429
+00:42:51,720 --> 00:42:58,720
+ Men vi har en kontinuerlig diskussion med dem när man kan gå över till den typen av begränsningar av antalet fall.
+
+430
+00:42:58,720 --> 00:43:07,720
+ Vi fick ju höra igår att ni överger de här numerära målen gällande antalet tester.
+
+431
+00:43:07,720 --> 00:43:11,720
+ Man undrar om det hänger ihop på något sätt.
+
+432
+00:43:11,720 --> 00:43:21,720
+ Det är så att man väljer att inte smittspåra i ett tidigare skede för att det inte finns resurser och kapacitet för det.
+
+433
+00:43:21,720 --> 00:43:27,720
+ Jag vet inte vad du menar med att vi överger 100 000 målet.
+
+434
+00:43:27,720 --> 00:43:29,720
+ Det finns definitivt där fortfarande.
+
+435
+00:43:29,720 --> 00:43:32,720
+ Frågan var om det var en strategi och det är det inte.
+
+436
+00:43:32,720 --> 00:43:38,720
+ Strategin är de här olika grupperna som vi på olika prioriteringsnivåer har sagt ska nås.
+
+437
+00:43:38,720 --> 00:43:45,720
+ Hur många man behöver testa per vecka kommer att variera över tid beroende på behoven i de här olika grupperna.
+
+438
+00:43:45,720 --> 00:43:48,720
+ Expressen hade en fråga.
+
+439
+00:43:48,720 --> 00:43:51,720
+ En fråga från gt/expressen.
+
+440
+00:43:51,720 --> 00:43:56,720
+ Om du, Tegnell, kan utveckla hur ni tänker kring läget i Västra Götaland.
+
+441
+00:43:56,720 --> 00:44:00,720
+ Det var en tredjedel av döds. De inrapporterar nya dödsfall än idag därifrån.
+
+442
+00:44:00,720 --> 00:44:07,720
+ Den frågan kan de säkert svara på mycket bättre i Region Västra Götaland.
+
+443
+00:44:07,720 --> 00:44:12,720
+ Från vår horisont så har Västra Götaland gjort ett bra arbete på många sätt.
+
+444
+00:44:12,720 --> 00:44:14,720
+ Man har legat på en väldigt konstant nivå hela tiden.
+
+445
+00:44:14,720 --> 00:44:17,720
+ Sjukvården har fungerat väl.
+
+446
+00:44:17,720 --> 00:44:24,720
+ Som det ser ut i vår statistik så har man lyckats ganska bra med att hålla bort smittan från äldreboende.
+
+447
+00:44:24,720 --> 00:44:30,720
+ Så den här fluktuationen då och då, enstaka dagar emellan, kan bero på många olika saker.
+
+448
+00:44:30,720 --> 00:44:35,720
+ Säkert har de i Västra Götaland betydligt bättre koll på vad just den siffran kan stå på.
+
+449
+00:44:35,720 --> 00:44:41,720
+ Tack. Då hade vi inga fler frågor här inne. Då är vi klara. Tack för att ni kom hit.
+
+450
+00:44:41,720 --> 00:44:44,720
+ Intervjuerna blir utomhus allihopa.
+
+451
+00:44:44,720 --> 00:44:54,720
+ Tack till elever och personal vid arbetet med den här videon!
+

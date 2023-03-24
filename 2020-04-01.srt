@@ -1,0 +1,4524 @@
+1
+00:00:00,000 --> 00:00:02,000
+ Välkomna hit!
+
+2
+00:00:02,000 --> 00:00:08,000
+ Kanske inte så mycket att säga idag, eller?
+
+3
+00:00:08,000 --> 00:00:14,000
+ Ja, kanske jag ska börja från början.
+
+4
+00:00:14,000 --> 00:00:22,000
+ Då var vi tillbaka på banan.
+
+5
+00:00:22,000 --> 00:00:28,000
+ Vi börjar med den vanliga bilden på den globala situationen.
+
+6
+00:00:30,000 --> 00:00:32,000
+ Det fortsätter uppåt ganska kraftigt i världen.
+
+7
+00:00:32,000 --> 00:00:36,000
+ Med drygt 850 000 fall totalt.
+
+8
+00:00:36,000 --> 00:00:40,000
+ Av dem har 42 000 avlidit.
+
+9
+00:00:40,000 --> 00:00:44,000
+ Europa på 422.
+
+10
+00:00:44,000 --> 00:00:48,000
+ Nära hälften fortfarande, men som sagt.
+
+11
+00:00:48,000 --> 00:00:52,000
+ Nu är det andra delar av världen som går igång.
+
+12
+00:00:52,000 --> 00:00:54,000
+ Inte minst Amerika.
+
+13
+00:00:56,000 --> 00:00:58,000
+ Det har räntat en hel del, men man behöver se en del ner i Sydamerika.
+
+14
+00:00:58,000 --> 00:01:04,000
+ Vilket möjligen kan leda till en viss oro.
+
+15
+00:01:04,000 --> 00:01:06,000
+ Man är på väg mot vinterssäsongen där.
+
+16
+00:01:06,000 --> 00:01:08,000
+ Då kan det tänkas att det blir besvärligt i den delen av världen.
+
+17
+00:01:08,000 --> 00:01:16,000
+ I Sverige är vi nu uppe i nästan 5 000 fall.
+
+18
+00:01:16,000 --> 00:01:22,000
+ Det senaste dygnet hade kommit drygt 500 nya.
+
+19
+00:01:24,000 --> 00:01:26,000
+ Vi har nästan 400 personer som ligger på IVA.
+
+20
+00:01:26,000 --> 00:01:32,000
+ Vi har nu en situation som vi hade för några veckor sedan.
+
+21
+00:01:32,000 --> 00:01:36,000
+ Det börjar se ut som att det blir en brant kurva uppåt.
+
+22
+00:01:36,000 --> 00:01:42,000
+ Jag trodde då att vi skulle se en riktigt brant uppgång.
+
+23
+00:01:42,000 --> 00:01:44,000
+ Det har vi inte sett än.
+
+24
+00:01:44,000 --> 00:01:46,000
+ Tittar man över senaste månaden så är det fortfarande en relativt flack kurva.
+
+25
+00:01:46,000 --> 00:01:50,000
+ Men nu har vi en uppgång.
+
+26
+00:01:50,000 --> 00:01:52,000
+ Jag tror att vi ska ta det som en påminnelse om hur viktigt det är att vi håller fast i de här grundläggande sakerna.
+
+27
+00:01:52,000 --> 00:01:58,000
+ Man ska inte gå till jobbet när man är sjuk.
+
+28
+00:01:58,000 --> 00:02:02,000
+ Man ska absolut inte av flera olika skäl besöka sina äldre anhöriga.
+
+29
+00:02:02,000 --> 00:02:10,000
+ Nu finns det nog ännu större anledning att hålla hårt vid de råden ytterligare några veckor framåt.
+
+30
+00:02:10,000 --> 00:02:18,000
+ Det här är andelen, alltså incidensen i olika åldersgrupper.
+
+31
+00:02:20,000 --> 00:02:22,000
+ Det visar att vi, gruppen över 90 år är inte så många,
+
+32
+00:02:22,000 --> 00:02:26,000
+ men det visar tydligt att även i Sverige har vi hamnat på den nivån som många länder har hamnat på.
+
+33
+00:02:26,000 --> 00:02:32,000
+ Det är väldigt mycket dominans bland de äldre och äldre, bland de som blir sjuka.
+
+34
+00:02:32,000 --> 00:02:38,000
+ Eftersom vi framför allt provtar de som kommer in till sjukvården så är det här väldigt mycket en bild av de som blir riktigt sjuka.
+
+35
+00:02:38,000 --> 00:02:42,000
+ Inte av de som blir lättare sjuka.
+
+36
+00:02:42,000 --> 00:02:44,000
+ De ser vi inte mycket av.
+
+37
+00:02:46,000 --> 00:02:48,000
+ Det här är en olycklig utveckling att det har blivit på det här viset.
+
+38
+00:02:48,000 --> 00:02:54,000
+ Vi får också signaler från ganska många äldreboende om att man börjar se fall där.
+
+39
+00:02:54,000 --> 00:02:58,000
+ Det behöver vi absolut tänka mer på.
+
+40
+00:02:58,000 --> 00:03:02,000
+ Vi pratade om besöksförbud på äldreboende och sånt igår.
+
+41
+00:03:02,000 --> 00:03:04,000
+ Det finns starka skäl att hålla fast vid det.
+
+42
+00:03:04,000 --> 00:03:10,000
+ De IVA-vårdande ser lite annorlunda ut, eller ganska annorlunda ut.
+
+43
+00:03:12,000 --> 00:03:14,000
+ Vi har äldre än de som avlider.
+
+44
+00:03:14,000 --> 00:03:18,000
+ Här har vi fortfarande en ordentlig dominans av män.
+
+45
+00:03:18,000 --> 00:03:22,000
+ Vi har fortfarande inte riktigt koll på vad det beror på.
+
+46
+00:03:22,000 --> 00:03:26,000
+ Vi håller på att försöka få mer data från intensivvårdsregistret.
+
+47
+00:03:26,000 --> 00:03:34,000
+ I de här grupperna har man, som jag sa sist, visserligen en ganska jobbig och lång intensivvård framför sig.
+
+48
+00:03:34,000 --> 00:03:40,000
+ Men de allra flesta av dem här kommer att tillfristna och kunna leva ett bra liv fortsättningsvis.
+
+49
+00:03:42,000 --> 00:03:44,000
+ I de här orderna.
+
+50
+00:03:44,000 --> 00:03:50,000
+ Jag vet inte om ni har hört det, men det har kommit ganska många nya avlidna i den här rapporteringen.
+
+51
+00:03:50,000 --> 00:04:00,000
+ Framförallt från Stockholm, som har gått ut med egen nyhet om det också.
+
+52
+00:04:00,000 --> 00:04:06,000
+ Det är en rätt stor eftersläppning i rapporteringen här.
+
+53
+00:04:08,000 --> 00:04:10,000
+ Det är en av de andra delarna av rapporteringen.
+
+54
+00:04:10,000 --> 00:04:16,000
+ Vad vi ser är ofta att vi inte fyller på vad de här som rapporteras varje dag.
+
+55
+00:04:16,000 --> 00:04:20,000
+ Det är sällan de som har dött dagen innan, utan det är de som har dött veckan innan.
+
+56
+00:04:20,000 --> 00:04:24,000
+ Det är fall som utspriddar en hel vecka innan.
+
+57
+00:04:24,000 --> 00:04:28,000
+ Det blir inte en stapel som sticker iväg, utan en grupp med staplar som sticker iväg.
+
+58
+00:04:28,000 --> 00:04:32,000
+ De här 50-talet nya idag är spridda med kanske ett tiotal fall över flera dagar tillbaka.
+
+59
+00:04:36,000 --> 00:04:38,000
+ Vi ska vara mer noga på detta och kolla alla med diagnosen och se i dödsregistret om de har avlidit.
+
+60
+00:04:38,000 --> 00:04:46,000
+ Därmed kommer vi få vad som ser ut med högre dödstal nu ett tag framåt än tidigare.
+
+61
+00:04:46,000 --> 00:04:58,000
+ Men som sagt, de avlidna är framförallt bland de mycket äldre.
+
+62
+00:04:58,000 --> 00:05:04,000
+ Precis som det har sett ut i andra länder.
+
+63
+00:05:04,000 --> 00:05:06,000
+ Men det är också en sak att få en enstaka fall i andra åldersgrupper.
+
+64
+00:05:06,000 --> 00:05:10,000
+ Det är också något som är rätt förväntat när man har en sjukdom som är så vanlig i alla åldersgrupper.
+
+65
+00:05:10,000 --> 00:05:18,000
+ Vi kommer som alltid tillbaka till den här kurvan.
+
+66
+00:05:18,000 --> 00:05:22,000
+ Det är just nu som det är väldigt viktigt att vi inte åker iväg på den gula kurvan, utan vi fortsätter hålla oss på den blå.
+
+67
+00:05:22,000 --> 00:05:28,000
+ Så att vår sjukvård får en chans att skötta det här på ett bra sätt även fortsättningsvis.
+
+68
+00:05:32,000 --> 00:05:34,000
+ Stanna hemma om ni är sjuka, även om det finns några minsta symptom.
+
+69
+00:05:34,000 --> 00:05:40,000
+ Och framförallt tänk på att vi måste skydda våra äldre ännu mer än vad vi gör idag.
+
+70
+00:05:40,000 --> 00:05:46,000
+ Jag lämnar över till Johan.
+
+71
+00:05:46,000 --> 00:05:50,000
+ Tack.
+
+72
+00:05:50,000 --> 00:05:54,000
+ Jag tänkte återupprepa det som jag sa på presskonferens på regeringskansliet för en timme sedan.
+
+73
+00:05:54,000 --> 00:06:00,000
+ Vi har tagit beslut idag om föreskrifter och allmänna råd när det gäller sjukdomar.
+
+74
+00:06:02,000 --> 00:06:04,000
+ Det här är en del i ett större föreskriftspaket som ni har sett.
+
+75
+00:06:04,000 --> 00:06:14,000
+ Regeringen har beslutat om att sänka tröskeln för att kunna ordna allmän sammankomst.
+
+76
+00:06:14,000 --> 00:06:22,000
+ Det är då 50 tillställning från 500 till 50.
+
+77
+00:06:22,000 --> 00:06:28,000
+ Man har också tagit beslut om besöksförbud på äldreboenden.
+
+78
+00:06:30,000 --> 00:06:32,000
+ Och omsorgsinstitutioner.
+
+79
+00:06:32,000 --> 00:06:36,000
+ Med vissa undantag som ska hanteras lokalt.
+
+80
+00:06:36,000 --> 00:06:42,000
+ Vi har tidigare varit tydliga med att alla personer som har minsta symptom på covid-19 ska stanna hemma.
+
+81
+00:06:42,000 --> 00:06:50,000
+ Och undvika sociala kontakter.
+
+82
+00:06:50,000 --> 00:06:56,000
+ De här råden och föreskrifterna avsäder att fylla i där det är en stor del som är inte helt klar.
+
+83
+00:06:58,000 --> 00:07:00,000
+ Där det övriga regelverket slutar.
+
+84
+00:07:00,000 --> 00:07:06,000
+ Mycket av det här är sånt som vi redan har kommunicerat.
+
+85
+00:07:06,000 --> 00:07:08,000
+ Till exempel på vår hemsida.
+
+86
+00:07:08,000 --> 00:07:10,000
+ I presskonferensen och så vidare.
+
+87
+00:07:10,000 --> 00:07:12,000
+ Vi har velat samla det och vara tydliga.
+
+88
+00:07:12,000 --> 00:07:14,000
+ Det är vissa saker som jag skulle vilja gå in på.
+
+89
+00:07:14,000 --> 00:07:20,000
+ För det första så föreskriver vi med stöd av smittskyddförordningen.
+
+90
+00:07:24,000 --> 00:07:26,000
+ Att alla privata företag, kommuner, kommunala verksamheter, regioner, föreningar, religiösa samfund.
+
+91
+00:07:26,000 --> 00:07:34,000
+ Ska säkerställa att de har lämpliga åtgärder för att undvika smittspridning.
+
+92
+00:07:34,000 --> 00:07:38,000
+ Det är ett krav på verksamhetsutövare.
+
+93
+00:07:38,000 --> 00:07:44,000
+ Och de åtgärderna ska baseras på myndighetens eller smittskyddsläkarens rekommendationer.
+
+94
+00:07:44,000 --> 00:07:48,000
+ Eller annan kunskap som finns.
+
+95
+00:07:48,000 --> 00:07:52,000
+ I största allmänhet vad som gäller.
+
+96
+00:07:52,000 --> 00:07:54,000
+ Man ska ha information uppsatt till medlemmar och personal.
+
+97
+00:07:54,000 --> 00:07:58,000
+ Kunder om risker och vad man gör.
+
+98
+00:07:58,000 --> 00:08:02,000
+ Man möblerar om.
+
+99
+00:08:02,000 --> 00:08:04,000
+ Man skapar miljöer som minskar sprittspridningen.
+
+100
+00:08:04,000 --> 00:08:06,000
+ Man håller de digitala möten.
+
+101
+00:08:06,000 --> 00:08:10,000
+ Man erbjuder möjlighet till god hygien.
+
+102
+00:08:10,000 --> 00:08:12,000
+ Alltså tvätta händerna eller handsprit.
+
+103
+00:08:12,000 --> 00:08:14,000
+ Lite beroende på vad det är för verksamhet du pratar om.
+
+104
+00:08:14,000 --> 00:08:16,000
+ Och man undviker att fler personer samlas.
+
+105
+00:08:16,000 --> 00:08:18,000
+ Särskilt i trånga lokaler.
+
+106
+00:08:18,000 --> 00:08:20,000
+ Även om man ligger under riktvärdet.
+
+107
+00:08:22,000 --> 00:08:24,000
+ Förbudet som gäller offentliga sammankomster.
+
+108
+00:08:24,000 --> 00:08:28,000
+ Inte träffar privata tillställningar.
+
+109
+00:08:28,000 --> 00:08:32,000
+ Men vi har ändå sett.
+
+110
+00:08:32,000 --> 00:08:34,000
+ Och jag har kommunicerat det förra veckan.
+
+111
+00:08:34,000 --> 00:08:38,000
+ Vi ser 50 personer som ett riktvärde att utgå från.
+
+112
+00:08:38,000 --> 00:08:40,000
+ När man resonerar om de risker och förutsättningar som finns.
+
+113
+00:08:40,000 --> 00:08:44,000
+ Att hantera även med privata tillställningar.
+
+114
+00:08:44,000 --> 00:08:48,000
+ Privata fester, bröllop, begravningar.
+
+115
+00:08:48,000 --> 00:08:50,000
+ Affärslokaler.
+
+116
+00:08:50,000 --> 00:08:56,000
+ Det finns i smittskyddslagen en tydlig reglering.
+
+117
+00:08:56,000 --> 00:08:58,000
+ Att det är vars och ens ansvar att medverka.
+
+118
+00:08:58,000 --> 00:09:00,000
+ Till att förhindra smittspridning.
+
+119
+00:09:00,000 --> 00:09:04,000
+ Av smittsamma sjukdomar.
+
+120
+00:09:04,000 --> 00:09:06,000
+ Och allmänfarliga sjukdomar.
+
+121
+00:09:06,000 --> 00:09:08,000
+ Man är också skyldig att vidta åtgärder som krävs.
+
+122
+00:09:08,000 --> 00:09:10,000
+ För att skydda andra mot smittrisk.
+
+123
+00:09:10,000 --> 00:09:14,000
+ Det kan vara att man är själv i smitten.
+
+124
+00:09:14,000 --> 00:09:16,000
+ Eller att man ansvarar för en verksamhet.
+
+125
+00:09:16,000 --> 00:09:18,000
+ Och riskerar att sprida smitta.
+
+126
+00:09:18,000 --> 00:09:22,000
+ Och mot den bakgrunden har vi en del allmänna råd.
+
+127
+00:09:22,000 --> 00:09:26,000
+ Allmänna råd låter väldigt...
+
+128
+00:09:26,000 --> 00:09:28,000
+ Bara som råd.
+
+129
+00:09:28,000 --> 00:09:32,000
+ Men det ska uppfattas som en del i föreskriften.
+
+130
+00:09:32,000 --> 00:09:34,000
+ Det är den termen som man använder.
+
+131
+00:09:34,000 --> 00:09:36,000
+ Allmänna råden är inte bara goda råd till var och en.
+
+132
+00:09:36,000 --> 00:09:42,000
+ Det är egentligen en riktlinje som säger.
+
+133
+00:09:42,000 --> 00:09:44,000
+ Så här ska du göra om du inte kan nå samma mål på annat sätt.
+
+134
+00:09:46,000 --> 00:09:48,000
+ Man är alltså fri att tänka lite större.
+
+135
+00:09:48,000 --> 00:09:50,000
+ Vi kan inte ge råd och anvisningar som täcker in varje situation i livet.
+
+136
+00:09:50,000 --> 00:09:56,000
+ Varje situation när det gäller vad man anordnar.
+
+137
+00:09:56,000 --> 00:09:58,000
+ Därför håller vi oss allmänt.
+
+138
+00:09:58,000 --> 00:10:02,000
+ Men det är inte så att man kan gå en annan väg om det inte leder till samma mål.
+
+139
+00:10:02,000 --> 00:10:04,000
+ Dvs minska smittspridningen.
+
+140
+00:10:04,000 --> 00:10:08,000
+ Råden är också...
+
+141
+00:10:08,000 --> 00:10:10,000
+ Som jag sagt tidigare.
+
+142
+00:10:10,000 --> 00:10:12,000
+ Det är handhygienen.
+
+143
+00:10:12,000 --> 00:10:14,000
+ Det är också ett samhällsomhus.
+
+144
+00:10:14,000 --> 00:10:16,000
+ Vare sig det gäller kommersiella lokaler eller privat.
+
+145
+00:10:16,000 --> 00:10:20,000
+ Avstånd i kollektivtrafiken.
+
+146
+00:10:20,000 --> 00:10:22,000
+ Alla och andra allmänna färdmedel.
+
+147
+00:10:22,000 --> 00:10:24,000
+ Jag kommer in lite närmare på det som riktar sig till anordnarna så småningom.
+
+148
+00:10:24,000 --> 00:10:30,000
+ Det är att man ska undvika att delta i större sociala sammanhang.
+
+149
+00:10:30,000 --> 00:10:34,000
+ Dvs fester, begravningar, dop, kalas och bröllop.
+
+150
+00:10:34,000 --> 00:10:36,000
+ Om man kan det.
+
+151
+00:10:36,000 --> 00:10:38,000
+ Det är inte så att det inte tillåts att ordna detta.
+
+152
+00:10:40,000 --> 00:10:42,000
+ Bröllop, begravningar är ju sånt som ligger i pipeline.
+
+153
+00:10:42,000 --> 00:10:46,000
+ Men man ska överväga om man nu behöver delta övertaget.
+
+154
+00:10:46,000 --> 00:10:50,000
+ Om det är stort.
+
+155
+00:10:50,000 --> 00:10:52,000
+ På idrottsplatser, badhus, gym och träningslokaler.
+
+156
+00:10:52,000 --> 00:10:54,000
+ Ska det finnas gott om avstånd mellan utövarna.
+
+157
+00:10:54,000 --> 00:10:58,000
+ Och man ska undvika att byta om i allmänna omklädningsrum.
+
+158
+00:10:58,000 --> 00:11:02,000
+ Man ska undvika att resa i rusningstid.
+
+159
+00:11:02,000 --> 00:11:04,000
+ Om det går att göra det.
+
+160
+00:11:04,000 --> 00:11:06,000
+ Och undvika onödiga resor.
+
+161
+00:11:06,000 --> 00:11:08,000
+ Det är ju samma budskap som vi har lämnat förut.
+
+162
+00:11:08,000 --> 00:11:10,000
+ Lokala resor eller resor i landet.
+
+163
+00:11:10,000 --> 00:11:14,000
+ När det gäller riskgrupper då.
+
+164
+00:11:14,000 --> 00:11:16,000
+ De personer som riskerar att drabbas värst av den här infektionen.
+
+165
+00:11:16,000 --> 00:11:20,000
+ Och personer över 70 år.
+
+166
+00:11:20,000 --> 00:11:22,000
+ Så gäller samma allmänna råd.
+
+167
+00:11:22,000 --> 00:11:24,000
+ Men utöver det säger vi att man ska begränsa sina sociala kontakter.
+
+168
+00:11:24,000 --> 00:11:30,000
+ Den sociala distanseringen gäller ju särskilt i de grupperna.
+
+169
+00:11:30,000 --> 00:11:34,000
+ Man ska undvika att åka kollektivtrafik och allmänna färdmedel.
+
+170
+00:11:36,000 --> 00:11:38,000
+ Det är ju samma sätt.
+
+171
+00:11:38,000 --> 00:11:40,000
+ Och man ska undvika att handla i butiker.
+
+172
+00:11:40,000 --> 00:11:42,000
+ Och även apotek, matvarubutiker och så vidare.
+
+173
+00:11:42,000 --> 00:11:46,000
+ Man ska i görligaste mån se till att man får hjälp med sådana ärenden.
+
+174
+00:11:46,000 --> 00:11:52,000
+ Lite mer specifikt då.
+
+175
+00:11:52,000 --> 00:11:56,000
+ Så har vi tittat på några olika områden.
+
+176
+00:11:56,000 --> 00:11:58,000
+ Det ena är arbetsplatser.
+
+177
+00:11:58,000 --> 00:12:00,000
+ Där arbetsgivaren ska se till att man håller lämplig avstånd.
+
+178
+00:12:00,000 --> 00:12:04,000
+ Mellan arbetstagarna.
+
+179
+00:12:04,000 --> 00:12:06,000
+ Att man har ett hyggeligt möjlighet till hygien.
+
+180
+00:12:06,000 --> 00:12:08,000
+ Att man kan arbeta hemifrån.
+
+181
+00:12:08,000 --> 00:12:10,000
+ Det här är saker som vi har sagt tidigare men vi sätter det på pränt.
+
+182
+00:12:10,000 --> 00:12:14,000
+ Att man ska kunna anpassa sina arbetstider.
+
+183
+00:12:14,000 --> 00:12:18,000
+ För att kunna undvika resa i rysningstid.
+
+184
+00:12:18,000 --> 00:12:20,000
+ Det gäller ju framförallt i storstäderna.
+
+185
+00:12:20,000 --> 00:12:22,000
+ Och man ska undvika onödiga arbetsresor.
+
+186
+00:12:22,000 --> 00:12:24,000
+ Alltså resor i tjänsten.
+
+187
+00:12:24,000 --> 00:12:28,000
+ Det finns några råd som riktar sig till kriminalvården och migrationsverket.
+
+188
+00:12:28,000 --> 00:12:30,000
+ Jag hoppar över dig nu.
+
+189
+00:12:30,000 --> 00:12:32,000
+ Men det finns att ta del av.
+
+190
+00:12:32,000 --> 00:12:34,000
+ Den här föreskriften borde nu vara publicerad på vår hemsida.
+
+191
+00:12:34,000 --> 00:12:38,000
+ Annars kommer den väldigt kort.
+
+192
+00:12:38,000 --> 00:12:42,000
+ När det gäller kollektivtrafik och allmänna färdmedel.
+
+193
+00:12:42,000 --> 00:12:46,000
+ Så anser vi att utövarna.
+
+194
+00:12:46,000 --> 00:12:48,000
+ Det vill säga de som driver verksamheten.
+
+195
+00:12:48,000 --> 00:12:50,000
+ Ska se till att köra i kollektivtrafiken i den omfattning som behövs.
+
+196
+00:12:50,000 --> 00:12:54,000
+ För att minska risken för trängsel.
+
+197
+00:12:54,000 --> 00:12:56,000
+ Så det är inte acceptabelt att skära ner på kollektivtrafiken.
+
+198
+00:12:56,000 --> 00:13:00,000
+ Så det uppstår onödigt trängsel på tåg och bussar.
+
+199
+00:13:02,000 --> 00:13:04,000
+ Man ska se till att upprätthålla sig som trafik som krävs.
+
+200
+00:13:04,000 --> 00:13:08,000
+ För att man också ska kunna upprätthålla sig i skydd mot spridning.
+
+201
+00:13:08,000 --> 00:13:12,000
+ Som man behöver för de resenärer som åker.
+
+202
+00:13:12,000 --> 00:13:16,000
+ Det vill säga man ska begränsa antalet passagerare per fordon.
+
+203
+00:13:16,000 --> 00:13:20,000
+ Och man ska informera passagerarna om hur de kan minska riskerna för smittspridning.
+
+204
+00:13:20,000 --> 00:13:26,000
+ Det vill säga hur man kan sitta och stå och hantera det.
+
+205
+00:13:26,000 --> 00:13:28,000
+ Beroende på vilket färdmedel det är.
+
+206
+00:13:30,000 --> 00:13:32,000
+ I handel så vill vi att handlarna.
+
+207
+00:13:32,000 --> 00:13:38,000
+ De som driver köpcentrum och affärer och varuhusbutiker.
+
+208
+00:13:38,000 --> 00:13:42,000
+ Begränsar antalet kunder som vistas i lokalen.
+
+209
+00:13:42,000 --> 00:13:44,000
+ Naturligtvis beroende på hur lokalen ser ut.
+
+210
+00:13:44,000 --> 00:13:48,000
+ Och tar fram alternativa lösningar till kassaköer.
+
+211
+00:13:48,000 --> 00:13:52,000
+ Eller anvisa hur långt kunderna bör stå mellan varandra.
+
+212
+00:13:52,000 --> 00:13:54,000
+ Också beroende på lokalens utformning.
+
+213
+00:13:56,000 --> 00:13:58,000
+ Det är en del saker vi har pratat om.
+
+214
+00:13:58,000 --> 00:14:04,000
+ Föreningsverksamhet generellt.
+
+215
+00:14:04,000 --> 00:14:06,000
+ Man ska skjuta upp årsmöten.
+
+216
+00:14:06,000 --> 00:14:08,000
+ Föreningsstämmor.
+
+217
+00:14:08,000 --> 00:14:10,000
+ Eller genomföra dem digitalt.
+
+218
+00:14:10,000 --> 00:14:14,000
+ Det gäller också andra möten som kan undervaras.
+
+219
+00:14:14,000 --> 00:14:16,000
+ De bör skjutas upp eller genomföras digitalt.
+
+220
+00:14:16,000 --> 00:14:20,000
+ Idrotten.
+
+221
+00:14:20,000 --> 00:14:22,000
+ Vi tycker att det är bra att man idrottar.
+
+222
+00:14:22,000 --> 00:14:24,000
+ Man rör sig ute.
+
+223
+00:14:24,000 --> 00:14:26,000
+ Det är viktigt att idrotten fortsätter.
+
+224
+00:14:26,000 --> 00:14:28,000
+ Inom ramen för säkerhetsreglerna.
+
+225
+00:14:28,000 --> 00:14:30,000
+ Det finns ett tak på 50 personer.
+
+226
+00:14:30,000 --> 00:14:32,000
+ Utövare, publik och funktionärer.
+
+227
+00:14:32,000 --> 00:14:34,000
+ Under detta vill vi att man funderar på några åtgärder.
+
+228
+00:14:34,000 --> 00:14:36,000
+ Man ska undvika närkontakt mellan idrottsövare.
+
+229
+00:14:36,000 --> 00:14:38,000
+ Då tänker vi framförallt på att man ska ha en öppen hand.
+
+230
+00:14:38,000 --> 00:14:40,000
+ Det är viktigt att man har en öppen hand.
+
+231
+00:14:40,000 --> 00:14:42,000
+ Det är viktigt att man har en öppen hand.
+
+232
+00:14:42,000 --> 00:14:44,000
+ Det är viktigt att man har en öppen hand.
+
+233
+00:14:44,000 --> 00:14:46,000
+ Det är viktigt att man har en öppen hand.
+
+234
+00:14:46,000 --> 00:14:48,000
+ Det är viktigt att man har en öppen hand.
+
+235
+00:14:48,000 --> 00:14:50,000
+ Det är viktigt att man har en öppen hand.
+
+236
+00:14:50,000 --> 00:14:52,000
+ Det är viktigt att man har en öppen hand.
+
+237
+00:14:52,000 --> 00:14:54,000
+ Det är viktigt att man har en öppen hand.
+
+238
+00:14:54,000 --> 00:14:56,000
+ Det är viktigt att man har en öppen hand.
+
+239
+00:14:56,000 --> 00:14:58,000
+ Det är viktigt att man har en öppen hand.
+
+240
+00:14:58,000 --> 00:15:00,000
+ Det är viktigt att man har en öppen hand.
+
+241
+00:15:00,000 --> 00:15:02,000
+ Det är viktigt att man har en öppen hand.
+
+242
+00:15:02,000 --> 00:15:04,000
+ Det är viktigt att man har en öppen hand.
+
+243
+00:15:04,000 --> 00:15:06,000
+ Det är viktigt att man har en öppen hand.
+
+244
+00:15:06,000 --> 00:15:08,000
+ Det är viktigt att man har en öppen hand.
+
+245
+00:15:08,000 --> 00:15:10,000
+ Det är viktigt att man har en öppen hand.
+
+246
+00:15:10,000 --> 00:15:12,000
+ Det är viktigt att man har en öppen hand.
+
+247
+00:15:12,000 --> 00:15:14,000
+ Det är viktigt att man har en öppen hand.
+
+248
+00:15:14,000 --> 00:15:16,000
+ Det är viktigt att man har en öppen hand.
+
+249
+00:15:16,000 --> 00:15:18,000
+ Det är viktigt att man har en öppen hand.
+
+250
+00:15:18,000 --> 00:15:20,000
+ Det är viktigt att man har en öppen hand.
+
+251
+00:15:20,000 --> 00:15:22,000
+ Det är viktigt att man har en öppen hand.
+
+252
+00:15:22,000 --> 00:15:24,000
+ Det är viktigt att man har en öppen hand.
+
+253
+00:15:24,000 --> 00:15:26,000
+ Det är viktigt att man har en öppen hand.
+
+254
+00:15:26,000 --> 00:15:28,000
+ Det är viktigt att man har en öppen hand.
+
+255
+00:15:28,000 --> 00:15:30,000
+ Det är viktigt att man har en öppen hand.
+
+256
+00:15:30,000 --> 00:15:32,000
+ Det är viktigt att man har en öppen hand.
+
+257
+00:15:32,000 --> 00:15:34,000
+ Det är viktigt att man har en öppen hand.
+
+258
+00:15:34,000 --> 00:15:36,000
+ Det är viktigt att man har en öppen hand.
+
+259
+00:15:36,000 --> 00:15:38,000
+ Det är viktigt att man har en öppen hand.
+
+260
+00:15:38,000 --> 00:15:40,000
+ Det är viktigt att man har en öppen hand.
+
+261
+00:15:40,000 --> 00:15:42,000
+ Det är viktigt att man har en öppen hand.
+
+262
+00:15:42,000 --> 00:15:44,000
+ Det är viktigt att man har en öppen hand.
+
+263
+00:15:44,000 --> 00:15:46,000
+ Det är viktigt att man har en öppen hand.
+
+264
+00:15:46,000 --> 00:15:48,000
+ Det är viktigt att man har en öppen hand.
+
+265
+00:15:48,000 --> 00:15:50,000
+ Det är viktigt att man har en öppen hand.
+
+266
+00:15:50,000 --> 00:15:52,000
+ Det är viktigt att man har en öppen hand.
+
+267
+00:15:52,000 --> 00:15:54,000
+ Det är viktigt att man har en öppen hand.
+
+268
+00:15:54,000 --> 00:15:56,000
+ Det är viktigt att man har en öppen hand.
+
+269
+00:15:56,000 --> 00:15:58,000
+ Det är viktigt att man har en öppen hand.
+
+270
+00:15:58,000 --> 00:16:00,000
+ Det är viktigt att man har en öppen hand.
+
+271
+00:16:00,000 --> 00:16:02,000
+ Det är viktigt att man har en öppen hand.
+
+272
+00:16:02,000 --> 00:16:04,000
+ Det är viktigt att man har en öppen hand.
+
+273
+00:16:04,000 --> 00:16:06,000
+ Det är viktigt att man har en öppen hand.
+
+274
+00:16:06,000 --> 00:16:08,000
+ Det är viktigt att man har en öppen hand.
+
+275
+00:16:08,000 --> 00:16:10,000
+ Det är viktigt att man har en öppen hand.
+
+276
+00:16:10,000 --> 00:16:12,000
+ Det är viktigt att man har en öppen hand.
+
+277
+00:16:12,000 --> 00:16:14,000
+ Det är viktigt att man har en öppen hand.
+
+278
+00:16:14,000 --> 00:16:16,000
+ Det är viktigt att man har en öppen hand.
+
+279
+00:16:16,000 --> 00:16:18,000
+ Det är viktigt att man har en öppen hand.
+
+280
+00:16:18,000 --> 00:16:20,000
+ Det är viktigt att man har en öppen hand.
+
+281
+00:16:20,000 --> 00:16:22,000
+ Det är viktigt att man har en öppen hand.
+
+282
+00:16:22,000 --> 00:16:24,000
+ Det är viktigt att man har en öppen hand.
+
+283
+00:16:24,000 --> 00:16:26,000
+ Det är viktigt att man har en öppen hand.
+
+284
+00:16:26,000 --> 00:16:28,000
+ Det är viktigt att man har en öppen hand.
+
+285
+00:16:28,000 --> 00:16:30,000
+ Det är viktigt att man har en öppen hand.
+
+286
+00:16:30,000 --> 00:16:32,000
+ Det är viktigt att man har en öppen hand.
+
+287
+00:16:32,000 --> 00:16:34,000
+ Det är viktigt att man har en öppen hand.
+
+288
+00:16:34,000 --> 00:16:36,000
+ Det är viktigt att man har en öppen hand.
+
+289
+00:16:36,000 --> 00:16:38,000
+ Det är viktigt att man har en öppen hand.
+
+290
+00:16:38,000 --> 00:16:40,000
+ Det är viktigt att man har en öppen hand.
+
+291
+00:16:40,000 --> 00:16:42,000
+ Det är viktigt att man har en öppen hand.
+
+292
+00:16:42,000 --> 00:16:44,000
+ Det är viktigt att man har en öppen hand.
+
+293
+00:16:44,000 --> 00:16:46,000
+ Det är viktigt att man har en öppen hand.
+
+294
+00:16:46,000 --> 00:16:48,000
+ Det är viktigt att man har en öppen hand.
+
+295
+00:16:48,000 --> 00:16:50,000
+ Det är viktigt att man har en öppen hand.
+
+296
+00:16:50,000 --> 00:16:52,000
+ Det är viktigt att man har en öppen hand.
+
+297
+00:16:52,000 --> 00:16:54,000
+ Det är viktigt att man har en öppen hand.
+
+298
+00:16:54,000 --> 00:16:56,000
+ Det är viktigt att man har en öppen hand.
+
+299
+00:16:56,000 --> 00:16:58,000
+ Det är viktigt att man har en öppen hand.
+
+300
+00:16:58,000 --> 00:17:00,000
+ Det är viktigt att man har en öppen hand.
+
+301
+00:17:00,000 --> 00:17:02,000
+ Det är viktigt att man har en öppen hand.
+
+302
+00:17:02,000 --> 00:17:04,000
+ Det är viktigt att man har en öppen hand.
+
+303
+00:17:04,000 --> 00:17:06,000
+ Det är viktigt att man har en öppen hand.
+
+304
+00:17:06,000 --> 00:17:08,000
+ Det är viktigt att man har en öppen hand.
+
+305
+00:17:08,000 --> 00:17:10,000
+ Det är viktigt att man har en öppen hand.
+
+306
+00:17:10,000 --> 00:17:12,000
+ Det är viktigt att man har en öppen hand.
+
+307
+00:17:12,000 --> 00:17:14,000
+ Det är viktigt att man har en öppen hand.
+
+308
+00:17:14,000 --> 00:17:16,000
+ Det är viktigt att man har en öppen hand.
+
+309
+00:17:16,000 --> 00:17:18,000
+ Det är viktigt att man har en öppen hand.
+
+310
+00:17:18,000 --> 00:17:20,000
+ Det är viktigt att man har en öppen hand.
+
+311
+00:17:20,000 --> 00:17:22,000
+ Det är viktigt att man har en öppen hand.
+
+312
+00:17:22,000 --> 00:17:24,000
+ Det är viktigt att man har en öppen hand.
+
+313
+00:17:24,000 --> 00:17:26,000
+ Det är viktigt att man har en öppen hand.
+
+314
+00:17:26,000 --> 00:17:28,000
+ Det är viktigt att man har en öppen hand.
+
+315
+00:17:28,000 --> 00:17:30,000
+ Det är viktigt att man har en öppen hand.
+
+316
+00:17:30,000 --> 00:17:32,000
+ Det är viktigt att man har en öppen hand.
+
+317
+00:17:32,000 --> 00:17:34,000
+ Det är viktigt att man har en öppen hand.
+
+318
+00:17:34,000 --> 00:17:36,000
+ Det är viktigt att man har en öppen hand.
+
+319
+00:17:36,000 --> 00:17:38,000
+ Det är viktigt att man har en öppen hand.
+
+320
+00:17:38,000 --> 00:17:40,000
+ Det är viktigt att man har en öppen hand.
+
+321
+00:17:40,000 --> 00:17:42,000
+ Det är viktigt att man har en öppen hand.
+
+322
+00:17:42,000 --> 00:17:44,000
+ Det är viktigt att man har en öppen hand.
+
+323
+00:17:44,000 --> 00:17:46,000
+ Det är viktigt att man har en öppen hand.
+
+324
+00:17:46,000 --> 00:17:48,000
+ Det är viktigt att man har en öppen hand.
+
+325
+00:17:48,000 --> 00:17:50,000
+ Det är viktigt att man har en öppen hand.
+
+326
+00:17:50,000 --> 00:17:52,000
+ Det är viktigt att man har en öppen hand.
+
+327
+00:17:52,000 --> 00:17:54,000
+ Det är viktigt att man har en öppen hand.
+
+328
+00:17:54,000 --> 00:17:56,000
+ Det är viktigt att man har en öppen hand.
+
+329
+00:17:56,000 --> 00:17:58,000
+ Det är viktigt att man har en öppen hand.
+
+330
+00:17:58,000 --> 00:18:00,000
+ Det är viktigt att man har en öppen hand.
+
+331
+00:18:00,000 --> 00:18:02,000
+ Det är viktigt att man har en öppen hand.
+
+332
+00:18:02,000 --> 00:18:04,000
+ Det är viktigt att man har en öppen hand.
+
+333
+00:18:04,000 --> 00:18:06,000
+ Det är viktigt att man har en öppen hand.
+
+334
+00:18:06,000 --> 00:18:08,000
+ Det är viktigt att man har en öppen hand.
+
+335
+00:18:08,000 --> 00:18:10,000
+ De här planerna arbetar fortsatt enligt de aktiverade
+
+336
+00:18:10,000 --> 00:18:12,000
+ De här planerna arbetar fortsatt enligt de aktiverade
+
+337
+00:18:12,000 --> 00:18:14,000
+ i förstärkningsläge majoriteten enligt de aktiverade
+
+338
+00:18:14,000 --> 00:18:16,000
+ i förstärkningsläge majoriteten enligt de aktiverade
+
+339
+00:18:16,000 --> 00:18:18,000
+ beredskapsplanerna som är rapporterade om i måndags.
+
+340
+00:18:18,000 --> 00:18:20,000
+ beredskapsplanerna som är rapporterade om i måndags.
+
+341
+00:18:20,000 --> 00:18:22,000
+ De här enorma omställningarna som görs är ju
+
+342
+00:18:22,000 --> 00:18:24,000
+ De här enorma omställningarna som görs är ju
+
+343
+00:18:24,000 --> 00:18:26,000
+ omställning av hela regionens vårdsystem.
+
+344
+00:18:26,000 --> 00:18:28,000
+ omställning av hela regionens vårdsystem.
+
+345
+00:18:28,000 --> 00:18:30,000
+ omställning av hela regionens vårdsystem.
+
+346
+00:18:30,000 --> 00:18:32,000
+ omställning av hela regionens vårdsystem.
+
+347
+00:18:32,000 --> 00:18:34,000
+ omställning av hela regionens vårdsystem.
+
+348
+00:18:34,000 --> 00:18:36,000
+ omställning av hela regionens vårdsystem.
+
+349
+00:18:36,000 --> 00:18:38,000
+ omställning av hela regionens vårdsystem.
+
+350
+00:18:38,000 --> 00:18:40,000
+ omställning av hela regionens vårdsystem.
+
+351
+00:18:40,000 --> 00:18:42,000
+ omställning av hela regionens vårdsystem.
+
+352
+00:18:42,000 --> 00:18:44,000
+ omställning av hela regionens vårdsystem.
+
+353
+00:18:44,000 --> 00:18:46,000
+ omställning av hela regionens vårdsystem.
+
+354
+00:18:46,000 --> 00:18:48,000
+ omställning av hela regionens vårdsystem.
+
+355
+00:18:48,000 --> 00:18:50,000
+ omställning av hela regionens vårdsystem.
+
+356
+00:18:50,000 --> 00:18:52,000
+ omställning av hela regionens vårdsystem.
+
+357
+00:18:52,000 --> 00:18:54,000
+ omställning av hela regionens vårdsystem.
+
+358
+00:18:54,000 --> 00:18:56,000
+ omställning av hela regionens vårdsystem.
+
+359
+00:18:56,000 --> 00:18:58,000
+ omställning av hela regionens vårdsystem.
+
+360
+00:18:58,000 --> 00:19:00,000
+ omställning av hela regionens vårdsystem.
+
+361
+00:19:00,000 --> 00:19:02,000
+ omställning av hela regionens vårdsystem.
+
+362
+00:19:02,000 --> 00:19:04,000
+ omställning av hela regionens vårdsystem.
+
+363
+00:19:04,000 --> 00:19:06,000
+ omställning av hela regionens vårdsystem.
+
+364
+00:19:06,000 --> 00:19:08,000
+ omställning av hela regionens vårdsystem.
+
+365
+00:19:08,000 --> 00:19:10,000
+ omställning av hela regionens vårdsystem.
+
+366
+00:19:10,000 --> 00:19:12,000
+ omställning av hela regionens vårdsystem.
+
+367
+00:19:12,000 --> 00:19:14,000
+ omställning av hela regionens vårdsystem.
+
+368
+00:19:14,000 --> 00:19:16,000
+ omställning av hela regionens vårdsystem.
+
+369
+00:19:16,000 --> 00:19:18,000
+ omställning av hela regionens vårdsystem.
+
+370
+00:19:18,000 --> 00:19:20,000
+ omställning av hela regionens vårdsystem.
+
+371
+00:19:20,000 --> 00:19:22,000
+ omställning av hela regionens vårdsystem.
+
+372
+00:19:22,000 --> 00:19:24,000
+ omställning av hela regionens vårdsystem.
+
+373
+00:19:24,000 --> 00:19:26,000
+ omställning av hela regionens vårdsystem.
+
+374
+00:19:26,000 --> 00:19:28,000
+ omställning av hela regionens vårdsystem.
+
+375
+00:19:28,000 --> 00:19:30,000
+ omställning av hela regionens vårdsystem.
+
+376
+00:19:30,000 --> 00:19:32,000
+ omställning av hela regionens vårdsystem.
+
+377
+00:19:32,000 --> 00:19:34,000
+ omställning av hela regionens vårdsystem.
+
+378
+00:19:34,000 --> 00:19:36,000
+ omställning av hela regionens vårdsystem.
+
+379
+00:19:36,000 --> 00:19:38,000
+ omställning av hela regionens vårdsystem.
+
+380
+00:19:38,000 --> 00:19:40,000
+ omställning av hela regionens vårdsystem.
+
+381
+00:19:40,000 --> 00:19:42,000
+ omställning av hela regionens vårdsystem.
+
+382
+00:19:42,000 --> 00:19:44,000
+ omställning av hela regionens vårdsystem.
+
+383
+00:19:44,000 --> 00:19:46,000
+ omställning av hela regionens vårdsystem.
+
+384
+00:19:46,000 --> 00:19:48,000
+ omställning av hela regionens vårdsystem.
+
+385
+00:19:48,000 --> 00:19:50,000
+ omställning av hela regionens vårdsystem.
+
+386
+00:19:50,000 --> 00:19:52,000
+ omställning av hela regionens vårdsystem.
+
+387
+00:19:52,000 --> 00:19:54,000
+ omställning av hela regionens vårdsystem.
+
+388
+00:19:54,000 --> 00:19:56,000
+ omställning av hela regionens vårdsystem.
+
+389
+00:19:56,000 --> 00:19:58,000
+ omställning av hela regionens vårdsystem.
+
+390
+00:19:58,000 --> 00:20:00,000
+ omställning av hela regionens vårdsystem.
+
+391
+00:20:00,000 --> 00:20:02,000
+ omställning av hela regionens vårdsystem.
+
+392
+00:20:02,000 --> 00:20:04,000
+ omställning av hela regionens vårdsystem.
+
+393
+00:20:04,000 --> 00:20:06,000
+ omställning av hela regionens vårdsystem.
+
+394
+00:20:06,000 --> 00:20:08,000
+ omställning av hela regionens vårdsystem.
+
+395
+00:20:08,000 --> 00:20:10,000
+ omställning av hela regionens vårdsystem.
+
+396
+00:20:10,000 --> 00:20:12,000
+ omställning av hela regionens vårdsystem.
+
+397
+00:20:12,000 --> 00:20:14,000
+ omställning av hela regionens vårdsystem.
+
+398
+00:20:14,000 --> 00:20:16,000
+ omställning av hela regionens vårdsystem.
+
+399
+00:20:16,000 --> 00:20:18,000
+ omställning av hela regionens vårdsystem.
+
+400
+00:20:18,000 --> 00:20:20,000
+ omställning av hela regionens vårdsystem.
+
+401
+00:20:20,000 --> 00:20:22,000
+ omställning av hela regionens vårdsystem.
+
+402
+00:20:22,000 --> 00:20:24,000
+ omställning av hela regionens vårdsystem.
+
+403
+00:20:24,000 --> 00:20:26,000
+ omställning av hela regionens vårdsystem.
+
+404
+00:20:26,000 --> 00:20:28,000
+ omställning av hela regionens vårdsystem.
+
+405
+00:20:28,000 --> 00:20:30,000
+ omställning av hela regionens vårdsystem.
+
+406
+00:20:30,000 --> 00:20:32,000
+ omställning av hela regionens vårdsystem.
+
+407
+00:20:32,000 --> 00:20:34,000
+ omställning av hela regionens vårdsystem.
+
+408
+00:20:34,000 --> 00:20:36,000
+ omställning av hela regionens vårdsystem.
+
+409
+00:20:36,000 --> 00:20:38,000
+ omställning av hela regionens vårdsystem.
+
+410
+00:20:38,000 --> 00:20:40,000
+ omställning av hela regionens vårdsystem.
+
+411
+00:20:40,000 --> 00:20:42,000
+ omställning av hela regionens vårdsystem.
+
+412
+00:20:42,000 --> 00:20:44,000
+ omställning av hela regionens vårdsystem.
+
+413
+00:20:44,000 --> 00:20:46,000
+ omställning av hela regionens vårdsystem.
+
+414
+00:20:46,000 --> 00:20:48,000
+ omställning av hela regionens vårdsystem.
+
+415
+00:20:48,000 --> 00:20:50,000
+ omställning av hela regionens vårdsystem.
+
+416
+00:20:50,000 --> 00:20:52,000
+ omställning av hela regionens vårdsystem.
+
+417
+00:20:52,000 --> 00:20:54,000
+ omställning av hela regionens vårdsystem.
+
+418
+00:20:54,000 --> 00:20:56,000
+ omställning av hela regionens vårdsystem.
+
+419
+00:20:56,000 --> 00:20:58,000
+ omställning av hela regionens vårdsystem.
+
+420
+00:20:58,000 --> 00:21:00,000
+ omställning av hela regionens vårdsystem.
+
+421
+00:21:00,000 --> 00:21:02,000
+ omställning av hela regionens vårdsystem.
+
+422
+00:21:02,000 --> 00:21:04,000
+ omställning av hela regionens vårdsystem.
+
+423
+00:21:04,000 --> 00:21:06,000
+ omställning av hela regionens vårdsystem.
+
+424
+00:21:06,000 --> 00:21:08,000
+ omställning av hela regionens vårdsystem.
+
+425
+00:21:08,000 --> 00:21:10,000
+ omställning av hela regionens vårdsystem.
+
+426
+00:21:10,000 --> 00:21:12,000
+ omställning av hela regionens vårdsystem.
+
+427
+00:21:12,000 --> 00:21:14,000
+ omställning av hela regionens vårdsystem.
+
+428
+00:21:14,000 --> 00:21:16,000
+ omställning av hela regionens vårdsystem.
+
+429
+00:21:16,000 --> 00:21:18,000
+ omställning av hela regionens vårdsystem.
+
+430
+00:21:18,000 --> 00:21:20,000
+ omställning av hela regionens vårdsystem.
+
+431
+00:21:20,000 --> 00:21:22,000
+ omställning av hela regionens vårdsystem.
+
+432
+00:21:22,000 --> 00:21:24,000
+ omställning av hela regionens vårdsystem.
+
+433
+00:21:24,000 --> 00:21:26,000
+ omställning av hela regionens vårdsystem.
+
+434
+00:21:26,000 --> 00:21:28,000
+ omställning av hela regionens vårdsystem.
+
+435
+00:21:28,000 --> 00:21:30,000
+ omställning av hela regionens vårdsystem.
+
+436
+00:21:30,000 --> 00:21:32,000
+ omställning av hela regionens vårdsystem.
+
+437
+00:21:32,000 --> 00:21:34,000
+ omställning av hela regionens vårdsystem.
+
+438
+00:21:34,000 --> 00:21:36,000
+ omställning av hela regionens vårdsystem.
+
+439
+00:21:36,000 --> 00:21:38,000
+ omställning av hela regionens vårdsystem.
+
+440
+00:21:38,000 --> 00:21:40,000
+ omställning av hela regionens vårdsystem.
+
+441
+00:21:40,000 --> 00:21:42,000
+ omställning av hela regionens vårdsystem.
+
+442
+00:21:42,000 --> 00:21:44,000
+ omställning av hela regionens vårdsystem.
+
+443
+00:21:44,000 --> 00:21:46,000
+ omställning av hela regionens vårdsystem.
+
+444
+00:21:46,000 --> 00:21:48,000
+ omställning av hela regionens vårdsystem.
+
+445
+00:21:48,000 --> 00:21:50,000
+ omställning av hela regionens vårdsystem.
+
+446
+00:21:50,000 --> 00:21:52,000
+ omställning av hela regionens vårdsystem.
+
+447
+00:21:52,000 --> 00:21:54,000
+ omställning av hela regionens vårdsystem.
+
+448
+00:21:54,000 --> 00:21:56,000
+ omställning av hela regionens vårdsystem.
+
+449
+00:21:56,000 --> 00:21:58,000
+ omställning av hela regionens vårdsystem.
+
+450
+00:21:58,000 --> 00:22:00,000
+ omställning av hela regionens vårdsystem.
+
+451
+00:22:00,000 --> 00:22:02,000
+ omställning av hela regionens vårdsystem.
+
+452
+00:22:02,000 --> 00:22:04,000
+ omställning av hela regionens vårdsystem.
+
+453
+00:22:04,000 --> 00:22:06,000
+ omställning av hela regionens vårdsystem.
+
+454
+00:22:06,000 --> 00:22:08,000
+ omställning av hela regionens vårdsystem.
+
+455
+00:22:08,000 --> 00:22:10,000
+ omställning av hela regionens vårdsystem.
+
+456
+00:22:10,000 --> 00:22:12,000
+ omställning av hela regionens vårdsystem.
+
+457
+00:22:12,000 --> 00:22:14,000
+ omställning av hela regionens vårdsystem.
+
+458
+00:22:14,000 --> 00:22:16,000
+ omställning av hela regionens vårdsystem.
+
+459
+00:22:16,000 --> 00:22:18,000
+ omställning av hela regionens vårdsystem.
+
+460
+00:22:18,000 --> 00:22:20,000
+ omställning av hela regionens vårdsystem.
+
+461
+00:22:20,000 --> 00:22:22,000
+ omställning av hela regionens vårdsystem.
+
+462
+00:22:22,000 --> 00:22:24,000
+ omställning av hela regionens vårdsystem.
+
+463
+00:22:24,000 --> 00:22:26,000
+ omställning av hela regionens vårdsystem.
+
+464
+00:22:26,000 --> 00:22:28,000
+ omställning av hela regionens vårdsystem.
+
+465
+00:22:28,000 --> 00:22:30,000
+ omställning av hela regionens vårdsystem.
+
+466
+00:22:30,000 --> 00:22:32,000
+ omställning av hela regionens vårdsystem.
+
+467
+00:22:32,000 --> 00:22:34,000
+ omställning av hela regionens vårdsystem.
+
+468
+00:22:34,000 --> 00:22:36,000
+ omställning av hela regionens vårdsystem.
+
+469
+00:22:36,000 --> 00:22:38,000
+ omställning av hela regionens vårdsystem.
+
+470
+00:22:38,000 --> 00:22:40,000
+ omställning av hela regionens vårdsystem.
+
+471
+00:22:40,000 --> 00:22:42,000
+ omställning av hela regionens vårdsystem.
+
+472
+00:22:42,000 --> 00:22:44,000
+ omställning av hela regionens vårdsystem.
+
+473
+00:22:44,000 --> 00:22:46,000
+ omställning av hela regionens vårdsystem.
+
+474
+00:22:46,000 --> 00:22:48,000
+ omställning av hela regionens vårdsystem.
+
+475
+00:22:48,000 --> 00:22:50,000
+ omställning av hela regionens vårdsystem.
+
+476
+00:22:50,000 --> 00:22:52,000
+ omställning av hela regionens vårdsystem.
+
+477
+00:22:52,000 --> 00:22:54,000
+ omställning av hela regionens vårdsystem.
+
+478
+00:22:54,000 --> 00:22:56,000
+ omställning av hela regionens vårdsystem.
+
+479
+00:22:56,000 --> 00:22:58,000
+ omställning av hela regionens vårdsystem.
+
+480
+00:22:58,000 --> 00:23:00,000
+ omställning av hela regionens vårdsystem.
+
+481
+00:23:00,000 --> 00:23:02,000
+ omställning av hela regionens vårdsystem.
+
+482
+00:23:02,000 --> 00:23:04,000
+ omställning av hela regionens vårdsystem.
+
+483
+00:23:04,000 --> 00:23:06,000
+ omställning av hela regionens vårdsystem.
+
+484
+00:23:06,000 --> 00:23:08,000
+ omställning av hela regionens vårdsystem.
+
+485
+00:23:08,000 --> 00:23:10,000
+ omställning av hela regionens vårdsystem.
+
+486
+00:23:10,000 --> 00:23:12,000
+ omställning av hela regionens vårdsystem.
+
+487
+00:23:12,000 --> 00:23:14,000
+ omställning av hela regionens vårdsystem.
+
+488
+00:23:14,000 --> 00:23:16,000
+ omställning av hela regionens vårdsystem.
+
+489
+00:23:16,000 --> 00:23:18,000
+ omställning av hela regionens vårdsystem.
+
+490
+00:23:18,000 --> 00:23:20,000
+ omställning av hela regionens vårdsystem.
+
+491
+00:23:20,000 --> 00:23:22,000
+ omställning av hela regionens vårdsystem.
+
+492
+00:23:22,000 --> 00:23:24,000
+ omställning av hela regionens vårdsystem.
+
+493
+00:23:24,000 --> 00:23:26,000
+ omställning av hela regionens vårdsystem.
+
+494
+00:23:26,000 --> 00:23:28,000
+ omställning av hela regionens vårdsystem.
+
+495
+00:23:28,000 --> 00:23:30,000
+ omställning av hela regionens vårdsystem.
+
+496
+00:23:30,000 --> 00:23:32,000
+ omställning av hela regionens vårdsystem.
+
+497
+00:23:32,000 --> 00:23:34,000
+ omställning av hela regionens vårdsystem.
+
+498
+00:23:34,000 --> 00:23:36,000
+ omställning av hela regionens vårdsystem.
+
+499
+00:23:36,000 --> 00:23:38,000
+ omställning av hela regionens vårdsystem.
+
+500
+00:23:38,000 --> 00:23:40,000
+ omställning av hela regionens vårdsystem.
+
+501
+00:23:40,000 --> 00:23:42,000
+ omställning av hela regionens vårdsystem.
+
+502
+00:23:42,000 --> 00:23:44,000
+ omställning av hela regionens vårdsystem.
+
+503
+00:23:44,000 --> 00:23:46,000
+ omställning av hela regionens vårdsystem.
+
+504
+00:23:46,000 --> 00:23:48,000
+ omställning av hela regionens vårdsystem.
+
+505
+00:23:48,000 --> 00:23:50,000
+ omställning av hela regionens vårdsystem.
+
+506
+00:23:50,000 --> 00:23:52,000
+ omställning av hela regionens vårdsystem.
+
+507
+00:23:52,000 --> 00:23:54,000
+ omställning av hela regionens vårdsystem.
+
+508
+00:23:54,000 --> 00:23:56,000
+ omställning av hela regionens vårdsystem.
+
+509
+00:23:56,000 --> 00:23:58,000
+ omställning av hela regionens vårdsystem.
+
+510
+00:23:58,000 --> 00:24:00,000
+ omställning av hela regionens vårdsystem.
+
+511
+00:24:00,000 --> 00:24:02,000
+ omställning av hela regionens vårdsystem.
+
+512
+00:24:02,000 --> 00:24:04,000
+ omställning av hela regionens vårdsystem.
+
+513
+00:24:04,000 --> 00:24:06,000
+ omställning av hela regionens vårdsystem.
+
+514
+00:24:06,000 --> 00:24:08,000
+ omställning av hela regionens vårdsystem.
+
+515
+00:24:08,000 --> 00:24:10,000
+ omställning av hela regionens vårdsystem.
+
+516
+00:24:10,000 --> 00:24:12,000
+ omställning av hela regionens vårdsystem.
+
+517
+00:24:12,000 --> 00:24:14,000
+ omställning av hela regionens vårdsystem.
+
+518
+00:24:14,000 --> 00:24:16,000
+ omställning av hela regionens vårdsystem.
+
+519
+00:24:16,000 --> 00:24:18,000
+ omställning av hela regionens vårdsystem.
+
+520
+00:24:18,000 --> 00:24:20,000
+ omställning av hela regionens vårdsystem.
+
+521
+00:24:20,000 --> 00:24:22,000
+ omställning av hela regionens vårdsystem.
+
+522
+00:24:22,000 --> 00:24:24,000
+ omställning av hela regionens vårdsystem.
+
+523
+00:24:24,000 --> 00:24:26,000
+ omställning av hela regionens vårdsystem.
+
+524
+00:24:26,000 --> 00:24:28,000
+ omställning av hela regionens vårdsystem.
+
+525
+00:24:28,000 --> 00:24:30,000
+ omställning av hela regionens vårdsystem.
+
+526
+00:24:30,000 --> 00:24:32,000
+ omställning av hela regionens vårdsystem.
+
+527
+00:24:32,000 --> 00:24:34,000
+ omställning av hela regionens vårdsystem.
+
+528
+00:24:34,000 --> 00:24:36,000
+ omställning av hela regionens vårdsystem.
+
+529
+00:24:36,000 --> 00:24:38,000
+ omställning av hela regionens vårdsystem.
+
+530
+00:24:38,000 --> 00:24:40,000
+ omställning av hela regionens vårdsystem.
+
+531
+00:24:40,000 --> 00:24:42,000
+ omställning av hela regionens vårdsystem.
+
+532
+00:24:42,000 --> 00:24:44,000
+ omställning av hela regionens vårdsystem.
+
+533
+00:24:44,000 --> 00:24:46,000
+ omställning av hela regionens vårdsystem.
+
+534
+00:24:46,000 --> 00:24:48,000
+ omställning av hela regionens vårdsystem.
+
+535
+00:24:48,000 --> 00:24:50,000
+ omställning av hela regionens vårdsystem.
+
+536
+00:24:50,000 --> 00:24:52,000
+ omställning av hela regionens vårdsystem.
+
+537
+00:24:52,000 --> 00:24:54,000
+ omställning av hela regionens vårdsystem.
+
+538
+00:24:54,000 --> 00:24:56,000
+ omställning av hela regionens vårdsystem.
+
+539
+00:24:56,000 --> 00:24:58,000
+ omställning av hela regionens vårdsystem.
+
+540
+00:24:58,000 --> 00:25:00,000
+ omställning av hela regionens vårdsystem.
+
+541
+00:25:00,000 --> 00:25:02,000
+ omställning av hela regionens vårdsystem.
+
+542
+00:25:02,000 --> 00:25:04,000
+ omställning av hela regionens vårdsystem.
+
+543
+00:25:04,000 --> 00:25:06,000
+ omställning av hela regionens vårdsystem.
+
+544
+00:25:06,000 --> 00:25:08,000
+ omställning av hela regionens vårdsystem.
+
+545
+00:25:08,000 --> 00:25:10,000
+ omställning av hela regionens vårdsystem.
+
+546
+00:25:10,000 --> 00:25:12,000
+ omställning av hela regionens vårdsystem.
+
+547
+00:25:12,000 --> 00:25:14,000
+ omställning av hela regionens vårdsystem.
+
+548
+00:25:14,000 --> 00:25:16,000
+ omställning av hela regionens vårdsystem.
+
+549
+00:25:16,000 --> 00:25:18,000
+ omställning av hela regionens vårdsystem.
+
+550
+00:25:18,000 --> 00:25:20,000
+ omställning av hela regionens vårdsystem.
+
+551
+00:25:20,000 --> 00:25:22,000
+ omställning av hela regionens vårdsystem.
+
+552
+00:25:22,000 --> 00:25:24,000
+ omställning av hela regionens vårdsystem.
+
+553
+00:25:24,000 --> 00:25:26,000
+ omställning av hela regionens vårdsystem.
+
+554
+00:25:26,000 --> 00:25:28,000
+ omställning av hela regionens vårdsystem.
+
+555
+00:25:28,000 --> 00:25:30,000
+ omställning av hela regionens vårdsystem.
+
+556
+00:25:30,000 --> 00:25:32,000
+ omställning av hela regionens vårdsystem.
+
+557
+00:25:32,000 --> 00:25:34,000
+ omställning av hela regionens vårdsystem.
+
+558
+00:25:34,000 --> 00:25:36,000
+ omställning av hela regionens vårdsystem.
+
+559
+00:25:36,000 --> 00:25:38,000
+ omställning av hela regionens vårdsystem.
+
+560
+00:25:38,000 --> 00:25:40,000
+ omställning av hela regionens vårdsystem.
+
+561
+00:25:40,000 --> 00:25:42,000
+ omställning av hela regionens vårdsystem.
+
+562
+00:25:42,000 --> 00:25:44,000
+ omställning av hela regionens vårdsystem.
+
+563
+00:25:44,000 --> 00:25:46,000
+ omställning av hela regionens vårdsystem.
+
+564
+00:25:46,000 --> 00:25:48,000
+ omställning av hela regionens vårdsystem.
+
+565
+00:25:48,000 --> 00:25:50,000
+ omställning av hela regionens vårdsystem.
+
+566
+00:25:50,000 --> 00:25:52,000
+ omställning av hela regionens vårdsystem.
+
+567
+00:25:52,000 --> 00:25:54,000
+ omställning av hela regionens vårdsystem.
+
+568
+00:25:54,000 --> 00:25:56,000
+ omställning av hela regionens vårdsystem.
+
+569
+00:25:56,000 --> 00:25:58,000
+ omställning av hela regionens vårdsystem.
+
+570
+00:25:58,000 --> 00:26:00,000
+ omställning av hela regionens vårdsystem.
+
+571
+00:26:00,000 --> 00:26:02,000
+ omställning av hela regionens vårdsystem.
+
+572
+00:26:02,000 --> 00:26:04,000
+ omställning av hela regionens vårdsystem.
+
+573
+00:26:04,000 --> 00:26:06,000
+ omställning av hela regionens vårdsystem.
+
+574
+00:26:06,000 --> 00:26:08,000
+ omställning av hela regionens vårdsystem.
+
+575
+00:26:08,000 --> 00:26:10,000
+ omställning av hela regionens vårdsystem.
+
+576
+00:26:10,000 --> 00:26:12,000
+ omställning av hela regionens vårdsystem.
+
+577
+00:26:12,000 --> 00:26:14,000
+ omställning av hela regionens vårdsystem.
+
+578
+00:26:14,000 --> 00:26:16,000
+ omställning av hela regionens vårdsystem.
+
+579
+00:26:16,000 --> 00:26:18,000
+ omställning av hela regionens vårdsystem.
+
+580
+00:26:18,000 --> 00:26:20,000
+ omställning av hela regionens vårdsystem.
+
+581
+00:26:20,000 --> 00:26:22,000
+ omställning av hela regionens vårdsystem.
+
+582
+00:26:22,000 --> 00:26:24,000
+ omställning av hela regionens vårdsystem.
+
+583
+00:26:24,000 --> 00:26:26,000
+ omställning av hela regionens vårdsystem.
+
+584
+00:26:26,000 --> 00:26:28,000
+ omställning av hela regionens vårdsystem.
+
+585
+00:26:28,000 --> 00:26:30,000
+ omställning av hela regionens vårdsystem.
+
+586
+00:26:30,000 --> 00:26:32,000
+ omställning av hela regionens vårdsystem.
+
+587
+00:26:32,000 --> 00:26:34,000
+ omställning av hela regionens vårdsystem.
+
+588
+00:26:34,000 --> 00:26:36,000
+ omställning av hela regionens vårdsystem.
+
+589
+00:26:36,000 --> 00:26:38,000
+ omställning av hela regionens vårdsystem.
+
+590
+00:26:38,000 --> 00:26:40,000
+ omställning av hela regionens vårdsystem.
+
+591
+00:26:40,000 --> 00:26:42,000
+ omställning av hela regionens vårdsystem.
+
+592
+00:26:42,000 --> 00:26:44,000
+ omställning av hela regionens vårdsystem.
+
+593
+00:26:44,000 --> 00:26:46,000
+ omställning av hela regionens vårdsystem.
+
+594
+00:26:46,000 --> 00:26:48,000
+ omställning av hela regionens vårdsystem.
+
+595
+00:26:48,000 --> 00:26:50,000
+ omställning av hela regionens vårdsystem.
+
+596
+00:26:50,000 --> 00:26:52,000
+ omställning av hela regionens vårdsystem.
+
+597
+00:26:52,000 --> 00:26:54,000
+ omställning av hela regionens vårdsystem.
+
+598
+00:26:54,000 --> 00:26:56,000
+ omställning av hela regionens vårdsystem.
+
+599
+00:26:56,000 --> 00:26:58,000
+ omställning av hela regionens vårdsystem.
+
+600
+00:26:58,000 --> 00:27:00,000
+ omställning av hela regionens vårdsystem.
+
+601
+00:27:00,000 --> 00:27:02,000
+ omställning av hela regionens vårdsystem.
+
+602
+00:27:02,000 --> 00:27:04,000
+ omställning av hela regionens vårdsystem.
+
+603
+00:27:04,000 --> 00:27:06,000
+ omställning av hela regionens vårdsystem.
+
+604
+00:27:06,000 --> 00:27:08,000
+ omställning av hela regionens vårdsystem.
+
+605
+00:27:08,000 --> 00:27:10,000
+ omställning av hela regionens vårdsystem.
+
+606
+00:27:10,000 --> 00:27:12,000
+ omställning av hela regionens vårdsystem.
+
+607
+00:27:12,000 --> 00:27:14,000
+ omställning av hela regionens vårdsystem.
+
+608
+00:27:14,000 --> 00:27:16,000
+ omställning av hela regionens vårdsystem.
+
+609
+00:27:16,000 --> 00:27:18,000
+ omställning av hela regionens vårdsystem.
+
+610
+00:27:18,000 --> 00:27:20,000
+ omställning av hela regionens vårdsystem.
+
+611
+00:27:20,000 --> 00:27:22,000
+ omställning av hela regionens vårdsystem.
+
+612
+00:27:22,000 --> 00:27:24,000
+ omställning av hela regionens vårdsystem.
+
+613
+00:27:24,000 --> 00:27:26,000
+ omställning av hela regionens vårdsystem.
+
+614
+00:27:26,000 --> 00:27:28,000
+ omställning av hela regionens vårdsystem.
+
+615
+00:27:28,000 --> 00:27:30,000
+ omställning av hela regionens vårdsystem.
+
+616
+00:27:30,000 --> 00:27:32,000
+ omställning av hela regionens vårdsystem.
+
+617
+00:27:32,000 --> 00:27:34,000
+ omställning av hela regionens vårdsystem.
+
+618
+00:27:34,000 --> 00:27:36,000
+ omställning av hela regionens vårdsystem.
+
+619
+00:27:36,000 --> 00:27:38,000
+ omställning av hela regionens vårdsystem.
+
+620
+00:27:38,000 --> 00:27:40,000
+ omställning av hela regionens vårdsystem.
+
+621
+00:27:40,000 --> 00:27:42,000
+ omställning av hela regionens vårdsystem.
+
+622
+00:27:42,000 --> 00:27:44,000
+ omställning av hela regionens vårdsystem.
+
+623
+00:27:44,000 --> 00:27:46,000
+ omställning av hela regionens vårdsystem.
+
+624
+00:27:46,000 --> 00:27:48,000
+ omställning av hela regionens vårdsystem.
+
+625
+00:27:48,000 --> 00:27:50,000
+ omställning av hela regionens vårdsystem.
+
+626
+00:27:50,000 --> 00:27:52,000
+ omställning av hela regionens vårdsystem.
+
+627
+00:27:52,000 --> 00:27:54,000
+ omställning av hela regionens vårdsystem.
+
+628
+00:27:54,000 --> 00:27:56,000
+ omställning av hela regionens vårdsystem.
+
+629
+00:27:56,000 --> 00:27:58,000
+ omställning av hela regionens vårdsystem.
+
+630
+00:27:58,000 --> 00:28:00,000
+ omställning av hela regionens vårdsystem.
+
+631
+00:28:00,000 --> 00:28:02,000
+ omställning av hela regionens vårdsystem.
+
+632
+00:28:02,000 --> 00:28:04,000
+ omställning av hela regionens vårdsystem.
+
+633
+00:28:04,000 --> 00:28:06,000
+ omställning av hela regionens vårdsystem.
+
+634
+00:28:06,000 --> 00:28:08,000
+ omställning av hela regionens vårdsystem.
+
+635
+00:28:08,000 --> 00:28:10,000
+ omställning av hela regionens vårdsystem.
+
+636
+00:28:10,000 --> 00:28:12,000
+ omställning av hela regionens vårdsystem.
+
+637
+00:28:12,000 --> 00:28:14,000
+ omställning av hela regionens vårdsystem.
+
+638
+00:28:14,000 --> 00:28:16,000
+ omställning av hela regionens vårdsystem.
+
+639
+00:28:16,000 --> 00:28:18,000
+ omställning av hela regionens vårdsystem.
+
+640
+00:28:18,000 --> 00:28:20,000
+ omställning av hela regionens vårdsystem.
+
+641
+00:28:20,000 --> 00:28:22,000
+ omställning av hela regionens vårdsystem.
+
+642
+00:28:22,000 --> 00:28:24,000
+ omställning av hela regionens vårdsystem.
+
+643
+00:28:24,000 --> 00:28:26,000
+ omställning av hela regionens vårdsystem.
+
+644
+00:28:26,000 --> 00:28:28,000
+ omställning av hela regionens vårdsystem.
+
+645
+00:28:28,000 --> 00:28:30,000
+ omställning av hela regionens vårdsystem.
+
+646
+00:28:30,000 --> 00:28:32,000
+ omställning av hela regionens vårdsystem.
+
+647
+00:28:32,000 --> 00:28:34,000
+ omställning av hela regionens vårdsystem.
+
+648
+00:28:34,000 --> 00:28:36,000
+ omställning av hela regionens vårdsystem.
+
+649
+00:28:36,000 --> 00:28:38,000
+ omställning av hela regionens vårdsystem.
+
+650
+00:28:38,000 --> 00:28:40,000
+ omställning av hela regionens vårdsystem.
+
+651
+00:28:40,000 --> 00:28:42,000
+ omställning av hela regionens vårdsystem.
+
+652
+00:28:42,000 --> 00:28:44,000
+ omställning av hela regionens vårdsystem.
+
+653
+00:28:44,000 --> 00:28:46,000
+ omställning av hela regionens vårdsystem.
+
+654
+00:28:46,000 --> 00:28:48,000
+ omställning av hela regionens vårdsystem.
+
+655
+00:28:48,000 --> 00:28:50,000
+ omställning av hela regionens vårdsystem.
+
+656
+00:28:50,000 --> 00:28:52,000
+ omställning av hela regionens vårdsystem.
+
+657
+00:28:52,000 --> 00:28:54,000
+ omställning av hela regionens vårdsystem.
+
+658
+00:28:54,000 --> 00:28:56,000
+ omställning av hela regionens vårdsystem.
+
+659
+00:28:56,000 --> 00:28:58,000
+ omställning av hela regionens vårdsystem.
+
+660
+00:28:58,000 --> 00:29:00,000
+ omställning av hela regionens vårdsystem.
+
+661
+00:29:00,000 --> 00:29:02,000
+ omställning av hela regionens vårdsystem.
+
+662
+00:29:02,000 --> 00:29:04,000
+ omställning av hela regionens vårdsystem.
+
+663
+00:29:04,000 --> 00:29:06,000
+ omställning av hela regionens vårdsystem.
+
+664
+00:29:06,000 --> 00:29:08,000
+ omställning av hela regionens vårdsystem.
+
+665
+00:29:08,000 --> 00:29:10,000
+ omställning av hela regionens vårdsystem.
+
+666
+00:29:10,000 --> 00:29:12,000
+ omställning av hela regionens vårdsystem.
+
+667
+00:29:12,000 --> 00:29:14,000
+ omställning av hela regionens vårdsystem.
+
+668
+00:29:14,000 --> 00:29:16,000
+ omställning av hela regionens vårdsystem.
+
+669
+00:29:16,000 --> 00:29:18,000
+ omställning av hela regionens vårdsystem.
+
+670
+00:29:18,000 --> 00:29:20,000
+ omställning av hela regionens vårdsystem.
+
+671
+00:29:20,000 --> 00:29:22,000
+ omställning av hela regionens vårdsystem.
+
+672
+00:29:22,000 --> 00:29:24,000
+ omställning av hela regionens vårdsystem.
+
+673
+00:29:24,000 --> 00:29:26,000
+ omställning av hela regionens vårdsystem.
+
+674
+00:29:26,000 --> 00:29:28,000
+ omställning av hela regionens vårdsystem.
+
+675
+00:29:28,000 --> 00:29:30,000
+ omställning av hela regionens vårdsystem.
+
+676
+00:29:30,000 --> 00:29:32,000
+ omställning av hela regionens vårdsystem.
+
+677
+00:29:32,000 --> 00:29:34,000
+ omställning av hela regionens vårdsystem.
+
+678
+00:29:34,000 --> 00:29:36,000
+ omställning av hela regionens vårdsystem.
+
+679
+00:29:36,000 --> 00:29:38,000
+ omställning av hela regionens vårdsystem.
+
+680
+00:29:38,000 --> 00:29:40,000
+ omställning av hela regionens vårdsystem.
+
+681
+00:29:40,000 --> 00:29:42,000
+ omställning av hela regionens vårdsystem.
+
+682
+00:29:42,000 --> 00:29:44,000
+ omställning av hela regionens vårdsystem.
+
+683
+00:29:44,000 --> 00:29:46,000
+ omställning av hela regionens vårdsystem.
+
+684
+00:29:46,000 --> 00:29:48,000
+ omställning av hela regionens vårdsystem.
+
+685
+00:29:48,000 --> 00:29:50,000
+ omställning av hela regionens vårdsystem.
+
+686
+00:29:50,000 --> 00:29:52,000
+ omställning av hela regionens vårdsystem.
+
+687
+00:29:52,000 --> 00:29:54,000
+ omställning av hela regionens vårdsystem.
+
+688
+00:29:54,000 --> 00:29:56,000
+ omställning av hela regionens vårdsystem.
+
+689
+00:29:56,000 --> 00:29:58,000
+ omställning av hela regionens vårdsystem.
+
+690
+00:29:58,000 --> 00:30:00,000
+ omställning av hela regionens vårdsystem.
+
+691
+00:30:00,000 --> 00:30:02,000
+ omställning av hela regionens vårdsystem.
+
+692
+00:30:02,000 --> 00:30:04,000
+ omställning av hela regionens vårdsystem.
+
+693
+00:30:04,000 --> 00:30:06,000
+ omställning av hela regionens vårdsystem.
+
+694
+00:30:06,000 --> 00:30:08,000
+ omställning av hela regionens vårdsystem.
+
+695
+00:30:08,000 --> 00:30:10,000
+ omställning av hela regionens vårdsystem.
+
+696
+00:30:10,000 --> 00:30:12,000
+ omställning av hela regionens vårdsystem.
+
+697
+00:30:12,000 --> 00:30:14,000
+ omställning av hela regionens vårdsystem.
+
+698
+00:30:14,000 --> 00:30:16,000
+ omställning av hela regionens vårdsystem.
+
+699
+00:30:16,000 --> 00:30:18,000
+ omställning av hela regionens vårdsystem.
+
+700
+00:30:18,000 --> 00:30:20,000
+ omställning av hela regionens vårdsystem.
+
+701
+00:30:20,000 --> 00:30:22,000
+ omställning av hela regionens vårdsystem.
+
+702
+00:30:22,000 --> 00:30:24,000
+ omställning av hela regionens vårdsystem.
+
+703
+00:30:24,000 --> 00:30:26,000
+ omställning av hela regionens vårdsystem.
+
+704
+00:30:26,000 --> 00:30:28,000
+ omställning av hela regionens vårdsystem.
+
+705
+00:30:28,000 --> 00:30:30,000
+ omställning av hela regionens vårdsystem.
+
+706
+00:30:30,000 --> 00:30:32,000
+ omställning av hela regionens vårdsystem.
+
+707
+00:30:32,000 --> 00:30:34,000
+ omställning av hela regionens vårdsystem.
+
+708
+00:30:34,000 --> 00:30:36,000
+ omställning av hela regionens vårdsystem.
+
+709
+00:30:36,000 --> 00:30:38,000
+ omställning av hela regionens vårdsystem.
+
+710
+00:30:38,000 --> 00:30:40,000
+ omställning av hela regionens vårdsystem.
+
+711
+00:30:40,000 --> 00:30:42,000
+ omställning av hela regionens vårdsystem.
+
+712
+00:30:42,000 --> 00:30:44,000
+ omställning av hela regionens vårdsystem.
+
+713
+00:30:44,000 --> 00:30:46,000
+ omställning av hela regionens vårdsystem.
+
+714
+00:30:46,000 --> 00:30:48,000
+ omställning av hela regionens vårdsystem.
+
+715
+00:30:48,000 --> 00:30:50,000
+ omställning av hela regionens vårdsystem.
+
+716
+00:30:50,000 --> 00:30:52,000
+ omställning av hela regionens vårdsystem.
+
+717
+00:30:52,000 --> 00:30:54,000
+ omställning av hela regionens vårdsystem.
+
+718
+00:30:54,000 --> 00:30:56,000
+ omställning av hela regionens vårdsystem.
+
+719
+00:30:56,000 --> 00:30:58,000
+ omställning av hela regionens vårdsystem.
+
+720
+00:30:58,000 --> 00:31:00,000
+ omställning av hela regionens vårdsystem.
+
+721
+00:31:00,000 --> 00:31:02,000
+ omställning av hela regionens vårdsystem.
+
+722
+00:31:02,000 --> 00:31:04,000
+ omställning av hela regionens vårdsystem.
+
+723
+00:31:04,000 --> 00:31:06,000
+ omställning av hela regionens vårdsystem.
+
+724
+00:31:06,000 --> 00:31:08,000
+ omställning av hela regionens vårdsystem.
+
+725
+00:31:08,000 --> 00:31:10,000
+ omställning av hela regionens vårdsystem.
+
+726
+00:31:10,000 --> 00:31:12,000
+ omställning av hela regionens vårdsystem.
+
+727
+00:31:12,000 --> 00:31:14,000
+ omställning av hela regionens vårdsystem.
+
+728
+00:31:14,000 --> 00:31:16,000
+ omställning av hela regionens vårdsystem.
+
+729
+00:31:16,000 --> 00:31:18,000
+ omställning av hela regionens vårdsystem.
+
+730
+00:31:18,000 --> 00:31:20,000
+ omställning av hela regionens vårdsystem.
+
+731
+00:31:20,000 --> 00:31:22,000
+ omställning av hela regionens vårdsystem.
+
+732
+00:31:22,000 --> 00:31:24,000
+ omställning av hela regionens vårdsystem.
+
+733
+00:31:24,000 --> 00:31:26,000
+ omställning av hela regionens vårdsystem.
+
+734
+00:31:26,000 --> 00:31:28,000
+ omställning av hela regionens vårdsystem.
+
+735
+00:31:28,000 --> 00:31:30,000
+ omställning av hela regionens vårdsystem.
+
+736
+00:31:30,000 --> 00:31:32,000
+ omställning av hela regionens vårdsystem.
+
+737
+00:31:32,000 --> 00:31:34,000
+ omställning av hela regionens vårdsystem.
+
+738
+00:31:34,000 --> 00:31:36,000
+ omställning av hela regionens vårdsystem.
+
+739
+00:31:36,000 --> 00:31:38,000
+ omställning av hela regionens vårdsystem.
+
+740
+00:31:38,000 --> 00:31:40,000
+ omställning av hela regionens vårdsystem.
+
+741
+00:31:40,000 --> 00:31:42,000
+ omställning av hela regionens vårdsystem.
+
+742
+00:31:42,000 --> 00:31:44,000
+ omställning av hela regionens vårdsystem.
+
+743
+00:31:44,000 --> 00:31:46,000
+ omställning av hela regionens vårdsystem.
+
+744
+00:31:46,000 --> 00:31:48,000
+ omställning av hela regionens vårdsystem.
+
+745
+00:31:48,000 --> 00:31:50,000
+ omställning av hela regionens vårdsystem.
+
+746
+00:31:50,000 --> 00:31:52,000
+ omställning av hela regionens vårdsystem.
+
+747
+00:31:52,000 --> 00:31:54,000
+ omställning av hela regionens vårdsystem.
+
+748
+00:31:54,000 --> 00:31:56,000
+ omställning av hela regionens vårdsystem.
+
+749
+00:31:56,000 --> 00:31:58,000
+ omställning av hela regionens vårdsystem.
+
+750
+00:31:58,000 --> 00:32:00,000
+ omställning av hela regionens vårdsystem.
+
+751
+00:32:00,000 --> 00:32:02,000
+ omställning av hela regionens vårdsystem.
+
+752
+00:32:02,000 --> 00:32:04,000
+ omställning av hela regionens vårdsystem.
+
+753
+00:32:04,000 --> 00:32:06,000
+ omställning av hela regionens vårdsystem.
+
+754
+00:32:06,000 --> 00:32:08,000
+ omställning av hela regionens vårdsystem.
+
+755
+00:32:08,000 --> 00:32:10,000
+ omställning av hela regionens vårdsystem.
+
+756
+00:32:10,000 --> 00:32:12,000
+ omställning av hela regionens vårdsystem.
+
+757
+00:32:12,000 --> 00:32:14,000
+ omställning av hela regionens vårdsystem.
+
+758
+00:32:14,000 --> 00:32:16,000
+ omställning av hela regionens vårdsystem.
+
+759
+00:32:16,000 --> 00:32:18,000
+ omställning av hela regionens vårdsystem.
+
+760
+00:32:18,000 --> 00:32:20,000
+ omställning av hela regionens vårdsystem.
+
+761
+00:32:20,000 --> 00:32:22,000
+ omställning av hela regionens vårdsystem.
+
+762
+00:32:22,000 --> 00:32:24,000
+ omställning av hela regionens vårdsystem.
+
+763
+00:32:24,000 --> 00:32:26,000
+ omställning av hela regionens vårdsystem.
+
+764
+00:32:26,000 --> 00:32:28,000
+ omställning av hela regionens vårdsystem.
+
+765
+00:32:28,000 --> 00:32:30,000
+ omställning av hela regionens vårdsystem.
+
+766
+00:32:30,000 --> 00:32:32,000
+ omställning av hela regionens vårdsystem.
+
+767
+00:32:32,000 --> 00:32:34,000
+ omställning av hela regionens vårdsystem.
+
+768
+00:32:34,000 --> 00:32:36,000
+ omställning av hela regionens vårdsystem.
+
+769
+00:32:36,000 --> 00:32:38,000
+ omställning av hela regionens vårdsystem.
+
+770
+00:32:38,000 --> 00:32:40,000
+ omställning av hela regionens vårdsystem.
+
+771
+00:32:40,000 --> 00:32:42,000
+ omställning av hela regionens vårdsystem.
+
+772
+00:32:42,000 --> 00:32:44,000
+ omställning av hela regionens vårdsystem.
+
+773
+00:32:44,000 --> 00:32:46,000
+ omställning av hela regionens vårdsystem.
+
+774
+00:32:46,000 --> 00:32:48,000
+ omställning av hela regionens vårdsystem.
+
+775
+00:32:48,000 --> 00:32:50,000
+ omställning av hela regionens vårdsystem.
+
+776
+00:32:50,000 --> 00:32:52,000
+ omställning av hela regionens vårdsystem.
+
+777
+00:32:52,000 --> 00:32:54,000
+ omställning av hela regionens vårdsystem.
+
+778
+00:32:54,000 --> 00:32:56,000
+ omställning av hela regionens vårdsystem.
+
+779
+00:32:56,000 --> 00:32:58,000
+ omställning av hela regionens vårdsystem.
+
+780
+00:32:58,000 --> 00:33:00,000
+ omställning av hela regionens vårdsystem.
+
+781
+00:33:00,000 --> 00:33:02,000
+ omställning av hela regionens vårdsystem.
+
+782
+00:33:02,000 --> 00:33:04,000
+ omställning av hela regionens vårdsystem.
+
+783
+00:33:04,000 --> 00:33:06,000
+ omställning av hela regionens vårdsystem.
+
+784
+00:33:06,000 --> 00:33:08,000
+ omställning av hela regionens vårdsystem.
+
+785
+00:33:08,000 --> 00:33:10,000
+ omställning av hela regionens vårdsystem.
+
+786
+00:33:10,000 --> 00:33:12,000
+ omställning av hela regionens vårdsystem.
+
+787
+00:33:12,000 --> 00:33:14,000
+ omställning av hela regionens vårdsystem.
+
+788
+00:33:14,000 --> 00:33:16,000
+ omställning av hela regionens vårdsystem.
+
+789
+00:33:16,000 --> 00:33:18,000
+ omställning av hela regionens vårdsystem.
+
+790
+00:33:18,000 --> 00:33:20,000
+ omställning av hela regionens vårdsystem.
+
+791
+00:33:20,000 --> 00:33:22,000
+ omställning av hela regionens vårdsystem.
+
+792
+00:33:22,000 --> 00:33:24,000
+ omställning av hela regionens vårdsystem.
+
+793
+00:33:24,000 --> 00:33:26,000
+ omställning av hela regionens vårdsystem.
+
+794
+00:33:26,000 --> 00:33:28,000
+ omställning av hela regionens vårdsystem.
+
+795
+00:33:28,000 --> 00:33:30,000
+ omställning av hela regionens vårdsystem.
+
+796
+00:33:30,000 --> 00:33:32,000
+ omställning av hela regionens vårdsystem.
+
+797
+00:33:32,000 --> 00:33:34,000
+ omställning av hela regionens vårdsystem.
+
+798
+00:33:34,000 --> 00:33:36,000
+ omställning av hela regionens vårdsystem.
+
+799
+00:33:36,000 --> 00:33:38,000
+ omställning av hela regionens vårdsystem.
+
+800
+00:33:38,000 --> 00:33:40,000
+ omställning av hela regionens vårdsystem.
+
+801
+00:33:40,000 --> 00:33:42,000
+ omställning av hela regionens vårdsystem.
+
+802
+00:33:42,000 --> 00:33:44,000
+ omställning av hela regionens vårdsystem.
+
+803
+00:33:44,000 --> 00:33:46,000
+ omställning av hela regionens vårdsystem.
+
+804
+00:33:46,000 --> 00:33:48,000
+ omställning av hela regionens vårdsystem.
+
+805
+00:33:48,000 --> 00:33:50,000
+ omställning av hela regionens vårdsystem.
+
+806
+00:33:50,000 --> 00:33:52,000
+ omställning av hela regionens vårdsystem.
+
+807
+00:33:52,000 --> 00:33:54,000
+ omställning av hela regionens vårdsystem.
+
+808
+00:33:54,000 --> 00:33:56,000
+ omställning av hela regionens vårdsystem.
+
+809
+00:33:56,000 --> 00:33:58,000
+ omställning av hela regionens vårdsystem.
+
+810
+00:33:58,000 --> 00:34:00,000
+ omställning av hela regionens vårdsystem.
+
+811
+00:34:00,000 --> 00:34:02,000
+ omställning av hela regionens vårdsystem.
+
+812
+00:34:02,000 --> 00:34:04,000
+ omställning av hela regionens vårdsystem.
+
+813
+00:34:04,000 --> 00:34:06,000
+ omställning av hela regionens vårdsystem.
+
+814
+00:34:06,000 --> 00:34:08,000
+ omställning av hela regionens vårdsystem.
+
+815
+00:34:08,000 --> 00:34:10,000
+ omställning av hela regionens vårdsystem.
+
+816
+00:34:10,000 --> 00:34:12,000
+ omställning av hela regionens vårdsystem.
+
+817
+00:34:12,000 --> 00:34:14,000
+ omställning av hela regionens vårdsystem.
+
+818
+00:34:14,000 --> 00:34:16,000
+ omställning av hela regionens vårdsystem.
+
+819
+00:34:16,000 --> 00:34:18,000
+ omställning av hela regionens vårdsystem.
+
+820
+00:34:18,000 --> 00:34:20,000
+ omställning av hela regionens vårdsystem.
+
+821
+00:34:20,000 --> 00:34:22,000
+ omställning av hela regionens vårdsystem.
+
+822
+00:34:22,000 --> 00:34:24,000
+ omställning av hela regionens vårdsystem.
+
+823
+00:34:24,000 --> 00:34:26,000
+ omställning av hela regionens vårdsystem.
+
+824
+00:34:26,000 --> 00:34:28,000
+ omställning av hela regionens vårdsystem.
+
+825
+00:34:28,000 --> 00:34:30,000
+ omställning av hela regionens vårdsystem.
+
+826
+00:34:30,000 --> 00:34:32,000
+ omställning av hela regionens vårdsystem.
+
+827
+00:34:32,000 --> 00:34:34,000
+ omställning av hela regionens vårdsystem.
+
+828
+00:34:34,000 --> 00:34:36,000
+ omställning av hela regionens vårdsystem.
+
+829
+00:34:36,000 --> 00:34:38,000
+ omställning av hela regionens vårdsystem.
+
+830
+00:34:38,000 --> 00:34:40,000
+ omställning av hela regionens vårdsystem.
+
+831
+00:34:40,000 --> 00:34:42,000
+ omställning av hela regionens vårdsystem.
+
+832
+00:34:42,000 --> 00:34:44,000
+ omställning av hela regionens vårdsystem.
+
+833
+00:34:44,000 --> 00:34:46,000
+ omställning av hela regionens vårdsystem.
+
+834
+00:34:46,000 --> 00:34:48,000
+ omställning av hela regionens vårdsystem.
+
+835
+00:34:48,000 --> 00:34:50,000
+ omställning av hela regionens vårdsystem.
+
+836
+00:34:50,000 --> 00:34:52,000
+ omställning av hela regionens vårdsystem.
+
+837
+00:34:52,000 --> 00:34:54,000
+ omställning av hela regionens vårdsystem.
+
+838
+00:34:54,000 --> 00:34:56,000
+ omställning av hela regionens vårdsystem.
+
+839
+00:34:56,000 --> 00:34:58,000
+ omställning av hela regionens vårdsystem.
+
+840
+00:34:58,000 --> 00:35:00,000
+ omställning av hela regionens vårdsystem.
+
+841
+00:35:00,000 --> 00:35:02,000
+ omställning av hela regionens vårdsystem.
+
+842
+00:35:02,000 --> 00:35:04,000
+ omställning av hela regionens vårdsystem.
+
+843
+00:35:04,000 --> 00:35:06,000
+ omställning av hela regionens vårdsystem.
+
+844
+00:35:06,000 --> 00:35:08,000
+ omställning av hela regionens vårdsystem.
+
+845
+00:35:08,000 --> 00:35:10,000
+ omställning av hela regionens vårdsystem.
+
+846
+00:35:10,000 --> 00:35:12,000
+ omställning av hela regionens vårdsystem.
+
+847
+00:35:12,000 --> 00:35:14,000
+ omställning av hela regionens vårdsystem.
+
+848
+00:35:14,000 --> 00:35:16,000
+ omställning av hela regionens vårdsystem.
+
+849
+00:35:16,000 --> 00:35:18,000
+ omställning av hela regionens vårdsystem.
+
+850
+00:35:18,000 --> 00:35:20,000
+ omställning av hela regionens vårdsystem.
+
+851
+00:35:20,000 --> 00:35:22,000
+ omställning av hela regionens vårdsystem.
+
+852
+00:35:22,000 --> 00:35:24,000
+ omställning av hela regionens vårdsystem.
+
+853
+00:35:24,000 --> 00:35:26,000
+ omställning av hela regionens vårdsystem.
+
+854
+00:35:26,000 --> 00:35:28,000
+ omställning av hela regionens vårdsystem.
+
+855
+00:35:28,000 --> 00:35:30,000
+ omställning av hela regionens vårdsystem.
+
+856
+00:35:30,000 --> 00:35:32,000
+ omställning av hela regionens vårdsystem.
+
+857
+00:35:32,000 --> 00:35:34,000
+ omställning av hela regionens vårdsystem.
+
+858
+00:35:34,000 --> 00:35:36,000
+ omställning av hela regionens vårdsystem.
+
+859
+00:35:36,000 --> 00:35:38,000
+ omställning av hela regionens vårdsystem.
+
+860
+00:35:38,000 --> 00:35:40,000
+ omställning av hela regionens vårdsystem.
+
+861
+00:35:40,000 --> 00:35:42,000
+ omställning av hela regionens vårdsystem.
+
+862
+00:35:42,000 --> 00:35:44,000
+ omställning av hela regionens vårdsystem.
+
+863
+00:35:44,000 --> 00:35:46,000
+ omställning av hela regionens vårdsystem.
+
+864
+00:35:46,000 --> 00:35:48,000
+ omställning av hela regionens vårdsystem.
+
+865
+00:35:48,000 --> 00:35:50,000
+ omställning av hela regionens vårdsystem.
+
+866
+00:35:50,000 --> 00:35:52,000
+ omställning av hela regionens vårdsystem.
+
+867
+00:35:52,000 --> 00:35:54,000
+ omställning av hela regionens vårdsystem.
+
+868
+00:35:54,000 --> 00:35:56,000
+ omställning av hela regionens vårdsystem.
+
+869
+00:35:56,000 --> 00:35:58,000
+ omställning av hela regionens vårdsystem.
+
+870
+00:35:58,000 --> 00:36:00,000
+ omställning av hela regionens vårdsystem.
+
+871
+00:36:00,000 --> 00:36:02,000
+ omställning av hela regionens vårdsystem.
+
+872
+00:36:02,000 --> 00:36:04,000
+ omställning av hela regionens vårdsystem.
+
+873
+00:36:04,000 --> 00:36:06,000
+ omställning av hela regionens vårdsystem.
+
+874
+00:36:06,000 --> 00:36:08,000
+ omställning av hela regionens vårdsystem.
+
+875
+00:36:08,000 --> 00:36:10,000
+ omställning av hela regionens vårdsystem.
+
+876
+00:36:10,000 --> 00:36:12,000
+ omställning av hela regionens vårdsystem.
+
+877
+00:36:12,000 --> 00:36:14,000
+ omställning av hela regionens vårdsystem.
+
+878
+00:36:14,000 --> 00:36:16,000
+ omställning av hela regionens vårdsystem.
+
+879
+00:36:16,000 --> 00:36:18,000
+ omställning av hela regionens vårdsystem.
+
+880
+00:36:18,000 --> 00:36:20,000
+ omställning av hela regionens vårdsystem.
+
+881
+00:36:20,000 --> 00:36:22,000
+ omställning av hela regionens vårdsystem.
+
+882
+00:36:22,000 --> 00:36:24,000
+ omställning av hela regionens vårdsystem.
+
+883
+00:36:24,000 --> 00:36:26,000
+ omställning av hela regionens vårdsystem.
+
+884
+00:36:26,000 --> 00:36:28,000
+ omställning av hela regionens vårdsystem.
+
+885
+00:36:28,000 --> 00:36:30,000
+ omställning av hela regionens vårdsystem.
+
+886
+00:36:30,000 --> 00:36:32,000
+ omställning av hela regionens vårdsystem.
+
+887
+00:36:32,000 --> 00:36:34,000
+ omställning av hela regionens vårdsystem.
+
+888
+00:36:34,000 --> 00:36:36,000
+ omställning av hela regionens vårdsystem.
+
+889
+00:36:36,000 --> 00:36:38,000
+ omställning av hela regionens vårdsystem.
+
+890
+00:36:38,000 --> 00:36:40,000
+ omställning av hela regionens vårdsystem.
+
+891
+00:36:40,000 --> 00:36:42,000
+ omställning av hela regionens vårdsystem.
+
+892
+00:36:42,000 --> 00:36:44,000
+ omställning av hela regionens vårdsystem.
+
+893
+00:36:44,000 --> 00:36:46,000
+ omställning av hela regionens vårdsystem.
+
+894
+00:36:46,000 --> 00:36:48,000
+ omställning av hela regionens vårdsystem.
+
+895
+00:36:48,000 --> 00:36:50,000
+ omställning av hela regionens vårdsystem.
+
+896
+00:36:50,000 --> 00:36:52,000
+ omställning av hela regionens vårdsystem.
+
+897
+00:36:52,000 --> 00:36:54,000
+ omställning av hela regionens vårdsystem.
+
+898
+00:36:54,000 --> 00:36:56,000
+ omställning av hela regionens vårdsystem.
+
+899
+00:36:56,000 --> 00:36:58,000
+ omställning av hela regionens vårdsystem.
+
+900
+00:36:58,000 --> 00:37:00,000
+ omställning av hela regionens vårdsystem.
+
+901
+00:37:00,000 --> 00:37:02,000
+ omställning av hela regionens vårdsystem.
+
+902
+00:37:02,000 --> 00:37:04,000
+ omställning av hela regionens vårdsystem.
+
+903
+00:37:04,000 --> 00:37:06,000
+ omställning av hela regionens vårdsystem.
+
+904
+00:37:06,000 --> 00:37:08,000
+ omställning av hela regionens vårdsystem.
+
+905
+00:37:08,000 --> 00:37:10,000
+ omställning av hela regionens vårdsystem.
+
+906
+00:37:10,000 --> 00:37:12,000
+ omställning av hela regionens vårdsystem.
+
+907
+00:37:12,000 --> 00:37:14,000
+ omställning av hela regionens vårdsystem.
+
+908
+00:37:14,000 --> 00:37:16,000
+ omställning av hela regionens vårdsystem.
+
+909
+00:37:16,000 --> 00:37:18,000
+ omställning av hela regionens vårdsystem.
+
+910
+00:37:18,000 --> 00:37:20,000
+ omställning av hela regionens vårdsystem.
+
+911
+00:37:20,000 --> 00:37:22,000
+ omställning av hela regionens vårdsystem.
+
+912
+00:37:22,000 --> 00:37:24,000
+ omställning av hela regionens vårdsystem.
+
+913
+00:37:24,000 --> 00:37:26,000
+ omställning av hela regionens vårdsystem.
+
+914
+00:37:26,000 --> 00:37:28,000
+ omställning av hela regionens vårdsystem.
+
+915
+00:37:28,000 --> 00:37:30,000
+ omställning av hela regionens vårdsystem.
+
+916
+00:37:30,000 --> 00:37:32,000
+ omställning av hela regionens vårdsystem.
+
+917
+00:37:32,000 --> 00:37:34,000
+ omställning av hela regionens vårdsystem.
+
+918
+00:37:34,000 --> 00:37:36,000
+ omställning av hela regionens vårdsystem.
+
+919
+00:37:36,000 --> 00:37:38,000
+ omställning av hela regionens vårdsystem.
+
+920
+00:37:38,000 --> 00:37:40,000
+ omställning av hela regionens vårdsystem.
+
+921
+00:37:40,000 --> 00:37:42,000
+ omställning av hela regionens vårdsystem.
+
+922
+00:37:42,000 --> 00:37:44,000
+ omställning av hela regionens vårdsystem.
+
+923
+00:37:44,000 --> 00:37:46,000
+ omställning av hela regionens vårdsystem.
+
+924
+00:37:46,000 --> 00:37:48,000
+ omställning av hela regionens vårdsystem.
+
+925
+00:37:48,000 --> 00:37:50,000
+ omställning av hela regionens vårdsystem.
+
+926
+00:37:50,000 --> 00:37:52,000
+ omställning av hela regionens vårdsystem.
+
+927
+00:37:52,000 --> 00:37:54,000
+ omställning av hela regionens vårdsystem.
+
+928
+00:37:54,000 --> 00:37:56,000
+ omställning av hela regionens vårdsystem.
+
+929
+00:37:56,000 --> 00:37:58,000
+ omställning av hela regionens vårdsystem.
+
+930
+00:37:58,000 --> 00:38:00,000
+ omställning av hela regionens vårdsystem.
+
+931
+00:38:00,000 --> 00:38:02,000
+ omställning av hela regionens vårdsystem.
+
+932
+00:38:02,000 --> 00:38:04,000
+ omställning av hela regionens vårdsystem.
+
+933
+00:38:04,000 --> 00:38:06,000
+ omställning av hela regionens vårdsystem.
+
+934
+00:38:06,000 --> 00:38:08,000
+ omställning av hela regionens vårdsystem.
+
+935
+00:38:08,000 --> 00:38:10,000
+ omställning av hela regionens vårdsystem.
+
+936
+00:38:10,000 --> 00:38:12,000
+ omställning av hela regionens vårdsystem.
+
+937
+00:38:12,000 --> 00:38:14,000
+ omställning av hela regionens vårdsystem.
+
+938
+00:38:14,000 --> 00:38:16,000
+ omställning av hela regionens vårdsystem.
+
+939
+00:38:16,000 --> 00:38:18,000
+ omställning av hela regionens vårdsystem.
+
+940
+00:38:18,000 --> 00:38:20,000
+ omställning av hela regionens vårdsystem.
+
+941
+00:38:20,000 --> 00:38:22,000
+ omställning av hela regionens vårdsystem.
+
+942
+00:38:22,000 --> 00:38:24,000
+ omställning av hela regionens vårdsystem.
+
+943
+00:38:24,000 --> 00:38:26,000
+ omställning av hela regionens vårdsystem.
+
+944
+00:38:26,000 --> 00:38:28,000
+ omställning av hela regionens vårdsystem.
+
+945
+00:38:28,000 --> 00:38:30,000
+ omställning av hela regionens vårdsystem.
+
+946
+00:38:30,000 --> 00:38:32,000
+ omställning av hela regionens vårdsystem.
+
+947
+00:38:32,000 --> 00:38:34,000
+ omställning av hela regionens vårdsystem.
+
+948
+00:38:34,000 --> 00:38:36,000
+ omställning av hela regionens vårdsystem.
+
+949
+00:38:36,000 --> 00:38:38,000
+ omställning av hela regionens vårdsystem.
+
+950
+00:38:38,000 --> 00:38:40,000
+ omställning av hela regionens vårdsystem.
+
+951
+00:38:40,000 --> 00:38:42,000
+ omställning av hela regionens vårdsystem.
+
+952
+00:38:42,000 --> 00:38:44,000
+ omställning av hela regionens vårdsystem.
+
+953
+00:38:44,000 --> 00:38:46,000
+ omställning av hela regionens vårdsystem.
+
+954
+00:38:46,000 --> 00:38:48,000
+ omställning av hela regionens vårdsystem.
+
+955
+00:38:48,000 --> 00:38:50,000
+ omställning av hela regionens vårdsystem.
+
+956
+00:38:50,000 --> 00:38:52,000
+ omställning av hela regionens vårdsystem.
+
+957
+00:38:52,000 --> 00:38:54,000
+ omställning av hela regionens vårdsystem.
+
+958
+00:38:54,000 --> 00:38:56,000
+ omställning av hela regionens vårdsystem.
+
+959
+00:38:56,000 --> 00:38:58,000
+ omställning av hela regionens vårdsystem.
+
+960
+00:38:58,000 --> 00:39:00,000
+ omställning av hela regionens vårdsystem.
+
+961
+00:39:00,000 --> 00:39:02,000
+ omställning av hela regionens vårdsystem.
+
+962
+00:39:02,000 --> 00:39:04,000
+ omställning av hela regionens vårdsystem.
+
+963
+00:39:04,000 --> 00:39:06,000
+ omställning av hela regionens vårdsystem.
+
+964
+00:39:06,000 --> 00:39:08,000
+ omställning av hela regionens vårdsystem.
+
+965
+00:39:08,000 --> 00:39:10,000
+ omställning av hela regionens vårdsystem.
+
+966
+00:39:10,000 --> 00:39:12,000
+ omställning av hela regionens vårdsystem.
+
+967
+00:39:12,000 --> 00:39:14,000
+ omställning av hela regionens vårdsystem.
+
+968
+00:39:14,000 --> 00:39:16,000
+ omställning av hela regionens vårdsystem.
+
+969
+00:39:16,000 --> 00:39:18,000
+ omställning av hela regionens vårdsystem.
+
+970
+00:39:18,000 --> 00:39:20,000
+ omställning av hela regionens vårdsystem.
+
+971
+00:39:20,000 --> 00:39:22,000
+ omställning av hela regionens vårdsystem.
+
+972
+00:39:22,000 --> 00:39:24,000
+ omställning av hela regionens vårdsystem.
+
+973
+00:39:24,000 --> 00:39:26,000
+ omställning av hela regionens vårdsystem.
+
+974
+00:39:26,000 --> 00:39:28,000
+ omställning av hela regionens vårdsystem.
+
+975
+00:39:28,000 --> 00:39:30,000
+ omställning av hela regionens vårdsystem.
+
+976
+00:39:30,000 --> 00:39:32,000
+ omställning av hela regionens vårdsystem.
+
+977
+00:39:32,000 --> 00:39:34,000
+ omställning av hela regionens vårdsystem.
+
+978
+00:39:34,000 --> 00:39:36,000
+ omställning av hela regionens vårdsystem.
+
+979
+00:39:36,000 --> 00:39:38,000
+ omställning av hela regionens vårdsystem.
+
+980
+00:39:38,000 --> 00:39:40,000
+ omställning av hela regionens vårdsystem.
+
+981
+00:39:40,000 --> 00:39:42,000
+ omställning av hela regionens vårdsystem.
+
+982
+00:39:42,000 --> 00:39:44,000
+ omställning av hela regionens vårdsystem.
+
+983
+00:39:44,000 --> 00:39:46,000
+ omställning av hela regionens vårdsystem.
+
+984
+00:39:46,000 --> 00:39:48,000
+ omställning av hela regionens vårdsystem.
+
+985
+00:39:48,000 --> 00:39:50,000
+ omställning av hela regionens vårdsystem.
+
+986
+00:39:50,000 --> 00:39:52,000
+ omställning av hela regionens vårdsystem.
+
+987
+00:39:52,000 --> 00:39:54,000
+ omställning av hela regionens vårdsystem.
+
+988
+00:39:54,000 --> 00:39:56,000
+ omställning av hela regionens vårdsystem.
+
+989
+00:39:56,000 --> 00:39:58,000
+ omställning av hela regionens vårdsystem.
+
+990
+00:39:58,000 --> 00:40:00,000
+ omställning av hela regionens vårdsystem.
+
+991
+00:40:00,000 --> 00:40:02,000
+ omställning av hela regionens vårdsystem.
+
+992
+00:40:02,000 --> 00:40:04,000
+ omställning av hela regionens vårdsystem.
+
+993
+00:40:04,000 --> 00:40:06,000
+ omställning av hela regionens vårdsystem.
+
+994
+00:40:06,000 --> 00:40:08,000
+ omställning av hela regionens vårdsystem.
+
+995
+00:40:08,000 --> 00:40:10,000
+ omställning av hela regionens vårdsystem.
+
+996
+00:40:10,000 --> 00:40:12,000
+ omställning av hela regionens vårdsystem.
+
+997
+00:40:12,000 --> 00:40:14,000
+ omställning av hela regionens vårdsystem.
+
+998
+00:40:14,000 --> 00:40:16,000
+ omställning av hela regionens vårdsystem.
+
+999
+00:40:16,000 --> 00:40:18,000
+ omställning av hela regionens vårdsystem.
+
+1000
+00:40:18,000 --> 00:40:20,000
+ omställning av hela regionens vårdsystem.
+
+1001
+00:40:20,000 --> 00:40:22,000
+ omställning av hela regionens vårdsystem.
+
+1002
+00:40:22,000 --> 00:40:24,000
+ omställning av hela regionens vårdsystem.
+
+1003
+00:40:24,000 --> 00:40:26,000
+ omställning av hela regionens vårdsystem.
+
+1004
+00:40:26,000 --> 00:40:28,000
+ omställning av hela regionens vårdsystem.
+
+1005
+00:40:28,000 --> 00:40:30,000
+ omställning av hela regionens vårdsystem.
+
+1006
+00:40:30,000 --> 00:40:32,000
+ omställning av hela regionens vårdsystem.
+
+1007
+00:40:32,000 --> 00:40:34,000
+ omställning av hela regionens vårdsystem.
+
+1008
+00:40:34,000 --> 00:40:36,000
+ omställning av hela regionens vårdsystem.
+
+1009
+00:40:36,000 --> 00:40:38,000
+ omställning av hela regionens vårdsystem.
+
+1010
+00:40:38,000 --> 00:40:40,000
+ omställning av hela regionens vårdsystem.
+
+1011
+00:40:40,000 --> 00:40:42,000
+ omställning av hela regionens vårdsystem.
+
+1012
+00:40:42,000 --> 00:40:44,000
+ omställning av hela regionens vårdsystem.
+
+1013
+00:40:44,000 --> 00:40:46,000
+ omställning av hela regionens vårdsystem.
+
+1014
+00:40:46,000 --> 00:40:48,000
+ omställning av hela regionens vårdsystem.
+
+1015
+00:40:48,000 --> 00:40:50,000
+ omställning av hela regionens vårdsystem.
+
+1016
+00:40:50,000 --> 00:40:52,000
+ omställning av hela regionens vårdsystem.
+
+1017
+00:40:52,000 --> 00:40:54,000
+ omställning av hela regionens vårdsystem.
+
+1018
+00:40:54,000 --> 00:40:56,000
+ omställning av hela regionens vårdsystem.
+
+1019
+00:40:56,000 --> 00:40:58,000
+ omställning av hela regionens vårdsystem.
+
+1020
+00:40:58,000 --> 00:41:00,000
+ omställning av hela regionens vårdsystem.
+
+1021
+00:41:00,000 --> 00:41:02,000
+ omställning av hela regionens vårdsystem.
+
+1022
+00:41:02,000 --> 00:41:04,000
+ omställning av hela regionens vårdsystem.
+
+1023
+00:41:04,000 --> 00:41:06,000
+ omställning av hela regionens vårdsystem.
+
+1024
+00:41:06,000 --> 00:41:08,000
+ omställning av hela regionens vårdsystem.
+
+1025
+00:41:08,000 --> 00:41:10,000
+ omställning av hela regionens vårdsystem.
+
+1026
+00:41:10,000 --> 00:41:12,000
+ omställning av hela regionens vårdsystem.
+
+1027
+00:41:12,000 --> 00:41:14,000
+ omställning av hela regionens vårdsystem.
+
+1028
+00:41:14,000 --> 00:41:16,000
+ omställning av hela regionens vårdsystem.
+
+1029
+00:41:16,000 --> 00:41:18,000
+ omställning av hela regionens vårdsystem.
+
+1030
+00:41:18,000 --> 00:41:20,000
+ omställning av hela regionens vårdsystem.
+
+1031
+00:41:20,000 --> 00:41:22,000
+ omställning av hela regionens vårdsystem.
+
+1032
+00:41:22,000 --> 00:41:24,000
+ omställning av hela regionens vårdsystem.
+
+1033
+00:41:24,000 --> 00:41:26,000
+ omställning av hela regionens vårdsystem.
+
+1034
+00:41:26,000 --> 00:41:28,000
+ omställning av hela regionens vårdsystem.
+
+1035
+00:41:28,000 --> 00:41:30,000
+ omställning av hela regionens vårdsystem.
+
+1036
+00:41:30,000 --> 00:41:32,000
+ omställning av hela regionens vårdsystem.
+
+1037
+00:41:32,000 --> 00:41:34,000
+ omställning av hela regionens vårdsystem.
+
+1038
+00:41:34,000 --> 00:41:36,000
+ omställning av hela regionens vårdsystem.
+
+1039
+00:41:36,000 --> 00:41:38,000
+ omställning av hela regionens vårdsystem.
+
+1040
+00:41:38,000 --> 00:41:40,000
+ omställning av hela regionens vårdsystem.
+
+1041
+00:41:40,000 --> 00:41:42,000
+ omställning av hela regionens vårdsystem.
+
+1042
+00:41:42,000 --> 00:41:44,000
+ omställning av hela regionens vårdsystem.
+
+1043
+00:41:44,000 --> 00:41:46,000
+ omställning av hela regionens vårdsystem.
+
+1044
+00:41:46,000 --> 00:41:48,000
+ omställning av hela regionens vårdsystem.
+
+1045
+00:41:48,000 --> 00:41:50,000
+ omställning av hela regionens vårdsystem.
+
+1046
+00:41:50,000 --> 00:41:52,000
+ omställning av hela regionens vårdsystem.
+
+1047
+00:41:52,000 --> 00:41:54,000
+ omställning av hela regionens vårdsystem.
+
+1048
+00:41:54,000 --> 00:41:56,000
+ omställning av hela regionens vårdsystem.
+
+1049
+00:41:56,000 --> 00:41:58,000
+ omställning av hela regionens vårdsystem.
+
+1050
+00:41:58,000 --> 00:42:00,000
+ omställning av hela regionens vårdsystem.
+
+1051
+00:42:00,000 --> 00:42:02,000
+ omställning av hela regionens vårdsystem.
+
+1052
+00:42:02,000 --> 00:42:04,000
+ omställning av hela regionens vårdsystem.
+
+1053
+00:42:04,000 --> 00:42:06,000
+ omställning av hela regionens vårdsystem.
+
+1054
+00:42:06,000 --> 00:42:08,000
+ omställning av hela regionens vårdsystem.
+
+1055
+00:42:08,000 --> 00:42:10,000
+ omställning av hela regionens vårdsystem.
+
+1056
+00:42:10,000 --> 00:42:12,000
+ omställning av hela regionens vårdsystem.
+
+1057
+00:42:12,000 --> 00:42:14,000
+ omställning av hela regionens vårdsystem.
+
+1058
+00:42:14,000 --> 00:42:16,000
+ omställning av hela regionens vårdsystem.
+
+1059
+00:42:16,000 --> 00:42:18,000
+ omställning av hela regionens vårdsystem.
+
+1060
+00:42:18,000 --> 00:42:20,000
+ omställning av hela regionens vårdsystem.
+
+1061
+00:42:20,000 --> 00:42:22,000
+ omställning av hela regionens vårdsystem.
+
+1062
+00:42:22,000 --> 00:42:24,000
+ omställning av hela regionens vårdsystem.
+
+1063
+00:42:24,000 --> 00:42:26,000
+ omställning av hela regionens vårdsystem.
+
+1064
+00:42:26,000 --> 00:42:28,000
+ omställning av hela regionens vårdsystem.
+
+1065
+00:42:28,000 --> 00:42:30,000
+ omställning av hela regionens vårdsystem.
+
+1066
+00:42:30,000 --> 00:42:32,000
+ omställning av hela regionens vårdsystem.
+
+1067
+00:42:32,000 --> 00:42:34,000
+ omställning av hela regionens vårdsystem.
+
+1068
+00:42:34,000 --> 00:42:36,000
+ omställning av hela regionens vårdsystem.
+
+1069
+00:42:36,000 --> 00:42:38,000
+ omställning av hela regionens vårdsystem.
+
+1070
+00:42:38,000 --> 00:42:40,000
+ omställning av hela regionens vårdsystem.
+
+1071
+00:42:40,000 --> 00:42:42,000
+ omställning av hela regionens vårdsystem.
+
+1072
+00:42:42,000 --> 00:42:44,000
+ omställning av hela regionens vårdsystem.
+
+1073
+00:42:44,000 --> 00:42:46,000
+ omställning av hela regionens vårdsystem.
+
+1074
+00:42:46,000 --> 00:42:48,000
+ omställning av hela regionens vårdsystem.
+
+1075
+00:42:48,000 --> 00:42:50,000
+ omställning av hela regionens vårdsystem.
+
+1076
+00:42:50,000 --> 00:42:52,000
+ omställning av hela regionens vårdsystem.
+
+1077
+00:42:52,000 --> 00:42:54,000
+ omställning av hela regionens vårdsystem.
+
+1078
+00:42:54,000 --> 00:42:56,000
+ omställning av hela regionens vårdsystem.
+
+1079
+00:42:56,000 --> 00:42:58,000
+ omställning av hela regionens vårdsystem.
+
+1080
+00:42:58,000 --> 00:43:00,000
+ omställning av hela regionens vårdsystem.
+
+1081
+00:43:00,000 --> 00:43:02,000
+ omställning av hela regionens vårdsystem.
+
+1082
+00:43:02,000 --> 00:43:04,000
+ omställning av hela regionens vårdsystem.
+
+1083
+00:43:04,000 --> 00:43:06,000
+ omställning av hela regionens vårdsystem.
+
+1084
+00:43:06,000 --> 00:43:08,000
+ omställning av hela regionens vårdsystem.
+
+1085
+00:43:08,000 --> 00:43:10,000
+ omställning av hela regionens vårdsystem.
+
+1086
+00:43:10,000 --> 00:43:12,000
+ omställning av hela regionens vårdsystem.
+
+1087
+00:43:12,000 --> 00:43:14,000
+ omställning av hela regionens vårdsystem.
+
+1088
+00:43:14,000 --> 00:43:16,000
+ omställning av hela regionens vårdsystem.
+
+1089
+00:43:16,000 --> 00:43:18,000
+ omställning av hela regionens vårdsystem.
+
+1090
+00:43:18,000 --> 00:43:20,000
+ omställning av hela regionens vårdsystem.
+
+1091
+00:43:20,000 --> 00:43:22,000
+ omställning av hela regionens vårdsystem.
+
+1092
+00:43:22,000 --> 00:43:24,000
+ omställning av hela regionens vårdsystem.
+
+1093
+00:43:24,000 --> 00:43:26,000
+ omställning av hela regionens vårdsystem.
+
+1094
+00:43:26,000 --> 00:43:28,000
+ omställning av hela regionens vårdsystem.
+
+1095
+00:43:28,000 --> 00:43:30,000
+ omställning av hela regionens vårdsystem.
+
+1096
+00:43:30,000 --> 00:43:32,000
+ omställning av hela regionens vårdsystem.
+
+1097
+00:43:32,000 --> 00:43:34,000
+ omställning av hela regionens vårdsystem.
+
+1098
+00:43:34,000 --> 00:43:36,000
+ omställning av hela regionens vårdsystem.
+
+1099
+00:43:36,000 --> 00:43:38,000
+ omställning av hela regionens vårdsystem.
+
+1100
+00:43:38,000 --> 00:43:40,000
+ omställning av hela regionens vårdsystem.
+
+1101
+00:43:40,000 --> 00:43:42,000
+ omställning av hela regionens vårdsystem.
+
+1102
+00:43:42,000 --> 00:43:44,000
+ omställning av hela regionens vårdsystem.
+
+1103
+00:43:44,000 --> 00:43:46,000
+ omställning av hela regionens vårdsystem.
+
+1104
+00:43:46,000 --> 00:43:48,000
+ omställning av hela regionens vårdsystem.
+
+1105
+00:43:48,000 --> 00:43:50,000
+ omställning av hela regionens vårdsystem.
+
+1106
+00:43:50,000 --> 00:43:52,000
+ omställning av hela regionens vårdsystem.
+
+1107
+00:43:52,000 --> 00:43:54,000
+ omställning av hela regionens vårdsystem.
+
+1108
+00:43:54,000 --> 00:43:56,000
+ omställning av hela regionens vårdsystem.
+
+1109
+00:43:56,000 --> 00:43:58,000
+ omställning av hela regionens vårdsystem.
+
+1110
+00:43:58,000 --> 00:44:00,000
+ omställning av hela regionens vårdsystem.
+
+1111
+00:44:00,000 --> 00:44:02,000
+ omställning av hela regionens vårdsystem.
+
+1112
+00:44:02,000 --> 00:44:04,000
+ omställning av hela regionens vårdsystem.
+
+1113
+00:44:04,000 --> 00:44:06,000
+ omställning av hela regionens vårdsystem.
+
+1114
+00:44:06,000 --> 00:44:08,000
+ omställning av hela regionens vårdsystem.
+
+1115
+00:44:08,000 --> 00:44:10,000
+ omställning av hela regionens vårdsystem.
+
+1116
+00:44:10,000 --> 00:44:12,000
+ omställning av hela regionens vårdsystem.
+
+1117
+00:44:12,000 --> 00:44:14,000
+ omställning av hela regionens vårdsystem.
+
+1118
+00:44:14,000 --> 00:44:16,000
+ omställning av hela regionens vårdsystem.
+
+1119
+00:44:16,000 --> 00:44:18,000
+ omställning av hela regionens vårdsystem.
+
+1120
+00:44:18,000 --> 00:44:20,000
+ omställning av hela regionens vårdsystem.
+
+1121
+00:44:20,000 --> 00:44:22,000
+ omställning av hela regionens vårdsystem.
+
+1122
+00:44:22,000 --> 00:44:24,000
+ omställning av hela regionens vårdsystem.
+
+1123
+00:44:24,000 --> 00:44:26,000
+ omställning av hela regionens vårdsystem.
+
+1124
+00:44:26,000 --> 00:44:28,000
+ omställning av hela regionens vårdsystem.
+
+1125
+00:44:28,000 --> 00:44:30,000
+ omställning av hela regionens vårdsystem.
+
+1126
+00:44:30,000 --> 00:44:32,000
+ omställning av hela regionens vårdsystem.
+
+1127
+00:44:32,000 --> 00:44:34,000
+ omställning av hela regionens vårdsystem.
+
+1128
+00:44:34,000 --> 00:44:36,000
+ omställning av hela regionens vårdsystem.
+
+1129
+00:44:36,000 --> 00:44:38,000
+ omställning av hela regionens vårdsystem.
+
+1130
+00:44:38,000 --> 00:44:40,000
+ omställning av hela regionens vårdsystem.
+
+1131
+00:44:40,000 --> 00:44:42,000
+ omställning av hela regionens vårdsystem.
+

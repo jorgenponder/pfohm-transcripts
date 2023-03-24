@@ -1,0 +1,1708 @@
+1
+00:00:00,000 --> 00:00:04,000
+ Välkomna till dagens pressträff.
+
+2
+00:00:04,000 --> 00:00:09,600
+ Vi börjar från Folkhälsomyndigheten som vanligt att påminna om situationen globalt.
+
+3
+00:00:09,600 --> 00:00:14,160
+ Det här är en pandemi som man ser på kartan väldigt tydligt,
+
+4
+00:00:14,160 --> 00:00:18,400
+ sätter sina avtryck i världens alla länder.
+
+5
+00:00:18,400 --> 00:00:24,720
+ Vi ser i den mörka färgen här, visar antalet fall under de senaste sju dygnen.
+
+6
+00:00:24,720 --> 00:00:31,360
+ Vi ser, så som mönstret har varit under de senaste veckorna, att vi har ett stort antal fall i Sydamerika,
+
+7
+00:00:31,360 --> 00:00:34,960
+ särskilt Brasilien, men också i USA, liksom i Indien.
+
+8
+00:00:34,960 --> 00:00:41,360
+ Särskilt i Indien ser man fortsatt en ökning, och det ser man också i Brasilien vad det gäller antalet nya fall.
+
+9
+00:00:41,360 --> 00:00:48,160
+ Man ser också ökningar i andra delar av Asien, till exempel Iran och Irak.
+
+10
+00:00:48,160 --> 00:00:51,360
+ Sydafrika är ytterligare ett land där man ser ökningar.
+
+11
+00:00:51,360 --> 00:00:55,600
+ Det är fortfarande en omfattande global pandemi.
+
+12
+00:00:55,600 --> 00:01:00,640
+ Tittar man i antalet fall globalt per vecka så ses det väldigt tydligt här,
+
+13
+00:01:00,640 --> 00:01:04,160
+ där varje stapel representerar antalet fall per vecka.
+
+14
+00:01:04,160 --> 00:01:10,080
+ Vi har nu över 10 miljoner fall globalt och över en halv miljon avlidna i världen.
+
+15
+00:01:10,080 --> 00:01:15,040
+ Vi ser inte en uppbromsning på global nivå.
+
+16
+00:01:15,040 --> 00:01:21,440
+ Tittar man i EU, inklusive Storbritannien, så är det fortsatt samma mönster även här.
+
+17
+00:01:21,440 --> 00:01:26,320
+ Vi har sett en nedgång, om man tittar tillbaka från början av april.
+
+18
+00:01:26,320 --> 00:01:30,240
+ Vi har en platåfas den senaste månaden.
+
+19
+00:01:30,240 --> 00:01:36,480
+ Den sista stapeln i diagrammet är inte en fullständig vecka.
+
+20
+00:01:36,480 --> 00:01:42,560
+ Det står inte för en minskning, utan för att det bara är de dagar som finns på innevarande vecka.
+
+21
+00:01:42,560 --> 00:01:48,720
+ I Europa har vi cirka 1,6 miljoner fall och 177 000 avlidna.
+
+22
+00:01:48,720 --> 00:01:56,000
+ Går vi till Sverige och tittar på antalet nya fall av covid-19 per dag,
+
+23
+00:01:56,000 --> 00:02:03,040
+ så i grafen som visas ser vi en kurva som ligger längst ner i bilden som är lila färgad,
+
+24
+00:02:03,040 --> 00:02:06,240
+ som långsamt minskar ner efter början av april.
+
+25
+00:02:06,240 --> 00:02:14,240
+ Det är antalet nya fall, allvarliga fall, som kräver sjukhusvård i princip eller är kopplade till akutsjukhusen.
+
+26
+00:02:14,240 --> 00:02:23,760
+ Den turkosgröna stapeln som stiger kraftigt i början av juni representerar lindriga fall.
+
+27
+00:02:23,760 --> 00:02:29,120
+ Fall som är provtagna inom öppenvården på grund av milda symptom för att identifiera alla fall,
+
+28
+00:02:29,120 --> 00:02:30,800
+ för att bryta smittspridning.
+
+29
+00:02:30,800 --> 00:02:34,560
+ Och också personal som provtas i ökande omfattning.
+
+30
+00:02:34,560 --> 00:02:39,680
+ Där ser vi en ökad förekomst av fall som är provtagna på den indikationen,
+
+31
+00:02:39,680 --> 00:02:46,720
+ som alltså inte representerar en ökning av pandemin i landet, utan en ökning av provtagning.
+
+32
+00:02:46,720 --> 00:02:52,480
+ Det totala antalet fall finns i den sträckade linjen som är svartsträckad i bilden.
+
+33
+00:02:52,480 --> 00:02:57,120
+ De här linjerna visar sju dagars rullande medelvärde.
+
+34
+00:02:57,120 --> 00:03:03,440
+ Totalt i Sverige har vi nu 68 451 anmälda fall.
+
+35
+00:03:03,440 --> 00:03:12,000
+ Det är illustrativt att grafen så tydligt går uppåt när vi ökar provtagningen.
+
+36
+00:03:12,000 --> 00:03:15,760
+ Det budskapet gäller i alla grafer som man tittar på.
+
+37
+00:03:15,760 --> 00:03:19,200
+ Så som data ser ut är beroende på hur nämnda data ser ut.
+
+38
+00:03:19,200 --> 00:03:21,040
+ Hur mycket har man provtagit?
+
+39
+00:03:21,040 --> 00:03:27,280
+ Hade vi haft kapacitet, förmåga och möjlighet att provta redan i början av april,
+
+40
+00:03:27,280 --> 00:03:32,720
+ vilket vi inte såg var genomförbart, hade man haft betydligt högre antal fall.
+
+41
+00:03:34,720 --> 00:03:43,920
+ Tittar man på antalet IVA-vårdade fall, som vi ser som ett stabilt mätvärde,
+
+42
+00:03:43,920 --> 00:03:50,640
+ så ser vi här också att den översta sträckade linjen står för det totala antalet IVA-vårdade fall.
+
+43
+00:03:50,640 --> 00:03:57,360
+ Där ser man även här den högsta toppen i början av april och sedan en nedgång.
+
+44
+00:03:57,360 --> 00:04:00,960
+ Vi har en fortsatt nedgång i antalet IVA-vårdade fall.
+
+45
+00:04:00,960 --> 00:04:07,040
+ Detsamma gäller i de storstadsregioner som också finns åskådliggjorda i den här grafen.
+
+46
+00:04:07,040 --> 00:04:13,360
+ Stockholm är den grön turkosa, Västra Götaland den lila och Skåne den gula linjen.
+
+47
+00:04:13,360 --> 00:04:15,680
+ Samtliga går neråt.
+
+48
+00:04:15,680 --> 00:04:22,640
+ Totalt har vi nu dryga 2400 personer som har vårdats på IVA.
+
+49
+00:04:22,640 --> 00:04:27,200
+ Även här är det sju dagars rullande medelvärde som visas.
+
+50
+00:04:27,200 --> 00:04:35,360
+ Tittar vi på antalet avlidna per dag och där det här är rapporterat,
+
+51
+00:04:35,360 --> 00:04:41,760
+ alla som har avlidit och som har en diagnos fastställt covid-19 inom de närmaste 30 dagarna,
+
+52
+00:04:41,760 --> 00:04:47,040
+ oberoende av själva dödsorsaken, så ser vi även här en fortsatt nedgång.
+
+53
+00:04:47,040 --> 00:04:54,080
+ Här har vi sju dagars rullande medelvärde, men där rapporteringen i den svarta,
+
+54
+00:04:54,080 --> 00:05:00,480
+ heldragna linjen, upphör för tio dagar sedan eftersom de sista dagarna är osäkra.
+
+55
+00:05:00,480 --> 00:05:04,560
+ Vi ligger nu på ett sju dagars rullande medelvärde, om vi tittar tillbaka,
+
+56
+00:05:04,560 --> 00:05:07,840
+ då tio dagar på ungefär 25 avlidna per dag.
+
+57
+00:05:07,840 --> 00:05:12,320
+ Det är också ungefär där som dagens antal fall ligger rapporterade.
+
+58
+00:05:12,320 --> 00:05:17,120
+ Som ni kan se i vår veckorapport så har vi inte längre någon överdödlighet i landet
+
+59
+00:05:17,120 --> 00:05:21,680
+ jämfört med tidigare antal döda den här tiden på året.
+
+60
+00:05:21,680 --> 00:05:28,720
+ Totalt sett har vi nu 5333 avlidna som också har diagnosen covid-19.
+
+61
+00:05:28,720 --> 00:05:35,760
+ Vi har, som jag nämnde, viss eftersläpning i rapporteringen och siffrorna kan komma att justeras.
+
+62
+00:05:35,760 --> 00:05:46,000
+ Jag vill säga några ord om en vägledning för antikroppspåvisning som vi publicerar i eftermiddag.
+
+63
+00:05:46,000 --> 00:05:51,760
+ Det är en uppdatering av den vägledning som har funnits på vår webbplats sedan någon månad tillbaka.
+
+64
+00:05:51,760 --> 00:05:57,280
+ Den här vägledningen vänder sig till de verksamheter som tillhandahåller antikroppstester.
+
+65
+00:05:57,280 --> 00:06:02,880
+ Vägledningen riktar sig till tolkning av resultaten för såväl grupper som individer.
+
+66
+00:06:02,880 --> 00:06:12,880
+ Vägledningen innehåller underlag och rekommendationer för att säkerställa en ändamålsenlig och resurseffektiv testning.
+
+67
+00:06:12,880 --> 00:06:19,920
+ Vid testning för antikroppspåvisning är det av yttersta vikt att man har ett mycket specifikt test.
+
+68
+00:06:19,920 --> 00:06:26,400
+ Man tittar också på sannolikheten att de som man påvisar med antikroppspåvisning
+
+69
+00:06:26,400 --> 00:06:32,080
+ verkligen är säkert att de har antikroppar. Det kallas för det positiva och prediktiva värdet.
+
+70
+00:06:32,080 --> 00:06:38,880
+ Vägledningen innehåller en tydlig och noga rekommendation för vilken typ av tester
+
+71
+00:06:38,880 --> 00:06:49,760
+ och vilket positivt och prediktivt värde vi rekommenderar att börja användas för att kunna tolka resultaten på grupp- och individnivå.
+
+72
+00:06:49,760 --> 00:06:54,800
+ Vi har i vägledningen också en prioritering för testning av antikroppar.
+
+73
+00:06:54,800 --> 00:07:00,800
+ Där ser vi att testningen ska ske i första hand där den gör mest nytta.
+
+74
+00:07:00,800 --> 00:07:10,720
+ Då är det viktigt att det ges företräde för personal inom äldreomsorg, regional och kommunal hälso- och sjukvård samt inom omsorg.
+
+75
+00:07:10,720 --> 00:07:16,160
+ De som har omsorg om personer med funktionsnedsättning.
+
+76
+00:07:16,160 --> 00:07:23,200
+ Vi ser också att det är högt i prioriteringen att riskgrupper, dvs personer över 70 år och äldre
+
+77
+00:07:23,200 --> 00:07:29,360
+ samt personer som har en eller flera sjukdomar som kan öka risken för allvarligt sjukdomsförlopp för covid-19
+
+78
+00:07:29,360 --> 00:07:32,160
+ prioriteras i testning av antikroppar.
+
+79
+00:07:32,160 --> 00:07:34,960
+ Den här prioriteringen är i fallande ordning.
+
+80
+00:07:34,960 --> 00:07:40,400
+ Vi ser sen att i ytterligare fallande ordning kommer personal inom samhällsviktig verksamhet
+
+81
+00:07:40,400 --> 00:07:43,920
+ och övriga personer i samhället från 18 års ålder.
+
+82
+00:07:43,920 --> 00:07:53,440
+ För att det ska vara meningsfullt att utföra ett antikroppstest och kunna dra nytta av resultatet
+
+83
+00:07:53,440 --> 00:07:57,840
+ så har vi tagit fram rekommendationer för användning av resultatet.
+
+84
+00:07:57,840 --> 00:08:04,560
+ Det här är ett område där vi har en kunskapsinhämtning med en stor mängd publikationer som sker varje dag.
+
+85
+00:08:04,560 --> 00:08:08,560
+ En förändring i kunskapsfältet kommer att komma allt eftersom.
+
+86
+00:08:08,560 --> 00:08:14,160
+ Den här rekommendationen är baserad på den kunskap vi har idag och kan komma att förändras.
+
+87
+00:08:14,160 --> 00:08:18,400
+ Men vi ser att det är viktigt att utföra antikroppstester.
+
+88
+00:08:18,400 --> 00:08:22,960
+ Resultatet på gruppnivå ger oss bra underlag.
+
+89
+00:08:22,960 --> 00:08:26,320
+ Det visar förekomsten av antikroppar i befolkningen.
+
+90
+00:08:26,320 --> 00:08:32,960
+ Det bidrar till förståelsen för vilka regioner i landet eller vilka grupper inom regionerna
+
+91
+00:08:32,960 --> 00:08:36,400
+ eller mellan regionerna som drabbas i högre utsträckning.
+
+92
+00:08:36,400 --> 00:08:39,840
+ Alternativt inte har haft så stor smittspridning.
+
+93
+00:08:39,840 --> 00:08:47,600
+ Vi vet också att förekomsten av antikroppar är bara ett sätt att mäta immunförsvarets reaktion på att man haft en infektion.
+
+94
+00:08:47,600 --> 00:08:52,160
+ Det kommer mer och mer kunskap om att det som kallas för det cellulära immunförsvaret
+
+95
+00:08:52,160 --> 00:08:57,760
+ där T-cellerna har en viktig roll, är mycket viktigt i skyddet mot covid-19.
+
+96
+00:08:57,760 --> 00:09:03,840
+ Och att alla bildar inte antikroppar. En del ger bara avtryck i det cellulära immunförsvaret.
+
+97
+00:09:03,840 --> 00:09:08,960
+ Men vi vet att man kan mäta antikroppar och vi har nu tillförlitliga metoder.
+
+98
+00:09:08,960 --> 00:09:16,960
+ Därför har vi tagit fram den här rekommendationen för hur man kan använda resultatet för utfallet av antikroppstester.
+
+99
+00:09:16,960 --> 00:09:26,080
+ Även om man har antikroppar vill vi trycka på att för alla oberoende av antikroppstestets resultat
+
+100
+00:09:26,080 --> 00:09:32,800
+ så gäller det att fortsätta följa myndigheternas generella rekommendationer för att minska smittspridningen i samhället.
+
+101
+00:09:32,800 --> 00:09:42,560
+ Tittar man på användningen av resultatet på individnivå så bedömer vi att ett positivt antikroppstest
+
+102
+00:09:42,560 --> 00:09:52,800
+ kan medföra en minskad risk att själv bli smittad och därmed en minskad risk att föra smittan vidare i samhället.
+
+103
+00:09:52,800 --> 00:10:00,720
+ Det i sin tur innebär att en person som har ett positivt antikroppstest som då är utfört enligt de rekommendationer
+
+104
+00:10:00,720 --> 00:10:06,560
+ vi har med prestanda på testet kan umgås med en person som tillhör riskgrupp.
+
+105
+00:10:06,560 --> 00:10:16,480
+ På samma sätt kan en person som tillhör riskgrupp umgås med andra personer på samma sätt som man umgås i övrigt i samhället.
+
+106
+00:10:16,480 --> 00:10:22,240
+ Igen gäller det för alla oberoende om man har ett positivt antikroppstest eller inte
+
+107
+00:10:22,240 --> 00:10:28,160
+ att man fortsatt ska följa myndigheternas generella rekommendationer för att minska smittspridningen i samhället.
+
+108
+00:10:28,160 --> 00:10:39,040
+ Nu har jag pratat om antikroppstester och vägledning för hur de ska utföras, hur testerna ska vara utformade vad det gäller prestanda
+
+109
+00:10:39,040 --> 00:10:41,840
+ och också hur man kan använda resultatet.
+
+110
+00:10:41,840 --> 00:10:47,360
+ Mer utförlig information om det här kommer som sagt att presenteras på vår webbplats idag på eftermiddagen.
+
+111
+00:10:47,360 --> 00:10:52,000
+ Jag hoppas att vi har möjlighet att lägga ut det snart efter den här presskonferensen.
+
+112
+00:10:52,000 --> 00:11:00,640
+ Men vi har i landet ända sedan i januari haft förmågan att påvisa aktiv sjukdom, alltså PCR-testning för pågående infektion.
+
+113
+00:11:00,640 --> 00:11:06,720
+ Antikroppstesterna visar bara genomgången i infektion sen tidigare.
+
+114
+00:11:06,720 --> 00:11:15,680
+ Jag vill visa den här bilden för att visa att just nu är det högst prioriterat att påvisa pågående infektion, alltså PCR-tester.
+
+115
+00:11:15,680 --> 00:11:26,080
+ Regionerna har en överenskommelse med staten om att de ska tillhandahålla storskalig PCR-testning för påvisning av pågående infektion.
+
+116
+00:11:26,080 --> 00:11:33,520
+ Genom att påvisa pågående infektion kan vi identifiera alla fall och det i sin tur kan bidra till att vi bryter smittskedjor,
+
+117
+00:11:33,520 --> 00:11:40,160
+ möjliggöra smittspårning så att vi ännu mer effektivt kan komma ner i att minska smittspridningen i samhället.
+
+118
+00:11:40,160 --> 00:11:46,560
+ Den här grafen visar antalet testade individer per vecka för PCR-testning.
+
+119
+00:11:46,560 --> 00:11:56,000
+ Nämnardata från vecka 2006, alltså förra veckan, visar att vi nu är uppe i drygt 70 000 individer som testas per vecka.
+
+120
+00:11:56,000 --> 00:12:03,440
+ Det är fortfarande så att många regioner arbetar hårt för att kunna säkerställa en fortsatt uthållighet i PCR-testerna.
+
+121
+00:12:03,440 --> 00:12:09,280
+ Det är fortsatt en globalt väldigt stor efterfrågan på reagenser, provtagningsmaterial med mera.
+
+122
+00:12:09,280 --> 00:12:17,600
+ Så att upprätthålla det här ställer stora krav på regionerna om man arbetar intensivt med att kunna tillhandahålla PCR-tester i storskalig form.
+
+123
+00:12:17,600 --> 00:12:26,880
+ Jag vill också påminna om värdet av att vi alla förhåller oss till de råd och rekommendationer som finns.
+
+124
+00:12:26,880 --> 00:12:36,160
+ Så att vi ska plana ut kurvan, att vi ska minska sjukligheten i samhället och därmed behovet av hälso- och sjukvård och antalet dödsfall.
+
+125
+00:12:36,160 --> 00:12:41,920
+ Det gör vi tillsammans. Tillsammans är det enda sättet som vi kan bromsa smittan.
+
+126
+00:12:41,920 --> 00:12:50,000
+ Alla måste fortsätta stanna hemma, även om man bara känner sig lite sjuk, för att undvika att sprida möjlig smitta vidare i samhället.
+
+127
+00:12:50,000 --> 00:13:00,240
+ Är man 70 år eller äldre, undvik nära kroppskontakt med personer andra än de du umgås med i din närhet till vardags.
+
+128
+00:13:00,240 --> 00:13:07,440
+ Tvätta händerna ofta med tvål och vatten. Avstå sociala sammanhang med större antal deltagare.
+
+129
+00:13:07,440 --> 00:13:14,640
+ Det är vid de här större evenemangen som det finns risk att vi får en omfattande och mer explosiv smittspridning.
+
+130
+00:13:14,640 --> 00:13:21,840
+ Håll avstånd till andra, både inomhus och utomhus. Genom att hålla avstånd kan man bryta smittan.
+
+131
+00:13:21,840 --> 00:13:26,800
+ Det är det absolut bästa sättet att bryta smittan i de situationer där det går att hålla avstånd.
+
+132
+00:13:26,800 --> 00:13:31,920
+ Att vara utomhus är mycket bättre än att vara inomhus.
+
+133
+00:13:31,920 --> 00:13:39,440
+ Inför sommaren, tänk särskilt på att res ansvarsfullt. Undvik resor med färdmedel där det inte går att boka plats,
+
+134
+00:13:39,440 --> 00:13:45,920
+ till exempel spårvagnar, tunnelbanor och stadsbussar. Om de som kan undvika de här färdmedlen gör det,
+
+135
+00:13:45,920 --> 00:13:53,280
+ promenerar, cyklar, tar bilen istället, så möjliggör det för andra som måste ta de här färdmedlen att inte behöva trängas.
+
+136
+00:13:53,280 --> 00:14:00,320
+ Undvik platser med mycket folk och trängsel. Undvik att gå och handla i en hel familj om man bara kan gå en person in i butiken.
+
+137
+00:14:00,320 --> 00:14:06,800
+ Undvik större sociala sammanhang, såsom dopfester, bröllop och begravningar. Vänta med dem.
+
+138
+00:14:06,800 --> 00:14:11,120
+ Det är klart att man måste genomföra begravningar, man måste genomföra dopfester och så vidare.
+
+139
+00:14:11,120 --> 00:14:17,120
+ Gör det säkert och undvik att det är stora samlingar i samband med de här högtiderna.
+
+140
+00:14:17,120 --> 00:14:25,520
+ För personer i riskgrupper är det extra viktigt att följa råden, då vi vet att man har en ökad sårbarhet för svår sjukdom
+
+141
+00:14:25,520 --> 00:14:33,760
+ och särskilt ökad risk för dödsfall. Stanna hemma om du är sjuk. Upprepa det. Det gäller såklart också under sommaren.
+
+142
+00:14:33,760 --> 00:14:40,160
+ Ge dig inte iväg på resa om du är sjuk. Återkommer till det, håll avstånd och ha en god handhygien.
+
+143
+00:14:40,160 --> 00:14:43,360
+ Det är A och O för att vi alla ska hjälpas åt att bryta smitta.
+
+144
+00:14:43,360 --> 00:14:51,360
+ Ska vi se om den vill samarbeta?
+
+145
+00:14:51,360 --> 00:15:01,360
+ Sådär, varsågod Thomas.
+
+146
+00:15:01,360 --> 00:15:09,840
+ Tack. Dagens information från Socialstyrelsen börjar med en lägesrapport från vår särskilda organisation med anledning av covid-19.
+
+147
+00:15:09,840 --> 00:15:20,480
+ Totalt vårdas nu 427 patienter i intensivvården med respirator och av dem har 155 covid-19.
+
+148
+00:15:20,480 --> 00:15:25,680
+ Utanför intensivvården vårdas 762 patienter med covid-19.
+
+149
+00:15:25,680 --> 00:15:39,920
+ Antalet intensivvårdsplatser som är tillgängliga med respirator idag är 629 och det börjar närma sig den nivå som är vår normala maximala kapacitet i landet.
+
+150
+00:15:39,920 --> 00:15:50,400
+ Det betyder att med dagens siffror så har vi ungefär 32% tillgänglig intensivvårdskapacitet nationellt, givetvis med variationer.
+
+151
+00:15:50,400 --> 00:15:56,800
+ Det innebär att det på nationell nivå finns en god förmåga att möta ett eventuellt förändrat behov.
+
+152
+00:15:56,800 --> 00:16:01,600
+ Variationen över landet i tillgänglig IVA-kapacitet är stor.
+
+153
+00:16:01,600 --> 00:16:12,480
+ Vi mäter från ungefär 10% till ungefär 70% lediga platser och behovet av samordning mellan regioner kvarstår därför.
+
+154
+00:16:12,480 --> 00:16:16,320
+ Vad vi bedömer så fungerar den väl.
+
+155
+00:16:16,320 --> 00:16:27,840
+ 10 av 21 regioner som rapporterar gör det om minimal försämring på kort och lång sikt och ett par även märkbar försämring på både kort och lång sikt.
+
+156
+00:16:27,840 --> 00:16:33,760
+ Här spelar sommar, semester och planering för det roll.
+
+157
+00:16:33,760 --> 00:16:42,480
+ Det rör framför allt, men inte enbart de mer turisttäta regionerna.
+
+158
+00:16:42,480 --> 00:16:51,680
+ Socialstyrelsen har som ni vet inom ramen för sitt regeringsuppdrag att stödja samordningen av sjukvårdens kapacitet under sommaren.
+
+159
+00:16:51,680 --> 00:17:01,520
+ En dialog med Sveriges kommuner och regioner och enskilda regioner kring hur och vad detta stöd bäst består i.
+
+160
+00:17:01,520 --> 00:17:14,320
+ Det handlar bland annat om utvecklade lägesbilder, tillgänglig transportkapacitet och mobila vårdenheter, men det kan också vara andra komponenter.
+
+161
+00:17:14,320 --> 00:17:23,520
+ Jag tänkte också berätta lite om ett nytt beslut som rör livmoderhalsscreening som vi har fattat idag.
+
+162
+00:17:23,520 --> 00:17:32,720
+ Vi har noterat att flera regioner har haft svårt under covid-19 pandemiperioden att genomföra livmoderhalsscreening som vanligt.
+
+163
+00:17:32,720 --> 00:17:40,560
+ Den har blivit helt pausad i 13 av våra regioner och reducerad i ytterligare 5.
+
+164
+00:17:40,560 --> 00:17:53,440
+ Detta har skett dels för att man har velat minska detta som en källa till smittspridning och dels för att man har behövt personalen där inom andra delar av vården.
+
+165
+00:17:53,440 --> 00:18:06,720
+ Från mitten av juli får regionerna möjlighet att screena för livmoderhalscancer med hjälp av självprovtagning om screeningen inte kan utföras som vanligt på grund av pandemin.
+
+166
+00:18:06,720 --> 00:18:16,960
+ Detta har Socialstyrelsen beslutat idag och då är det så att beslutet träder i kraft när det kommer från trycket.
+
+167
+00:18:16,960 --> 00:18:29,440
+ De nya föreskrifterna gäller 23-64-åriga kvinnor och det här är en tillfällig bestämmelse om att kunna utnyttja den här möjligheten som gäller under knappt ett år.
+
+168
+00:18:29,440 --> 00:18:35,920
+ Screeningen har under flera decennier bidragit till att kraftigt minska dödligheten i livmoderhalscancer.
+
+169
+00:18:35,920 --> 00:18:50,800
+ Genom att vi idag har beslutat om en tillfällig bestämmelse som möjliggör självprovtagning för alla åldrar i screeningprogrammen så kan vi fortsätta att förhindra att kvinnor insjuknar även nu under pandemin.
+
+170
+00:18:50,800 --> 00:19:07,840
+ I det här har vi förstås vägt fördelar och nackdelar mot varandra. Syftet med provet är att se om man har en infektion med humant papillomvirus, HPV, som är den vanligaste orsaken till att man utvecklar livmoderhalscancer.
+
+171
+00:19:07,840 --> 00:19:22,960
+ HPV-självprovtagning innebär att personen själv provtar sig hemma och skickar provet med post till ett laboratorium. Det är alltså en annan typ av provtagning än den som tas från livmodertappen av en barnmorska på en mottagning.
+
+172
+00:19:22,960 --> 00:19:35,120
+ Med hjälp av experter inom området har vi bedömt att hälsovinsterna med att erbjuda även det här verktyget överväger eventuella nackdelar.
+
+173
+00:19:35,120 --> 00:19:44,080
+ Men det är som sagt avsett att användas där normala procedurer för livmoderhalsscreening inte kan genomföras.
+
+174
+00:19:44,080 --> 00:20:00,720
+ Den här förändringen har också varit ute på remiss och av 20 svarande på remissen är 18 positiva eller har ingenting att invända mot föreskrifterna.
+
+175
+00:20:00,720 --> 00:20:16,960
+ Den här typen av provtagning är inte gediget utvärderad och det är viktigt att arbetet följs upp. Det är upp till regionerna att avgöra om man vill använda den här möjligheten och i så fall hur verksamheten ska utformas för den.
+
+176
+00:20:16,960 --> 00:20:27,760
+ Där måste man förstås väga in möjlighet att ställa resurser till förfogande i form av personal, utrustning och laboratorikapacitet till exempel.
+
+177
+00:20:27,760 --> 00:20:32,400
+ Men det är viktigt att användningen av självprovtagning följs upp och utvärderas.
+
+178
+00:20:32,400 --> 00:20:40,880
+ Parallellt kommer vi också att se över kunskapsunderlaget för denna typ av provtagning bakom det ordinarie screeningprogrammet.
+
+179
+00:20:40,880 --> 00:20:55,280
+ Bland annat för att se hur självprovtagning kan användas som ett komplement framöver i de fall som man av olika skäl inte får patienter att komma till ett mottagningsbesök.
+
+180
+00:20:55,280 --> 00:21:01,360
+ Det finns information om det här på vår hemsida. Tack!
+
+181
+00:21:01,360 --> 00:21:13,600
+ Vi stannar på den bilden. Karin försöker stötta mig här. Vi går tillbaka en bild så jag ska göra en liten introduktion.
+
+182
+00:21:13,600 --> 00:21:21,200
+ Karin stöttar mig och annars brukar det vara Myndigheten för samhällsskydd och beredskap som stöttar de som håller på med den direkta hanteringen av pandemin.
+
+183
+00:21:21,200 --> 00:21:26,240
+ Det bidrar till samordning och att komplettera insatserna.
+
+184
+00:21:26,240 --> 00:21:33,280
+ Vi försöker blicka framåt för att skapa uthållighet om det skulle bli värre eller att den skulle ta nya vägar.
+
+185
+00:21:33,280 --> 00:21:42,400
+ Centralt som ni har hört Karin vara inne på, och det är också vad Socialstyrelsen tar upp, det är hur vi var och än sköter oss.
+
+186
+00:21:42,400 --> 00:21:50,240
+ Jag och många andra har varit där ute och sett att det är ganska trångt på en och annan restaurang och en annan badstrand.
+
+187
+00:21:50,240 --> 00:21:54,560
+ Jag har sett den här gången i veckan när det har varit så varmt så är det väldigt mycket folk som ligger där.
+
+188
+00:21:54,560 --> 00:21:57,520
+ Det är jätteviktigt att vi följer rekommendationerna.
+
+189
+00:21:57,520 --> 00:22:06,800
+ Vi skulle vilja ge en lite annan bild också. Lite mer positiv och lyfta det goda jobb som många där ute gör.
+
+190
+00:22:06,800 --> 00:22:11,280
+ En annan bild, och den bilden hämtar vi som varje vecka från Cantagifo.
+
+191
+00:22:11,280 --> 00:22:17,600
+ Cantagifo ställer frågor om människors uppfattningar om och beteenden kring pandemin.
+
+192
+00:22:17,600 --> 00:22:19,840
+ Det har de gjort sedan den 21 mars.
+
+193
+00:22:19,840 --> 00:22:24,160
+ Varje dag fylls det här på och nu är vi uppe i 10 000 som har svarat.
+
+194
+00:22:24,160 --> 00:22:29,040
+ Den senaste rapporten finns på msb.se, vår hemsida, att ladda ner.
+
+195
+00:22:29,040 --> 00:22:35,280
+ En kort sammanfattning av det viktigaste då. Nu kan vi ta bild 1, får jag stöttning där.
+
+196
+00:22:35,280 --> 00:22:39,760
+ Det är en liten motbild mot de där överfulla badställningarna och krogarna.
+
+197
+00:22:39,760 --> 00:22:44,480
+ Det är mer än 8 av 10 som säger att de följer rekommendationerna.
+
+198
+00:22:44,480 --> 00:22:47,120
+ Det är vi otroligt tacksamma för.
+
+199
+00:22:47,120 --> 00:22:56,240
+ Vi kan också konstatera att en av de riskgrupper som Karin har nämnt, de äldre, är extra duktiga på att följa rekommendationerna.
+
+200
+00:22:56,240 --> 00:22:57,680
+ Det är vi hemskt glada för.
+
+201
+00:22:57,680 --> 00:23:03,840
+ Men vi är nog alla tre tacksamma över alla som följer rekommendationerna för att hjälpa till.
+
+202
+00:23:03,840 --> 00:23:06,400
+ Att man styra sig själv och andra inte blir smittade.
+
+203
+00:23:06,400 --> 00:23:08,960
+ Vi kan titta på nästa bild.
+
+204
+00:23:08,960 --> 00:23:11,840
+ Här är en ny fråga som vi har ställt nu.
+
+205
+00:23:11,840 --> 00:23:16,080
+ Som visar hur vi planerar att resa den här kommande sommaren.
+
+206
+00:23:16,080 --> 00:23:20,000
+ Det visar sig att det är mycket få som planerar att resa utomlands.
+
+207
+00:23:20,000 --> 00:23:27,120
+ Men det är fler än tidigare som nu uppger, eftersom det finns möjligheter också, att de kommer att göra en eller flera längre resor i Sverige.
+
+208
+00:23:27,120 --> 00:23:32,320
+ Samtidigt har de som säger att de bara kommer att stanna hemma blivit färre, givetvis.
+
+209
+00:23:32,320 --> 00:23:39,040
+ När det gäller planerna på att stanna hemma hela sommaren så är det överrepresenterat i Norrbotten.
+
+210
+00:23:39,040 --> 00:23:41,600
+ De kommer att vara extra duktiga på att stanna hemma.
+
+211
+00:23:41,600 --> 00:23:47,280
+ Medan de som bor i Västsverige är underrepresenterade.
+
+212
+00:23:47,280 --> 00:23:48,960
+ De kommer att göra fler resor.
+
+213
+00:23:48,960 --> 00:23:52,880
+ Sen har vi lite känslig statistik.
+
+214
+00:23:52,880 --> 00:23:55,040
+ Som sagt, det är nya frågor som inte har fyllts på.
+
+215
+00:23:55,040 --> 00:23:56,560
+ Så det finns inte så många svar än.
+
+216
+00:23:56,560 --> 00:23:58,960
+ Så det är lite låga tal, absolut.
+
+217
+00:23:58,960 --> 00:24:04,720
+ Men vi kan notera att i Östra Mellansverige, inklusive Stockholmsrådet, och Malmö bor,
+
+218
+00:24:04,720 --> 00:24:10,320
+ då finns det en överrepresentativitet bland de som tänker resa utanför Norden.
+
+219
+00:24:10,320 --> 00:24:16,800
+ De här siffrorna, precis som allt annat vi har pratat om idag, visar att det här är en annorlunda sommar.
+
+220
+00:24:16,800 --> 00:24:19,520
+ Den måste också vara annorlunda.
+
+221
+00:24:19,520 --> 00:24:24,640
+ Det ser ni till genom att fortsätta följa myndigheternas rekommendationer.
+
+222
+00:24:24,640 --> 00:24:30,080
+ Hålla avstånden på camping, badplatser, krogar, restauranger och affärer.
+
+223
+00:24:30,080 --> 00:24:35,440
+ Det gäller att komma ihåg det, för allas skull, att den som är ung och frisk
+
+224
+00:24:35,440 --> 00:24:41,280
+ måste fortsätta hålla avstånd och tvätta händerna för att skydda sig själv och andra.
+
+225
+00:24:41,280 --> 00:24:47,440
+ Jag tackar och allas vägnar tror jag att ni håller i och ut där ute.
+
+226
+00:24:47,440 --> 00:24:51,520
+ Det är dessutom lite kallare, så nu kanske det inte är så många på badstranden just idag.
+
+227
+00:24:51,520 --> 00:24:55,520
+ Tack. En fråga där borta.
+
+228
+00:24:55,520 --> 00:24:57,520
+ Vi kommer med micken först.
+
+229
+00:24:57,520 --> 00:25:03,040
+ Sara Milchneffens Z från SVT Nyheter till Folkhälsomyndigheten.
+
+230
+00:25:03,040 --> 00:25:11,520
+ Den här nya vägledningen för om man som individ har antikroppar, innebär det alltså att man får träffa sina nära och kära om de är i en riskgrupp?
+
+231
+00:25:11,520 --> 00:25:19,120
+ Tillhör man riskgrupp, man kan vara 70 år eller äldre eller ha någon av de sjukdomar som finns nämnda som tillhörande riskgrupp
+
+232
+00:25:19,120 --> 00:25:25,920
+ så kan man om man har ett påvisbart antikroppssvar som visar att man har gått igenom sjukdomen och har antikroppar mot sjukdomen
+
+233
+00:25:25,920 --> 00:25:30,080
+ då kan man förhålla sig till andra i samhället på samma sätt som icke-riskgrupp.
+
+234
+00:25:30,080 --> 00:25:35,520
+ Det vill säga man kan umgås och träffa nära och kära men man ska fortsätta hålla nere och begränsa sina kontakter.
+
+235
+00:25:35,520 --> 00:25:41,200
+ Man måste vara noga med handhygien, det är fortfarande så att man kan föra smitta med sina händer vidare till någon annan.
+
+236
+00:25:41,200 --> 00:25:50,160
+ Man ska undvika folksamlingar och hjälpa till att hålla nere täta befolkningssammankomster.
+
+237
+00:25:50,160 --> 00:25:54,000
+ Man ska vara en del av lösningen för hela samhället oavsett det.
+
+238
+00:25:54,000 --> 00:26:00,400
+ Det går åt andra hållet också så att säga, om jag har antikroppar kan jag träffa min nära.
+
+239
+00:26:00,400 --> 00:26:03,360
+ Det här förutsätter också att man inte har symptom.
+
+240
+00:26:03,360 --> 00:26:07,840
+ Det är en sammantag i en riskbedömning, ni får titta i vägledningen.
+
+241
+00:26:07,840 --> 00:26:14,000
+ Men det förutsätter att man inte har symptom så att man är frisk, inga tecken på en pågående infektion.
+
+242
+00:26:14,000 --> 00:26:19,680
+ Och att man är normalt immunfrisk och inte har någon medicinering eller underliggande sjukdom
+
+243
+00:26:19,680 --> 00:26:22,800
+ som gör att man har ett avvikande immunsvar på något sätt.
+
+244
+00:26:22,800 --> 00:26:28,960
+ Och också att det är i relativ närtid till det man har tagit testet.
+
+245
+00:26:28,960 --> 00:26:33,680
+ Så vi vet inte hur länge antikroppssvaret, vi vet inte fullt ut hur skyddande det är.
+
+246
+00:26:33,680 --> 00:26:38,800
+ Men vi bedömer att det finns tillräckligt med underlag för att det ska skydda mot en svår sjukdom.
+
+247
+00:26:38,800 --> 00:26:46,480
+ Och har man då i genomgången en infektion och kan visa det med antikroppar så bedömer vi att det här är möjligt.
+
+248
+00:26:46,480 --> 00:26:54,160
+ –Jag är Jessica Chanticelle här från TV4 Nyheterna. En fråga till dig Karin, till Mark.
+
+249
+00:26:54,160 --> 00:26:58,000
+ Det är lite på samma ämne här, jag tänkte bara fråga.
+
+250
+00:26:58,000 --> 00:27:06,160
+ Men är det så nu att man får krama sina äldre och kanske om man jobbar inom sjukvården
+
+251
+00:27:06,160 --> 00:27:15,280
+ blir det andra rekommendationer vad gällande om man ska ha skyddsutrustning och sådana saker om man har antikroppar?
+
+252
+00:27:15,280 --> 00:27:20,080
+ –För det första är det ju så att det är bara en väldigt liten andel av befolkningen som har antikroppar.
+
+253
+00:27:20,080 --> 00:27:25,200
+ Så det här kommer ju vara en relativt liten andel i befolkningen som kan förhålla sig till det här.
+
+254
+00:27:25,200 --> 00:27:28,480
+ Dels är det de som har haft möjligheten att genomföra ett test.
+
+255
+00:27:28,480 --> 00:27:32,880
+ Som jag sa tidigare så är PCR-testerna absolut prioriterade just nu.
+
+256
+00:27:32,880 --> 00:27:37,520
+ Men fler regioner erbjuder testning och då har vi tagit fram den här prioriteringen.
+
+257
+00:27:37,520 --> 00:27:40,880
+ Och då vill vi också ta fram en vägledning för hur resultaten kan användas.
+
+258
+00:27:40,880 --> 00:27:47,600
+ Det är mycket viktigt som du säger att man då förflyttas till att kunna umgås på samma sätt som övriga i befolkningen.
+
+259
+00:27:47,600 --> 00:27:52,240
+ Det innebär ju att man ska inte ha stora kramkalas, man ska inte ha stora bröllop och så vidare.
+
+260
+00:27:52,240 --> 00:28:01,200
+ För att även om en person som tillhör riskgrupp kan umgås med andra individer på ett sätt som andra individer som inte tillhör riskgrupp kan göra sen tidigare.
+
+261
+00:28:01,200 --> 00:28:05,040
+ Så ska vi fortsätta undvika stora folksamlingar, vi ska begränsa våra kontakter.
+
+262
+00:28:05,040 --> 00:28:10,720
+ Men man kan förflytta sig så att säga och förhålla sig till råden på samma sätt som övriga gör.
+
+263
+00:28:10,720 --> 00:28:15,280
+ –Sen är det även en fråga vad gällande de här T-celler.
+
+264
+00:28:15,280 --> 00:28:22,960
+ Forskare vid Karolinska institutet har ju sett att det kan vara så att immuniteten kanske är större än vad man har sett vid de här antikroppstesterna.
+
+265
+00:28:22,960 --> 00:28:25,920
+ Jag tänkte bara höra hur ser ni på det?
+
+266
+00:28:25,920 --> 00:28:32,320
+ –Det är ju oerhört värdefullt. All forskning som kommer fram och hjälper oss att få en förståelse för sjukdomen.
+
+267
+00:28:32,320 --> 00:28:39,920
+ Det har ju kommit ett antal publikationer och vetenskapliga rapporter under den gångna månaden som visar allt mer på att
+
+268
+00:28:39,920 --> 00:28:49,360
+ det är inte alla som har gått igenom en infektion. Alla bildar inte antikroppar utan en del har mer ett annat immunsvar som är beroende av T-celler.
+
+269
+00:28:49,360 --> 00:28:54,880
+ De resultaten som man i forskargruppen på Karolinska har kommit fram till i samarbete med andra
+
+270
+00:28:54,880 --> 00:29:02,400
+ visar att man också kan hitta verktyg och handtag för att se hur man kan identifiera de T-celler som visar
+
+271
+00:29:02,400 --> 00:29:05,920
+ reaktivitet på att man haft en genomgången Covid-19 infektion.
+
+272
+00:29:05,920 --> 00:29:14,240
+ Vi ser det som väldigt värdefullt med den här kunskapen och det ger oss också en ökad förståelse för hur många som faktiskt kan ha någon slags
+
+273
+00:29:14,240 --> 00:29:21,280
+ immunitet i befolkningen. Inte bara antikroppsimmuniteten utan också genom T-cellsimmunitet.
+
+274
+00:29:21,280 --> 00:29:30,560
+ –Jag tänkte bara höra, är det så att man kanske ska skifta fokuset från Folkhälsomyndighetens sida?
+
+275
+00:29:30,560 --> 00:29:36,960
+ Behöver man sjösätta en storskalig testning vad gällande T-celler istället?
+
+276
+00:29:36,960 --> 00:29:41,920
+ –Det är tyvärr så att det finns inga etablerade metoder som direkt går att använda.
+
+277
+00:29:41,920 --> 00:29:45,920
+ Det går att mäta reaktiviteten men än så länge är det mer i forskningsstudier.
+
+278
+00:29:45,920 --> 00:29:53,600
+ Det blir också framöver väldigt värdefullt att ta fram metodik för att kunna mäta T-cellsreaktiviteten som talar för genomgången
+
+279
+00:29:53,600 --> 00:30:01,280
+ på covid-19-infektion. I dagsläget är vi inte där ännu. Det kommer att kräva ett stort arbete för att hitta bra och effektiva metoder.
+
+280
+00:30:01,280 --> 00:30:08,960
+ Jag förväntar mig att många forskargrupper går igång med det här och vi kommer också se vad vi kan göra för att påverka utvecklingen i den riktningen.
+
+281
+00:30:08,960 --> 00:30:14,720
+ Men det är för tidigt att överhuvudtaget kunna erbjuda det här till andra än i forskningsstudier i dagsläget.
+
+282
+00:30:14,720 --> 00:30:21,440
+ –Karin Fock, TT, fråga till Folkhälsomyndigheten. Jag tar vidare vid T-cellerna.
+
+283
+00:30:21,440 --> 00:30:27,280
+ Hur säkra är ni på Folkhälsomyndigheten att just T-cellerna innebär en immunitet?
+
+284
+00:30:27,280 --> 00:30:34,720
+ –Vi är inte fullt säkra att vare sig antikroppar eller T-celler innebär en fullständig immunitet på det sättet att man inte får en infektion.
+
+285
+00:30:34,720 --> 00:30:43,360
+ Däremot så visar den att man har ett immunförsvar som hjälper till att motverka en ny infektion och man har klarat av att motverka en tidigare infektion.
+
+286
+00:30:43,360 --> 00:30:56,160
+ Så vi bedömer utifrån vad vi vet från tidigare corona- och övriga virusinfektioner att det här kommer vara ett stöd för att få en fullständig skydd mot en ny infektion eller en mildare infektion.
+
+287
+00:30:56,160 --> 00:31:03,040
+ Men vi kan inte garantera att vare sig ett T-cellsvar eller ett antikroppsvar helt gör att man inte kan få en sjukdom.
+
+288
+00:31:03,040 --> 00:31:19,200
+ –En fråga tillbaka till antikroppstesterna. Innebär det att en person som har ett positivt antikroppstest kan träffa någon som bor på ett äldreboende? Nu är de stängda.
+
+289
+00:31:19,200 --> 00:31:24,720
+ –Det finns särskilda regler vad det gäller äldreboenden och de måste man fortsatt förhålla sig till.
+
+290
+00:31:24,720 --> 00:31:31,600
+ Så alla regler och regelverk som finns, lagstiftning, rekommendationer och mer måste man förhålla sig till.
+
+291
+00:31:31,600 --> 00:31:42,960
+ Men däremot så innebär det att om det tillåts på äldreboendet så ser vi ur en risksituation att det är möjligt att träffa någon med riskgrupp om man har antikroppspåvisning.
+
+292
+00:31:42,960 --> 00:31:54,160
+ –Jasmin Lindberg från Expressen. Ni har förklarat att om man har positiva antikroppar så är det okej att umgås med folk som inte haft corona innan.
+
+293
+00:31:54,160 --> 00:32:04,240
+ Men hur är det när det kommer till de här T-cellerna? Om det visar sig att man har T-celler istället, får man fortfarande träffa riskgrupper?
+
+294
+00:32:04,240 --> 00:32:10,080
+ –Vi ser ju produktionen av antikroppar som en markör för genomgången infektion.
+
+295
+00:32:10,080 --> 00:32:20,240
+ Har man en genomgången infektion och har klarat av den på ett bra sätt och hanterat den så ser man ju antikroppspåvisningen som det verktyg vi har idag där vi kan visa det.
+
+296
+00:32:20,240 --> 00:32:29,760
+ Om vi i framtiden får verktyg som kan användas i befolkningen för att visa genomgången infektion utifrån T-cellsvaret så är det mycket möjligt att det också kommer att ingå.
+
+297
+00:32:29,760 --> 00:32:34,800
+ Men i dagsläget har vi inte den möjligheten. Det finns inte de testerna tillgängliga.
+
+298
+00:32:34,800 --> 00:32:44,000
+ Men allt talar för att det kommer att vara samma slutsatser och kanske man kan gå ännu längre då när man vet mer om vad det innebär i skydd.
+
+299
+00:32:44,000 --> 00:32:50,720
+ Men vi lär oss för varje dag och kunskapen ökar hela tiden och är ytterligare värdefull med all forskning som kommer.
+
+300
+00:32:50,720 --> 00:32:52,720
+ Så får vi uppdatera vägledningar allt eftersom.
+
+301
+00:32:52,720 --> 00:33:00,240
+ –Ekotiu Abdelzade, en uppföljning på det. Vad gäller T-cellsimmunitet då?
+
+302
+00:33:00,240 --> 00:33:06,800
+ Man vet inte om man har genomgått infektion då om man identifierar T-celler?
+
+303
+00:33:06,800 --> 00:33:15,120
+ –Jo, det som man har visat i de här forskningsstudierna är att man har varit exponerad för virus.
+
+304
+00:33:15,120 --> 00:33:22,160
+ I vissa studier har man sett att man kan ha haft ett påvisbart PCR-test som visar att man har burit på virus.
+
+305
+00:33:22,160 --> 00:33:29,360
+ Sen är det en del som utvecklar en väldigt kraftig sjukdom och andra som har väldigt milda symptom till de som kanske inte har några symptom alls.
+
+306
+00:33:29,360 --> 00:33:35,600
+ Då kan man se att oavsett symptomgrad kan man ha ett avtryck i immunförsvaret.
+
+307
+00:33:35,600 --> 00:33:40,320
+ Inte bara genom antikroppsproduktion utan också i T-cells reaktivitet.
+
+308
+00:33:40,320 --> 00:33:42,960
+ Så det är också ett mått på genomgången infektion.
+
+309
+00:33:42,960 --> 00:33:50,960
+ Då försöker man hitta vilka markörer som kan specifikt påvisa att man har haft en genomgången infektion av specifikt covid-19.
+
+310
+00:33:50,960 --> 00:33:52,960
+ Det är det de har kunnat visa.
+
+311
+00:33:52,960 --> 00:34:06,240
+ En annan fråga vad gäller det som WHO har gått ut med vad gäller ett nytt upptäckt virus i Kina bland grisar, svininfluensaliknande.
+
+312
+00:34:06,240 --> 00:34:13,120
+ Som de varnar för att man ska vara försiktig och att det har potential att bli pandemiskt.
+
+313
+00:34:13,120 --> 00:34:19,520
+ Hur ser ni på det? Finns det några risker för att det också bryter ut?
+
+314
+00:34:19,520 --> 00:34:28,800
+ Jag har inte tagit del av den här specifika rapporten men WHO har med hjälp av alla medlemsstater en ständig övervakning av influensastammar.
+
+315
+00:34:28,800 --> 00:34:37,760
+ De identifierar uppkomsten av olika djurassocierade influensastammar som kan komma från till exempel grisar.
+
+316
+00:34:37,760 --> 00:34:42,560
+ Man gör en riskvärdering och en bedömning utifrån hur influensastammen ser ut.
+
+317
+00:34:42,560 --> 00:34:52,320
+ Jag vet inte exakt vilken rapport det är du åsyftar men det här är hela tiden förekommande och visar hur sårbart och skört systemet är.
+
+318
+00:34:52,320 --> 00:34:55,840
+ Det sker överföringar från djur hela tiden till människa.
+
+319
+00:34:55,840 --> 00:34:59,600
+ På influensasidan har man en bevakning.
+
+320
+00:34:59,600 --> 00:35:06,240
+ Om jag kan ta del av den rapporten vilket det rör så kan det komma ytterligare kommentarer sen.
+
+321
+00:35:06,240 --> 00:35:13,920
+ Johanna Rapp från Aftonbladet. Jag har en fråga till Socialstyrelsen om livmoderhalsscreening.
+
+322
+00:35:13,920 --> 00:35:23,520
+ Är de här självtesterna lika säkra som vanliga tester och vad är det för kritik som har förts fram mot att genomföra det?
+
+323
+00:35:23,520 --> 00:35:26,880
+ Nej, de är inte lika säkra som den vanliga metoden.
+
+324
+00:35:26,880 --> 00:35:37,120
+ Dels för att man inte kan garantera att provet tas på rätt sätt och också för att det ska transporteras med post till ett laboratorium.
+
+325
+00:35:37,120 --> 00:35:39,440
+ Det är egentligen det som skapar dilemmat.
+
+326
+00:35:39,440 --> 00:35:47,840
+ Det är ett sämre test och å ena sidan är det bättre än ingenting men å andra sidan är det sämre än den normala proceduren.
+
+327
+00:35:47,840 --> 00:35:56,160
+ Då får man göra en avvägning om det är ett tillskott som kan vara värdefullt i den här perioden.
+
+328
+00:35:56,160 --> 00:36:04,880
+ Eller om det blir mindre påverkan på regionerna att fortsätta det ordinarie programmet.
+
+329
+00:36:04,880 --> 00:36:07,040
+ Det är egentligen en avvägning vi har gjort.
+
+330
+00:36:07,040 --> 00:36:15,040
+ Vi har landat i att vi vill tillåta den här metoden och lägga det extra verktyget i regionernas verktygslåda.
+
+331
+00:36:15,040 --> 00:36:18,880
+ Men det är ett tidsbegränsat tillstånd.
+
+332
+00:36:18,880 --> 00:36:28,080
+ Den här möjligheten finns ungefär ett år framåt och när vi kommer dit så har vi förhoppningsvis bättre data och kan utvärdera precisionen på det.
+
+333
+00:36:28,080 --> 00:36:37,520
+ Är inte risken att det kommer ett stort mörkertal under den här tiden och att man kommer missa kvinnor som kan drabbas av det här?
+
+334
+00:36:37,520 --> 00:36:40,000
+ Jo, det är sådana resonemang vi har fört.
+
+335
+00:36:40,000 --> 00:36:48,480
+ Det är också så att vi kommer att få en del falskt positiva eftersom vi i den yngre gruppen av kvinnor mäter vi HPV.
+
+336
+00:36:48,480 --> 00:36:55,440
+ Vi kommer att hitta en del som är positiva för det som förmodligen annars hade läckt ut och inte visat cellförändringar.
+
+337
+00:36:55,440 --> 00:37:02,560
+ Det finns nackdelar med att införa testet och då är den här balansen.
+
+338
+00:37:02,560 --> 00:37:07,440
+ Är det bättre än ingenting eller hade det varit bättre att inte erbjuda den möjligheten?
+
+339
+00:37:07,440 --> 00:37:16,080
+ Nu ser vi att redan har 13 regioner pausat det här och ytterligare flera har dragit ner på verksamheten.
+
+340
+00:37:16,080 --> 00:37:24,400
+ Verkligheten är att idag finns inte den ordinarie verksamheten överallt.
+
+341
+00:37:24,400 --> 00:37:32,400
+ Därför har vi valt att erbjuda den här möjligheten om man inte har den andra som otvetydligt är en bättre metod.
+
+342
+00:37:34,480 --> 00:37:38,800
+ Johannes Ledel, AFP, en fråga till Folkhälsomyndigheten.
+
+343
+00:37:38,800 --> 00:37:45,760
+ I takt med att de senaste veckorna har vi sett en ökning i testningarna så har vi också sett att fallen har ökat ganska kraftigt.
+
+344
+00:37:45,760 --> 00:37:50,160
+ På många ställen utomlands har man tolkat det som att spridningen har ökat i Sverige.
+
+345
+00:37:50,160 --> 00:37:53,120
+ Hur skulle du kunna förklara hur ni tolkar det här?
+
+346
+00:37:53,120 --> 00:38:00,080
+ Hur mycket handlar det om att bara testningen har gått upp och hur mycket handlar det om att smittan fortfarande sprids i en hög takt?
+
+347
+00:38:00,080 --> 00:38:08,720
+ Det är två delar. Om man tittar på ökningen så har vi stabila mätvärden som vi följer, IVA-inläggningar och dödsfall.
+
+348
+00:38:08,720 --> 00:38:16,880
+ Sen handlar det om vilka grupper smittspridningen sker i som kan påverka den exakta korrelationen mellan IVA-inläggningar och dödsfall
+
+349
+00:38:16,880 --> 00:38:22,080
+ kontra förkomsten i samhället. Där vet vi inte exakt hur vi kan lägga en faktor på det.
+
+350
+00:38:22,080 --> 00:38:30,720
+ Men vi har gjort estimeringar att ungefär 1 på 20 fall detekterade vi när vi bara mätte de fall som lades in på sjukhus.
+
+351
+00:38:30,720 --> 00:38:36,480
+ Utifrån det så vet vi att vi gjorde tvärsnittsundersökningar och tittade på förekomsten i samhället.
+
+352
+00:38:36,480 --> 00:38:40,400
+ Både i slutet på mars, slutet av april och slutet på maj.
+
+353
+00:38:40,400 --> 00:38:44,400
+ Vi hade som högst mätvärden i Stockholm kring 5%.
+
+354
+00:38:44,400 --> 00:38:53,840
+ Då kan man extrapolera det och tänka bara i Stockholm om man hade 5% hur många tusen individer är det i Stockholm som har en dryg miljon invånare.
+
+355
+00:38:53,840 --> 00:39:00,800
+ Så får man förståelse för antalet faktiska fall som faktiskt var i början av april när vi hade mest smittspridning.
+
+356
+00:39:00,800 --> 00:39:03,600
+ Jämför det med nu. Så vi har absolut en nedgång.
+
+357
+00:39:03,600 --> 00:39:07,200
+ Men det visar också att vi har fortsatt smittspridning i samhället.
+
+358
+00:39:07,200 --> 00:39:09,760
+ Det är det som är så viktigt att alla tar till sig.
+
+359
+00:39:09,760 --> 00:39:15,520
+ Att också få en förståelse. Så den här ökade testningen sätter ljuset på den faktiska smittan.
+
+360
+00:39:15,520 --> 00:39:23,520
+ Vår förhoppning är att med ökad smittspårning och ökad testning så ska vi få bort och få ner det absolut sista i samhället i möjligaste mån.
+
+361
+00:39:23,520 --> 00:39:29,280
+ Sen måste vi fortsätta ha en väldig vaksamhet och fånga utbrott och så vidare som kommer.
+
+362
+00:39:29,280 --> 00:39:42,720
+ När det gäller den här ökade testningen och de nya fall som dyker upp nu. Hur stor del av de testerna påvisar pågående infektioner kontra antikroppar för en redan genomgått infektion?
+
+363
+00:39:42,720 --> 00:39:45,520
+ Ser vi gamla fall nu eller ser vi faktiskt pågående fall?
+
+364
+00:39:45,520 --> 00:39:51,440
+ Vi ser faktiskt pågående fall. Så i den här statistiken som jag visade med kurvorna i början på presentationen.
+
+365
+00:39:51,440 --> 00:39:54,880
+ Det är PCR-testning, påvisning av faktiskt virus.
+
+366
+00:39:54,880 --> 00:40:00,640
+ Vi kommer att lägga ut både nämnadata och utfall av det för serologisk testning.
+
+367
+00:40:00,640 --> 00:40:06,720
+ Men vi har inte börjat lägga ut det än så det jag visade här är faktiskt pågående virusinfektion.
+
+368
+00:40:06,720 --> 00:40:13,440
+ Men sen är det så att i de testerna så påvisar man också de som har en genomgången infektion och som inte längre är smittsamma.
+
+369
+00:40:13,440 --> 00:40:19,840
+ För att man bär på virus i regel en tid, några veckor efter det att infektionen har läckt ut.
+
+370
+00:40:19,840 --> 00:40:25,280
+ Men det kan se lite olika ut på individnivå. Men överlag så är det aktiv infektion man påvisar, helt och hållet.
+
+371
+00:40:25,280 --> 00:40:30,080
+ Amanda Dahl, DN till Folkhälsomyndigheten.
+
+372
+00:40:30,080 --> 00:40:40,080
+ Jag tänkte börja med att fråga om den här vägledningen för personer med positiva antikroppstester.
+
+373
+00:40:40,080 --> 00:40:46,080
+ Hur ska man förhålla sig till dem om man bara har tagit ett positivt PCR-test och sen tillfrisknat?
+
+374
+00:40:46,080 --> 00:40:51,440
+ Det är en bra fråga. För det visar att man också har en genomgången infektion.
+
+375
+00:40:51,440 --> 00:40:56,400
+ Än så länge har vi ingen vägledning kring det. Men du är inne på en central del.
+
+376
+00:40:56,400 --> 00:41:03,280
+ Kan man då räkna genomgången infektion som en markör för att man faktiskt dels är skyddad från en ny infektion
+
+377
+00:41:03,280 --> 00:41:06,320
+ och dels har en mindre risk att smitta andra?
+
+378
+00:41:06,320 --> 00:41:13,840
+ Vi bedömer att det ligger i den riktningen såklart. Men det finns inte med i vägledningen idag på det sättet.
+
+379
+00:41:13,840 --> 00:41:27,280
+ Och sen gällande den här rapporten från KI. Kan den göra att Folkhälsomyndigheten börjar räkna på just immuniteten på något annat sätt?
+
+380
+00:41:27,280 --> 00:41:33,920
+ Får vi ju mer data vi får, där vi får ett korrelat mellan olika mätvärden,
+
+381
+00:41:33,920 --> 00:41:40,880
+ ju bättre förståelse får vi ju för sjukdomens utbredning och den möjliga immunitet och motstånd som finns i befolkningen.
+
+382
+00:41:40,880 --> 00:41:45,840
+ Så vi kommer ta med det här som ytterligare en pusselbit i det pussel vi lägger.
+
+383
+00:41:45,840 --> 00:41:54,720
+ Och se fram emot att vi också får mer data. Hur utbredd är TSH-svaret, immuniteten i olika grupper i befolkningen?
+
+384
+00:41:54,720 --> 00:41:58,720
+ Då ska vi till Östersundsposten.
+
+385
+00:41:58,720 --> 00:42:06,240
+ Ja, Annie Tunengård från Östersundsposten.
+
+386
+00:42:06,240 --> 00:42:15,600
+ Jag har två frågor till Folkhälsomyndigheten. Den första är, hur har ni vägt riskerna för personalen mot tryggheten för gästen
+
+387
+00:42:15,600 --> 00:42:19,600
+ när ni har satt upp de befintliga restriktionerna för strang verksamhet?
+
+388
+00:42:19,600 --> 00:42:21,600
+ Förlåt, det var lite lågt ljud.
+
+389
+00:42:21,600 --> 00:42:23,600
+ Det var lite lågt ljud, jag går och höjer ljudet.
+
+390
+00:42:23,600 --> 00:42:25,600
+ Kan du lyfta upp mikrofonen till munnen?
+
+391
+00:42:25,600 --> 00:42:27,600
+ Ja.
+
+392
+00:42:27,600 --> 00:42:29,600
+ Hörde ni mig nu?
+
+393
+00:42:29,600 --> 00:42:31,600
+ Ja.
+
+394
+00:42:31,600 --> 00:42:33,600
+ Nu, vad bra. Ska jag ta det från början?
+
+395
+00:42:33,600 --> 00:42:39,600
+ Det är bättre bara tyvärr. Vi jobbar lite och ser om det går för upp ljudet lite grann.
+
+396
+00:42:39,600 --> 00:42:43,600
+ Ja, jag kan försöka prata långsamt och tydligt.
+
+397
+00:42:43,600 --> 00:42:45,600
+ Det blir bra. Vi tar frågan.
+
+398
+00:42:45,600 --> 00:42:53,600
+ Två frågor var det. Den första är, hur har ni vägt riskerna för personalen mot tryggheten för gästerna
+
+399
+00:42:53,600 --> 00:42:59,600
+ när ni har satt upp de befintliga restriktionerna som finns för restaurangverksamhet?
+
+400
+00:42:59,600 --> 00:43:09,600
+ Vi har tittat på båda de delarna. Det är väldigt viktigt att det är en säker arbetsplats för de som arbetar i olika yrken
+
+401
+00:43:09,600 --> 00:43:11,600
+ där man nu sätter sig på potentiell risk att smitta.
+
+402
+00:43:11,600 --> 00:43:19,600
+ Där har vi tagit fram en rapport som också visar hur olika yrken är olika drabbade av svår sjukdom.
+
+403
+00:43:19,600 --> 00:43:23,600
+ Det är väldigt viktigt att tänka på båda delarna i det här.
+
+404
+00:43:23,600 --> 00:43:27,600
+ Jag vill säga att vi har vägt båda delarna och kanske inte den ena framför den andra.
+
+405
+00:43:27,600 --> 00:43:39,600
+ Andra frågan är varför det inte finns några riktlinjer om ytterligare skydd specifikt för restaurangpersonalen i de här föreskrifterna?
+
+406
+00:43:39,600 --> 00:43:44,600
+ Vi ser ju att avstånd är det absolut bästa skyddet man kan ha.
+
+407
+00:43:44,600 --> 00:43:51,600
+ Det är det som vi vill att man ska ta fasta på. Att det är just avståndet som man ska vara centralt i hanteringen.
+
+408
+00:43:51,600 --> 00:43:55,600
+ Tack. Då var det Borås tidning också.
+
+409
+00:43:57,600 --> 00:44:01,600
+ Där ska djuret vara igång. Erik Lönnör i mitt namn.
+
+410
+00:44:01,600 --> 00:44:05,600
+ Två frågeställningar till på antikroppstemat.
+
+411
+00:44:05,600 --> 00:44:13,600
+ En kollega till mig har gjort tre olika snabbtester för antikroppar och fått tre olika resultat.
+
+412
+00:44:13,600 --> 00:44:18,600
+ Hur ska man kunna dra någon slutsats när resultaten varierar på det sättet?
+
+413
+00:44:18,600 --> 00:44:29,600
+ Det är jättebra att du lyfter den frågan. Det är därför som vi i vägledningen har en särskild bilaga där vi pekar på vilka krav man ska ställa på testets prestanda.
+
+414
+00:44:29,600 --> 00:44:38,600
+ Och hur är testets prestanda fastställt? Att man tittar på att man har tillräckligt med mätpunkter i utvärderingen av testet.
+
+415
+00:44:38,600 --> 00:44:42,600
+ Det är helt som du säger att man kan få olika resultat.
+
+416
+00:44:42,600 --> 00:44:54,600
+ I den här vägledningen pekar vi på att provtar man individer i en region eller grupp där man har väldigt låg förekomst av sjukdomen och antikroppar
+
+417
+00:44:54,600 --> 00:45:02,600
+ så ställer det oerhört höga krav på testets pricksäkerhet. Dess förmåga att verkligen plocka ut de som har sanna antikroppar.
+
+418
+00:45:05,600 --> 00:45:14,600
+ Hur ska min kollega Sebastian som privatperson reagera på de här olika resultaten som han har fått?
+
+419
+00:45:14,600 --> 00:45:21,600
+ Han ska ställa frågan där han väljer att ta testet. Har ni följt Folkhälsomyndighetens rekommendationer?
+
+420
+00:45:21,600 --> 00:45:27,600
+ Har ni de prestanda som krävs för att jag ska kunna tolka det här överhuvudtaget på individnivå?
+
+421
+00:45:27,600 --> 00:45:34,600
+ Tack! Då var det inga fler frågor. Tack för att ni kom hit. Nästa planerade pressträff är i övermorgon på torsdag.
+
+422
+00:45:34,600 --> 00:45:40,600
+ Vi har intervjuerna utomhus. Det duggregnar lite men vi provar och ser hur det går. Tack!
+
+423
+00:45:40,600 --> 00:45:42,600
+ (Text)
+
+424
+00:45:42,600 --> 00:45:44,600
+ (Text)
+
+425
+00:45:46,600 --> 00:45:48,600
+ (Text)
+
+426
+00:45:48,600 --> 00:45:50,600
+ (Text)
+
+427
+00:45:50,600 --> 00:45:54,600
+ [Textet av Nicolai Winther]
+

@@ -1,0 +1,1504 @@
+1
+00:00:00,000 --> 00:00:06,140
+ Tack så mycket och välkomna hit. Jag tänkte gå igenom det epidemiologiska läget,
+
+2
+00:00:06,140 --> 00:00:12,160
+ kommentera den globala, den europeiska och den svenska situationen
+
+3
+00:00:12,160 --> 00:00:20,360
+ och säga något kort om vad vi har att förhålla oss till i framtiden.
+
+4
+00:00:20,360 --> 00:00:28,920
+ Tittar man på världskartan så är det som ni alla vet problematiskt på många håll i världen.
+
+5
+00:00:28,920 --> 00:00:38,120
+ Vi har en situation som av de amerikanska myndigheterna har beskrivit som okontrollerbar.
+
+6
+00:00:38,120 --> 00:00:45,800
+ Vi har många nya fall som tillkommer. Vi har haft delstater som haft lockdown
+
+7
+00:00:45,800 --> 00:00:51,880
+ och man har fått tillbaka mycket av spridningen och man har en ny spridning i nya stater.
+
+8
+00:00:51,880 --> 00:00:56,200
+ Vi har en omfattande spridning i Brasilien och Indien.
+
+9
+00:00:56,200 --> 00:01:06,360
+ Jag vill peka på de många utbrott som vi nu ser i länder som med hjälp av det som beskrivs
+
+10
+00:01:06,360 --> 00:01:12,920
+ som kraftfulla åtgärder, lockdown och annat, pressar tillbaka smittan, nu öppnar och man får
+
+11
+00:01:12,920 --> 00:01:21,280
+ mer eller mindre stora utbrott. Vi ser i Storbritannien, vi har sett två utbrott i norra Spanien
+
+12
+00:01:21,280 --> 00:01:26,080
+ som har inneburit att man återgått i huvudsak till åtgärder som man vidtagit tidigare.
+
+13
+00:01:26,080 --> 00:01:35,120
+ Vi har inte minst sett det senaste dygnet ett utbrott i delstaten Victoria i Australien
+
+14
+00:01:35,120 --> 00:01:39,360
+ vilket innebär att en stor del av Melbourne återgår till en lockdown-situation.
+
+15
+00:01:39,360 --> 00:01:44,880
+ Vi ser dessutom i Europa en spridning, då pratar jag inte om utbrott utan en spridning
+
+16
+00:01:44,880 --> 00:01:50,880
+ i delar av Europa som inte haft så mycket av corona-infektionen förut, det är bara Balkan.
+
+17
+00:01:50,880 --> 00:01:59,840
+ Som i media beskrivs som kraftig spridning i Kroatien men även i Serbien och angränsande delar
+
+18
+00:01:59,840 --> 00:02:05,840
+ vilket gjort att Grekland har stängt sin gräns för serbiska resenärer.
+
+19
+00:02:05,840 --> 00:02:13,600
+ Tittar man på den svenska situationen så är den mer positiv just nu.
+
+20
+00:02:13,600 --> 00:02:21,920
+ Vi har en ganska snabbt fallande tendens när det gäller positiva fall.
+
+21
+00:02:21,920 --> 00:02:27,120
+ När det gäller allvarliga fall så har vi ett lågt antal allvarliga fall.
+
+22
+00:02:27,120 --> 00:02:34,880
+ När det gäller de milda fall som personalprovtagning eller provtagning av människor
+
+23
+00:02:34,880 --> 00:02:38,960
+ med milda symptom så sjunker även det kraftigt.
+
+24
+00:02:38,960 --> 00:02:45,120
+ Den senaste veckan, framförallt de sista dagarna, hade vi bara 283 anmälda fall
+
+25
+00:02:45,120 --> 00:02:49,680
+ det senaste dygnet vilket ska jämföras med tusen fall tidigare.
+
+26
+00:02:49,680 --> 00:02:56,000
+ Det rullande medelvärdet är nere på låga tal.
+
+27
+00:02:56,000 --> 00:03:04,160
+ Det här är inte till priset av en effekt av en försämrad provtagning.
+
+28
+00:03:04,160 --> 00:03:09,920
+ Vi har snarare en högre antal provtagna under förra veckan än veckan innan.
+
+29
+00:03:09,920 --> 00:03:14,880
+ De exakta siffrorna kommer att publiceras antingen senare idag eller under morgondagen.
+
+30
+00:03:14,880 --> 00:03:19,840
+ Men vi har alltså inte en sjunkande antal provtagna med PCR.
+
+31
+00:03:19,840 --> 00:03:30,240
+ När det gäller antalet IVA-vårdade så är det samma tendens.
+
+32
+00:03:30,240 --> 00:03:35,200
+ Det här är inte de exakta siffrorna utan rullande medelvärdet.
+
+33
+00:03:35,200 --> 00:03:40,720
+ Men ni ser även där att vi har ett rullande medelvärde under dygnen som börjar närma sig fem.
+
+34
+00:03:40,720 --> 00:03:46,880
+ Fem nya fall i hela riket som då får tas in på intensivvården.
+
+35
+00:03:46,880 --> 00:03:54,240
+ Antalet avlidna visar samma tendens.
+
+36
+00:03:54,240 --> 00:04:02,240
+ Det är tisdag idag så det är fortfarande en underrapportering.
+
+37
+00:04:02,240 --> 00:04:08,720
+ Imorgon får vi se hur läget har sett ut under de gångna fem-sex dygnen.
+
+38
+00:04:08,720 --> 00:04:18,080
+ Men fortfarande ett lågt antal avlidna som ni ser där och en stadigt sjunkande kurva.
+
+39
+00:04:18,080 --> 00:04:28,960
+ Med de här positiva signalerna så vill jag ändå säga att det här är effekten av att den sociala distanseringen,
+
+40
+00:04:28,960 --> 00:04:35,520
+ alltså det fysiska avståndet mellan människor upprätthålls och måste fortsatt upprätthållas.
+
+41
+00:04:35,520 --> 00:04:41,520
+ Vi har indikationer från en del semesterort och MSB kommer att ta upp det närmare sen.
+
+42
+00:04:41,520 --> 00:04:47,680
+ Och på andra håll i landet att det fungerar mindre väl, inte så väl som vi skulle önska.
+
+43
+00:04:47,680 --> 00:04:56,320
+ Mitt budskap är att för att den positiva tendensen ska fortsätta så måste vi hålla i detta.
+
+44
+00:04:56,320 --> 00:05:05,920
+ Det är väldigt viktigt. Vi har långsiktiga, enkla, tydliga regler för att hålla avstånd.
+
+45
+00:05:05,920 --> 00:05:11,520
+ Hur man beter sig i olika sammanhang på restauranger, badplatser osv.
+
+46
+00:05:11,520 --> 00:05:15,520
+ Det är oerhört viktigt att alla håller i detta.
+
+47
+00:05:15,520 --> 00:05:20,480
+ Då vänder jag mig både till allmänheten men inte minst till de som driver verksamheterna.
+
+48
+00:05:20,480 --> 00:05:24,480
+ Restaurangägare, de som är ansvariga för badplatser osv.
+
+49
+00:05:24,480 --> 00:05:32,480
+ Vi har också hjälp av kommunerna och länsstyrelserna som har att tillse och överse hur det här hanteras.
+
+50
+00:05:32,480 --> 00:05:38,960
+ Budskapet är att resa ansvarsfullt, undvik platser med mycket folk och trängsel.
+
+51
+00:05:38,960 --> 00:05:42,960
+ Undvik nära kontakter med människor som du inte umgås med normalt.
+
+52
+00:05:42,960 --> 00:05:45,520
+ Det är ett viktigt budskap.
+
+53
+00:05:45,520 --> 00:05:49,360
+ Skaffa inga nya bekanta på semestern vilket normalt sett är ganska trevligt.
+
+54
+00:05:49,360 --> 00:05:51,360
+ Det får ni göra nästa år.
+
+55
+00:05:51,360 --> 00:05:53,840
+ Undvik större sociala sammanhang.
+
+56
+00:05:53,840 --> 00:05:57,840
+ Försök undvika dop, fester, bröllop och begravningar.
+
+57
+00:05:57,840 --> 00:06:00,640
+ Samla för många människor där.
+
+58
+00:06:00,640 --> 00:06:03,840
+ Vissa av de här evenemangen kan också ställas in.
+
+59
+00:06:03,840 --> 00:06:06,880
+ Andra låts inte göras på samma sätt.
+
+60
+00:06:06,880 --> 00:06:09,840
+ Men där ska man undvika att ha för stora evenemang.
+
+61
+00:06:09,840 --> 00:06:12,880
+ Personer i riskgrupper.
+
+62
+00:06:12,880 --> 00:06:14,880
+ Det är extra viktigt att följa råden.
+
+63
+00:06:14,880 --> 00:06:22,400
+ Där har vi också kommit under veckan med förtydligande anvisningar för personer som är antikroppspositiva.
+
+64
+00:06:22,400 --> 00:06:24,880
+ Stanna hemma om du är sjuk.
+
+65
+00:06:24,880 --> 00:06:26,880
+ Det kanske är det allra viktigaste.
+
+66
+00:06:26,880 --> 00:06:29,680
+ Även lätta symptom ska göra att man stannar hemma.
+
+67
+00:06:29,680 --> 00:06:31,680
+ Håll sin och inte träffa andra.
+
+68
+00:06:31,680 --> 00:06:35,680
+ Till sist håll avståndet och ha en god handhygien.
+
+69
+00:06:35,680 --> 00:06:37,680
+ Slut.
+
+70
+00:06:37,680 --> 00:06:39,680
+ Tack Johan.
+
+71
+00:06:39,680 --> 00:06:45,680
+ En kort lägesrapport från Socialstyrelsens särskilda organisation med anledning av covid-19.
+
+72
+00:06:45,680 --> 00:06:51,680
+ Totalt vårdas det nu 404 patienter i intensivvården med respirator i Sverige.
+
+73
+00:06:51,680 --> 00:06:53,680
+ Av dem har 116 covid-19.
+
+74
+00:06:53,680 --> 00:06:59,680
+ Vi ser samma sjunkande men långsamma trend.
+
+75
+00:06:59,680 --> 00:07:01,680
+ Vilket är väldigt positivt.
+
+76
+00:07:01,680 --> 00:07:07,680
+ Utanför intensivvården men på sjukhus så vårdas 547 patienter med covid-19 idag.
+
+77
+00:07:07,680 --> 00:07:09,680
+ Samma trend där.
+
+78
+00:07:09,680 --> 00:07:13,680
+ Tillgängligheten i intensivvården är fortsatt god.
+
+79
+00:07:13,680 --> 00:07:17,680
+ Det finns 613 tillgängliga intensivvårdsplatser med respirator idag.
+
+80
+00:07:17,680 --> 00:07:23,680
+ Det betyder att vi har nästan 34% tillgänglig kapacitet.
+
+81
+00:07:23,680 --> 00:07:29,680
+ Vilket är väldigt positivt och innebär att vi har en god förmåga att möta ett förändrat behov av covid-19.
+
+82
+00:07:29,680 --> 00:07:31,680
+ Och förändra händelser i samhället.
+
+83
+00:07:31,680 --> 00:07:35,680
+ Variationen i landet är fortsatt stor.
+
+84
+00:07:35,680 --> 00:07:39,680
+ Den varierar mellan 20 och knappt 70%.
+
+85
+00:07:39,680 --> 00:07:47,680
+ Men det är inte lika stor variation som vi har sett under veckorna under våren.
+
+86
+00:07:47,680 --> 00:07:53,680
+ Drygt hälften av alla regioner rapporterar om förbättringar både kort och lång sikt.
+
+87
+00:07:53,680 --> 00:07:56,680
+ Vi pratar om kort sikt, 24-72 timmar.
+
+88
+00:07:56,680 --> 00:07:59,680
+ Och lång sikt, 10-15 dagar.
+
+89
+00:07:59,680 --> 00:08:06,680
+ Däremot ser den andra knappa hälften små försämringar på både kort och lång sikt.
+
+90
+00:08:06,680 --> 00:08:10,680
+ Det gäller framförallt, men inte enbart, små och turistintensiva regioner.
+
+91
+00:08:10,680 --> 00:08:16,680
+ Som ser en oro för de kommande turistveckorna.
+
+92
+00:08:16,680 --> 00:08:18,680
+ Tack!
+
+93
+00:08:18,680 --> 00:08:22,680
+ Stefan Ahlring från MSB.
+
+94
+00:08:22,680 --> 00:08:28,680
+ Myndigheten för samhällsskydd och beredskap stödjer de aktörer som hanterar pandemin.
+
+95
+00:08:28,680 --> 00:08:32,680
+ Vi bidrar till samordningen och kompletterar andras insatser.
+
+96
+00:08:32,680 --> 00:08:38,680
+ Vi försöker blicka framåt för att säkerställa uthållighet och beredskap i hela samhället.
+
+97
+00:08:38,680 --> 00:08:43,680
+ Om läget skulle förändras eller om det skulle kunna ta andra vägar.
+
+98
+00:08:43,680 --> 00:08:49,680
+ Jag kommer också att säga något om Cantar CIFO, en enkätundersökning.
+
+99
+00:08:49,680 --> 00:08:53,680
+ Idag fokuserar vi på resandet i Sverige.
+
+100
+00:08:53,680 --> 00:09:00,680
+ Cantar CIFO har ställt frågor om människors uppfattningar och beteenden sedan den 21 mars i år.
+
+101
+00:09:00,680 --> 00:09:06,680
+ Undersökningen fylls på varje dag, så man kan följa utvecklingen över tid.
+
+102
+00:09:06,680 --> 00:09:10,680
+ Hittills har 11 000 personer ungefär svarat på enkäten.
+
+103
+00:09:10,680 --> 00:09:16,680
+ Den senaste rapporten i sin helhet finns på vår hemsida, msb.se.
+
+104
+00:09:16,680 --> 00:09:21,680
+ Vi ser att det är en liten ökning när det gäller resandet.
+
+105
+00:09:21,680 --> 00:09:29,680
+ Den här veckan svarar 45 % att de kommer att resa en eller flera gånger inom Sverige.
+
+106
+00:09:29,680 --> 00:09:35,680
+ Då pratar vi om resor som är två timmar eller längre från hemmet.
+
+107
+00:09:35,680 --> 00:09:40,680
+ Det kan jämföras med 41 % som var förra veckans resultat.
+
+108
+00:09:40,680 --> 00:09:46,680
+ Totalt har ungefär 2 200 personer svarat på just den här frågan.
+
+109
+00:09:46,680 --> 00:09:52,680
+ Vi ser också i statistik från Tillväxtverket om ett stigande antal gästnätter.
+
+110
+00:09:52,680 --> 00:09:56,680
+ Det tyder på att turismen och resandet i Sverige ökar.
+
+111
+00:09:56,680 --> 00:10:01,680
+ Enligt Folkhälsomyndighetens tidigare undersökningar och Cantar CIFO
+
+112
+00:10:01,680 --> 00:10:05,680
+ följer många människor myndigheternas rekommendationer.
+
+113
+00:10:05,680 --> 00:10:08,680
+ Det är vi väldigt glada för.
+
+114
+00:10:08,680 --> 00:10:13,680
+ Vi får också en del andra rapporter som mina kollegor nämnt.
+
+115
+00:10:13,680 --> 00:10:17,680
+ Senast har vi fått från Länsstyrelsen i Kalmar län
+
+116
+00:10:17,680 --> 00:10:22,680
+ som säger att det är trängsel i utomhusmiljöerna på Ölan.
+
+117
+00:10:22,680 --> 00:10:25,680
+ Det gäller framförallt på gator och stränder.
+
+118
+00:10:25,680 --> 00:10:29,680
+ På campingar och restauranger fungerar det bra.
+
+119
+00:10:29,680 --> 00:10:37,680
+ Vi fortsätter därför att vädja till dig som rör dig utomhus bland folk runt om i Sverige
+
+120
+00:10:37,680 --> 00:10:39,680
+ att hålla avstånd till andra.
+
+121
+00:10:39,680 --> 00:10:46,680
+ Var hjälpsam och säg vänligt till om någon kommer för nära på gatan, restaurangen eller stranden.
+
+122
+00:10:46,680 --> 00:10:48,680
+ Så vi kan hjälpas åt att hålla avstånd.
+
+123
+00:10:48,680 --> 00:10:52,680
+ Vi tycker också att det ska vara lätt att göra rätt.
+
+124
+00:10:52,680 --> 00:10:58,680
+ Därför är det viktigt att du som arrangör, verksamhetsansvarig eller resebolag
+
+125
+00:10:58,680 --> 00:11:01,680
+ gör det enkelt för dina kunder att hålla avstånd.
+
+126
+00:11:01,680 --> 00:11:07,680
+ På MSBs webbplats finns det därför nu både annons och informationsmaterial
+
+127
+00:11:07,680 --> 00:11:12,680
+ som man fritt kan ladda ner och som man kan använda om man är verksamhetsansvarig.
+
+128
+00:11:12,680 --> 00:11:18,680
+ Vi visar där också upp en del goda exempel på hur olika verksamhetsområden har löst uppgiften.
+
+129
+00:11:18,680 --> 00:11:23,680
+ Sen igår finns även det här materialet på engelska.
+
+130
+00:11:23,680 --> 00:11:30,680
+ Vi är medvetna om att den här coronapandemin har pågått länge och den är inte över.
+
+131
+00:11:30,680 --> 00:11:33,680
+ Läget är fortfarande allvarligt.
+
+132
+00:11:33,680 --> 00:11:37,680
+ Men sommar och semester kan ju göra att vi ibland tappar lite fokus.
+
+133
+00:11:37,680 --> 00:11:41,680
+ Därför är det viktigt att vi hjälps åt att hålla smittspridningen på en nivå
+
+134
+00:11:41,680 --> 00:11:45,680
+ så att sjukvården klarar av att ta hand om dem som behöver vård.
+
+135
+00:11:45,680 --> 00:11:51,680
+ Det är också viktigt att vi håller i och håller ut och fortsätter följa myndigheternas rekommendationer.
+
+136
+00:11:51,680 --> 00:11:57,680
+ Huvudbudskapet från oss är att fortsätta följa myndigheternas rekommendationer
+
+137
+00:11:57,680 --> 00:12:04,680
+ och håll avstånd till varandra på campingar, badplatser, parker, restauranger, köpcentrar och affärer.
+
+138
+00:12:04,680 --> 00:12:07,680
+ Så att man skyddar både sig själv och andra.
+
+139
+00:12:07,680 --> 00:12:11,680
+ Sen vill vi också tacka för att ni håller i och håller ut.
+
+140
+00:12:11,680 --> 00:12:16,680
+ Och för att ni är en del av lösningen, alla ni som gör det. Tack så mycket.
+
+141
+00:12:16,680 --> 00:12:20,680
+ Då öppnar vi upp för frågor här inne.
+
+142
+00:12:23,680 --> 00:12:28,680
+ Hej, Birkis Briscetto, TT. Jag har en fråga till Johan Carlsson.
+
+143
+00:12:28,680 --> 00:12:37,680
+ Vi har pratat om att inflödet av nya patienter till intensivvården är mycket lågt, väldigt få nya smittade.
+
+144
+00:12:37,680 --> 00:12:44,680
+ Hur går det ihop med att färre följer rekommendationer, att fler ut och reser?
+
+145
+00:12:44,680 --> 00:12:47,680
+ Borde vi inte ha sett en ökning i antalet allvarliga fall?
+
+146
+00:12:48,680 --> 00:12:57,680
+ Ja, det är väl möjligtvis så att folk följer rekommendationer i större utsträckning än vad enkätsiffror säger.
+
+147
+00:12:57,680 --> 00:13:05,680
+ Vi gjorde en del prognosticeringar och modelleringar inför sommaren som sa att resandet i sig
+
+148
+00:13:05,680 --> 00:13:13,680
+ inte nödvändigtvis ökar trycket på sjukvården eller ökar risken för smittspridning.
+
+149
+00:13:13,680 --> 00:13:18,680
+ Det är just den här distanseringsfrågan.
+
+150
+00:13:18,680 --> 00:13:27,680
+ Uppenbarligen är det så att än så länge håller folk väldigt mycket på det regelverk som finns.
+
+151
+00:13:27,680 --> 00:13:29,680
+ Eftersom vi ser den positiva utvecklingen.
+
+152
+00:13:29,680 --> 00:13:34,680
+ Men jag vill återigen varna för att det inte är slut.
+
+153
+00:13:34,680 --> 00:13:37,680
+ Vi har en lång väg kvar att hantera det.
+
+154
+00:13:37,680 --> 00:13:45,680
+ Uppenbarligen så fungerar det. Sen släpar det lite efter. Försämringar som vi ser nu kan också slå mot sjukvården om någon vecka.
+
+155
+00:13:45,680 --> 00:13:50,680
+ Vi såg i våra prognosticeringar att risken är störst i slutet av sommaren.
+
+156
+00:13:50,680 --> 00:13:54,680
+ Kan immunitet i befolkningen spela en roll?
+
+157
+00:13:54,680 --> 00:13:58,680
+ Immunitet kan definitivt spela en roll i de områden som har drabbats värst.
+
+158
+00:13:58,680 --> 00:14:00,680
+ Att vi har en mindre smittspridning.
+
+159
+00:14:00,680 --> 00:14:06,680
+ Det ger en positiv effekt på det sammantagna resultatet.
+
+160
+00:14:06,680 --> 00:14:13,680
+ Per Kudow, Svenska Dagbladet. En fråga till Folkhälsomyndigheten.
+
+161
+00:14:13,680 --> 00:14:18,680
+ Om det här öppna brevet som undertecknats av över 200 forskare.
+
+162
+00:14:18,680 --> 00:14:24,680
+ Man har skrivit att den här synen som ni har på luftbur, smitt och överföring.
+
+163
+00:14:24,680 --> 00:14:29,680
+ Att den här är fel och att risken är mycket större. Hur ser ni på det här?
+
+164
+00:14:29,680 --> 00:14:34,680
+ Det är egentligen ställt till VO. Det är väl VO-syn som man kritiserar i första hand.
+
+165
+00:14:34,680 --> 00:14:42,680
+ Jag har förståelse för att det är ingen enkel matematik kring det här.
+
+166
+00:14:42,680 --> 00:14:49,680
+ Vore det så att luftburna och smittan vore det som driver det här.
+
+167
+00:14:49,680 --> 00:14:53,680
+ Då hade vi sett ett helt annat scenario. Då hade vi sett spridning i det här rummet.
+
+168
+00:14:53,680 --> 00:14:55,680
+ Det är uppenbart så att det är en droppsmitta.
+
+169
+00:14:55,680 --> 00:15:03,680
+ Men att man i vissa situationer, lägen och utrymmen kan få någonting som påminner mer om en aerosolsmitta
+
+170
+00:15:03,680 --> 00:15:06,680
+ än en luftburinsmitta, det är nog så.
+
+171
+00:15:06,680 --> 00:15:09,680
+ Men jag tror att det är viktigt att göra som VO.
+
+172
+00:15:09,680 --> 00:15:15,680
+ Att man riktar in sig på de huvudsakliga, viktiga, riktiga smittvägarna i det här läget.
+
+173
+00:15:15,680 --> 00:15:17,680
+ Vi får se vad VO svarar.
+
+174
+00:15:17,680 --> 00:15:23,680
+ Men jag inbillar mig att ska man komma nån vart här så måste man bestämma sig för vissa huvudriktningar.
+
+175
+00:15:23,680 --> 00:15:29,680
+ Amanda Hellsten, Ekot. Kan nya restriktioner komma att införas om ni märker att
+
+176
+00:15:29,680 --> 00:15:32,680
+ smittspridningen börjar öka igen?
+
+177
+00:15:32,680 --> 00:15:41,680
+ Ja, definitivt. Får vi en besvärlig situation så får man naturligtvis fundera på åtgärder som kan vidtas.
+
+178
+00:15:41,680 --> 00:15:45,680
+ Framförallt så har vi fått regeringens uppdrag att titta på regionala åtgärder.
+
+179
+00:15:45,680 --> 00:15:50,680
+ Idag så finns det inte riktigt sådana möjligheter att införa regionala restriktioner
+
+180
+00:15:50,680 --> 00:15:53,680
+ med hjälp av lagstiftning och så vidare.
+
+181
+00:15:53,680 --> 00:15:59,680
+ Men inför framtiden och framförallt inför ett scenario som jag antydde där vi har att räkna med utbrott.
+
+182
+00:15:59,680 --> 00:16:04,680
+ Kanske klusters utbrott på olika håll som vi ser nu på kontinenten.
+
+183
+00:16:04,680 --> 00:16:11,680
+ Så finns det anledning att överväga mera regionala stängningar till exempel om det skulle behövas.
+
+184
+00:16:11,680 --> 00:16:14,680
+ Vi har ett särskilt uppdrag att titta på det.
+
+185
+00:16:14,680 --> 00:16:20,680
+ Det är någonting som kanske inte ligger precis nu men det närmaste året har vi att räkna med
+
+186
+00:16:20,680 --> 00:16:26,680
+ att ha en väldigt hög, kanske längre, hög beredskap för just den här utbrottssituationen.
+
+187
+00:16:28,680 --> 00:16:33,680
+ –Andra stöldstörd från SVT. En fråga till Folkhälsomyndigheten.
+
+188
+00:16:33,680 --> 00:16:38,680
+ Från och med idag gäller det nya föreskriften om att sällskap på restauranger måste hålla
+
+189
+00:16:38,680 --> 00:16:43,680
+ minst en meters avstånd från varandra. Kommuner har ansvar för det här.
+
+190
+00:16:43,680 --> 00:16:48,680
+ Har ni märkt några åtgärder som har vidtagits redan nu gällande detta?
+
+191
+00:16:48,680 --> 00:16:58,680
+ –Nej, vi har inte. Vad vi har sett är att vi lagstiftare har fått positiv respons på att det blir tydligare.
+
+192
+00:16:58,680 --> 00:17:03,680
+ Vi har en annan tydlighet också i hur den här lagstiftningen ska följas upp.
+
+193
+00:17:03,680 --> 00:17:07,680
+ Det har vi fått positiv respons på men vi har inte fått någon annan.
+
+194
+00:17:07,680 --> 00:17:17,680
+ –Malin Karell, Aftonbladet. Jag vet inte riktigt vem jag ska rikta frågan till.
+
+195
+00:17:17,680 --> 00:17:23,680
+ Sofia Wallström vid Inspektionen för vård och omsorg sa i dag under en pressträff att
+
+196
+00:17:23,680 --> 00:17:28,680
+ det under någon fas av pandemin ska ha funnits instruktioner om att inte göra individuella
+
+197
+00:17:28,680 --> 00:17:31,680
+ läkarbehandlingar på personer på äldreboenden.
+
+198
+00:17:31,680 --> 00:17:38,680
+ Har det här varit en kännedom för er? Varför har man haft sådana instruktioner?
+
+199
+00:17:38,680 --> 00:17:45,680
+ –Vi har varit tydliga hela tiden att det ska vara individuella bedömningar.
+
+200
+00:17:45,680 --> 00:17:48,680
+ Exakt vad man har kommit fram till i sin tillsyn.
+
+201
+00:17:48,680 --> 00:17:51,680
+ Vi ser väldigt positivt på att man har gjort den här stora tillsynsinsatsen.
+
+202
+00:17:51,680 --> 00:17:55,680
+ Det är ett väldigt bra komplement till den kunskapsstyrning som Socialstyrelsen
+
+203
+00:17:55,680 --> 00:17:57,680
+ och Folkhälsomyndigheten utövar.
+
+204
+00:17:57,680 --> 00:18:02,680
+ Det är otroligt bra att man belyser om det är så att man har tolkat
+
+205
+00:18:02,680 --> 00:18:05,680
+ eller tvingats göra undantag från regelverket.
+
+206
+00:18:05,680 --> 00:18:08,680
+ Så får vi tillsammans titta vidare på vad och varför.
+
+207
+00:18:11,680 --> 00:18:16,680
+ –Vi har en följdfråga från Anneli Megner-Arn, TV4-nyheterna.
+
+208
+00:18:16,680 --> 00:18:24,680
+ Den här individuella bedömningen har fallerat enligt IBOs rapport.
+
+209
+00:18:24,680 --> 00:18:30,680
+ Då undrar jag hur ni ser på ert ansvar vad det gäller riktlinjer.
+
+210
+00:18:30,680 --> 00:18:37,680
+ Om era riktlinjer kunde ha skrivits på ett annat sätt så att de inte skulle ha missuppfattats?
+
+211
+00:18:37,680 --> 00:18:41,680
+ –Det får vi se över och se om det finns en sån återkoppling.
+
+212
+00:18:41,680 --> 00:18:45,680
+ Vi tycker att de är tydliga och har förtydligats under våren
+
+213
+00:18:45,680 --> 00:18:47,680
+ för att det inte ska råda några missförstånd.
+
+214
+00:18:47,680 --> 00:18:50,680
+ Men jag har inte tagit del av hela granskningen och vet inte heller
+
+215
+00:18:50,680 --> 00:18:55,680
+ hur man själv har uppfattat det i den här tillsynen. Så vi får återkomma där.
+
+216
+00:18:55,680 --> 00:19:00,680
+ –Har du klart för dig redan nu hur man har ändrat dem under pandemins gång?
+
+217
+00:19:00,680 --> 00:19:02,680
+ Vad har lagts till eller tagits bort?
+
+218
+00:19:02,680 --> 00:19:06,680
+ –Föreskrifterna var tydliga till det men vi har jobbat med att se till
+
+219
+00:19:06,680 --> 00:19:10,680
+ att de implementeras på rätt sätt. Eftersom det har dykt upp frågor av den här typen
+
+220
+00:19:10,680 --> 00:19:14,680
+ under hela den här våren så har vi försökt vara väldigt tydliga i vår kommunikation
+
+221
+00:19:14,680 --> 00:19:18,680
+ i de samverkansforum som vi har, på de här pressträffarna,
+
+222
+00:19:18,680 --> 00:19:22,680
+ och där vi arbetar helt enkelt.
+
+223
+00:19:22,680 --> 00:19:28,680
+ –Några fler frågor här inne, annars tar vi in de som är med digitalt.
+
+224
+00:19:28,680 --> 00:19:33,680
+ Då börjar vi med Niklas Eriksson, Sveriges Radio i Malmö.
+
+225
+00:19:33,680 --> 00:19:37,680
+ –Tack för din råd Niklas, med dina frågor.
+
+226
+00:19:37,680 --> 00:19:43,680
+ Har vi med oss Niklas?
+
+227
+00:19:43,680 --> 00:19:50,680
+ Nej. Då går vi vidare till Yvonne Pettersson, Hallandsposten.
+
+228
+00:19:50,680 --> 00:19:56,680
+ –Jag har en fråga till Folkhälsomyndigheten.
+
+229
+00:19:56,680 --> 00:20:01,680
+ Det gäller att man har modellerat för hur sommarens ökade resande
+
+230
+00:20:01,680 --> 00:20:04,680
+ kommer att påverka smittspridningen.
+
+231
+00:20:04,680 --> 00:20:09,680
+ Då har man för bland annat Hallandsdels, som är ett stort turistlän,
+
+232
+00:20:09,680 --> 00:20:12,680
+ ett scenario som visar på en stor ökad smittspridning
+
+233
+00:20:12,680 --> 00:20:17,680
+ och en ganska stor belastning på sjukvården i augusti.
+
+234
+00:20:17,680 --> 00:20:22,680
+ Min fråga är, ska man då som sjukvårdshuvudman
+
+235
+00:20:22,680 --> 00:20:27,680
+ rusta sig för den stora belastningen? Hur tänker ni där?
+
+236
+00:20:30,680 --> 00:20:33,680
+ –Ja, absolut måste vi rusta oss.
+
+237
+00:20:33,680 --> 00:20:36,680
+ Nu måste vi, precis som vi har försökt vara tydliga med
+
+238
+00:20:36,680 --> 00:20:39,680
+ inte vinst idag, så är det inte över.
+
+239
+00:20:39,680 --> 00:20:42,680
+ Vi vet inte heller hur det kommer att utvecklas under våren.
+
+240
+00:20:42,680 --> 00:20:45,680
+ Det nämndes klustersmitta och lokala utbrott.
+
+241
+00:20:45,680 --> 00:20:48,680
+ Det kan komma en helt annan utveckling.
+
+242
+00:20:48,680 --> 00:20:52,680
+ Det vi ska ta med oss från den här våren är att vi ska vara bättre förberedda
+
+243
+00:20:52,680 --> 00:20:56,680
+ till att vi kan hantera det. Flera myndigheter fick ett regeringsuppdrag
+
+244
+00:20:56,680 --> 00:21:02,680
+ att se hur vi kan jobba inför att vara så bra förberedda som möjligt för hösten.
+
+245
+00:21:02,680 --> 00:21:09,680
+ –Yvonne, har du fler frågor? –Nej.
+
+246
+00:21:09,680 --> 00:21:13,680
+ –Då går vi vidare till Joel Tivemo på Göteborgsposten.
+
+247
+00:21:13,680 --> 00:21:17,680
+ Joel, är du med oss? –Jag är med här.
+
+248
+00:21:17,680 --> 00:21:22,680
+ Jag har två lite olika frågor till Folkhälsomyndigheten.
+
+249
+00:21:22,680 --> 00:21:27,680
+ Den första fotbollsrelaterad i senaste allsvenska omgången här
+
+250
+00:21:27,680 --> 00:21:32,680
+ fick Örebro stor kritik för att de lät ett antal spelare som spydde kort
+
+251
+00:21:32,680 --> 00:21:35,680
+ förra avspark vara med och spela.
+
+252
+00:21:35,680 --> 00:21:40,680
+ Vilket tydligt bryter mot de rutiner och protokoll som idrotterna har kommit
+
+253
+00:21:40,680 --> 00:21:43,680
+ överens med Folkhälsomyndigheten om.
+
+254
+00:21:43,680 --> 00:21:47,680
+ Hur ser ni på det här och kommer det att bli några konsekvenser från ert håll?
+
+255
+00:21:47,680 --> 00:21:51,680
+ –Vi är inte någon varelse i sjukvård eller tillsynsmyndighet.
+
+256
+00:21:51,680 --> 00:21:58,680
+ Vi förutsätter att idrotterna hanterar det inom ramen för sina egna bestämmelser.
+
+257
+00:21:58,680 --> 00:22:04,680
+ –Hur ser ni på det här? –Det är naturligtvis olyckligt.
+
+258
+00:22:04,680 --> 00:22:08,680
+ Det gäller inte bara i coronatider. Jag har bara läst i tidningen om det.
+
+259
+00:22:08,680 --> 00:22:12,680
+ Att ha människor som mår illa och kväx och springer ut på planen.
+
+260
+00:22:12,680 --> 00:22:16,680
+ Det låter ju vara så lämpligt för de som gör det och motspelarna.
+
+261
+00:22:16,680 --> 00:22:23,680
+ Jag förutsätter att man från fotbollets sida vill ta de åtgärder som är lämpliga.
+
+262
+00:22:23,680 --> 00:22:30,680
+ –En fråga till Folkhälsomyndigheten.
+
+263
+00:22:30,680 --> 00:22:35,680
+ Det genomfördes ett stort test i början på juli i Västra Götalandsregionen
+
+264
+00:22:35,680 --> 00:22:38,680
+ med 17 000 personer.
+
+265
+00:22:38,680 --> 00:22:43,680
+ När kommer resultaten och hur har det testet gått?
+
+266
+00:22:43,680 --> 00:22:47,680
+ Det är inte riktigt framme än.
+
+267
+00:22:47,680 --> 00:22:51,680
+ Men så fort vi har resultaten så återkommer vi med det.
+
+268
+00:22:51,680 --> 00:22:58,680
+ –Kan vi gå vidare till Johanna Lander på Reuters. Varsågod Johan.
+
+269
+00:22:58,680 --> 00:23:02,680
+ –Hej. Jag har en fråga till Folkhälsomyndigheten.
+
+270
+00:23:02,680 --> 00:23:08,680
+ När vi utökade testningen för någon månad sen såg vi en kraftig ökning av fallen.
+
+271
+00:23:08,680 --> 00:23:14,680
+ Nu testar vi lika mycket men fallen går ner snabbt.
+
+272
+00:23:14,680 --> 00:23:18,680
+ Har du någon förklaring till varför det ser ut så?
+
+273
+00:23:18,680 --> 00:23:26,680
+ –Vår hypotes, som blir allt mer tydligt att en samviktsstämmer,
+
+274
+00:23:26,680 --> 00:23:31,680
+ är att på grund av att man i regionen kom igång ganska sent med testningen
+
+275
+00:23:31,680 --> 00:23:34,680
+ så hade vi en testningsskuld.
+
+276
+00:23:34,680 --> 00:23:40,680
+ Det var ganska många människor som hade insjuknat i sjukdomen under gångna veckorna
+
+277
+00:23:40,680 --> 00:23:43,680
+ som anmälde sig för testning.
+
+278
+00:23:43,680 --> 00:23:48,680
+ Det är inte nödvändigtvis så att de som helt enkelt testat positivt i vecka 26
+
+279
+00:23:48,680 --> 00:23:51,680
+ har blivit sjuka i vecka 26.
+
+280
+00:23:51,680 --> 00:23:56,680
+ Man förhåller sig positivt en eller två veckor.
+
+281
+00:23:56,680 --> 00:23:59,680
+ Det här var sannolikt en testningsskuld.
+
+282
+00:23:59,680 --> 00:24:03,680
+ Vi ser en ytterligare ökning av testningen preliminärt, åtminstone inte färre
+
+283
+00:24:03,680 --> 00:24:07,680
+ än veckan före. En kraftigt sjunkande antal positiva.
+
+284
+00:24:07,680 --> 00:24:12,680
+ Vi ser också sjunkande procenttal i exempelvis Stockholm.
+
+285
+00:24:12,680 --> 00:24:17,680
+ Sannolikt är det ett berg som vi behövde beta av som gav ett intryck
+
+286
+00:24:17,680 --> 00:24:23,680
+ och som ni såg gav till WHO ett intryck att vi hade en galoperande smittspridning
+
+287
+00:24:23,680 --> 00:24:28,680
+ vilket vi förklarade för WHO och man accepterade vår bedömning.
+
+288
+00:24:28,680 --> 00:24:31,680
+ Vi tycker vår bedömning står sig ganska bra.
+
+289
+00:24:31,680 --> 00:24:35,680
+ Nu när det här jämnas ut så återgår vi till en lägre nivå.
+
+290
+00:24:35,680 --> 00:24:38,680
+ Förhoppningsvis har vi fortsatt sjunkande nivåer.
+
+291
+00:24:38,680 --> 00:24:43,680
+ Vi är under de nivåer som har diskuterats, till exempel att besöka andra länder.
+
+292
+00:24:43,680 --> 00:24:51,680
+ Det är väldigt olika regelverk, men vi börjar närma oss nivåer som andra länder
+
+293
+00:24:51,680 --> 00:24:53,680
+ också tycker är acceptabla.
+
+294
+00:24:53,680 --> 00:24:59,680
+ Vad kan man säga om smittspridningen i stort i Sverige nu?
+
+295
+00:24:59,680 --> 00:25:02,680
+ Hur skulle du beskriva den?
+
+296
+00:25:02,680 --> 00:25:06,680
+ Jag skulle beskriva den som avtagande, men att den fortfarande finns där.
+
+297
+00:25:06,680 --> 00:25:12,680
+ Som du ser är det i huvudsak smittspridning bland människor med lindrig sjukdom.
+
+298
+00:25:12,680 --> 00:25:20,680
+ Små, inga symptom, nästan inga symptom alls som man skulle vilja beskriva som sjuk.
+
+299
+00:25:20,680 --> 00:25:28,680
+ Vilket är bekymmersamt i den hänsyn till att här gäller det att
+
+300
+00:25:28,680 --> 00:25:31,680
+ fortfarande iaktta distanseringen.
+
+301
+00:25:31,680 --> 00:25:35,680
+ Om man uppfattar sig som frisk, men har lukt- och smakbortfall
+
+302
+00:25:35,680 --> 00:25:41,680
+ och haft lite ont i huvudet, så är man sjuk i en coronainfektion.
+
+303
+00:25:41,680 --> 00:25:43,680
+ Då ska man hålla sig hemma och borta.
+
+304
+00:25:43,680 --> 00:25:47,680
+ Det är det budskapet som vi måste hamra in här.
+
+305
+00:25:47,680 --> 00:25:52,680
+ Även om vi har få allvarliga fall så innebär en större pol av milda fall
+
+306
+00:25:52,680 --> 00:25:55,680
+ en större risk även för riskgrupperna.
+
+307
+00:25:55,680 --> 00:25:59,680
+ Men uppenbarligen iakttar riskgrupperna väldigt noga de här restriktionerna
+
+308
+00:25:59,680 --> 00:26:02,680
+ eftersom det minskar kraftigt.
+
+309
+00:26:02,680 --> 00:26:10,680
+ Det är också olyckligt om vi skulle få på nytt en stigande smittspridning i samhället.
+
+310
+00:26:10,680 --> 00:26:14,680
+ Därför tror jag att budskapet är ännu mer nödvändigt.
+
+311
+00:26:14,680 --> 00:26:21,680
+ Även ni som har lätta, milda symptom måste tänka på att det här är en covid-smitta
+
+312
+00:26:21,680 --> 00:26:26,680
+ som hos andra människor ger en allvarlig sjukdom och till och med död hos vissa människor.
+
+313
+00:26:26,680 --> 00:26:30,680
+ -Ska vi pröva med Niklas Eriksson? -Jag har en sista fråga om det går bra.
+
+314
+00:26:30,680 --> 00:26:33,680
+ -En sista fråga från Reuters här då.
+
+315
+00:26:33,680 --> 00:26:38,680
+ -Det har ofta beskrivits att vi har klarat den delen av uppdraget
+
+316
+00:26:38,680 --> 00:26:43,680
+ som går ut på att platta ut kurvan i den mån att sjukvården
+
+317
+00:26:43,680 --> 00:26:50,680
+ orkar med. Men om man lyssnar på den här rapporten från Ivo
+
+318
+00:26:50,680 --> 00:26:56,680
+ när det verkar som att många äldre som kanske borde ha fått vård aldrig lades in.
+
+319
+00:26:56,680 --> 00:27:05,680
+ Hur påverkar det bilden av att vi har klarat av vården
+
+320
+00:27:05,680 --> 00:27:09,680
+ när många av de människorna kanske borde ha kommit in men aldrig kommit till sjukhusen?
+
+321
+00:27:09,680 --> 00:27:16,680
+ -Det är för tidigt för mig att svara på den frågan. Jag har inte tagit del av tillsynsrapporten.
+
+322
+00:27:16,680 --> 00:27:23,680
+ Men det är en jätteviktig fråga att se i vilka av de här boenden har tillämpats
+
+323
+00:27:23,680 --> 00:27:25,680
+ andra principer och vad det har fått för konsekvenser.
+
+324
+00:27:25,680 --> 00:27:30,680
+ Det är därför otroligt viktigt att den här stora tillsynsratsen har gjorts.
+
+325
+00:27:30,680 --> 00:27:34,680
+ Sen har man beslutat att gå vidare om jag förstod saken rätt med att granska
+
+326
+00:27:34,680 --> 00:27:39,680
+ journaler och beslutsfattande. Det är väl där i så fall, i den granskningen,
+
+327
+00:27:39,680 --> 00:27:42,680
+ den typen av svar kan komma fram.
+
+328
+00:27:42,680 --> 00:27:45,680
+ -Då går vi vidare. Vi ska pröva med Niklas Eriksson igen.
+
+329
+00:27:45,680 --> 00:27:50,680
+ Sveriges Radio Malmö. Niklas är du med oss och vill ställa någon fråga?
+
+330
+00:27:50,680 --> 00:27:59,680
+ Får nog anmjuta dig.
+
+331
+00:28:01,680 --> 00:28:08,680
+ Nej, det går inte. Då prövar vi med Sofie Dong från German Radio.
+
+332
+00:28:08,680 --> 00:28:11,680
+ Varsågod Sofie, har du frågor?
+
+333
+00:28:11,680 --> 00:28:19,680
+ -Hej, jag har en fråga. Tyska Radio vill gärna rapportera om vad utlandet tycker
+
+334
+00:28:19,680 --> 00:28:26,680
+ om den tyska Covid-19-appen. Jag vill gärna veta om ni tror att appen är en bra
+
+335
+00:28:26,680 --> 00:28:30,680
+ alternativ till en kompensativ smittspridning.
+
+336
+00:28:30,680 --> 00:28:38,680
+ -Sofie, vi hör dig. Du kanske kan ta om din fråga igen.
+
+337
+00:28:38,680 --> 00:28:41,680
+ -Jag har ingen kommentar.
+
+338
+00:28:41,680 --> 00:28:45,680
+ -Johan har ingen kommentar. Han känner inte till appen.
+
+339
+00:28:45,680 --> 00:28:48,680
+ -Jag har ingen kommentar. Han känner inte till appen.
+
+340
+00:28:48,680 --> 00:28:53,680
+ -En fråga till. Ni har bestämt er att inte utveckla en app här i Sverige.
+
+341
+00:28:53,680 --> 00:28:55,680
+ Varför har ni gjort det?
+
+342
+00:28:55,680 --> 00:29:02,680
+ -Nej, det har vi inte gjort. Vi bestämde oss i det skedet när MSB-projektet
+
+343
+00:29:02,680 --> 00:29:07,680
+ tog igång att det inte kändes lämpligt just då på grund av det läget som finns.
+
+344
+00:29:07,680 --> 00:29:13,680
+ Vi tittar gemensamt på möjligheten att göra det. Kommer man in i ett läge
+
+345
+00:29:13,680 --> 00:29:18,680
+ med ett lugnt smittspridningsläge, ett stillastående smittspridningsläge
+
+346
+00:29:18,680 --> 00:29:26,680
+ där man har att förbereda sig på utbrott, då är vi i ett läge där vi måste
+
+347
+00:29:26,680 --> 00:29:32,680
+ fundera på alla typer av tekniska utvecklingar för att hitta det.
+
+348
+00:29:32,680 --> 00:29:37,680
+ Antingen appar eller att övervaka nätet som vi gör med influensa
+
+349
+00:29:37,680 --> 00:29:46,680
+ och vissa sökor. Det är inte så att vi har avvisat den frågan för all framtid.
+
+350
+00:29:46,680 --> 00:29:53,680
+ Tvärtom tittar vi just nu på de möjligheter som finns till tekniska lösningar.
+
+351
+00:29:53,680 --> 00:29:58,680
+ På det viset skulle vi gärna närmare studera den tyska appen, men jag själv
+
+352
+00:29:58,680 --> 00:30:02,680
+ har inte någon djup kunskap i den. Jag vet att medarbetare har säkert tittat på den.
+
+353
+00:30:02,680 --> 00:30:04,680
+ -Okej.
+
+354
+00:30:04,680 --> 00:30:10,680
+ -Tack. TV4 hade en fråga här inne igen.
+
+355
+00:30:10,680 --> 00:30:18,680
+ -Hej, jag hade en fråga till Johan. 283 smittade senaste dygnet.
+
+356
+00:30:18,680 --> 00:30:23,680
+ Jag undrar om ni har någon uppfattning hur stort mörkertalet är nu?
+
+357
+00:30:23,680 --> 00:30:29,680
+ Från början pratade man om hur många positiva vi har i förhållande till
+
+358
+00:30:29,680 --> 00:30:36,680
+ positivt testade. Man pratade om 99. Sen reviderade man det och sa 75.
+
+359
+00:30:36,680 --> 00:30:41,680
+ Sen har jag hört en siffra på 45. Vet ni var vi befinner oss nu?
+
+360
+00:30:41,680 --> 00:30:45,680
+ -Det är väldigt svårt att få skäl att veta det. Dels har testningsfrekvensen
+
+361
+00:30:45,680 --> 00:30:51,680
+ gått upp, vilket i sig innebär att mörkertalet minskar. Sen har vi också
+
+362
+00:30:51,680 --> 00:30:59,680
+ en kraftigt fallande positivitet i testningarna. Det är färre positiva
+
+363
+00:30:59,680 --> 00:31:08,680
+ per testade de sista dagarna. Det gör att man har att anta att vi fångar fler.
+
+364
+00:31:08,680 --> 00:31:12,680
+ Vi tar fler tester per positiva. Då minskar också i sig mörkertalet.
+
+365
+00:31:12,680 --> 00:31:17,680
+ Jag vågar inte på en siffra. Det kan man möjligtvis göra när man får en
+
+366
+00:31:17,680 --> 00:31:20,680
+ viss stabilitet i siffrorna. Just nu skulle jag avstå från det.
+
+367
+00:31:20,680 --> 00:31:24,680
+ Det är klart att det är mångfald större. Tittar man på världssiffrorna,
+
+368
+00:31:24,680 --> 00:31:31,680
+ när vissa länder har hundratusen och så har de tusentals avlidna, så ser man
+
+369
+00:31:31,680 --> 00:31:38,680
+ att det matchar inte. -Kan det ligga någonstans där 30-40?
+
+370
+00:31:38,680 --> 00:31:43,680
+ -Det kan jag tänka mig att det kan göra, men jag vill inte dela siffrorna.
+
+371
+00:31:43,680 --> 00:31:49,680
+ -Då är vi klara här och vi ska fortsätta med individuella intervjuer utomhus.
+
+372
+00:31:49,680 --> 00:31:55,680
+ Johan kommer att vara utomhus också. Vi börjar med SVT och Ekot som sänder live.
+
+373
+00:31:55,680 --> 00:31:58,680
+ Varsågoda.
+
+374
+00:31:59,680 --> 00:32:03,680
+ Textning: Johanna Lidberg www.btistudios.com
+
+375
+00:32:03,680 --> 00:32:07,680
+ Svensktextning: Maria Grimstad www.btistudios.com
+
+376
+00:32:07,680 --> 00:32:09,680
+ Tack till elever och personal vid Säkerhetssäkerhetssäkerheten.
+

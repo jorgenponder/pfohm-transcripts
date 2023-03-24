@@ -1,0 +1,836 @@
+1
+00:00:00,000 --> 00:00:05,600
+ Ja, klockan är lite över två. Välkomna till Folkhälsomyndigheten och Virushuset.
+
+2
+00:00:05,600 --> 00:00:12,000
+ Och ännu en pressträff med anledning av läget när det gäller covid-19.
+
+3
+00:00:12,000 --> 00:00:14,800
+ Vi är glada att ha Arbetsmiljöverket här idag.
+
+4
+00:00:14,800 --> 00:00:18,400
+ Det är Anna Warg som är chefjurist på Arbetsmiljöverket.
+
+5
+00:00:18,400 --> 00:00:22,200
+ Johanna Sandvall, Socialstyrelsens krisberedskapschef är här.
+
+6
+00:00:22,200 --> 00:00:26,800
+ Maria Bergstrand, chef operativ ledning på MSB är här.
+
+7
+00:00:26,800 --> 00:00:34,600
+ Anders Tegnell, statsepidemiolog och Anders Wallensten som är biträdande statsepidemiolog på Folkhälsomyndigheten är här.
+
+8
+00:00:34,600 --> 00:00:40,800
+ Vi har också vår teckentolk. Kom ihåg att han ska komma med i bild för er som filmar det bra.
+
+9
+00:00:40,800 --> 00:00:44,600
+ Och så ska jag påminna om att det är ett skyddsobjekt det här med fotoförbud normalt sett.
+
+10
+00:00:44,600 --> 00:00:50,600
+ Men det går såklart jättebra att filma här inne och här ute i lobbyn går det också bra.
+
+11
+00:00:50,600 --> 00:00:55,600
+ Efter presentationerna så går det bra att ställa frågor till hela gruppen.
+
+12
+00:00:55,600 --> 00:01:02,800
+ Och det finns också möjlighet att göra individuella intervjuer efter när pressträffen är klar.
+
+13
+00:01:02,800 --> 00:01:08,800
+ Jag lämnar över till Anders Wallensten, biträdande statsepidemiolog.
+
+14
+00:01:08,800 --> 00:01:11,000
+ Då så, välkomna än en gång.
+
+15
+00:01:11,000 --> 00:01:17,800
+ Vi börjar som vi gjort tidigare med en överblick över situationen i världen.
+
+16
+00:01:17,800 --> 00:01:25,000
+ Och det kanske vi ska säga först av allt var ju att WHO i går deklarerade att det nu är en pandemi.
+
+17
+00:01:25,000 --> 00:01:30,400
+ Det vill säga det är spridning i stora delar av världen av ett nytt virus eller en ny smitta.
+
+18
+00:01:30,400 --> 00:01:35,800
+ Och det kan man ju också se på den här bilden att det är ju inte många länder som är skonade.
+
+19
+00:01:35,800 --> 00:01:40,800
+ Även om det finns vissa områden där man kanske inte har provtagit så mycket.
+
+20
+00:01:40,800 --> 00:01:45,000
+ Vi kan nu se också att vi har mer och mer spridning i USA.
+
+21
+00:01:45,000 --> 00:01:48,600
+ De har många fall trots att de inte har testat så mycket.
+
+22
+00:01:48,600 --> 00:01:51,200
+ Vilket kan tyda på ett ganska stort mörkertal.
+
+23
+00:01:51,200 --> 00:01:56,800
+ Vi har över 2000 fall i länder som Frankrike, Tyskland.
+
+24
+00:01:56,800 --> 00:02:00,000
+ Vilket förstås är stora siffror.
+
+25
+00:02:00,000 --> 00:02:09,600
+ Vi har samhällsspridning säkert i Nederländerna och kanske på andra håll också med tanke på de här stora mängderna.
+
+26
+00:02:09,600 --> 00:02:12,000
+ Vi har tecken till det i Sverige definitivt.
+
+27
+00:02:12,000 --> 00:02:19,200
+ Och det är ju en utveckling som pågår hela tiden här i vår omvärld.
+
+28
+00:02:19,200 --> 00:02:27,800
+ Där trycket utifrån blir större men där Sverige är en del av världen och smittorna respekterar inte gränsen och så vidare.
+
+29
+00:02:27,800 --> 00:02:36,200
+ Vi har här en uppdatering om antal prover som har diagnosterats positiva.
+
+30
+00:02:36,200 --> 00:02:38,600
+ Nu ska ni komma ihåg att det här är anmälningsdatum.
+
+31
+00:02:38,600 --> 00:02:43,200
+ Därför tycker inte jag att den här grafen säger riktigt så mycket som man skulle vilja
+
+32
+00:02:43,200 --> 00:02:49,400
+ när folk har smittats till exempel eller när de är insjukna.
+
+33
+00:02:49,400 --> 00:02:52,200
+ Det är anmälningsdatum när vi har fått in anmälningen här.
+
+34
+00:02:52,200 --> 00:02:54,600
+ Därför kan det bli lite klumpvis.
+
+35
+00:02:54,600 --> 00:02:56,600
+ Nu ser man en stor ökning igår till exempel.
+
+36
+00:02:56,600 --> 00:02:59,600
+ Riktigt vad den står för är lite oklart.
+
+37
+00:02:59,600 --> 00:03:04,600
+ Det kan vara att det har klumpat sig i analyser och liknande.
+
+38
+00:03:04,600 --> 00:03:08,000
+ Vi tittar på kurvan över antal fall per åldersgrupp.
+
+39
+00:03:08,000 --> 00:03:11,800
+ Som är mer korrekt inom det här spannet av de vi har provtagit.
+
+40
+00:03:11,800 --> 00:03:16,200
+ Vilket i stor del styrs av vad provtagningsindikationen har varit.
+
+41
+00:03:16,200 --> 00:03:22,200
+ Det har varit framförallt personer från riskområden och de som har rest i Italien.
+
+42
+00:03:22,200 --> 00:03:28,600
+ Bilden kvarstår att det är flest fall i åldrarna 40-60 år ungefär.
+
+43
+00:03:28,600 --> 00:03:33,000
+ Men att de flesta åldersgrupper är representerade.
+
+44
+00:03:33,000 --> 00:03:39,400
+ Med det lämnar jag över till Anders Tegnell för att dra aktuell lägesbild och åtgärder.
+
+45
+00:03:39,400 --> 00:03:41,400
+ Tack!
+
+46
+00:03:41,400 --> 00:03:48,400
+ Som vi sa redan igår så håller vi på att hamna i ett skifte nu.
+
+47
+00:03:48,400 --> 00:03:51,400
+ När det gäller läget.
+
+48
+00:03:51,400 --> 00:03:55,400
+ Tidigare sa du att epidemin i Sverige är helt beroende på vårt resande.
+
+49
+00:03:55,400 --> 00:03:58,400
+ Och var vi reser och hur smittläget ser ut där.
+
+50
+00:03:58,400 --> 00:04:00,400
+ Nu börjar vi se enstaka fall.
+
+51
+00:04:00,400 --> 00:04:03,400
+ Vi ska undersöka att det bara rör sig om enstaka fall än så länge.
+
+52
+00:04:03,400 --> 00:04:10,400
+ Men det kan vara ett tecken på att det finns mer spridning i samhället än vad vi fångar med den provtagning vi har idag.
+
+53
+00:04:10,400 --> 00:04:13,400
+ Det innebär att vi kommer in i ett annat läge.
+
+54
+00:04:13,400 --> 00:04:17,400
+ Vi måste använda andra åtgärder och andra strategier.
+
+55
+00:04:17,400 --> 00:04:20,400
+ Vi kommer gå in i lite mer detalj på det.
+
+56
+00:04:20,400 --> 00:04:27,400
+ I det här läget gäller det framförallt att minska takten i smittspridningen.
+
+57
+00:04:27,400 --> 00:04:31,400
+ Och att skydda de grupperna som vi vet blir mest sjuka.
+
+58
+00:04:31,400 --> 00:04:35,400
+ Det är framförallt de äldre 80-85 år gamla.
+
+59
+00:04:35,400 --> 00:04:41,400
+ Det som vi har landat i hittills.
+
+60
+00:04:41,400 --> 00:04:45,400
+ Här finns en smörgårdsspol med möjliga åtgärder man kan tänka sig.
+
+61
+00:04:45,400 --> 00:04:51,400
+ Men igår som ni väl upptäckte så togs beslutet om att större sammankomster, större evenemang.
+
+62
+00:04:51,400 --> 00:04:55,400
+ Med fler än 500 personer som är med.
+
+63
+00:04:55,400 --> 00:04:58,400
+ Att de är numera förbjudna.
+
+64
+00:04:58,400 --> 00:05:04,400
+ Det kan förstås också finnas mindre evenemang som kan innebära risker för rätt stor smittspridning.
+
+65
+00:05:04,400 --> 00:05:12,400
+ Därför håller vi på att ta fram ett litet underlag för hur man som arrangör ska tänka när man har mindre evenemang på gång.
+
+66
+00:05:12,400 --> 00:05:20,400
+ Så att en evenemang med mindre antal personer och en väldigt lokal anknytning, tycker vi inte finns anledning att stänga ner.
+
+67
+00:05:20,400 --> 00:05:26,400
+ Hela den här inriktningen är ju också emot att vi ska inte stänga ner mer än absolut nödvändigt.
+
+68
+00:05:26,400 --> 00:05:31,400
+ Den andra saken som hände under gårdagen var att carensavdraget nu togs bort.
+
+69
+00:05:31,400 --> 00:05:40,400
+ Vilket är jättebra för att det gör att en av de andra grundläggande strategierna, att man ska stanna hemma så fort man börjar bli sjuk, blir mycket lättare att genomföra.
+
+70
+00:05:40,400 --> 00:05:44,400
+ Att man då inte lider av någon ekonomisk skada av det.
+
+71
+00:05:44,400 --> 00:05:54,400
+ Så vad vi försöker göra i större dag är att minska samhällsspridningen, egentligen minska takten i samhällsspridningen framförallt.
+
+72
+00:05:54,400 --> 00:05:59,400
+ För att vi inte ska få så väldigt många sjuka per vecka.
+
+73
+00:05:59,400 --> 00:06:04,400
+ Det kommer att betyda väldigt mycket för sjukvården och kan betyda potentiellt en del för andra arbetsplatser.
+
+74
+00:06:04,400 --> 00:06:08,400
+ Att inte alltför många blir borta eller behöver bli inlagda i sjukvården samtidigt.
+
+75
+00:06:08,400 --> 00:06:19,400
+ I den grundläggande biten är det viktigaste man kan göra som individ ute i samhället är att tänka på att börjar man bli sjuk, börjar man känna att den här förkylningen är på gång, som skulle kunna vara en corona, att man då stannar hemma.
+
+76
+00:06:19,400 --> 00:06:25,400
+ Nu är det inte längre så att vi i det här läget kommer att fortsätta testa alla personer som känner på det visst, utan tvärtom.
+
+77
+00:06:25,400 --> 00:06:31,400
+ Testa kommer man nu fortsättningsvis bara göra när det kommer att leda till någon typ av åtgärd.
+
+78
+00:06:31,400 --> 00:06:33,400
+ Det kan gälla sjukvårdspersonal eller andra.
+
+79
+00:06:33,400 --> 00:06:38,400
+ Men folk i allmänhet gäller det nu att börjar man bli sjuk, stanna hemma tills man är frisk.
+
+80
+00:06:38,400 --> 00:06:42,400
+ Stanna hemma ett par dygn till för säkerhetsskull och sen kan man återgå till arbetet.
+
+81
+00:06:42,400 --> 00:06:48,400
+ Handhygienen står ju kvar hela tiden som en av de andra viktiga åtgärderna man kan vidta.
+
+82
+00:06:48,400 --> 00:06:58,400
+ En god handhygien har ju visat sig tidigare vara ett bra preventivt inslag när det gäller den här typen av infektioner som man får i luftvägarna på olika sätt.
+
+83
+00:06:58,400 --> 00:07:00,400
+ Förkylningar, hosta och liknande.
+
+84
+00:07:00,400 --> 00:07:03,400
+ Och sen den andra biten, att skydda de äldre.
+
+85
+00:07:03,400 --> 00:07:13,400
+ Det är ju den gruppen som väldigt tydligt har visat sig på alla ställen i världen som haft större smidning hittills som har blivit de värst drabbade.
+
+86
+00:07:13,400 --> 00:07:22,400
+ Vi vet inte jättemycket om detaljer än så länge, men det är ju väldigt klart att just åldern är nog den absolut viktigaste indikatorn på att man har en större risk att bli sjuk.
+
+87
+00:07:22,400 --> 00:07:30,400
+ Därför är det viktigt att vi kan skydda dem på olika sätt, inte minst där man bor tillsammans med äldreboende än många.
+
+88
+00:07:30,400 --> 00:07:35,400
+ Det är jätteviktigt att personalen är medvetna om den här risken, att de inte går dit när de är sjuka.
+
+89
+00:07:35,400 --> 00:07:41,400
+ Att anhöriga som är på väg dit också tänker på att inte ta med sina snuviga barn och så vidare.
+
+90
+00:07:41,400 --> 00:07:51,400
+ Och att man också kan acceptera att det kan faktiskt bli perioder när besök på de här ställena kan vara helt olämpliga när vi har en stor spridning ute i samhället.
+
+91
+00:07:51,400 --> 00:07:58,400
+ Det var dagens åtgärder, var vi ligger någonstans idag.
+
+92
+00:07:58,400 --> 00:08:00,400
+ Ska jag lämna frågan vidare?
+
+93
+00:08:00,400 --> 00:08:11,400
+ Tack! Från Socialstyrelsen har vi samma lägesanalys som vi levererade här tidigare i veckan och jobbar aktivt med de åtgärder som vi föreslog där.
+
+94
+00:08:11,400 --> 00:08:16,400
+ Först och främst så handlar det om att försöka säkra tillgång på personlig skyddsutrustning.
+
+95
+00:08:16,400 --> 00:08:23,400
+ Vi jobbar aktivt själva med att försöka göra inköp och få leveranser.
+
+96
+00:08:23,400 --> 00:08:33,400
+ Vi har också, som ni har hört tidigare, påbörjat arbetet inom den EU-gemensamma upphandlingen som nu har börjat den här veckan.
+
+97
+00:08:33,400 --> 00:08:36,400
+ Så det är många bra initiativ som pågår.
+
+98
+00:08:36,400 --> 00:08:45,400
+ Jag vill vara tydlig med att från de köp och försök som görs så är det bara väldigt små kvantiteter som har kommit än så länge.
+
+99
+00:08:45,400 --> 00:08:49,400
+ Vilket såklart är en konsekvens av den globala efterfrågan.
+
+100
+00:08:49,400 --> 00:08:52,400
+ Så här följer vi noggrant läget.
+
+101
+00:08:52,400 --> 00:09:07,400
+ Vi har också infört dagliga samordningsmöten med alla regioner, just kopplat till påverkan av materialtillgång och möjlig samordning mellan regioner.
+
+102
+00:09:07,400 --> 00:09:10,400
+ Så det kör vi nu dagligen.
+
+103
+00:09:10,400 --> 00:09:21,400
+ Den andra frågan handlar om att utbilda och öva personal som jobbar med annan typ av sjukvård idag, som skulle kunna behövas när sjukvården gör en omställning.
+
+104
+00:09:21,400 --> 00:09:30,400
+ I vår lägesanalys så konstaterar vi att det finns väldigt mycket rutiner kring den här vården på plats.
+
+105
+00:09:30,400 --> 00:09:38,400
+ Men den personal som inte jobbar med infektionssjukvård till exempel i vardagen är såklart inte heller utbildad i de delarna.
+
+106
+00:09:38,400 --> 00:09:43,400
+ Därför försöker vi göra en insats och vi har lagt ett uppdrag på Karolinska institutet.
+
+107
+00:09:43,400 --> 00:09:55,400
+ Vi försöker samordna det och det kommer även innehålla rena vårdhygiendelar kring den här basala hygienen som behöver rådas om, som Anders tidigare nämnde, för att det här ska fungera.
+
+108
+00:09:55,400 --> 00:09:58,400
+ Och försöka tillgängliggöra det på de sätt som finns.
+
+109
+00:09:58,400 --> 00:10:13,400
+ Den tredje punkten handlar om att regionerna behöver ytterligare stöd eller rekommendationer för att kunna fatta medicinska beslut kopplad till händelseutvecklingen.
+
+110
+00:10:13,400 --> 00:10:23,400
+ Vi har själva identifierat att vi åtminstone behöver få koll på hur man har tänkt sig att fatta de här besluten.
+
+111
+00:10:23,400 --> 00:10:27,400
+ Vi vet att man har förmågan att fatta dem, vi vet att man har rutinerna för dem, men vad innehåller de?
+
+112
+00:10:27,400 --> 00:10:32,400
+ Vi kommer idag att ha ett möte med alla chefsläkare i regionerna.
+
+113
+00:10:32,400 --> 00:10:41,400
+ Det ska alltid finnas en medicinsk ansvarig på regional nivå som är den funktion som fattar de här besluten i prioriteringar.
+
+114
+00:10:41,400 --> 00:10:50,400
+ För att inhämta deras behov och också se om det finns behov av nationell samordning och om inte annat byta erfarenheter mellan varandra.
+
+115
+00:10:50,400 --> 00:10:53,400
+ Så det pågår. Tack!
+
+116
+00:10:53,400 --> 00:10:59,400
+ Maria Bergstrand, Myndigheten för samhällsskydd och beredskap, MSB.
+
+117
+00:10:59,400 --> 00:11:06,400
+ MSB har idag delat en ny nationell samlad lägesbild med berörda aktörer.
+
+118
+00:11:06,400 --> 00:11:09,400
+ En uppföljning på förra veckans nationella lägesbild.
+
+119
+00:11:09,400 --> 00:11:21,400
+ Utifrån de underlag som har kommit in till oss den här veckan så är vår bedömning att risken för störningar i försörjning av samhällskritiska varor och tjänster till Sverige
+
+120
+00:11:21,400 --> 00:11:29,400
+ på kort sikt är låg, men att det är svårt att göra säkra bedömningar på lite längre sikt.
+
+121
+00:11:29,400 --> 00:11:34,400
+ Det beror på hur utvecklingen här hemma i Sverige ser ut och på utvecklingen i vår omvärld.
+
+122
+00:11:34,400 --> 00:11:43,400
+ Vi ser också att berörda aktörer och myndigheter i Sverige fortsätter att arbeta med förberedande åtgärder
+
+123
+00:11:43,400 --> 00:11:49,400
+ och planerar för att säkerställa kontinuitet i sin verksamhet.
+
+124
+00:11:49,400 --> 00:11:58,400
+ Vi fortsätter att följa den här utvecklingen och vid behov så påtalar vi vilka åtgärder vi ser behöver vidtas.
+
+125
+00:11:58,400 --> 00:12:07,400
+ MSB fortsätter också att samla bekräftad information på vår sajt krisinformation.se.
+
+126
+00:12:07,400 --> 00:12:16,400
+ För att öka tydligheten ännu mer så har vi nu valt att även här lyfta upp information riktad till arbetsgivare.
+
+127
+00:12:16,400 --> 00:12:23,400
+ Den här sidan uppdateras förstås löpande i takt med att ny information kommer till.
+
+128
+00:12:23,400 --> 00:12:34,400
+ MSB har också en pågående dialog med Socialstyrelsen och andra ansvariga myndigheter rörande behov av stöd.
+
+129
+00:12:34,400 --> 00:12:43,400
+ MSB kan till exempel bidra med en del förstärkningsresurser, personell förstärkning när det gäller samverkan och kommunikation
+
+130
+00:12:43,400 --> 00:12:55,400
+ och genom att bidra till att göra inventeringar för att se vad som finns av bland de resurser som vi vet kommer att bli kritiska.
+
+131
+00:12:55,400 --> 00:13:02,400
+ Det kan röra sig om personlig skyddsutrustning, skyddsglasögon, andningsmasker, visir och andra saker.
+
+132
+00:13:02,400 --> 00:13:06,400
+ Så det arbetet fortsätter. Tack!
+
+133
+00:13:06,400 --> 00:13:16,400
+ Anna Varg från Arbetsmiljöverket, vi är nya i det här sammanhanget. Arbetsmiljöverket har till uppgift att verka för goda förhållanden i arbetsmiljön
+
+134
+00:13:16,400 --> 00:13:24,400
+ och stötta arbetsgivare när de behöver göra riskbedömningar, vilket naturligtvis ofta är aktuellt i den här situationen vi befinner oss i nu.
+
+135
+00:13:24,400 --> 00:13:32,400
+ Det finns en del information på vår hemsida om arbetsmiljöarbete i stort och speciellt vad som gäller i arbete med smittorisker
+
+136
+00:13:32,400 --> 00:13:39,400
+ som arbetsgivare kan ta del av. Vi hänvisar också från vår hemsida till information från Folkhälsomyndigheten
+
+137
+00:13:39,400 --> 00:13:48,400
+ och vi uppdaterar också krisinformationssidan som MSB har. Idag finns jag här för att svara på frågor vid behov.
+
+138
+00:13:48,400 --> 00:13:53,400
+ Tack! Då öppnar vi upp för frågor till hela DN.
+
+139
+00:13:53,400 --> 00:14:03,400
+ Norge och Danmark har beslutat om att stänga förskolor och skolor. Finns det någon sån diskussion på Folkhälsomyndigheten
+
+140
+00:14:03,400 --> 00:14:06,400
+ eller med andra myndigheter eller i dialog med regeringen idag?
+
+141
+00:14:06,400 --> 00:14:15,400
+ Vi diskuterar ständigt en mängd olika åtgärder och varianter som händer i andra länder men vi har ingen aktiv diskussion
+
+142
+00:14:15,400 --> 00:14:18,400
+ för att göra något liknande i Sverige. Nej det har vi inte.
+
+143
+00:14:18,400 --> 00:14:27,400
+ Per Karlsson, Aftonbladet. I Region Stockholm har man ju slutat med allmänna tester. Gäller det i hela landet?
+
+144
+00:14:27,400 --> 00:14:33,400
+ Vi hade en diskussion med smittskydden över hela landet idag. Sakta men säkert kommer vi att komma dit.
+
+145
+00:14:33,400 --> 00:14:39,400
+ Olika regioner ligger i lite olika lägen och kommer nog att vara lite mer generösa med testning under en kort övergångsperiod.
+
+146
+00:14:39,400 --> 00:14:46,400
+ Men vi är väldigt överens om att det är dit vi behöver komma inom de närmsta dagarna för att göra testningen så effektivt som möjligt.
+
+147
+00:14:46,400 --> 00:15:02,400
+ När vi nu slutar med att testa alla som kan misstänkas vara sjuka, vad händer då med er statistik och kunskap om smittspridningen?
+
+148
+00:15:02,400 --> 00:15:10,400
+ Om ni inte vet om personer har en vanlig förkylning eller covid-19?
+
+149
+00:15:10,400 --> 00:15:16,400
+ Jo, det här är ett känt fenomen om pandemier. Det finns massvis med planer runt om i Sverige.
+
+150
+00:15:16,400 --> 00:15:22,400
+ Vi hade ju andra varianter också under förra pandemin. Man kan mäta hur spridningen ser ut på olika sätt.
+
+151
+00:15:22,400 --> 00:15:26,400
+ Man kan mäta det med så kallade sentineller, alltså med vissa ställen i landet där man tar prover.
+
+152
+00:15:26,400 --> 00:15:31,400
+ Man kan mäta det genom att titta på toppen av ett isberg av de som kommer in i vården.
+
+153
+00:15:31,400 --> 00:15:37,400
+ Man kan mäta det genom helt andra variabler på hur många som är borta från sin arbete.
+
+154
+00:15:37,400 --> 00:15:43,400
+ Det finns ett antal olika strategier att använda för att fortsätta följa spridningen.
+
+155
+00:15:43,400 --> 00:15:49,400
+ Vi håller på att ta fram ett paket tillsammans med regionerna hur vi gör det här på ett bra sätt så att vi fortfarande har en bra lägesbild.
+
+156
+00:15:49,400 --> 00:15:59,400
+ Eftersom ni inte har tagit de här proverna sen i går, åtminstone i Stockholm på andra än äldre eller sjuka personer,
+
+157
+00:15:59,400 --> 00:16:05,400
+ så vet ni idag egentligen inte hur många som är bekräftat smittade av corona?
+
+158
+00:16:05,400 --> 00:16:11,400
+ Nej, men den siffran när vi börjar gå in i det här läget med allmän spridning i samhället blir inte längre intressant.
+
+159
+00:16:11,400 --> 00:16:18,400
+ Den kommer inte att spegla någon slags verklighet, för man kommer aldrig att kunna testa alla, eller ens alla de som är hyfsat misstänkta.
+
+160
+00:16:18,400 --> 00:16:27,400
+ Då får man följa utvecklingen av pandemin på ett helt annat sätt med andra indikatorer för att se vilka i samhället som drabbas.
+
+161
+00:16:27,400 --> 00:16:33,400
+ Det blir helt andra mål för den övervakningen än att veta om vi har 856 fall eller 857.
+
+162
+00:16:33,400 --> 00:16:39,400
+ Det blir i det här läget en helt ointressant siffra som dessutom tar väldigt mycket energi och kraft att ta fram.
+
+163
+00:16:39,400 --> 00:16:44,400
+ Hur ser ni på Danmarks och Norges beslut?
+
+164
+00:16:44,400 --> 00:16:51,400
+ Norge kom ju här idag om att man stänger skolor och förskolor och Norge har redan fattat beslutet.
+
+165
+00:16:51,400 --> 00:16:57,400
+ Vad tror du att de har gjort för överväganden som inte har gjorts här i Sverige?
+
+166
+00:16:57,400 --> 00:17:03,400
+ Vi kommer att ha ett möte med våra nordiska kollegor imorgon. Då kan jag ge ett bättre svar på den frågan.
+
+167
+00:17:03,400 --> 00:17:10,400
+ Men det är många överväganden som ska läggas in innan man tar ett sådant här drastiskt beslut som får väldigt stora effekter på många olika delar av samhället.
+
+168
+00:17:10,400 --> 00:17:16,400
+ Där är vi nog alla överens om att vi är väldigt osäkra på hur det kommer att påverka smittspridningen.
+
+169
+00:17:16,400 --> 00:17:19,400
+ Inga fler frågor? Ja, TT.
+
+170
+00:17:19,400 --> 00:17:29,400
+ Jag har en fråga till Johanna Sandvall. I en intervju i Dagens Nyheter så uttrycker du Anders Tegnell kritik mot att vi inte har några beredskapslager.
+
+171
+00:17:29,400 --> 00:17:36,400
+ Du pratade där i den här intervjun om att sjukhusen idag har en sån här "just in time"-leveranser.
+
+172
+00:17:36,400 --> 00:17:45,400
+ Du kallar det för IKEA-syndromet och då undrar man naturligtvis, för det första stämmer det här att det inte finns några beredskapslager.
+
+173
+00:17:45,400 --> 00:17:51,400
+ I så fall, när och hur och varför hamnade vi i ett sådant läge?
+
+174
+00:17:51,400 --> 00:17:57,400
+ Det är ett par frågor där. För den första frågan är det väl ganska enkelt att säga "ja, det stämmer ungefär".
+
+175
+00:17:57,400 --> 00:18:04,400
+ Det ser såklart lite olika ut över landet. Man måste också definiera vad man menar med beredskapslager.
+
+176
+00:18:04,400 --> 00:18:09,400
+ För sjukvårdsutrymme? Ja, jag förstår det. Hur lång tid är det? Ett par veckor, ett par dagar?
+
+177
+00:18:09,400 --> 00:18:14,400
+ "Just in time" betyder ju att du kanske har nästan bara 24 timmars omsättning. Det förekommer också.
+
+178
+00:18:14,400 --> 00:18:18,400
+ Det såg vi i krisen i höstas. Jajamän, det finns en sån skala.
+
+179
+00:18:18,400 --> 00:18:23,400
+ Hälso- och sjukvårdslagen är ganska tydlig på att man ska ha tillgång till skyddsutrustning.
+
+180
+00:18:23,400 --> 00:18:29,400
+ Men varken lagar eller föreskrifter talar ju om hur du ska säkerställa det, utan det är regionernas ansvar att säkerställa det.
+
+181
+00:18:29,400 --> 00:18:37,400
+ Vi har sagt från vi som jobbat med beredskap ganska länge att försörjningssäkerhet och trygghet är viktigt och kommer vara kritisk
+
+182
+00:18:37,400 --> 00:18:42,400
+ vid alla möjliga typer av samhällsutvecklingar eller händelser.
+
+183
+00:18:42,400 --> 00:18:47,400
+ Det gäller läkemedelsförsörjning, det gäller materialförsörjning och så vidare.
+
+184
+00:18:47,400 --> 00:18:54,400
+ Men när försvann beredskapslagren? Det måste ha funnits en tid då man sa att "nu behöver vi inte de här längre".
+
+185
+00:18:54,400 --> 00:19:00,400
+ Jag kan inte svara om det finns en exakt tidpunkt, men jag tror att när vi planerade för totalförsvar förra gången
+
+186
+00:19:00,400 --> 00:19:07,400
+ då var beredskapslagrefrågan en helt annan. För då hade man kanske inte heller möjligheterna till det vi kallar "just in time" idag.
+
+187
+00:19:07,400 --> 00:19:13,400
+ Sen har det tillkommit olika typer av upphandlingsformer och leveranser och allt det är på väg någonstans.
+
+188
+00:19:13,400 --> 00:19:16,400
+ Så det hänger väl ihop med det. Men jag kan inte säga när.
+
+189
+00:19:16,400 --> 00:19:22,400
+ Det är ju regionala beslut som har fattats såklart kring hur man ska planera för sin varuförsörjning.
+
+190
+00:19:22,400 --> 00:19:29,400
+ I samma intervju Anders är du kritisk mot att vi inte har drogna lärdomar av tidigare erfarenheter.
+
+191
+00:19:29,400 --> 00:19:32,400
+ Stod det?
+
+192
+00:19:32,400 --> 00:19:35,400
+ Det är inte jag som sätter rubrikerna.
+
+193
+00:19:35,400 --> 00:19:38,400
+ Nej, det här var ett citat.
+
+194
+00:19:38,400 --> 00:19:45,400
+ Det tycker jag är en allmän reflektion. Att vi är lite dåliga på att tänka igenom vad som hänt efteråt.
+
+195
+00:19:45,400 --> 00:19:51,400
+ Vi har ofta nya grejer som vi måste gå vidare och ta hand om istället.
+
+196
+00:19:51,400 --> 00:19:59,400
+ Så jag tror verkligen att den här gången, och det har vi sagt vid många kriser, så måste vi ta ett stort ansvar för att följa upp på olika sätt.
+
+197
+00:19:59,400 --> 00:20:03,400
+ Det skrevs ett antal olika rapporter.
+
+198
+00:20:03,400 --> 00:20:11,400
+ Genomslaget av dem tror jag att man kan ta sig och fundera på. Inte minst i den här frågan om tillgänglighet till utrustning.
+
+199
+00:20:11,400 --> 00:20:17,400
+ Är den tillräckligt god enligt dig?
+
+200
+00:20:17,400 --> 00:20:21,400
+ Nej, men vi har väl uppenbara problem idag.
+
+201
+00:20:21,400 --> 00:20:25,400
+ Det är vi ju inte ensamma. Det har vi ju en värld runt om som sitter i samma problem.
+
+202
+00:20:25,400 --> 00:20:32,400
+ Så det kommer att påverka hur vi kan hantera olika situationer, men det kommer inte göra att vi står där helt handfallna.
+
+203
+00:20:32,400 --> 00:20:35,400
+ Vi får anpassa oss efter vad vi har tillgängligt.
+
+204
+00:20:35,400 --> 00:20:43,400
+ Inga fler frågor. Då avslutar vi pressträffen och gör oss redo för individuella intervjuer. Tack för att ni kom hit.
+
+205
+00:20:43,400 --> 00:20:43,640
+ Över.
+
+206
+00:20:43,640 --> 00:20:43,840
+ Kanske.
+
+207
+00:20:43,840 --> 00:20:44,160
+ Möjligt.
+
+208
+00:20:44,160 --> 00:20:44,360
+ För.
+
+209
+00:20:44,360 --> 00:20:44,820
+ Det är det.
+

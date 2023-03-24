@@ -1,0 +1,920 @@
+1
+00:00:00,000 --> 00:00:05,440
+ Välkomna hit. Vi börjar med att titta på världsläget.
+
+2
+00:00:05,440 --> 00:00:11,360
+ Tyvärr fortsätter den att gå under trenden i världen med allt fler fall.
+
+3
+00:00:11,360 --> 00:00:14,960
+ Den sista stoppen är fortfarande inte en fullständig vecka.
+
+4
+00:00:14,960 --> 00:00:20,480
+ Nu ska man tro att det utvecklas på samma sätt så kommer stigningen att fortsätta.
+
+5
+00:00:20,480 --> 00:00:26,880
+ När det gäller Europa så har vi haft en väldigt bra vikande trend under ganska lång tid.
+
+6
+00:00:26,880 --> 00:00:32,240
+ Men under de senaste veckorna så verkar den ha avstannat, som vi har noterat tidigare.
+
+7
+00:00:32,240 --> 00:00:39,680
+ Ska man bedöma utifrån vad som hittills kommit in under den här veckan så kommer vi att fortsätta ligga på en
+
+8
+00:00:39,680 --> 00:00:43,520
+ plateau istället för en fortsatt nedåtgång.
+
+9
+00:00:43,520 --> 00:00:51,200
+ Världsläget är i stor utsträckning oförändrat. Det är inga stora skillnader i länderna längre.
+
+10
+00:00:51,200 --> 00:00:56,640
+ Det är ungefär samma utveckling som vi har pekat på. Det är Sydamerika som är den stora motorn i världsläget.
+
+11
+00:00:56,640 --> 00:01:01,440
+ Där de allra flesta fallen händer med ordentlig påfinnande från USA.
+
+12
+00:01:01,440 --> 00:01:08,240
+ Där går det lite upp och ner i olika stater. Just nu verkar det som att New York och en del av dem som drabbades tidigt
+
+13
+00:01:08,240 --> 00:01:11,680
+ har sjunkande trender så är det en del stater som har ökande.
+
+14
+00:01:11,680 --> 00:01:17,280
+ Det finns anledning att tro att det kommer att fortsätta vara mycket fall från USA ett bra tag framåt.
+
+15
+00:01:17,280 --> 00:01:22,240
+ De börjar närma sig två miljoner fall totalt i USA.
+
+16
+00:01:22,240 --> 00:01:28,800
+ I övrigt så är det som sagt mellanösten, Indien och Ryssland som har genererat mycket fall.
+
+17
+00:01:28,800 --> 00:01:35,200
+ Afrika fortfarande ganska lugnt med undantag av Sydafrika som har ganska mycket fall.
+
+18
+00:01:35,200 --> 00:01:46,720
+ I Sverige kan ni se att vi har en uppsvängning på slutet med tyvärr ökande fall igen.
+
+19
+00:01:46,720 --> 00:01:53,120
+ Som inte är vård- och omsorgspersonal längre utan ligger i den här gruppen som vi kallar övriga.
+
+20
+00:01:53,120 --> 00:01:58,240
+ Som är en blandning av personer som läggs in och personer som provtas av andra medicinska skäl.
+
+21
+00:01:58,240 --> 00:02:03,360
+ Det är en stor del av den ökningen kommer från Västra Götaland.
+
+22
+00:02:03,360 --> 00:02:07,440
+ Vi har en dialog med dem för att försöka förstå vad detta beror på.
+
+23
+00:02:07,440 --> 00:02:16,160
+ Här har vi en ökad smittspridning. Ser ut som att man har mer inläggningar inom sjukvården där också.
+
+24
+00:02:16,160 --> 00:02:23,840
+ Även om vi får analysera närmare vad det egentligen beror på.
+
+25
+00:02:23,840 --> 00:02:29,280
+ Vi nämnde det igår att en del anledning till att kurvorna ser lite annorlunda ut nu var att det hade fastnat
+
+26
+00:02:29,280 --> 00:02:36,880
+ nästan 1500 fall på ett laboratorium här i Stockholm och de är nu fallande utspridda över graferna.
+
+27
+00:02:36,880 --> 00:02:41,760
+ I flera veckor tillbaka. Det här var framförallt vård- och omsorgspersonal.
+
+28
+00:02:41,760 --> 00:02:44,960
+ Det var ingen som var allvarligt sjuk. Inga avlina alls i den gruppen.
+
+29
+00:02:44,960 --> 00:02:50,720
+ Men det kommer att ändra utseendet på våra grafer. Framförallt för Stockholm fortsättningsvis.
+
+30
+00:02:50,720 --> 00:03:01,200
+ En del av anledningen till att vi nu ser en lite annorlunda utveckling beror säkert på att
+
+31
+00:03:01,200 --> 00:03:06,480
+ incidensen i olika åldersgrupper har förändrats ganska kraftigt under de senaste veckorna.
+
+32
+00:03:06,480 --> 00:03:13,840
+ Som ni ser den heldragna röda linjen så har fallen bland de riktigt gamla, de över 80 år,
+
+33
+00:03:13,840 --> 00:03:20,720
+ har sjunkit ganska kraftigt och det är väldigt bra. Det visar som en effekt av alla de åtgärder
+
+34
+00:03:20,720 --> 00:03:27,600
+ man har vidtagit i äldreboende och hemtjänst och liknande. De har gått ner väldigt mycket.
+
+35
+00:03:27,600 --> 00:03:35,520
+ Ni ser ut samma tendens även bland dem mellan 70 och 79. Även där är det en vikande tendens.
+
+36
+00:03:35,520 --> 00:03:45,360
+ Men den går upp i gruppen däremellan. Det är ett utslag av att vi provtar allt mer och hittar
+
+37
+00:03:45,360 --> 00:03:49,760
+ mer och mer personer som inte är riktigt lika sjuka som de vi hade tidigare.
+
+38
+00:03:49,760 --> 00:03:56,880
+ Vilket är bra på ett sätt. Mindre belastning på sjukvården men visar att pandemin finns här
+
+39
+00:03:56,880 --> 00:04:05,120
+ bland oss väldigt mycket fortfarande. Det här visar ännu tydligare att det är en annorlunda
+
+40
+00:04:05,120 --> 00:04:12,480
+ grupp personer som blir sjuka nu. Trots ökningen kan vi se att antalet IVA-fall ligger på
+
+41
+00:04:12,480 --> 00:04:19,120
+ en lägre nivå, en väldigt stabil nivå. Vilket gör att pressen på IVA är väldigt konstant.
+
+42
+00:04:19,120 --> 00:04:25,440
+ Joanna kommer att berätta mer om det om en liten stund. Men det är bra att den ökning vi ser
+
+43
+00:04:25,440 --> 00:04:31,120
+ i antal fall inte avspeglas här i fallen på IVA. Snarare tvärtom.
+
+44
+00:04:31,120 --> 00:04:37,520
+ När det gäller antal avlidna har vi ganska få nytillkomna även idag.
+
+45
+00:04:37,520 --> 00:04:42,800
+ Det är en dag när vi inte brukar ha jättemånga men det är färre än vad vi brukar ha på torsdagar.
+
+46
+00:04:42,800 --> 00:04:48,080
+ Vi har också kollat på hur många som möjligen kommer att dyka upp när vi har de här
+
+47
+00:04:48,080 --> 00:04:53,760
+ berömda körningarna mot dödsregistret. Det ligger ett 70-tal fall där men det är färre än vad vi
+
+48
+00:04:53,760 --> 00:04:58,320
+ brukar se. Så jag tycker att vi har anledning att tro att den nedåtgående trenden vi har sett
+
+49
+00:04:58,320 --> 00:05:05,520
+ nu kommer fortsätta ner på ungefär 57 fall per dag. Vilket är en fortsatt förbättring.
+
+50
+00:05:05,520 --> 00:05:12,400
+ Även om den totala siffran är väldigt hög. Vi hoppas att den här nedåtgående trenden ska fortsätta.
+
+51
+00:05:12,400 --> 00:05:17,600
+ När man tittar på att det är antalet fall bland de riktigt gamla som går ner så kraftigt
+
+52
+00:05:17,600 --> 00:05:22,800
+ så finns det anledning att tro att dödstalen kommer att gå ner för de följer varandra väldigt väl.
+
+53
+00:05:22,800 --> 00:05:31,120
+ Men det här gör det ännu viktigare att tänka på det här med att vi måste hålla ner på ökningen.
+
+54
+00:05:31,120 --> 00:05:36,080
+ Den här tendensen vi nu ser i Västra Götaland är jätteviktig att vi får kontroll på så fort som möjligt.
+
+55
+00:05:36,080 --> 00:05:42,000
+ Det handlar väldigt mycket om att minska sina nära sociala kontakter, fysiska kontakter.
+
+56
+00:05:42,000 --> 00:05:47,520
+ Det finns allt fler studier som visar att det är just den delen som man måste.
+
+57
+00:05:47,520 --> 00:05:53,920
+ Det viktigaste åtgärderna är just det. Allting annat blir sekundärt till att man kan få effekt på det området.
+
+58
+00:05:53,920 --> 00:06:00,640
+ Det är jätteviktigt att vi håller fast vid det. Den ökning vi nu ser har en viss koppling till de tidigare helgerna
+
+59
+00:06:00,640 --> 00:06:08,080
+ som vi haft ett par-tre veckor sen. Det kan nog hänga samman med att vi på olika sätt ser ett mönster
+
+60
+00:06:08,080 --> 00:06:10,800
+ av att man utöver rör sig mer och träffas mer än tidigare.
+
+61
+00:06:10,800 --> 00:06:15,040
+ Det är jätteviktigt att vi inte tappar bort det här med att hålla sig hemma om man är sjuk.
+
+62
+00:06:15,040 --> 00:06:22,080
+ Hålla ner på sina sociala nära kontakter så mycket som möjligt. Framför allt om man är över 70.
+
+63
+00:06:22,080 --> 00:06:28,640
+ Som över 70-åring gärna var ute och träffade folk på avstånd, men de nära kontakterna är jätteviktigt att hålla kontroll på.
+
+64
+00:06:28,640 --> 00:06:35,040
+ Verkar som den åldersgruppen börjar bli riktigt bra på det. Vi såg att antal fall i den åldersgruppen fortsätter gå ner.
+
+65
+00:06:35,040 --> 00:06:40,800
+ Men det är viktigt även för andra i övriga åldersgruppen att också tänka på det.
+
+66
+00:06:40,800 --> 00:06:47,120
+ Det är väldigt viktigt att man även där håller ner sina sociala kontakter så mycket som möjligt.
+
+67
+00:06:47,120 --> 00:06:49,760
+ Det var det hela för mig idag, Johanna.
+
+68
+00:06:49,760 --> 00:06:56,160
+ – Tack. Dagens lägetrapport från Socialstyrelsens särskilda organisation.
+
+69
+00:06:56,160 --> 00:07:05,520
+ Idag vårdas 571 patienter i intensivvården med respirator i landet och av dem har 303 covid-19.
+
+70
+00:07:05,520 --> 00:07:12,800
+ Vi ser, precis som Anders var inne på, en plateau i antalet intensivval. Inte någon ökning och inte någon minskning.
+
+71
+00:07:12,800 --> 00:07:15,920
+ Så har det varit nu den senaste veckan.
+
+72
+00:07:15,920 --> 00:07:27,120
+ Vi har 835 disponibla intensivvårdsplatser och fortsatt en dryg 30% i tillgänglig kapacitet och en god förmåga att möta förändrade behov.
+
+73
+00:07:27,120 --> 00:07:37,520
+ Variationen är fortsatt stor mellan 5% tillgänglig kapacitet och 100%, från väldigt liten kapacitet till helt tomt.
+
+74
+00:07:37,520 --> 00:07:47,840
+ Alltså stort fortsatt behov av möjligheten att flytta patienter och ha den intensivvårdssamordning som finns fortsatt igång.
+
+75
+00:07:47,840 --> 00:07:54,640
+ I övrigt vill jag säga några ord om nationella förstärkningsresurser.
+
+76
+00:07:54,640 --> 00:08:02,320
+ Som ni kanske uppmärksammar så fattar idag Region Stockholm beslut om att man inte längre har behov av den fältsjukhusresurs
+
+77
+00:08:02,320 --> 00:08:07,040
+ som har varit uppsatt i Älvsjömässan, som vi kallar Älvsjö sjukhus.
+
+78
+00:08:07,040 --> 00:08:15,840
+ När behovet förutsågs stort i mars, när Region Stockholm hemställde om att få förstärkningsresurser,
+
+79
+00:08:15,840 --> 00:08:23,520
+ precis som man misstänkte att man skulle ha ett stort vårdplatsbehov i Västra Götalandsregionen och Region Skåne.
+
+80
+00:08:23,520 --> 00:08:27,680
+ Det baserades delvis på de egna modelleringar och beräkningar man gjorde,
+
+81
+00:08:27,680 --> 00:08:36,800
+ men också utifrån de bedömningar som Folkhälsomyndigheten gjorde kring en klusterspridning i storstadsregionerna.
+
+82
+00:08:36,800 --> 00:08:42,720
+ Den imponerande omställning som har gjorts av Svensk Sjukvård för att skapa intensivvårdsplatser
+
+83
+00:08:42,720 --> 00:08:51,040
+ gick otroligt snabbt och genererade i betydligt fler intensivvårdsplatser än vad regionerna själva och vi vågade förutse.
+
+84
+00:08:51,040 --> 00:08:59,360
+ Det har gjort att man inte har behövt använda Älvsjömässan eller Älvsjö sjukhus, vilket förstås är ett bra betyg.
+
+85
+00:08:59,360 --> 00:09:04,240
+ Nu har man utifrån den här behovsanalysen, vilket är såklart det som styrs,
+
+86
+00:09:04,240 --> 00:09:09,600
+ som att det är Region Stockholm som bedömer vilka behov man har och också bemannar och har vårdgivaransvar,
+
+87
+00:09:09,600 --> 00:09:15,760
+ bedömt genom att titta på erfarenheterna bakåt kring hur omställningen fungerade,
+
+88
+00:09:15,760 --> 00:09:20,000
+ kring vilket behov man ser att man har framåt och möjligheten att växla upp,
+
+89
+00:09:20,000 --> 00:09:27,120
+ även om man minskar kostymen något efter det läge man har nu, att man inte har behov av resursen längre.
+
+90
+00:09:27,120 --> 00:09:29,920
+ Därför går vi in i en avvecklingsfas kring det.
+
+91
+00:09:29,920 --> 00:09:34,720
+ Det betyder inte att de här resurserna försvinner från de nationella förstärkningsresurserna.
+
+92
+00:09:34,720 --> 00:09:37,760
+ Vi har fortfarande vår resurssamordning igång.
+
+93
+00:09:37,760 --> 00:09:44,080
+ En fantastiskt fin samverkan med andra myndigheter, särskilt Försvarsmakten i det här fallet och regionerna.
+
+94
+00:09:44,080 --> 00:09:48,800
+ Behövs hela resursen, delar av resursen, på andra ställen i Sverige?
+
+95
+00:09:48,800 --> 00:09:52,640
+ Nu eller senare så kommer de kunna användas där.
+
+96
+00:09:52,640 --> 00:09:57,440
+ Förutom de här fällsjukhusresurserna så vet ni att vi har pratat om de helikopterresurser
+
+97
+00:09:57,440 --> 00:10:02,880
+ som fortfarande är i bruk från Försvarsmakten för att stärka sekundärtransportförmågan i intensivvården,
+
+98
+00:10:02,880 --> 00:10:10,560
+ men också andra typer av förstärkningsresurser som provtagningstält och moduler som MSB har pratat om tidigare.
+
+99
+00:10:10,560 --> 00:10:12,560
+ Slut.
+
+100
+00:10:12,560 --> 00:10:19,520
+ Från Myndigheten för samhällsskydd och beredskap, MSB, har vi inte några nyheter att komma med idag.
+
+101
+00:10:19,520 --> 00:10:25,920
+ Men jag vill passa på tillfället att ändå trycka på det som Folkhälsomyndigheten lyfte fram här tidigare.
+
+102
+00:10:25,920 --> 00:10:35,120
+ Vikten av att vi fortsätter att hålla i de beteenden som är kloka och som gör att vi kan bromsa och begränsa smittspridningen.
+
+103
+00:10:35,120 --> 00:10:41,920
+ Vikten av att vi gör det aktivt även i den situation som råder där det är mycket annat som lockar,
+
+104
+00:10:41,920 --> 00:10:46,640
+ mycket annat som kan uppfattas som viktigt, men där vi behöver hålla fast vid det här.
+
+105
+00:10:46,640 --> 00:10:53,120
+ Fortsätt vara en del av lösningen på det sättet. Tack.
+
+106
+00:10:55,120 --> 00:10:57,120
+ Jag glömde en av mina viktiga talepunkter.
+
+107
+00:10:57,120 --> 00:11:01,600
+ De här vårdplatserna har aldrig varit inräknade i den nationella vårdkapaciteten,
+
+108
+00:11:01,600 --> 00:11:04,080
+ så tillgängligheten av vårdplatser förändras inte.
+
+109
+00:11:04,080 --> 00:11:06,400
+ Det har varit en möjlighet att skala upp om det har behövts,
+
+110
+00:11:06,400 --> 00:11:10,560
+ som aldrig räknats med i den rapportering som vi har gett tidigare.
+
+111
+00:11:10,560 --> 00:11:12,560
+ Så det står klart.
+
+112
+00:11:12,560 --> 00:11:14,560
+ Älvsjömässan, ja precis.
+
+113
+00:11:14,560 --> 00:11:19,760
+ Tack för det. Då går vi över till frågor.
+
+114
+00:11:19,760 --> 00:11:23,760
+ Vi kan börja.
+
+115
+00:11:23,760 --> 00:11:30,720
+ En fråga till Folkhälsomyndigheten med anledning av de stora protester som har varit under gårdagen.
+
+116
+00:11:30,720 --> 00:11:36,720
+ Hur allvarligt är det för smittspridningen i det här läget?
+
+117
+00:11:36,720 --> 00:11:44,080
+ Vi vet av internationell erfarenhet att den här typen av stora folksamlingar,
+
+118
+00:11:44,080 --> 00:11:48,240
+ har man lite otur också att det är någon där som är väldigt bra på att sprida sjukdomen,
+
+119
+00:11:48,240 --> 00:11:52,240
+ kan det innebära en ganska stor spridning i den gruppen som är där.
+
+120
+00:11:52,240 --> 00:11:58,480
+ Så det är viktigt att man fortsätter följa de regler som finns inom det här området.
+
+121
+00:11:58,480 --> 00:12:01,360
+ Kanske också viktigt att skicka en signal till dem som har varit där,
+
+122
+00:12:01,360 --> 00:12:05,280
+ att får de nu symptom inom de närmsta dagarna,
+
+123
+00:12:05,280 --> 00:12:09,360
+ att de är väldigt noga med att stanna hemma med en gång om de får symptom.
+
+124
+00:12:09,360 --> 00:12:13,520
+ Här är en potential till en ganska stor smittspridning under vid sida.
+
+125
+00:12:13,520 --> 00:12:19,280
+ En fråga till Socialstyrelsen om Älvsjö sjukhuset.
+
+126
+00:12:19,280 --> 00:12:25,040
+ Om det visar sig till hösten då, vid eventuell uppgång i smittspridning
+
+127
+00:12:25,040 --> 00:12:29,920
+ och behov av att utöka intensivvården igen,
+
+128
+00:12:29,920 --> 00:12:34,000
+ hur snabbt kan man skala upp det igen så att säga?
+
+129
+00:12:34,000 --> 00:12:38,880
+ Snabbt skulle jag säga det. Älvsjö sjukhus tog ungefär en vecka att sätta upp
+
+130
+00:12:38,880 --> 00:12:42,720
+ och då var det första gången vi gjorde en sån övning tillsammans mellan myndigheterna
+
+131
+00:12:42,720 --> 00:12:45,760
+ i ett skarpt läge. Troligen går det fortare än så.
+
+132
+00:12:45,760 --> 00:12:48,320
+ Däremot måste man komma ihåg att erfarenheterna,
+
+133
+00:12:48,320 --> 00:12:50,800
+ det vi tog höjd för nu inte behövde användas heller,
+
+134
+00:12:50,800 --> 00:12:55,840
+ så vi ser att vi har en väldigt god förmåga att ställa om inom befintlig sjukvård.
+
+135
+00:12:55,840 --> 00:13:00,480
+ Det är förstås att föredra än att vårda utanför sjukhus.
+
+136
+00:13:00,480 --> 00:13:04,560
+ –Nya Holmgren Dagens Nyheter. Fråga till Anders Tegnell.
+
+137
+00:13:04,560 --> 00:13:09,840
+ Borde polisen ha gett tillstånd till den här manifestationen på Särgällstorg
+
+138
+00:13:09,840 --> 00:13:14,960
+ igår kväll med tanke på nuvarande rekommendationer?
+
+139
+00:13:14,960 --> 00:13:19,120
+ –Det måste polisen svara på, under vilka förutsättningar de gav tillstånd.
+
+140
+00:13:19,120 --> 00:13:21,360
+ Så vitt jag har förstått så gav man tillstånd under förutsättningar
+
+141
+00:13:21,360 --> 00:13:27,280
+ att det inte skulle vara mer än 50 personer. Men det får du kolla med om.
+
+142
+00:13:27,280 --> 00:13:29,760
+ –Staffel Lindberg på Aftonbladet.
+
+143
+00:13:29,760 --> 00:13:32,240
+ Också en fråga till Folkhälsomyndigheten Anders Tegnell.
+
+144
+00:13:32,240 --> 00:13:35,600
+ Det planeras en stor demonstration i Malmö.
+
+145
+00:13:35,600 --> 00:13:40,160
+ Det talas om att över 2 000 personer anmält sig på Facebook.
+
+146
+00:13:40,160 --> 00:13:41,760
+ Hur ser du på det?
+
+147
+00:13:41,760 --> 00:13:44,800
+ –Det är samma sak som tidigare. Vi vet att den här typen av
+
+148
+00:13:44,800 --> 00:13:48,640
+ stora folksamlingar är en risk i det läge vi befinner oss i just nu.
+
+149
+00:13:48,640 --> 00:13:52,640
+ De är olämpliga och olagliga.
+
+150
+00:13:52,640 --> 00:13:57,760
+ Det finns en risk för att det skulle kunna få en ökad smittspridning efteråt.
+
+151
+00:13:57,760 --> 00:14:03,040
+ –Vad tror du att följden kan bli för allmänhetens vilja att följa rekommendationer
+
+152
+00:14:03,040 --> 00:14:06,080
+ som man ser att det här upprepas?
+
+153
+00:14:06,080 --> 00:14:12,000
+ –Svårt att veta. Det är en händelse som ligger utanför det vanliga.
+
+154
+00:14:12,000 --> 00:14:14,880
+ Jag är inte så säker på att det kommer att ha så stor påverkan.
+
+155
+00:14:14,880 --> 00:14:17,520
+ Jag vet inte.
+
+156
+00:14:17,520 --> 00:14:24,320
+ –För nån vecka sen tyckte ni inte att man skulle ha smittspår över hela landet
+
+157
+00:14:24,320 --> 00:14:27,840
+ och testa brett och så vidare. Nu tycker man det.
+
+158
+00:14:27,840 --> 00:14:31,040
+ Vad är skillnaden egentligen? Det är inte så att vi har fått
+
+159
+00:14:31,040 --> 00:14:34,320
+ väldigt mycket färre fall nu jämfört med nån vecka sen.
+
+160
+00:14:34,320 --> 00:14:40,000
+ –Nej, men vi har haft en trend under en längre tid med minskad antal fall.
+
+161
+00:14:40,000 --> 00:14:43,600
+ Nu har vi hamnat på en plateå och då måste vi fundera på vad vi kan göra mer
+
+162
+00:14:43,600 --> 00:14:47,680
+ för att komma förbi den här plateån och minska ytterligare mer.
+
+163
+00:14:47,680 --> 00:14:51,360
+ Då är det här med att testa mer och börja smittspåra igen en variant
+
+164
+00:14:51,360 --> 00:14:54,400
+ som vi tycker är lämplig att börja diskutera.
+
+165
+00:14:54,400 --> 00:14:57,680
+ Den kan fungera i vissa regioner som inte har jättemycket spridning.
+
+166
+00:14:57,680 --> 00:15:01,280
+ Det kan vara betydligt svårare i regioner som fortfarande har mycket fall.
+
+167
+00:15:01,280 --> 00:15:08,240
+ Det är väl också en väg mot att lite mer anpassa insatserna efter epidemiologin
+
+168
+00:15:08,240 --> 00:15:10,240
+ i de olika regionerna.
+
+169
+00:15:10,240 --> 00:15:16,480
+ –Erik Poulsson, Ralmekarv från TTNU-sbyrån.
+
+170
+00:15:16,480 --> 00:15:18,800
+ Jag har en fråga till Anders Stegnell.
+
+171
+00:15:18,800 --> 00:15:21,360
+ Vi har fått uppgifter om att regeringen kommer att hålla en pressträff
+
+172
+00:15:21,360 --> 00:15:25,280
+ senare i eftermiddag för att informera om restriktionerna
+
+173
+00:15:25,280 --> 00:15:27,840
+ för inrikesresor i sommar.
+
+174
+00:15:27,840 --> 00:15:32,080
+ Jag undrar om Folkhälsomyndigheten har fattat ett beslut
+
+175
+00:15:32,080 --> 00:15:35,520
+ om hur ni ställer er i den frågan.
+
+176
+00:15:35,520 --> 00:15:39,120
+ En följdfråga är då, vad har ni landat i?
+
+177
+00:15:39,120 --> 00:15:42,080
+ –Jag har inga kommentarer på det.
+
+178
+00:15:42,080 --> 00:15:44,080
+ Vi har sagt att det kommer någon typ av information
+
+179
+00:15:44,080 --> 00:15:45,600
+ om det här med resor och sånt under veckan.
+
+180
+00:15:45,600 --> 00:15:47,600
+ Det är allt vi kan säga just nu.
+
+181
+00:15:49,600 --> 00:15:58,800
+ –Utan att kommentera den pressträff som ska vara senare idag.
+
+182
+00:15:58,800 --> 00:16:03,440
+ Hur bra är det om folk reser runt i Sverige med tanke på att
+
+183
+00:16:03,440 --> 00:16:07,440
+ folk fortfarande är smitta och vi ser att kurvan fortfarande ökar.
+
+184
+00:16:07,440 --> 00:16:09,440
+ Är det en bra idé att ge sig ut på vägarna?
+
+185
+00:16:09,440 --> 00:16:14,000
+ –Vi gör analyser för att ha ett bra underlag till en typ av ställningstagande.
+
+186
+00:16:14,000 --> 00:16:17,600
+ När allting har landat så kommer vi att kommunicera det.
+
+187
+00:16:17,600 --> 00:16:29,040
+ –Jag har ytterligare en fråga till Anders Tegnell.
+
+188
+00:16:29,040 --> 00:16:34,000
+ Ännu ett land stänger dörren för svenskar i sommar, den här gången Nederländerna.
+
+189
+00:16:34,000 --> 00:16:38,320
+ Anser du att det är rimligt att svenskar inte får resa till vissa länder
+
+190
+00:16:38,320 --> 00:16:40,320
+ med tanke på smittspridningen här?
+
+191
+00:16:42,000 --> 00:16:47,840
+ –Jag tycker det vore bra om vi kunde landa i ett gemensamt EU-ställningstagande
+
+192
+00:16:47,840 --> 00:16:51,440
+ till vilken utsträckning resande innebär några problem eller inte.
+
+193
+00:16:51,440 --> 00:16:53,440
+ Och kunna göra en bra klok analys på det.
+
+194
+00:16:53,440 --> 00:16:59,440
+ Det är olyckligt att man ska hålla på och behöva ha den här typen av beslut.
+
+195
+00:16:59,440 --> 00:17:03,440
+ Det är som går åt lite olika håll. Jag tycker det är lite tråkigt.
+
+196
+00:17:03,440 --> 00:17:07,440
+ Jag tror det skulle finnas underlag för att ta ett gemensamt beslut.
+
+197
+00:17:10,160 --> 00:17:14,160
+ –Vi har en fråga på länk från Vetenskapsradion.
+
+198
+00:17:14,160 --> 00:17:20,160
+ –Kamilla Widveck här. Jag undrar om det här med antikroppstester
+
+199
+00:17:20,160 --> 00:17:24,160
+ som det nu ska bli mer av, hur vet vi att de är bra?
+
+200
+00:17:24,160 --> 00:17:30,160
+ Det sades på presskonferensen nyss, Lena Hallengren, att nu finns det bättre antikroppstester.
+
+201
+00:17:30,160 --> 00:17:36,160
+ Hur många bra finns det? Kommer Folkhälsomyndigheten att identifiera en rad tester
+
+202
+00:17:36,160 --> 00:17:40,160
+ som vårdgivare kan använda? Eller kommer det att vara på deras eget ansvar?
+
+203
+00:17:40,160 --> 00:17:44,160
+ Vilka krav ska det vara på tester för att de ska duga?
+
+204
+00:17:44,160 --> 00:17:48,160
+ Vad ska de ha för sensitivitet och specificitet för att det ska vara okej
+
+205
+00:17:48,160 --> 00:17:50,160
+ och använda dem i det allmänna?
+
+206
+00:17:50,160 --> 00:18:00,160
+ –Det finns bra tester idag som har så pass hög säkerhet, både i sensitivitet och specificitet.
+
+207
+00:18:00,160 --> 00:18:04,160
+ De är rimliga att använda. Det är de testerna som görs på laboratorier.
+
+208
+00:18:04,160 --> 00:18:10,160
+ Alltså inte de så kallade snabbtesterna. Där finns det idag bra tester som verkligen ger bra resultat.
+
+209
+00:18:10,160 --> 00:18:16,160
+ Där har vi landat i att det finns en rimlighet att använda de testerna.
+
+210
+00:18:16,160 --> 00:18:21,160
+ –Så snabbtester kommer inte att ingå i detta och kunna göras gratis?
+
+211
+00:18:21,160 --> 00:18:24,160
+ –Det får vi se om någon av dem når upp till de nivåerna.
+
+212
+00:18:24,160 --> 00:18:29,160
+ Men de flesta som idag finns, och de snabbtesterna, måste vara e-märkta
+
+213
+00:18:29,160 --> 00:18:36,160
+ och godkänna på det viset. Men där vet vi att man måste ha en väldigt hög specificitet
+
+214
+00:18:36,160 --> 00:18:40,160
+ för att inte landa i att man får väldigt många falsk positiva prov.
+
+215
+00:18:40,160 --> 00:18:46,160
+ Man skapar en känsla för att när man har en så låg andel av befolkningen
+
+216
+00:18:46,160 --> 00:18:49,160
+ som man har just nu och testar väldigt många, så kan de här slå väldigt fel.
+
+217
+00:18:49,160 --> 00:18:53,160
+ Det kommer att finnas en rapport på vår hemsida som visar hur viktigt det är.
+
+218
+00:18:53,160 --> 00:18:58,160
+ Många av de här snabbtesterna når inte alls upp till de nivåerna.
+
+219
+00:18:58,160 --> 00:19:03,160
+ Nu har vi precis fått uppdraget, vi kommer att titta på det.
+
+220
+00:19:03,160 --> 00:19:06,160
+ Men vi kommer absolut inrikta oss mot tester som har så pass hög prestanda
+
+221
+00:19:06,160 --> 00:19:14,160
+ så att de kan vara användbara. Både på individnivå och på befolkningsnivå.
+
+222
+00:19:14,160 --> 00:19:20,160
+ –Alla tester som används ska klara båda de här nivåerna, och ni kommer att göra en lista?
+
+223
+00:19:20,160 --> 00:19:24,160
+ –Vi kommer åtminstone att publicera väldigt tydligt vad man behöver kräva
+
+224
+00:19:24,160 --> 00:19:30,160
+ för att de ska fungera och kunna ge bra resultat på individnivå.
+
+225
+00:19:30,160 --> 00:19:37,160
+ Sen är det upp till var vi tillverkar att dokumentera vilka prestanda just det testet har.
+
+226
+00:19:37,160 --> 00:19:42,160
+ Där är inte vi inblandade i den dokumentationen och kontrollen av den.
+
+227
+00:19:42,160 --> 00:19:50,160
+ –Tack för det. Fler frågor?
+
+228
+00:19:50,160 --> 00:19:56,160
+ Det verkar inte så, då avslutar vi för idag och går över till enskilda intervjuer. Tack!
+
+229
+00:19:57,160 --> 00:19:59,160
+ –Tack!
+
+230
+00:19:59,160 --> 00:20:03,160
+ Tack till elever och personal vid Säkerhetssäkerhetssäkerheten.
+

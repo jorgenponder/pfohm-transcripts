@@ -1,0 +1,1140 @@
+1
+00:00:00,000 --> 00:00:02,000
+ Tack så mycket. Välkomna hit.
+
+2
+00:00:02,000 --> 00:00:08,160
+ Jag har alltså beslutat att kalla den nationella pandemigruppen till i dag för sammanträde.
+
+3
+00:00:08,160 --> 00:00:14,960
+ Bakgrunden är naturligtvis utbrottet av coronaviruset, covid-19.
+
+4
+00:00:14,960 --> 00:00:19,520
+ Det är inte så att vi bedömer att det finns en pandemisk spridning.
+
+5
+00:00:19,520 --> 00:00:22,720
+ Det är inte en pandemi som vi har att hantera.
+
+6
+00:00:22,720 --> 00:00:28,160
+ Men gruppen finns sedan drygt tio år efter influensapandemin.
+
+7
+00:00:28,320 --> 00:00:32,480
+ Vi är sammanträd normalt sett en gång om året och går igenom beredskapsplanerna.
+
+8
+00:00:32,480 --> 00:00:36,400
+ Myndigheterna har uppdaterat sina planer på Folkhälsomyndigheten–
+
+9
+00:00:36,400 --> 00:00:42,480
+ –och uppdaterade våra pandemi- och beredskapsplaner så sent som den 19 december.
+
+10
+00:00:42,480 --> 00:00:46,000
+ Jag vet att andra myndigheter arbetar kontinuerligt med det här.
+
+11
+00:00:46,000 --> 00:00:53,360
+ Den här gruppen består av Socialstyrelsen, MSB, Arbetsmiljöverket och Läkemedelsverket–
+
+12
+00:00:53,360 --> 00:00:56,680
+ –och har också representanter för Sveriges kommuner och regioner.
+
+13
+00:00:56,840 --> 00:01:00,160
+ Det är de statliga myndigheterna som håller presskonferensen här.
+
+14
+00:01:00,160 --> 00:01:05,360
+ Vi har diskuterat i dag en gemensam lägesbild.
+
+15
+00:01:05,360 --> 00:01:11,320
+ Anders Tegnell kommer att presentera det som myndigheten presenterade för gruppen.
+
+16
+00:01:11,320 --> 00:01:14,320
+ Vi har också fått redovisningar från de olika myndigheterna–
+
+17
+00:01:14,320 --> 00:01:19,040
+ –om beredskapsläget och de utmaningar som myndigheterna ser just nu.
+
+18
+00:01:19,040 --> 00:01:20,520
+ Det kommer ni att få höra lite mer om.
+
+19
+00:01:20,680 --> 00:01:27,080
+ Vi har också diskuterat och fokuserat på de kommunikativa utmaningarna–
+
+20
+00:01:27,080 --> 00:01:29,400
+ –som sånt här utbrott har.
+
+21
+00:01:29,400 --> 00:01:33,000
+ Jag vill, innan jag lämnar ordet till statsrepermöverlogen, säga–
+
+22
+00:01:33,000 --> 00:01:39,600
+ –att vi har i dag ett inflöde av personer som smittats med coronavirus–
+
+23
+00:01:39,600 --> 00:01:41,880
+ –men vi har ingen smittspridning i samhället–
+
+24
+00:01:41,880 --> 00:01:46,040
+ –utanför de här personerna och deras allmännärmaste krets.
+
+25
+00:01:46,040 --> 00:01:48,840
+ Vi har alltså inte ett pandemiskt läge här.
+
+26
+00:01:49,000 --> 00:01:54,960
+ Det kommer att bero på, som vi ser det, vad som händer i vår omvärld.
+
+27
+00:01:54,960 --> 00:01:59,280
+ Men vi har ändå beslutat oss för att skruva upp planeringen–
+
+28
+00:01:59,280 --> 00:02:03,640
+ –och rikta in oss på de stora frågorna som de här myndigheterna hanterar.
+
+29
+00:02:03,640 --> 00:02:08,240
+ Det finns en rad myndigheter utanför den här kretsen i ett sånt här läge–
+
+30
+00:02:08,240 --> 00:02:12,560
+ –och de samarbetar vi redan med och kommer att tas med i diskussioner–
+
+31
+00:02:12,560 --> 00:02:14,840
+ –och planeringar på ett tydligare sätt framåt.
+
+32
+00:02:15,000 --> 00:02:19,960
+ Jag lämnar över till Anders Tegnell som ger allmän information om läget.
+
+33
+00:02:19,960 --> 00:02:22,120
+ Tack.
+
+34
+00:02:22,120 --> 00:02:24,280
+ Tack så mycket.
+
+35
+00:02:24,280 --> 00:02:28,520
+ Vi kommer tillbaka till kartorna för att se var vi är just nu.
+
+36
+00:02:28,520 --> 00:02:34,040
+ Som vi sa sist har fokus flyttats från Kina till Europa i stor utsträckning–
+
+37
+00:02:34,040 --> 00:02:35,880
+ –när det gäller smittspridningen.
+
+38
+00:02:35,880 --> 00:02:40,360
+ Det är nu Italien som sprider mest fall i världen, har mest fall internt.
+
+39
+00:02:40,520 --> 00:02:45,320
+ Det är ganska adekvat att man också har ändrat kartan–
+
+40
+00:02:45,320 --> 00:02:48,680
+ –istället för att ha Kina i centrum som vi har Europa i centrum.
+
+41
+00:02:48,680 --> 00:02:53,800
+ Väldigt mycket av världens ögon är ju förstås riktade mot oss.
+
+42
+00:02:53,800 --> 00:02:58,240
+ I Europa händer det saker snabbt.
+
+43
+00:02:58,240 --> 00:03:02,680
+ Vi är uppe i nästan 6 000 fall, de allra flesta i Italien.
+
+44
+00:03:02,680 --> 00:03:06,920
+ Det här är dessutom gårdagens data, så jag får lägga på lite grann.
+
+45
+00:03:06,920 --> 00:03:09,320
+ Vi iholl ligger lite efter i sin rapportering.
+
+46
+00:03:09,480 --> 00:03:13,400
+ Vi börjar närma oss 200 dödsfall, återigen nästan allihop i Italien.
+
+47
+00:03:13,400 --> 00:03:17,480
+ Det är ju större del av den här epidemin som nu håller på att hända.
+
+48
+00:03:17,480 --> 00:03:21,720
+ Jag tänkte bara säga, och ursäkta att de här bilderna är på engelska–
+
+49
+00:03:21,720 --> 00:03:25,480
+ –att det är viktigt att fundera på var vi är nånstans–
+
+50
+00:03:25,480 --> 00:03:28,000
+ –så att man gör rätt saker vid rätt tillfälle.
+
+51
+00:03:28,000 --> 00:03:33,040
+ Nu kan man dela in den här utvecklingen vi ser i tre olika faser–
+
+52
+00:03:33,040 --> 00:03:37,600
+ –som vi och ECDC och andra myndigheter i världen ser framför sig.
+
+53
+00:03:37,760 --> 00:03:41,040
+ Vi har den fasen som vi är i nu, att vi har en pågående försök–
+
+54
+00:03:41,040 --> 00:03:44,200
+ –att stoppa smittspridningen från att komma till vårt land.
+
+55
+00:03:44,200 --> 00:03:47,280
+ Det gör vi väldigt effektivt med den här grundläggande åtgärden–
+
+56
+00:03:47,280 --> 00:03:50,560
+ –att personer som har varit i riskområden när de kommer hem–
+
+57
+00:03:50,560 --> 00:03:53,720
+ –ska vara väldigt noga med att inte gå till arbetet när de börjar bli sjuka–
+
+58
+00:03:53,720 --> 00:03:57,880
+ –utan stanna hemma, ta kontakt med sjukvården om det inte snabbt blir bättre–
+
+59
+00:03:57,880 --> 00:03:59,680
+ –så att man kan få råd och hjälp därifrån.
+
+60
+00:03:59,680 --> 00:04:03,360
+ Och sen så fångar sjukvården de som eventuellt är smittade smittspår runt om–
+
+61
+00:04:03,360 --> 00:04:05,520
+ –och bryter de här smittkedjorna.
+
+62
+00:04:05,680 --> 00:04:07,720
+ Det är där vi är, det är det vi ska jobba med–
+
+63
+00:04:07,720 --> 00:04:11,120
+ –och det är det vi lägger ner väldigt mycket resurser just nu.
+
+64
+00:04:11,120 --> 00:04:15,000
+ Sen kan det ju bli så att situationen förändras, som den har gjort i Italien.
+
+65
+00:04:15,000 --> 00:04:17,920
+ Det finns inget land i världen som är helt immun mot det här.
+
+66
+00:04:17,920 --> 00:04:22,960
+ Och vi kan få den här typen av begränsad smittspridning i samhället.
+
+67
+00:04:22,960 --> 00:04:26,720
+ Att begränsa geografiskt till vissa grupper som nu har hänt i Italien–
+
+68
+00:04:26,720 --> 00:04:30,800
+ –som vi ser väldigt tydligt i Sydkorea, som vi såg på ett skepp utanför Japan.
+
+69
+00:04:30,800 --> 00:04:33,000
+ Och det är det vi arbetar rätt mycket med och funderar på–
+
+70
+00:04:33,000 --> 00:04:35,440
+ –vad ska vi göra om det åker hända i Sverige?
+
+71
+00:04:35,600 --> 00:04:37,880
+ Vi tror att vi har goda möjligheter att hantera en sån situation.
+
+72
+00:04:37,880 --> 00:04:41,360
+ Vi har väldigt mycket på plats som behövs i ett sånt läge.
+
+73
+00:04:41,360 --> 00:04:43,920
+ Sen är det förstås, som Johan var inne på–
+
+74
+00:04:43,920 --> 00:04:46,560
+ –att pandemin finns möjligen där borta nånstans.
+
+75
+00:04:46,560 --> 00:04:50,360
+ Vi vet inte än om vi kommer dit. Det kommer definitivt inte att ske imorgon.
+
+76
+00:04:50,360 --> 00:04:54,280
+ Och det kommer att bero väldigt mycket på hur smittspridningen ser ut i resten av världen.
+
+77
+00:04:54,280 --> 00:04:59,720
+ Om det är fler länder än Italien som får den här storanfattande smittspridningen eller inte–
+
+78
+00:04:59,720 --> 00:05:04,880
+ –och i vilken utsträckning man kan begränsa den här smittspridningen i olika länder.
+
+79
+00:05:05,040 --> 00:05:10,160
+ Då kan vi hamna i en pandemisk situation med en helt annan typ av åtgärder som är viktiga.
+
+80
+00:05:10,160 --> 00:05:12,800
+ Men i Sverige är vi fortfarande i stadion ett.
+
+81
+00:05:12,800 --> 00:05:16,600
+ Det är jätteviktigt att vi fångar fallen, som vi också gör.
+
+82
+00:05:16,600 --> 00:05:20,800
+ Den här är den kurvan över fall som vi har haft i Sverige.
+
+83
+00:05:20,800 --> 00:05:23,400
+ Vi hade ett ganska tidigt och sen har vi nu de här fallen–
+
+84
+00:05:23,400 --> 00:05:27,800
+ –som i princip helt speglar situationen i Italien.
+
+85
+00:05:27,800 --> 00:05:31,840
+ Vi har enstaka fall även från Iran, men i stort sett alla fallen kommer från Italien.
+
+86
+00:05:32,000 --> 00:05:39,520
+ Det här är en spegling av sportlovsresandet under förra veckan.
+
+87
+00:05:39,520 --> 00:05:44,000
+ Igår sa jag att vi kommer att se en avtrappning av det.
+
+88
+00:05:44,000 --> 00:05:46,760
+ Vad jag menade då och vad jag menar idag–
+
+89
+00:05:46,760 --> 00:05:51,120
+ –är att inkubationstiden från de som har varit i Italien börjar gå ut.
+
+90
+00:05:51,120 --> 00:05:54,320
+ Så de som smittades i Italien bör ha synts redan.
+
+91
+00:05:54,320 --> 00:05:58,760
+ Därför finns det anledning att tro att vi kommer att få färre fler från Italien nu–
+
+92
+00:05:58,760 --> 00:06:00,120
+ –under några dagar framåt.
+
+93
+00:06:00,280 --> 00:06:02,920
+ Det betyder inte på något sätt att det här är över–
+
+94
+00:06:02,920 --> 00:06:05,720
+ –eller att vi tror att coronaepidemin i världen är över.
+
+95
+00:06:05,720 --> 00:06:09,400
+ Men hur det kommer att se ut fortsätter inkommer att bero mycket på vad som händer i resten av världen.
+
+96
+00:06:09,400 --> 00:06:14,440
+ Vi får nya fokus i andra länder dit vi reser mycket.
+
+97
+00:06:14,440 --> 00:06:16,760
+ Så vår riskbedömning från den 2 mars står fast.
+
+98
+00:06:16,760 --> 00:06:22,800
+ Vi kommer att få fler fall. Det är inte bara en hög risk, det är en aktualitet att vi får fler fall.
+
+99
+00:06:22,800 --> 00:06:25,720
+ Men med de åtgärder vi vidtar och med det system vi har på plats–
+
+100
+00:06:25,880 --> 00:06:30,760
+ –och med alla åtgärder som myndigheterna, inte minst sjukvården och regionerna, hanterar–
+
+101
+00:06:30,760 --> 00:06:33,400
+ –så anser vi fortfarande att det här är hanterbart.
+
+102
+00:06:33,400 --> 00:06:39,480
+ Vi ska inte behöva få en fortsatt spridning i Sverige om vi inte har återhuvud på olika sätt.
+
+103
+00:06:39,480 --> 00:06:43,960
+ Det finns ett par frågor som kommer ofta.
+
+104
+00:06:43,960 --> 00:06:46,960
+ Det här med resor.
+
+105
+00:06:46,960 --> 00:06:49,840
+ Det finns ju resavrådan till några ställen i världen.
+
+106
+00:06:50,000 --> 00:06:55,760
+ I dag gick vi in till UD och bad om att skapa en resavråda mot norra Italien.
+
+107
+00:06:55,760 --> 00:07:00,080
+ Vi har fått rapporter därifrån om att sjukvårdssystemet är väldigt ansträngt.
+
+108
+00:07:00,080 --> 00:07:02,240
+ Som ni har hört stänger man skolor.
+
+109
+00:07:02,240 --> 00:07:05,640
+ Man organiserar väldigt stora områden för resande och rörelser.
+
+110
+00:07:05,640 --> 00:07:09,760
+ Vi tycker i den situationen att det är rimligt att man inte längre reser till Italien–
+
+111
+00:07:09,760 --> 00:07:13,480
+ –om man inte varken behöver det av olika skäl, privata eller andra–
+
+112
+00:07:13,480 --> 00:07:17,560
+ –för att minska ansträngningen både för personer som kommer hit med smittan–
+
+113
+00:07:17,720 --> 00:07:23,480
+ –men också för att minska ansträngningen i Italien.
+
+114
+00:07:23,480 --> 00:07:29,360
+ Det är bakgrunden till varför vi nu har tagit det här steget.
+
+115
+00:07:29,360 --> 00:07:36,440
+ Som vi har sagt tidigare så håller vi med om att vi inte ska begränsa resandet i onödan.
+
+116
+00:07:36,440 --> 00:07:42,440
+ Men här är det en situation där vi både för vår och Italiens skull är rimliga.
+
+117
+00:07:42,440 --> 00:07:46,800
+ Vi får väldigt mycket frågor om skolor.
+
+118
+00:07:46,960 --> 00:07:53,120
+ Jag vill bara klargöra att när det kommer enskilda barn som är smittade–
+
+119
+00:07:53,120 --> 00:07:59,080
+ –som hamnar i skolor eller som är skolbarn, och det finns några exempel i Sverige nu–
+
+120
+00:07:59,080 --> 00:08:03,080
+ –så är det smittskydden i den regionen som hanterar den frågan.
+
+121
+00:08:03,080 --> 00:08:07,600
+ Skolorna behöver egentligen inte göra nånting. Det här är den vanliga smittspåningen runt fall.
+
+122
+00:08:07,600 --> 00:08:10,040
+ Den kommer att genomföras i skolor också när det är adekvat–
+
+123
+00:08:10,040 --> 00:08:14,280
+ –och man kommer då att kontakta de barn, lärare eller andra i skolorna–
+
+124
+00:08:14,440 --> 00:08:17,640
+ –som behöver kontaktas för att de behöver hålla sig hemma under en period–
+
+125
+00:08:17,640 --> 00:08:21,040
+ –för att vi inte ska riskera smittspåning i skolan.
+
+126
+00:08:21,040 --> 00:08:25,560
+ Det måste man hålla isär från skolstängningar som man nu har i Italien på andra ställen–
+
+127
+00:08:25,560 --> 00:08:29,800
+ –när man stänger skolan för att minska smittspridningen i samhället.
+
+128
+00:08:29,800 --> 00:08:31,800
+ Det är ett helt annat skäl som ligger bakom.
+
+129
+00:08:31,800 --> 00:08:36,560
+ Det kan vara adekvat när man börjar se en smittspridning som i Italien–
+
+130
+00:08:36,560 --> 00:08:39,640
+ –men det finns ingen bakgrund till att göra det i dag i Sverige–
+
+131
+00:08:39,640 --> 00:08:41,720
+ –när vi inte har nån smittspåning i samhället.
+
+132
+00:08:41,880 --> 00:08:46,080
+ Vi hindrar ingenting, för det finns ingen smitta i samhället som kan spelas vidare i skolan.
+
+133
+00:08:46,080 --> 00:08:49,680
+ Vad som händer är att ett antal personer inte kommer till jobbet som de ska–
+
+134
+00:08:49,680 --> 00:08:52,240
+ –för de är tvungna att vara hemma och ta hand om sina barn.
+
+135
+00:08:52,240 --> 00:08:56,240
+ Men den viktiga poängen är att vi har ingen effekt av den åtgärden just nu–
+
+136
+00:08:56,240 --> 00:08:59,840
+ –när vi inte har smittan ute i samhället.
+
+137
+00:08:59,840 --> 00:09:02,720
+ Så bara förklarar jag den saken.
+
+138
+00:09:02,720 --> 00:09:06,920
+ Vi fortsätter att jobba väldigt hårt tillsammans med regionerna för att hantera de här fallen.
+
+139
+00:09:06,920 --> 00:09:10,000
+ Ett hundratal fall drygt i år låter inte så mycket–
+
+140
+00:09:10,160 --> 00:09:12,600
+ –men det är ett jättestort arbete som ligger bakom.
+
+141
+00:09:12,600 --> 00:09:18,440
+ Med mer än 3 000 tester genomförda, en fantastisk massa smittspåning som pågår nu–
+
+142
+00:09:18,440 --> 00:09:24,040
+ –för att vi ska göra vårt bästa för att hålla borta den här smittan från vårt land så länge som möjligt.
+
+143
+00:09:24,040 --> 00:09:26,200
+ Tack.
+
+144
+00:09:26,200 --> 00:09:29,040
+ Tack.
+
+145
+00:09:29,040 --> 00:09:33,200
+ Jag vill säga några ord om vårt möte i nationella pandemigruppen–
+
+146
+00:09:33,200 --> 00:09:38,600
+ –och bara uttrycka att det är mycket bra och viktigt att vi i det här läget–
+
+147
+00:09:38,760 --> 00:09:44,880
+ –delar uppdaterade lägesbilder och också identifierade behov.
+
+148
+00:09:44,880 --> 00:09:49,000
+ Vi har ett mycket starkt samarbete–
+
+149
+00:09:49,000 --> 00:09:53,440
+ –och med den här nationella pandemigruppen har vi chans att förstärka det ytterligare.
+
+150
+00:09:53,440 --> 00:09:57,720
+ Inte minst genom att nationella pandemigruppen–
+
+151
+00:09:57,720 --> 00:10:03,920
+ –innehåller representanter för Sveriges kommuner och Sveriges regioner–
+
+152
+00:10:03,920 --> 00:10:07,040
+ –i form av Sveriges kommuner och regioner som är närvarande.
+
+153
+00:10:07,200 --> 00:10:11,440
+ Då fick vi en bra bild av hur behoven ser ut i regionerna och i kommunerna.
+
+154
+00:10:11,440 --> 00:10:17,320
+ Framför allt talade vi om att det fanns ett behov av tydlig kommunikation–
+
+155
+00:10:17,320 --> 00:10:20,440
+ –och tydlig information, så tydlig som det går att få.
+
+156
+00:10:20,440 --> 00:10:25,280
+ En annan fråga vi diskuterade på gruppen var också 1177–
+
+157
+00:10:25,280 --> 00:10:29,160
+ –där det är väldigt viktigt med hög tillgänglighet–
+
+158
+00:10:29,160 --> 00:10:32,280
+ –men också hur vi kan fördela och styra de samtal som kommer in–
+
+159
+00:10:32,280 --> 00:10:37,080
+ –mellan 1177 och 11313.
+
+160
+00:10:37,120 --> 00:10:40,120
+ Regioner har också flyttat resurser till 1177–
+
+161
+00:10:40,120 --> 00:10:43,480
+ –för att få en så kort svarstid som möjligt.
+
+162
+00:10:43,480 --> 00:10:48,120
+ Det här är viktigt eftersom det är själva kärnan i hur vi arbetar–
+
+163
+00:10:48,120 --> 00:10:51,400
+ –med ett effektivt smittskydd i Sverige.
+
+164
+00:10:51,400 --> 00:10:57,200
+ Vi pratade också om behovet av att ha information–
+
+165
+00:10:57,200 --> 00:11:00,080
+ –riktad till olika målgrupper och anpassad till olika målgrupper.
+
+166
+00:11:00,080 --> 00:11:03,720
+ Det innebär till exempel att ha information på många språk–
+
+167
+00:11:03,880 --> 00:11:10,200
+ –men också anpassad för olika grupper som kan ha behov av information på olika sätt.
+
+168
+00:11:10,200 --> 00:11:13,640
+ Både till exempel beslutsfattare som vi nämnde–
+
+169
+00:11:13,640 --> 00:11:18,560
+ –som kan vara aktuella i ett annat scenario, men också till allmänhet.
+
+170
+00:11:18,560 --> 00:11:22,560
+ Det är mycket viktigt, och där är informationen central–
+
+171
+00:11:22,560 --> 00:11:25,640
+ –och att förstå kommunikationen.
+
+172
+00:11:25,640 --> 00:11:31,840
+ Att alla individer och berörda aktörer förstår och följer–
+
+173
+00:11:32,000 --> 00:11:34,440
+ –bästa tillgängliga kunskap i det här läget.
+
+174
+00:11:34,440 --> 00:11:41,240
+ Det är den kunskapen och vetenskapen som vårt effektiva smittskydd bygger på i Sverige.
+
+175
+00:11:41,240 --> 00:11:45,000
+ Det hade vi en samsyn kring, så vi kommer att bilda strukturer–
+
+176
+00:11:45,000 --> 00:11:49,960
+ –för att ytterligare förstärka information och kommunikation.
+
+177
+00:11:49,960 --> 00:11:54,920
+ Jag tänker knyta an till det här med information och kommunikation.
+
+178
+00:11:54,920 --> 00:11:57,800
+ Alla behöver en tydlig bild av läget–
+
+179
+00:11:57,960 --> 00:12:04,000
+ –men också väldigt konkreta råd och anvisningar för hur man ska bete sig.
+
+180
+00:12:04,000 --> 00:12:08,800
+ Det gäller både individer, organisationer och myndigheter.
+
+181
+00:12:08,800 --> 00:12:15,720
+ Där är den här gemensamma lägesbilden och kommunikationen väldigt viktig.
+
+182
+00:12:15,720 --> 00:12:18,440
+ Det minskar risken för missuppfattningar–
+
+183
+00:12:18,440 --> 00:12:23,560
+ –men det minskar också risken för desinformation och ryktespridning.
+
+184
+00:12:23,560 --> 00:12:27,120
+ Vi jobbar med den här gemensamma kommunikationen.
+
+185
+00:12:27,280 --> 00:12:31,680
+ En av de här delarna har varit de gemensamma pressträffarna.
+
+186
+00:12:31,680 --> 00:12:38,280
+ Men ur ett individperspektiv finns det möjlighet att gå in på krisinformation.se–
+
+187
+00:12:38,280 --> 00:12:43,400
+ –där vi kopplar ihop alla myndigheters gemensamma information.
+
+188
+00:12:43,400 --> 00:12:49,920
+ Vi måste alla stärka vår motståndskraft mot coronaviruset.
+
+189
+00:12:49,920 --> 00:12:54,840
+ Men det gäller också andra händelser i samhället. Vi gör det på individnivå.
+
+190
+00:12:55,000 --> 00:12:59,320
+ Vi har gått ut med broschyren utifrån Krisberedskapsveckan–
+
+191
+00:12:59,320 --> 00:13:04,200
+ –och krispaketet är jätteviktigt. Det här gäller rent generellt.
+
+192
+00:13:04,200 --> 00:13:10,280
+ Men sen måste också myndigheter och olika företag och organisationer–
+
+193
+00:13:10,280 --> 00:13:13,760
+ –faktiskt också jobba med kontinuitetsplanering–
+
+194
+00:13:13,760 --> 00:13:17,120
+ –för att kunna vara förberedda.
+
+195
+00:13:17,120 --> 00:13:21,840
+ Därför har vi i dag gett ut en anvisning kring planering–
+
+196
+00:13:22,000 --> 00:13:25,560
+ –för bortfall av personal, varor och tjänster.
+
+197
+00:13:25,560 --> 00:13:31,200
+ Det går ut på att identifiera, avgränsa och prioritera verksamhet.
+
+198
+00:13:31,200 --> 00:13:34,840
+ Här ger vi ut ett antal handfasta råd.
+
+199
+00:13:34,840 --> 00:13:38,640
+ Här vill jag skilja åt var man hämtar informationen.
+
+200
+00:13:38,640 --> 00:13:44,240
+ Som individ hämtar man den på krisinformation.se–
+
+201
+00:13:44,240 --> 00:13:48,960
+ –men vill man ha konkreta råd kring organisation–
+
+202
+00:13:49,120 --> 00:13:53,160
+ –och vilka åtgärder man bör vidta för att hitta den här planeringen–
+
+203
+00:13:53,160 --> 00:13:56,840
+ –går man in på msb.se.
+
+204
+00:13:56,840 --> 00:14:03,600
+ Smittskyddet har upptäckt en av våra anställda i Karlstadkontoret.
+
+205
+00:14:03,600 --> 00:14:08,360
+ Vi följer givetvis Folkhälsomyndighetens råd och anvisningar–
+
+206
+00:14:08,360 --> 00:14:13,680
+ –och vi följer också den regionala smittskyddsorganisationen.
+
+207
+00:14:17,440 --> 00:14:24,000
+ Som läkemedelsverk är vi den myndighet som godkänner eventuella vacciner–
+
+208
+00:14:24,000 --> 00:14:31,200
+ –och också läkemedel som kan riktas mot det Agens vi pratar om just nu.
+
+209
+00:14:31,200 --> 00:14:37,680
+ Tyvärr har vi i dagsdatum inte något godkänt vaccin–
+
+210
+00:14:37,680 --> 00:14:41,640
+ –men vi utfärdar också läkemedelsbehandlingsrekommendationer.
+
+211
+00:14:41,800 --> 00:14:47,320
+ Vår viktigaste roll just nu är att följa och se till–
+
+212
+00:14:47,320 --> 00:14:53,280
+ –att vi inte får brist på andra essentiella läkemedel–
+
+213
+00:14:53,280 --> 00:14:57,560
+ –än de som riktar sig bara mot just det här viruset.
+
+214
+00:14:57,560 --> 00:15:02,280
+ Då har vi gått igenom, tillsammans på Europanivå–
+
+215
+00:15:02,280 --> 00:15:07,120
+ –med den europeiska läkemedelsmyndigheten, alla centrala läkemedel–
+
+216
+00:15:07,280 --> 00:15:11,720
+ –och vi har också tittat på alla våra nationella läkemedel.
+
+217
+00:15:11,720 --> 00:15:18,200
+ Vi har tittat och jämfört och sett till att det finns utbytbara alternativ.
+
+218
+00:15:18,200 --> 00:15:21,320
+ I dag på morgonen när jag åkte hit–
+
+219
+00:15:21,320 --> 00:15:26,880
+ –så fanns det inga bristsituationer inrapporterande beroende på corona.
+
+220
+00:15:26,880 --> 00:15:30,880
+ Vi för en intensiv diskussion med branschen–
+
+221
+00:15:30,880 --> 00:15:35,720
+ –både generika- och den forskande läkemedelsbranschen–
+
+222
+00:15:35,880 --> 00:15:39,760
+ –att de måste rapportera till oss minst två månader–
+
+223
+00:15:39,760 --> 00:15:43,320
+ –innan man misstänker att man får en bristsituation–
+
+224
+00:15:43,320 --> 00:15:47,600
+ –för att vi till vården ska kunna ge rekommendationer.
+
+225
+00:15:47,600 --> 00:15:53,280
+ Hur kan man hantera om den här produkten inte längre finns tillgänglig?
+
+226
+00:15:53,280 --> 00:15:57,120
+ Men vi kan också använda andra saker.
+
+227
+00:15:57,120 --> 00:16:02,480
+ Det här har vi gjort mot... Tittat på alla produkter som produceras i Kina.
+
+228
+00:16:02,640 --> 00:16:06,600
+ Nu tittar vi på motsvarande sätt på de produkter som produceras i Indien–
+
+229
+00:16:06,600 --> 00:16:13,280
+ –för att vi vill förvissa oss om att vi har kontroll på situationen.
+
+230
+00:16:13,280 --> 00:16:20,000
+ Och som sagt, just nu finns det ingen inrapporterad brist.
+
+231
+00:16:20,000 --> 00:16:29,760
+ Arbetsmiljöverkets roll i detta...
+
+232
+00:16:29,920 --> 00:16:33,160
+ Vi tittar förstås på arbetsmiljö- situationen.
+
+233
+00:16:33,160 --> 00:16:37,960
+ Då har vi direkt den primära effekten, som inte är särskilt stor ännu–
+
+234
+00:16:37,960 --> 00:16:41,040
+ –av själva smittan. Men sen har vi sekundäreffekterna.
+
+235
+00:16:41,040 --> 00:16:45,640
+ Vi kan se att det saknas personal i Kina, vilket inte är nån överraskning.
+
+236
+00:16:45,640 --> 00:16:49,440
+ Det kan betyda att det inte går att ta emot saker på svenska arbetsplatser–
+
+237
+00:16:49,440 --> 00:16:52,480
+ –och det går heller inte att skicka till Kina.
+
+238
+00:16:52,480 --> 00:16:57,160
+ Men det största som vi ser här är egentligen inte nåt sjukdomsutbrott–
+
+239
+00:16:57,320 --> 00:16:59,720
+ –eller frånvaro i svensk personal. Det är oro.
+
+240
+00:16:59,720 --> 00:17:02,640
+ Vad ska hända? Hur påverkar det här min arbetsmiljö?
+
+241
+00:17:02,640 --> 00:17:08,600
+ Vi blir kontaktade av fack, skyddsombud, arbetsgivare.
+
+242
+00:17:08,600 --> 00:17:10,120
+ De ställer de här frågorna.
+
+243
+00:17:10,120 --> 00:17:14,520
+ Och här lutar vi oss väldigt starkt mot våra expertmyndigheter.
+
+244
+00:17:14,520 --> 00:17:16,880
+ Jag vill understryka det här goda samarbetet.
+
+245
+00:17:16,880 --> 00:17:18,840
+ Och förutom mötet vi har haft i dag–
+
+246
+00:17:18,840 --> 00:17:22,880
+ –så har vi även operativa möten som löper på parallellt.
+
+247
+00:17:22,880 --> 00:17:27,080
+ Och sen i vårt uppdrag ligger även, som ni säkert känner till–
+
+248
+00:17:27,240 --> 00:17:30,280
+ –att det finns nåt som heter systematiskt arbetsmiljöarbete.
+
+249
+00:17:30,280 --> 00:17:36,520
+ Det finns en regel som bestämmer vilken skyddsutrustning man ska ha.
+
+250
+00:17:36,520 --> 00:17:41,280
+ Det finns en regel som säger att du måste anmäla till Arbetsmiljöverket–
+
+251
+00:17:41,280 --> 00:17:44,920
+ –om du ska syssla med nåt som betyder smittrisker på arbetsplatsen–
+
+252
+00:17:44,920 --> 00:17:49,520
+ –eller om du ska syssla med GMM eller GMO, genmodifierade organismer.
+
+253
+00:17:49,520 --> 00:17:56,480
+ Så vi har ganska god inblick i vad som händer tillsammans med våra systemyndigheter.
+
+254
+00:17:56,640 --> 00:17:59,040
+ Ja, tack.
+
+255
+00:17:59,040 --> 00:18:04,960
+ Då har vi möjlighet att ställa frågor till hela gänget här samtidigt.
+
+256
+00:18:04,960 --> 00:18:08,560
+ Finns det nån fråga? Där har vi Sveriges Radio.
+
+257
+00:18:08,560 --> 00:18:11,440
+ Hej, Sveriges Radio. En fråga till Läkemedelsverket.
+
+258
+00:18:11,440 --> 00:18:18,720
+ Ni har ju rapporterat om en slags inventering av tillgången på läkemedel.
+
+259
+00:18:18,720 --> 00:18:25,560
+ Som det ser ut nu, hur länge klarar vi oss om det skulle bli stopp i leveranserna?
+
+260
+00:18:25,720 --> 00:18:30,240
+ Det kan jag inte säga. Vi har tittat på varje substans–
+
+261
+00:18:30,240 --> 00:18:38,160
+ –men däremot har vi inte kunnat titta på hur lagerhållningen ser ut i hela ledet.
+
+262
+00:18:38,160 --> 00:18:45,920
+ Vi har tittat på produkter och substanser så att de ska kunna finnas tillgängliga.
+
+263
+00:18:45,920 --> 00:18:49,840
+ Fler frågor? Var det nån till? Ja, där.
+
+264
+00:18:50,000 --> 00:18:56,600
+ Ni kräver att det ska plaggas två månader innan det blir uppståndsvist.
+
+265
+00:18:56,600 --> 00:19:02,000
+ Finns det fördelar att sätta emot?
+
+266
+00:19:02,000 --> 00:19:11,560
+ Ja, idag kan vi naturligtvis påpeka–
+
+267
+00:19:11,560 --> 00:19:15,600
+ –och kväva att de rättar sig.
+
+268
+00:19:15,760 --> 00:19:22,880
+ Vi kommer att använda de verktyg som vi har–
+
+269
+00:19:22,880 --> 00:19:27,840
+ –när det gäller allmän tillsyn när det gäller den frågan.
+
+270
+00:19:27,840 --> 00:19:33,320
+ Fler frågor? Ingen? En följdfråga, då?
+
+271
+00:19:33,320 --> 00:19:37,080
+ Ni skulle titta på läkemedel som kommer från IEU.
+
+272
+00:19:37,080 --> 00:19:40,600
+ Vad är det för läkemedel som kommer därifrån?
+
+273
+00:19:40,760 --> 00:19:46,360
+ Väldigt många läkemedel kommer därifrån.
+
+274
+00:19:46,360 --> 00:19:51,120
+ Vanliga verktabletter, en del antibiotika.
+
+275
+00:19:51,120 --> 00:19:55,000
+ Även de vanligaste som kommer därifrån.
+
+276
+00:19:55,000 --> 00:19:58,560
+ De kommer också från andra länder.
+
+277
+00:19:58,560 --> 00:20:04,400
+ Vi vill förvissa oss om att vi inte drabbas av en brist–
+
+278
+00:20:04,400 --> 00:20:09,800
+ –utifrån att något land får särskilda problem.
+
+279
+00:20:09,960 --> 00:20:17,240
+ Vi går naturligtvis igenom och tittar på–
+
+280
+00:20:17,240 --> 00:20:20,240
+ –vad den aktiva substansen är producerad av.
+
+281
+00:20:20,240 --> 00:20:25,200
+ Var producerar man den själva tabletten och förpackar den?
+
+282
+00:20:25,200 --> 00:20:31,080
+ Och så ser vi var de här substanserna finns producerade–
+
+283
+00:20:31,080 --> 00:20:33,440
+ –på annat ställe i världen.
+
+284
+00:20:33,440 --> 00:20:38,320
+ Om det inte finns någon till fråga, så gör vi oss redo för individuella intervjuer.
+
+285
+00:20:38,480 --> 00:20:41,480
+ Jag avslutar pressträffen. Tack för att ni kom hit.
+

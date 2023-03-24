@@ -1,0 +1,1940 @@
+1
+00:00:00,000 --> 00:00:03,520
+ Med det lämnar jag över ordet till Karin Tegmark-Wiesel.
+
+2
+00:00:03,520 --> 00:00:05,520
+ Tack så mycket.
+
+3
+00:00:05,520 --> 00:00:09,780
+ Då tänkte vi kort sammanfatta läget.
+
+4
+00:00:09,780 --> 00:00:11,780
+ Börja med världsläget.
+
+5
+00:00:11,780 --> 00:00:19,520
+ Ni känner igen kartan som visar fall rapporterade de senaste sju dagarna.
+
+6
+00:00:19,520 --> 00:00:29,280
+ Precis som under de senaste veckorna ser man att det i USA finns en ökning, liksom i Europa.
+
+7
+00:00:29,280 --> 00:00:31,280
+ Det ser olika ut i olika delar av Europa.
+
+8
+00:00:31,280 --> 00:00:37,280
+ Där en del börjar plana ut lite grann, medan andra fortfarande har en ganska kraftig ökning.
+
+9
+00:00:37,280 --> 00:00:41,280
+ Ytterligare länder har klarat sig rätt så väl i spridningen.
+
+10
+00:00:41,280 --> 00:00:49,280
+ Men det finns nu ungefär 1,56 miljoner fall i världen och 95 000 döda.
+
+11
+00:00:49,280 --> 00:00:55,280
+ I Europa är det cirka 700 000 fall och 64 000 döda.
+
+12
+00:00:57,280 --> 00:01:03,280
+ I Sverige fortsätter det rapporteras fall.
+
+13
+00:01:03,280 --> 00:01:11,280
+ Ni vet att vi inte kan dra så stora slutsatser från den fallrapportering som är under de senaste dagarna.
+
+14
+00:01:11,280 --> 00:01:18,280
+ 544 fall har anmälts det senaste dygnet och totalt närmar vi oss 10 000 fall.
+
+15
+00:01:18,280 --> 00:01:22,280
+ 749 personer har vårdats på IVA hittills.
+
+16
+00:01:22,280 --> 00:01:31,280
+ Ni ser i den svarta kurvan i botten på staplarna att det ligger ganska stabilt antalet nya som tas in på IVA.
+
+17
+00:01:31,280 --> 00:01:37,280
+ Som sagt, vi kan inte dra några större slutsatser av den avmattning vi ser i kurvan ännu.
+
+18
+00:01:37,280 --> 00:01:44,280
+ Det är dock bra att det inte sker en kraftig uppgång i de senaste dagarnas rapportering.
+
+19
+00:01:44,280 --> 00:01:52,280
+ Vi får se den kommande veckan, framförallt hur rapporteringen ser ut under helgen, eftersom vi vet att det finns en eftersläpning.
+
+20
+00:01:52,280 --> 00:02:01,280
+ Tittar man på fallen uppdelat på Stockholm och övriga regioner så följer det också fortsatt det mönster som vi har sett de senaste dagarna.
+
+21
+00:02:01,280 --> 00:02:05,280
+ Att det är fortsatt en rapportering av ett stort antal fall i Stockholm.
+
+22
+00:02:05,280 --> 00:02:09,280
+ Och det är Stockholmsfallen som dominerar i landet.
+
+23
+00:02:09,280 --> 00:02:15,280
+ De senaste dagarna har det varit relativt stabil rapportering av nya fall.
+
+24
+00:02:15,280 --> 00:02:20,280
+ Som ligger på en grundläggande hög nivå, så att belastningen är hög.
+
+25
+00:02:20,280 --> 00:02:28,280
+ Tittar man på antalet avlidna per dag så har vi totalt 870 avlidna.
+
+26
+00:02:28,280 --> 00:02:32,280
+ Även här har vi en viss eftersläpning i rapporteringen.
+
+27
+00:02:32,280 --> 00:02:37,280
+ Ni ser ju de tillkommande avlidna fördela sig över den senaste veckan i princip.
+
+28
+00:02:37,280 --> 00:02:40,280
+ Där eftersläpningen synliggörs.
+
+29
+00:02:40,280 --> 00:02:52,280
+ Jag vill påminna om värdet av att plana ut kurvan så att sjukvården ska ha möjlighet att hantera de fall som kommer.
+
+30
+00:02:52,280 --> 00:02:57,280
+ Och att det är otroligt viktigt med de insatser som görs i samhället.
+
+31
+00:02:57,280 --> 00:03:01,280
+ Det är ju hela grunden för hur konsekvenserna sen blir inom hälso- och sjukvården.
+
+32
+00:03:02,280 --> 00:03:07,280
+ Vi rapporterade igår om den undersökning vi hade gjort i Stockholm.
+
+33
+00:03:07,280 --> 00:03:13,280
+ För att titta på antalet som hade en aktiv covid-19 infektion i samhället.
+
+34
+00:03:13,280 --> 00:03:17,280
+ Och rapporterade då att det ligger på ungefär 2,5 procent i Stockholm.
+
+35
+00:03:17,280 --> 00:03:24,280
+ Idag vill vi uppmärksamma på de siffror vi ser i vår influensacentinell övervakning.
+
+36
+00:03:24,280 --> 00:03:28,280
+ Som nu har gått över till att bli en covid-övervakning.
+
+37
+00:03:28,280 --> 00:03:30,280
+ Eftersom influensan har minskat kraftigt.
+
+38
+00:03:30,280 --> 00:03:35,280
+ Det här gäller personer i öppenvården som söker för luftvägssymptom.
+
+39
+00:03:35,280 --> 00:03:42,280
+ Då kunde vi se i vecka 13 men också vecka 12 att det låg på ungefär 7 procent covid-19 fall.
+
+40
+00:03:42,280 --> 00:03:46,280
+ Av de som hade luftvägssymptom och sökte i öppenvården.
+
+41
+00:03:46,280 --> 00:03:51,280
+ Där ser vi en fördubbling mellan vecka 13 och 14.
+
+42
+00:03:51,280 --> 00:03:59,280
+ Att vi under vecka 14 hade 14 procent av de som sökte i öppenvården med luftvägsinfektion som då hade covid-19.
+
+43
+00:03:59,280 --> 00:04:06,280
+ Vi ser också att det är stora regionala skillnader i den här centinellövervakningen.
+
+44
+00:04:06,280 --> 00:04:10,280
+ Som stämmer väl överens med de rapporterade fallen och dödsfallen.
+
+45
+00:04:10,280 --> 00:04:17,280
+ Där man ser att Stockholm och Uppsala har haft högst andel positiva.
+
+46
+00:04:17,280 --> 00:04:25,280
+ Och sen Halland, men däremot Skåne och Västra Götaland har haft en relativt låg andel positiva i centinellövervakningen.
+
+47
+00:04:25,280 --> 00:04:28,280
+ Jämfört med Stockholm och Uppsala.
+
+48
+00:04:28,280 --> 00:04:32,280
+ Flera regioner deltar inte i centinellövervakningen.
+
+49
+00:04:32,280 --> 00:04:36,280
+ Och det är också relativt små tal som deltar i det stora hela.
+
+50
+00:04:36,280 --> 00:04:41,280
+ Så det här är ett mätesystem av många som hjälper oss att följa utvecklingen.
+
+51
+00:04:41,280 --> 00:04:50,280
+ Vi har också nämnt tidigare att vi kan se på de mätningar vi har av andra virala infektioner.
+
+52
+00:04:50,280 --> 00:04:56,280
+ Att de åtgärder som är gjorda i samhället har fått tydliga effekter i den avläsning vi gör.
+
+53
+00:04:56,280 --> 00:05:03,280
+ Den kurvan som är längst upp till vänster visar influensautvecklingen.
+
+54
+00:05:03,280 --> 00:05:09,280
+ Och man ser den nedersta kurvan, som är en turkoskurva, hur den dyker kraftigt efter vecka 12.
+
+55
+00:05:09,280 --> 00:05:15,280
+ Som tecken på att de åtgärder som görs i samhället har effekt på virala luftväxinfektioner.
+
+56
+00:05:15,280 --> 00:05:23,280
+ Vi har också visat i den nedre kurvan, sedan tidigare, konsekvenser på vinterkräkssjukan.
+
+57
+00:05:23,280 --> 00:05:27,280
+ Där man ser staplarna dyker kraftigt för året.
+
+58
+00:05:27,280 --> 00:05:31,280
+ Som också visar en tvärare nedgång än vad vi någonsin haft tidigare.
+
+59
+00:05:31,280 --> 00:05:38,280
+ Vi har kompletterat med RS-virus, som också är en viral luftväxinfektion.
+
+60
+00:05:38,280 --> 00:05:43,280
+ Där ser ni den nedersta blå turkosa kurvan, som också dyker väldigt kraftigt.
+
+61
+00:05:43,280 --> 00:05:50,280
+ Där RS-virus brukar ha en mycket bredare och långsammare nedgång i vanliga fall.
+
+62
+00:05:50,280 --> 00:05:54,280
+ Det är tecken på att de åtgärder som görs har effekter på virala luftväxinfektioner.
+
+63
+00:05:54,280 --> 00:05:59,280
+ Som stärker att vi måste fortsätta hålla i med de insatser som görs idag.
+
+64
+00:05:59,280 --> 00:06:03,280
+ Det som gäller för allmänheten vill vi påminna om.
+
+65
+00:06:03,280 --> 00:06:08,280
+ Är man sjuk med symptom på covid-19, stanna hemma och undvik sociala kontakter.
+
+66
+00:06:08,280 --> 00:06:12,280
+ Här talar vi om väldigt bred symptombild.
+
+67
+00:06:12,280 --> 00:06:15,280
+ Alltifrån luftvägssymptom, som är det vanliga.
+
+68
+00:06:15,280 --> 00:06:18,280
+ Täppt i näsan, snuvig, ont i halsen, hosta.
+
+69
+00:06:18,280 --> 00:06:24,280
+ Men det kan också vara enbart feber, eller illamående, symptom från mag-tarm-kanalen.
+
+70
+00:06:24,280 --> 00:06:27,280
+ Stanna hemma om man upplever någon form av infektion.
+
+71
+00:06:27,280 --> 00:06:33,280
+ Är man över 70 år trycker vi extra.
+
+72
+00:06:33,280 --> 00:06:37,280
+ Här gäller det att stanna hemma och undvika sociala kontakter, oavsett symptombild.
+
+73
+00:06:37,280 --> 00:06:42,280
+ Att man ska vara avskild från andra delar i samhället.
+
+74
+00:06:42,280 --> 00:06:47,280
+ Med att stanna hemma menar vi att man kan gå ut och njuta av den vackra vårsolen.
+
+75
+00:06:47,280 --> 00:06:50,280
+ Men inte umgås inomhus med andra personer.
+
+76
+00:06:50,280 --> 00:06:54,280
+ Inte ge sig av ute i samhället i övrigt, utan hålla sig avskild.
+
+77
+00:06:54,280 --> 00:06:57,280
+ Var och en i Sverige har ett ansvar.
+
+78
+00:06:57,280 --> 00:07:00,280
+ Att förhindra spridning av covid-19.
+
+79
+00:07:00,280 --> 00:07:03,280
+ Vi upprepar, var noggrann med handhygien.
+
+80
+00:07:03,280 --> 00:07:05,280
+ Håll avstånd ute i samhället.
+
+81
+00:07:05,280 --> 00:07:08,280
+ Det gäller särskilt på platser där man ansamlas flera personer.
+
+82
+00:07:08,280 --> 00:07:11,280
+ Restauranger, gym, butiker, bibliotek osv.
+
+83
+00:07:11,280 --> 00:07:16,280
+ Avstå från sociala sammanhang, som fester, dop, begravningar.
+
+84
+00:07:16,280 --> 00:07:19,280
+ Där det finns ett större antal deltagare.
+
+85
+00:07:19,280 --> 00:07:22,280
+ Avstå onödiga resor.
+
+86
+00:07:22,280 --> 00:07:26,280
+ Det sista kan vi inte trycka nog på, nu i samband med påsken som är en stor reshelg.
+
+87
+00:07:26,280 --> 00:07:29,280
+ Res inte till andra delar av landet.
+
+88
+00:07:29,280 --> 00:07:34,280
+ Res inte och besök även i ert närområde era äldre släktingar.
+
+89
+00:07:34,280 --> 00:07:37,280
+ Avstå detta i år.
+
+90
+00:07:37,280 --> 00:07:41,280
+ Då lämnar jag över ordet till Läkemedelsverket.
+
+91
+00:07:41,280 --> 00:07:44,280
+ Eller Socialstyrelsen.
+
+92
+00:07:44,280 --> 00:07:47,280
+ Tack.
+
+93
+00:07:47,280 --> 00:07:49,280
+ God eftermiddag.
+
+94
+00:07:49,280 --> 00:07:55,280
+ Den dagliga nationella lägesrapporten från Socialstyrelsen tänkte jag berätta om.
+
+95
+00:07:55,280 --> 00:08:02,280
+ Sen är vi tillgängliga för att svara på frågor om även läkemedelsfrågan.
+
+96
+00:08:02,280 --> 00:08:07,280
+ Vi brukar rapportera utifrån en femgradig skala.
+
+97
+00:08:07,280 --> 00:08:12,280
+ Vi har insett att vi inte har presenterat vad vi menar när vi säger kritisk och allvarlig.
+
+98
+00:08:12,280 --> 00:08:16,280
+ Och varför den är så oerhört viktig att utgå ifrån.
+
+99
+00:08:16,280 --> 00:08:25,280
+ Och göra en distinktion mellan att någonting är akut eller om det inte är akut.
+
+100
+00:08:25,280 --> 00:08:28,280
+ Den femgradiga skalan är ingenting vi har hittat på själva.
+
+101
+00:08:28,280 --> 00:08:33,280
+ Det är något vi använder inom krisberedskapssystemet och som tagits fram av MSB.
+
+102
+00:08:33,280 --> 00:08:38,280
+ Den går från ingen till måttlig, betydande, allvarlig och kritisk.
+
+103
+00:08:38,280 --> 00:08:45,280
+ Det är i det här läget när vi inte har några stora lager i Sverige som vi hela tiden...
+
+104
+00:08:45,280 --> 00:08:51,280
+ När vi pratar om det här 24-48 timmars perspektivet så pratar vi om det här kritiska behovet.
+
+105
+00:08:51,280 --> 00:08:55,280
+ Det är de som är det här korta tidsperspektivet.
+
+106
+00:08:55,280 --> 00:09:00,280
+ Det är också en skala som vi använder för att titta på påverkan av andra typer av beredskap.
+
+107
+00:09:00,280 --> 00:09:05,280
+ Det är den viktigaste för oss och det är därför Socialstyrelsen oftast är här.
+
+108
+00:09:05,280 --> 00:09:10,280
+ Vi som är arbetspersoner för krisberedskapsenheten eller vi som jobbar med katastrofmedicin.
+
+109
+00:09:10,280 --> 00:09:13,280
+ Det är den katastrofmedicinska beredskapen.
+
+110
+00:09:13,280 --> 00:09:16,280
+ Det är den som vi ständigt ska övervaka.
+
+111
+00:09:16,280 --> 00:09:21,280
+ Det är den vi ständigt ska säkerställa att den håller i och håller ut över tid i landet.
+
+112
+00:09:21,280 --> 00:09:27,280
+ Vi är väldigt glada för vi har haft lite signaler på att den har varit kritiskt påverkad.
+
+113
+00:09:27,280 --> 00:09:33,280
+ Men ingen region rapporterar en kritisk påverkan på katastrofmedicinska beredskapen just nu.
+
+114
+00:09:33,280 --> 00:09:41,280
+ Däremot så har en tredjedel av landets regioner en betydande till allvarlig påverkan.
+
+115
+00:09:41,280 --> 00:09:43,280
+ Vilket är bekymrande.
+
+116
+00:09:43,280 --> 00:09:48,280
+ För precis som Karin beskriver, Folkhälsomyndigheten beskriver, så är det här.
+
+117
+00:09:48,280 --> 00:09:54,280
+ Vi vet fortfarande att det är enorma ansträngningar som ska fortsätta göras med anledning av covid-19.
+
+118
+00:09:54,280 --> 00:10:01,280
+ Men det innebär också att det är den här beredskapen som ska omhänderta resten av sjukvårdsbehoven i regionerna och i landet.
+
+119
+00:10:01,280 --> 00:10:06,280
+ Det är det här vi behöver säkerställa tillsammans nationellt.
+
+120
+00:10:06,280 --> 00:10:12,280
+ Att vi faktiskt håller i och håller ut i hela ledet.
+
+121
+00:10:12,280 --> 00:10:17,280
+ Vårt jobb är att följa, analysera och samordna det här.
+
+122
+00:10:17,280 --> 00:10:21,280
+ Sen kommer det vissa tillkommande uppdrag som regeringen har gett oss.
+
+123
+00:10:21,280 --> 00:10:24,280
+ Här kan vi gå in och förstärka.
+
+124
+00:10:24,280 --> 00:10:35,280
+ Försörjning av skyddsmateriel är ett av de tillkommande uppdragen som vi har arbetat aktivt med under den här händelsen.
+
+125
+00:10:35,280 --> 00:10:43,280
+ Här rapporterar 80% av landet en betydande till allvarlig påverkan.
+
+126
+00:10:43,280 --> 00:10:50,280
+ Och 10%, framförallt en region, har en kritisk påverkan.
+
+127
+00:10:50,280 --> 00:10:58,280
+ Om man utgår från de här kriterierna så ligger inte alla i det här 24-48 timmars perspektivet.
+
+128
+00:10:58,280 --> 00:11:09,280
+ När vi uttalar oss som att vi försöker tillfredsställa det här behovet som är på 24-48 timmar utifrån ett nationellt perspektiv så är det här vi försöker förstärka.
+
+129
+00:11:09,280 --> 00:11:20,280
+ Sen är det upp till regionerna att inom regionen distribuera ut resten av skyddsmateriel till den lokala nivån, dvs sjukhusen eller andra vårdinrättningar.
+
+130
+00:11:20,280 --> 00:11:26,280
+ Lite positiva siffror som ger ett mått på vad vi har fördelat ut.
+
+131
+00:11:26,280 --> 00:11:30,280
+ De här kanske ni har hört tidigare men det kan vara värt att nämna igen.
+
+132
+00:11:30,280 --> 00:11:39,280
+ Vi har fram tills idag fördelat bland annat 370 000 andningsskydd, 350 000 skyddsdräkter, 1,7 miljoner handskar.
+
+133
+00:11:39,280 --> 00:11:49,280
+ Större kvantiteter av tillgång till just handskar och handsprit är säkerställd för ett längre perspektiv än de här 24-48 timmarna.
+
+134
+00:11:49,280 --> 00:11:55,280
+ Det vill säga det här är produkter som vi inte behöver prioritera mellan regioner eller mellan olika behov.
+
+135
+00:11:55,280 --> 00:12:04,280
+ Men det finns fortfarande oerhörda behov som dagligen kommer in där vi faktiskt inte kan möta på längre perspektiv.
+
+136
+00:12:04,280 --> 00:12:16,280
+ Arbetet med att få in just de här produkterna och att vi säkerställer att de håller den kvalitet som de behöver göra är fortfarande en utmaning i den globala bristsituationens områden.
+
+137
+00:12:16,280 --> 00:12:30,280
+ Oaktat hur många samtal, mejl eller signaler i andra forum som florerar om att det finns massa produkter bara myndigheterna gör si eller så.
+
+138
+00:12:30,280 --> 00:12:43,280
+ Så vill jag betona att Socialstyrelsen som kunskapsstyrande myndighet för vård och omsorg har fått det här nationella operativa uppdraget för att komplettera regionerna och kommunernas arbete.
+
+139
+00:12:43,280 --> 00:12:53,280
+ Det vill säga att det är en del som vi inte kan ersätta. Så om det finns andra goda alternativ och andra vägar så är det alldeles utmärkt och Socialstyrelsen står bakom det till 100%.
+
+140
+00:12:53,280 --> 00:12:57,280
+ Vårt arbete går ut på att komplettera, inte konkurrera.
+
+141
+00:12:57,280 --> 00:13:01,280
+ Kontrakt skrivs på, inköps görs kontinuerligt.
+
+142
+00:13:01,280 --> 00:13:06,280
+ Jag tror att Johanna nämnde att vi är nu uppe i en summa av drygt en miljard.
+
+143
+00:13:06,280 --> 00:13:18,280
+ Det innefattar inte bara skyddsmateriel, det är också medicinsktekniskt utrustning, bland annat 800 respiratorer och annan nödvändig medicinsktekniskt utrustning.
+
+144
+00:13:18,280 --> 00:13:27,280
+ EU-upphandlingen är nu äntligen också i en avropsfas så förhoppningsvis kommer in material även ur den upphandlingsprocessen.
+
+145
+00:13:27,280 --> 00:13:39,280
+ Disponibla intensivvårdsplatser ökar kontinuerligt. Det är en 1-3%-ökning per dag den senaste veckan.
+
+146
+00:13:39,280 --> 00:13:47,280
+ Den senaste siffran som jag har med mig idag är 1 001 disponibla intensivvårdsplatser.
+
+147
+00:13:47,280 --> 00:13:59,280
+ Det är ett bevis på att det dagligen bedrivs det här enorma omställningsarbetet i sjukvården som vi har pratat om.
+
+148
+00:13:59,280 --> 00:14:14,280
+ Ett nödvändigt sånt, och det här pågår i en takt som gör att Sverige även idag har cirka 20% icke-belagda platser för vård av de här som är mest kritiskt sjuka.
+
+149
+00:14:14,280 --> 00:14:21,280
+ 469 patienter med covid-19 intensivvårdas idag.
+
+150
+00:14:21,280 --> 00:14:27,280
+ Och återigen när jag säger idag så är det gårdagskvällens siffror för det är den laggen vi har i de här siffrorna.
+
+151
+00:14:27,280 --> 00:14:37,280
+ Det här är drygt 100 fler patienter än det antal som vårdades inom intensivvården för en vecka sedan.
+
+152
+00:14:37,280 --> 00:14:45,280
+ Det här som ni känner till så är de här dagliga rapporten ganska nya för oss.
+
+153
+00:14:45,280 --> 00:14:52,280
+ Så att göra kalkyler på vad det här innebär på sikt måste vi säga samma sak som Folkets myndighet.
+
+154
+00:14:52,280 --> 00:14:59,280
+ Vi måste få in mer data innan vi kan se om det här faktiskt betyder att vi är på väg upp och vilken takt vi är och var på pucken vi är.
+
+155
+00:14:59,280 --> 00:15:09,280
+ Det enda jag kan säga är att även om ökningen av antalet disponibla platser nu ännu är i takt ur ett nationellt perspektiv.
+
+156
+00:15:09,280 --> 00:15:18,280
+ Så måste vi också gemensamt med vårdgivarna, det vill säga regionerna säkerställa att de disponibla vårdplatserna just nyttjas nationellt.
+
+157
+00:15:18,280 --> 00:15:31,280
+ Om det blir olika fördelningar och olika belastningar i olika regioner så måste vi se till att både resurser, personal, skyddsmateriel och utrustning finns på rätt plats vid rätt tid.
+
+158
+00:15:31,280 --> 00:15:45,280
+ Det här arbetet parallellt med fortsatt säkerställning av material och att de når de med dokumenterat störst behov som kommer vara prioriterat under den här helgen och under nästa vecka.
+
+159
+00:15:45,280 --> 00:15:50,280
+ Eller ja, fram tills vi ses igen. Tack!
+
+160
+00:15:53,280 --> 00:16:05,280
+ Varje vecka tar Myndigheten för samhällsskydd och beredskap fram en lägesbild som bygger på rapportering från länsstyrelserna och ett tjugotal nationella myndigheter.
+
+161
+00:16:05,280 --> 00:16:19,280
+ I den här lägesbilden identifierar MSB konsekvenser för samhället som helhet av covid-19 och pekar på gemensamma utmaningar för ansvariga aktörer och på behov av ytterligare åtgärder.
+
+162
+00:16:19,280 --> 00:16:28,280
+ Alla regioner och väldigt många kommuner har ett ansträngt läge, har Socialstyrelsen precis berättat om.
+
+163
+00:16:28,280 --> 00:16:39,280
+ Men den här pandemin får också återverkningar i många fler delar av samhället än hälso, sjukvården och omsorgen.
+
+164
+00:16:39,280 --> 00:16:52,280
+ Det handlar bland annat om personalbrist som kan uppstå när många är sjuka samtidigt och brist på resurser som kan uppstå när produktion och varuflöden störs på olika sätt.
+
+165
+00:16:52,280 --> 00:17:05,280
+ På det här sättet kan vår infrastruktur påverkas, till exempel vår e-försörjning, elektroniska kommunikationer eller transporter.
+
+166
+00:17:05,280 --> 00:17:20,280
+ Den här lägesbilden som vi gör varje vecka ger oss en överblick över hur covid-19 påverkar, inte bara samhällsviktig verksamhet utan också liv och hälsa och våra grundläggande värden, så vår demokrati.
+
+167
+00:17:20,280 --> 00:17:27,280
+ Den är viktig för att vi ska kunna följa hur pandemin påverkar hela vårt samhälle.
+
+168
+00:17:27,280 --> 00:17:38,280
+ Om man jämför med förra veckan så är läget för samhällsviktig verksamhet relativt stabilt jämfört med förra veckan.
+
+169
+00:17:38,280 --> 00:17:51,280
+ Det går att se en tendens mot en något ökad påverkan till följd av pandemin och framförallt den regionala nivån som rapporterar en ökad belastning.
+
+170
+00:17:51,280 --> 00:18:01,280
+ För de flesta samhällsviktiga verksamheter, förutom hälso- och sjukvården, är påverkan än så länge måttlig.
+
+171
+00:18:01,280 --> 00:18:07,280
+ De flesta ligger på en tvåa på den här skalan som Tahaha beskrev.
+
+172
+00:18:07,280 --> 00:18:17,280
+ Det är alltså en femgradig skala där två betyder att verksamheten fortfarande i stort fungerar enligt plan men att den är ansträngd.
+
+173
+00:18:17,280 --> 00:18:25,280
+ Påverkan varierar mellan och inom sektorer och det finns delar av rektorer som är allvarligt påverkade.
+
+174
+00:18:25,280 --> 00:18:31,280
+ Därför vill vi på MSB betona några saker ytterligare.
+
+175
+00:18:31,280 --> 00:18:48,280
+ Aktörer med ansvar för samhällsviktig verksamhet bör ta höjd för ytterligare iom prioriteringar och åtgärder för att skapa uthållighet i personalförsörjning i takt med att smittspridningen nu kan komma att öka i flera delar av landet.
+
+176
+00:18:48,280 --> 00:19:03,280
+ Jag vill påminna om samordningsfunktionen för de 18 frivilliga försvarsorganisationerna som jag berättade om igår och som kan bidra med kritisk personalförsörjning.
+
+177
+00:19:03,280 --> 00:19:16,280
+ Vi ser också att behovet av att kunna prioritera och omfördela bl.a. skyddsutrustning inom och mellan andra sektorer än hälso- och sjukvården ökar.
+
+178
+00:19:16,280 --> 00:19:23,280
+ Det här rör till exempel kriminalvården, polisen och räddningstjänsten.
+
+179
+00:19:23,280 --> 00:19:30,280
+ Där covid-19 har inneburit att det finns ett ökat behov av skyddsutrustning jämfört med normalfallet.
+
+180
+00:19:30,280 --> 00:19:41,280
+ Men också sektorer som livsmedels- och jordbruksförsörjningen där det alltid finns ett behov av skyddsutrustning för att de sektorerna ska fungera.
+
+181
+00:19:41,280 --> 00:19:47,280
+ Här finns en etablerad dialog mellan ansvariga aktörer på nationell nivå.
+
+182
+00:19:47,280 --> 00:19:56,280
+ Arbetet mellan att inventera behov och genomföra konsekvensanalyser av omfördelningar kommer att behöva intensifieras.
+
+183
+00:19:56,280 --> 00:20:07,280
+ Vi ser också att det finns ett fortsatt behov av ytterligare ansträngningar för att nå ut med viktig information till alla i vårt samhälle.
+
+184
+00:20:07,280 --> 00:20:19,280
+ Det finns fortfarande brister här i kombination med att det sprids en hel del desinformation, hotar liv och hälsa och kan också förhindra en effektiv hantering.
+
+185
+00:20:19,280 --> 00:20:32,280
+ Vi kan inte nog stämma in i den här vädjan till alla att verkligen fortsätta att följa myndigheternas råd och rekommendationer.
+
+186
+00:20:32,280 --> 00:20:49,280
+ Sist här vill jag nämna en fråga som vi lyfte i förra veckans lägesbild, nämligen den ökade efterfrågan på vissa läkemedel i kombination med att störningar i produktion och transportflöden ökar risken för en framtida bristsituation.
+
+187
+00:20:49,280 --> 00:20:57,280
+ Det pågår nu ett gemensamt arbete för att stärka tillgången till läkemedel i Sverige med anledning av covid-19.
+
+188
+00:20:57,280 --> 00:21:06,280
+ Här arbetar bland annat Läkemedelsverket och Socialstyrelsen tillsammans med tillverkare, distributörer och apotek.
+
+189
+00:21:06,280 --> 00:21:15,280
+ MSB håller ihop det här arbetet och därför är Läkemedelsverket med oss här idag och kommer berätta mer om den här frågan.
+
+190
+00:21:15,280 --> 00:21:17,280
+ Nu vill jag lämna över ordet till dig Maja.
+
+191
+00:21:17,280 --> 00:21:19,280
+ Tack så mycket.
+
+192
+00:21:19,280 --> 00:21:26,280
+ Då ska jag börja med att vara lite pedagogisk innan jag går in på frågorna om vad vi ser risk för brist.
+
+193
+00:21:26,280 --> 00:21:30,280
+ Läkemedelsförsörjningen till att börja med är en väldigt komplex kedja.
+
+194
+00:21:30,280 --> 00:21:40,280
+ Det finns ingen aktör, vare sig Läkemedelsverket eller någon annan, som har en komplett bild över läget eller lagerstatus.
+
+195
+00:21:40,280 --> 00:21:53,280
+ Läkemedelstillverkare är skyldiga att anmäla så kallade restnoteringar till Läkemedelsverket när de bedömer att de inte kan tillhandahålla ett läkemedel till den svenska marknaden.
+
+196
+00:21:53,280 --> 00:21:59,280
+ Men en restnotering, och det är viktigt, betyder inte nödvändigtvis att det är en bristsituation.
+
+197
+00:21:59,280 --> 00:22:04,280
+ Eftersom de förpackningar som redan finns ute i systemet mycket väl kan räcka en längre tid.
+
+198
+00:22:04,280 --> 00:22:13,280
+ Det kan också finnas olika förpackningsstorlekar, styrkor eller att ett annat företag levererar samma läkemedel.
+
+199
+00:22:13,280 --> 00:22:29,280
+ Det kan vara så att ett visst läkemedel tas ut i en apotekshylla eller en vårdinrättningsförråd, utan att det för den skull råder en generell brist.
+
+200
+00:22:29,280 --> 00:22:37,280
+ Vi förstår naturligtvis att det kan vara ett väldigt besvärligt läge i alla fall för den apotek eller vårdinrättning som det drabbar.
+
+201
+00:22:37,280 --> 00:22:42,280
+ Men det är viktigt att skilja på om det är en generell brist eller en lokal brist.
+
+202
+00:22:42,280 --> 00:22:51,280
+ Generellt är tillgången till läkemedel i Sverige god idag, men vi ser risk för brist på vissa läkemedel.
+
+203
+00:22:51,280 --> 00:22:56,280
+ Då gäller det framförallt läkemedel som man använder inom intensivvården.
+
+204
+00:22:56,280 --> 00:23:07,280
+ Då handlar det om till exempel narkosmedel, antibiotika, olika infusionsvätskor eller till exempel smärtlindrande behandling.
+
+205
+00:23:07,280 --> 00:23:12,280
+ Oftast i regeringsformer som vi inte använder som privatpersoner.
+
+206
+00:23:12,280 --> 00:23:16,280
+ Vad görs då åt detta?
+
+207
+00:23:16,280 --> 00:23:22,280
+ Vi stämmer dagligen av, som du var inne på, med företag och distributörer.
+
+208
+00:23:22,280 --> 00:23:30,280
+ Vi jobbar mycket med regionerna, SKR och våra systemyndigheter för att se vad som kan göras.
+
+209
+00:23:30,280 --> 00:23:36,280
+ Vi har särskild gruppering som har fokus på läkemedelstillgängligheten som vi jobbar i.
+
+210
+00:23:36,280 --> 00:23:45,280
+ Under förra veckan arbetade vi tillsammans med SKR för att stötta regionerna i att åstadkomma ett snabbt och effektivt sätt
+
+211
+00:23:45,280 --> 00:23:51,280
+ att hantera nationella inköp av läkemedel för de ökande behov som vården står inför.
+
+212
+00:23:51,280 --> 00:23:55,280
+ Den modellen sköts att dess i fredags.
+
+213
+00:23:55,280 --> 00:24:01,280
+ Läkemedelsverket arbetade också för att begränsa möjligheten till onödigt stora uttag av läkemedel.
+
+214
+00:24:01,280 --> 00:24:09,280
+ Först i frivillig samverkan med apoteken och sedan i form av en hemställning till regeringen och ett regeringsbeslut.
+
+215
+00:24:09,280 --> 00:24:15,280
+ Det var för att förhindra att hamstring av läkemedel i sig skapar bristsituationer.
+
+216
+00:24:15,280 --> 00:24:24,280
+ Under den veckan som vi nu snart har bakom oss har vår fokus bland annat legat på den risk vi ser för brist av narkosmedlen
+
+217
+00:24:24,280 --> 00:24:28,280
+ som också har signalerats, i synnerhet från region Stockholm.
+
+218
+00:24:28,280 --> 00:24:31,280
+ Vi har vidtagit en rad åtgärder.
+
+219
+00:24:31,280 --> 00:24:38,280
+ Läkemedelsverket kommer att tillåta att läkemedel innehållande Propofol, som är en aktuell substans,
+
+220
+00:24:38,280 --> 00:24:42,280
+ skickas och omfördelas direkt mellan vårdinrättningar.
+
+221
+00:24:42,280 --> 00:24:51,280
+ Vi har också kommunicerat möjligheten att använda ett veterinärt läkemedel, en veterinär formulering, till människa.
+
+222
+00:24:51,280 --> 00:25:01,280
+ Allmänt sett ställs samma krav på kvalitet till veterinära läkemedel och läkemedel som ska användas på människa.
+
+223
+00:25:01,280 --> 00:25:10,280
+ Vi har också beviljat en dispans av ett stort parti med Propofol med utländsk förpackning.
+
+224
+00:25:10,280 --> 00:25:15,280
+ Att bevilja dispans för utländska förpackningar görs väldigt mycket och ofta.
+
+225
+00:25:15,280 --> 00:25:21,280
+ Men det här var ett särskilt stort parti av just detta läkemedel som nyligen gick igenom.
+
+226
+00:25:21,280 --> 00:25:31,280
+ Jag vill sluta med att påminna om att vi hela tiden på Läkemedelsverket behöver balansera viljan att hitta vägar,
+
+227
+00:25:31,280 --> 00:25:40,280
+ ibland nya och ovana, med vårt viktiga uppdrag att värna patientsäkerheten genom tillgång till säkra och effektiva läkemedel.
+
+228
+00:25:40,280 --> 00:25:42,280
+ Tack!
+
+229
+00:25:44,280 --> 00:25:46,280
+ Då öppnar vi upp för frågor.
+
+230
+00:25:46,280 --> 00:25:55,280
+ Hej Jonas, det är Saif from DN. Jag har en fråga till dig Karin.
+
+231
+00:25:55,280 --> 00:26:05,280
+ Svenskarna har både berömts och fått kritik för sin följsamhet vad gäller rekommendationer från Folkhälsomyndigheten och regeringen.
+
+232
+00:26:05,280 --> 00:26:11,280
+ Igår till exempel varnade Mikael Damberg för att han inte ville se folk sitta på fulla uteserveringar.
+
+233
+00:26:11,280 --> 00:26:19,280
+ Jag försöker få grepp om hur bedömer ni svenskarnas följsamhet i den här krisen?
+
+234
+00:26:19,280 --> 00:26:23,280
+ Får ni gehör för de rekommendationer som ni ger, tycker du?
+
+235
+00:26:23,280 --> 00:26:28,280
+ De rapporter vi får från regionerna så överlag finns det en god följsamhet.
+
+236
+00:26:28,280 --> 00:26:32,280
+ Men det finns områden där vi får återkoppling att följsamheten har brustit.
+
+237
+00:26:32,280 --> 00:26:43,280
+ Det är bland annat det du nämner, att det har förekommit restauranger med mera, där det har funnits en stor andel människor där det är tveksamt om man följer rekommendationen.
+
+238
+00:26:43,280 --> 00:26:54,280
+ Där är det upp till smittskyddsläkaren i varje region att se om det finns skäl till att utöver återkoppla vad man bör justera.
+
+239
+00:26:54,280 --> 00:27:00,280
+ Om det inte finns en följsamhet i det, att man också kan stänga ner en verksamhet.
+
+240
+00:27:00,280 --> 00:27:07,280
+ Jag tänker samma sak kring påskresandet. Det var ju köer ut ur Stockholm igår, till exempel.
+
+241
+00:27:07,280 --> 00:27:12,280
+ Vilket skulle indikera att gehöret inte är så bra.
+
+242
+00:27:12,280 --> 00:27:19,280
+ Vad är din kommentar på just såna här koncentrerade tider? Påskresandet, till exempel.
+
+243
+00:27:19,280 --> 00:27:27,280
+ Vi får ju utvärdera efter påskhelgen, men just att det är köer utifrån Stockholm behöver ju nödvändigtvis inte betyda att man reser till andra delar av landet.
+
+244
+00:27:27,280 --> 00:27:33,280
+ Eftersom väldigt många stockholmare har ett fritidshus i närområdet.
+
+245
+00:27:33,280 --> 00:27:40,280
+ Men vi får helt enkelt följa upp i efterhand och se vad det finns för indikationer på att man inte har följt.
+
+246
+00:27:40,280 --> 00:27:44,280
+ Men vi vill verkligen värna till alla att tänk efter nu ordentligt.
+
+247
+00:27:44,280 --> 00:27:48,280
+ Ska du resa någonstans så ska det vara väldigt genomtänkt.
+
+248
+00:27:48,280 --> 00:27:55,280
+ Man ska inte besöka äldre och man ska inte umgås med befolkningen dit man kommer om man lämnar regionen.
+
+249
+00:27:55,280 --> 00:27:59,280
+ Men det kan ju finnas situationer att man kanske behöver resa någonstans av olika skäl.
+
+250
+00:27:59,280 --> 00:28:05,280
+ Men man ska noga tänka igenom sin resa och vi ser ju helst att man inte reser utifrån regionen.
+
+251
+00:28:05,280 --> 00:28:18,280
+ Niklas Svan på TT till Folkhälsomyndigheten. Jag tänkte bara att du tog upp de regionala skillnaderna i sentinellövervakningen.
+
+252
+00:28:18,280 --> 00:28:22,280
+ Vad beror de stora skillnaderna på?
+
+253
+00:28:22,280 --> 00:28:30,280
+ Vi kan ju spekulera till viss del beroende på när resandet var som störst i landet.
+
+254
+00:28:30,280 --> 00:28:33,280
+ När vi uppfattar att smittan kom till landet.
+
+255
+00:28:33,280 --> 00:28:41,280
+ Då vet vi ju att Mälardalen men också delar norr om Mälardalen hade sportlov vecka 9.
+
+256
+00:28:41,280 --> 00:28:44,280
+ Det var säkert olyckligt då att det var ett stort resande.
+
+257
+00:28:44,280 --> 00:28:49,280
+ Inte bara till skidanläggningar men mera i Alperna utan också andra delar av Europa inte minst.
+
+258
+00:28:49,280 --> 00:28:53,280
+ Där vi då inte hade fått några rapporter om pågående smittspridning.
+
+259
+00:28:53,280 --> 00:29:05,280
+ Så att det var ett uttalat resande under sportlovet är en möjlig förklaring till varför man fick in fler fall i de regioner som vi nu ser har drabbats som mest.
+
+260
+00:29:05,280 --> 00:29:12,280
+ Sen så kan det vara situationer så som att det har kommit in i sårbara grupper där det har blivit en mer omfattande smittspridning.
+
+261
+00:29:12,280 --> 00:29:22,280
+ Sen tänkte jag bara fråga gällande Anthony Fauci som är chef för USAs institut för infektionssjukdomar.
+
+262
+00:29:22,280 --> 00:29:30,280
+ Han pratar om vad man skulle kunna göra eller vad man behöver behålla trots att situationen lugnar ner sig i antalet smittfall.
+
+263
+00:29:30,280 --> 00:29:37,280
+ Han menar att det vore jättebra om vi kan upprätthålla den här goda handhygienen som vi har nu.
+
+264
+00:29:37,280 --> 00:29:42,280
+ Till exempel för att minska infektioner i stort också.
+
+265
+00:29:42,280 --> 00:29:48,280
+ Men en sak som han inte tycker att vi borde återuppta då är handskakningar.
+
+266
+00:29:48,280 --> 00:29:52,280
+ Vad säger du om det?
+
+267
+00:29:52,280 --> 00:29:56,280
+ Det finns många olika perspektiv på den frågan.
+
+268
+00:29:56,280 --> 00:30:01,280
+ Och också värdet av att faktiskt ha infektioner i en viss tid i livet.
+
+269
+00:30:01,280 --> 00:30:05,280
+ Så jag tycker inte att det är så lätt att bara säga att man ska upphöra med handskakningar.
+
+270
+00:30:05,280 --> 00:30:08,280
+ Men fortsätt tänka på sårbara grupper.
+
+271
+00:30:08,280 --> 00:30:12,280
+ Det finns mycket som talar för att det är ett värde att ha vissa infektioner tidigt i livet.
+
+272
+00:30:12,280 --> 00:30:15,280
+ Det är möjligt att covid-19 kommer att vara en sådan infektion.
+
+273
+00:30:15,280 --> 00:30:19,280
+ Där det snarare är en fördel att ha haft mycket infektioner tidigt i livet.
+
+274
+00:30:19,280 --> 00:30:22,280
+ Lite för tidigt att dra så säkra slutsatser.
+
+275
+00:30:22,280 --> 00:30:27,280
+ Men vi får väl beakta och se om det finns skäl att undvika handskakningar även i framtiden.
+
+276
+00:30:27,280 --> 00:30:31,280
+ Men definitivt är man sjuk.
+
+277
+00:30:31,280 --> 00:30:36,280
+ Särskilt om man tillhör en äldre riskgrupp så ska man undvika täta kontakter.
+
+278
+00:30:36,280 --> 00:30:42,280
+ Nu med covid-19 men också i framtiden för att inte sprida sjukdomar till de som tillhör riskgrupper på olika sätt.
+
+279
+00:30:42,280 --> 00:30:47,280
+ Jag har en fråga till Karin Tegmark-Dessel.
+
+280
+00:30:47,280 --> 00:30:51,280
+ Jag vet inte om du läste artikeln i DN idag om den här festen den 7 april.
+
+281
+00:30:51,280 --> 00:30:56,280
+ Där 70 misstänks av att ha blivit smittade av 100 i covid-19 liknande symptom.
+
+282
+00:30:56,280 --> 00:30:59,280
+ För det första, är det en fest ni känner till?
+
+283
+00:30:59,280 --> 00:31:03,280
+ Nej, jag läste för första gången om det i tidningsartikeln i morse.
+
+284
+00:31:03,280 --> 00:31:08,280
+ Finns det risk att man har underskattat samhällssmittan över tiden för den?
+
+285
+00:31:08,280 --> 00:31:11,280
+ Och att den kunde starta tidigare?
+
+286
+00:31:11,280 --> 00:31:15,280
+ Vi har ju inga indikationer på att det skulle ha startat så mycket tidigare.
+
+287
+00:31:15,280 --> 00:31:22,280
+ Vi gick ut med att säga att det kunde uppstå smitttillfällen med grupper kring individer.
+
+288
+00:31:22,280 --> 00:31:27,280
+ Att det var personer som var smittade och att det kunde uppstå situationer runt omkring dem.
+
+289
+00:31:27,280 --> 00:31:30,280
+ Det fanns en medvetenhet kring det.
+
+290
+00:31:30,280 --> 00:31:34,280
+ Sen hade vi inte riktigt koll på hur omfattande det fanns.
+
+291
+00:31:34,280 --> 00:31:38,280
+ Det beskrevs i artikeln att det var en person som själv inte hade varit utlandsresa.
+
+292
+00:31:38,280 --> 00:31:42,280
+ Utan uppenbarligen hade blivit smittad i landet så som det lades fram.
+
+293
+00:31:42,280 --> 00:31:44,280
+ Det får vi se i efterhand nu.
+
+294
+00:31:44,280 --> 00:31:50,280
+ Vi kommer att titta på antikroppsnivåer för att få en förståelse av hur genetiken och utvecklingen av sjukdomen har varit.
+
+295
+00:31:50,280 --> 00:31:56,280
+ Efter den här festen reste de här festdeltagarna utomlands och till olika delar av Sverige.
+
+296
+00:31:56,280 --> 00:32:01,280
+ Är det möjligt att man borde ha infört restriktioner tidigare än vi gjorde?
+
+297
+00:32:01,280 --> 00:32:05,280
+ Det är lätt att se i efterhand vad vi skulle ha gjort.
+
+298
+00:32:05,280 --> 00:32:08,280
+ Det här var ett exempel på en väldigt olycklig omständighet.
+
+299
+00:32:08,280 --> 00:32:15,280
+ Det var ett antal personer som dels hade varit utorest och några som inte hade varit utorest som var sjuka.
+
+300
+00:32:15,280 --> 00:32:20,280
+ Vi får väl titta i efterhand och se om det hade kunnat gjorts något tidigare.
+
+301
+00:32:20,280 --> 00:32:22,280
+ Just nu är det svårt att ha gjort på ett annat sätt.
+
+302
+00:32:22,280 --> 00:32:25,280
+ Det här stärker de rekommendationer som finns nu.
+
+303
+00:32:25,280 --> 00:32:31,280
+ Det vill säga att inte utoresa, inte ha fester med mera, se till att ha en riktigt god hygien.
+
+304
+00:32:31,280 --> 00:32:39,280
+ För det som beskrevs var det just att det var tätt omgänge, en stor grupp av personer som vi nu säger är olämpliga.
+
+305
+00:32:39,280 --> 00:32:42,280
+ Magnus Lilje, Sjöldekot, Sveriges Radio.
+
+306
+00:32:42,280 --> 00:32:46,280
+ Jag funderar på det här som ni pratade om häromdagen.
+
+307
+00:32:46,280 --> 00:32:53,280
+ Ni pratade om det här med restauranger och kaféer och att det är viktigt att folk inte samlas så mycket som de gör.
+
+308
+00:32:53,280 --> 00:32:58,280
+ Den kontrollen ska jag förstå att det sker på lokal nivå i kommuner.
+
+309
+00:32:58,280 --> 00:33:09,280
+ Men det är väl angeläget att det snabbt får kunskap där det brister och att man agerar på de ställen där det är väldigt tätt.
+
+310
+00:33:09,280 --> 00:33:11,280
+ I bardiskar och på kaféer.
+
+311
+00:33:11,280 --> 00:33:15,280
+ Hur försäkrar ni om att det blir verkstad så snabbt som möjligt?
+
+312
+00:33:15,280 --> 00:33:17,280
+ Hur ser logistiken ut där?
+
+313
+00:33:17,280 --> 00:33:20,280
+ Det är på regional nivå som det här regleras.
+
+314
+00:33:20,280 --> 00:33:27,280
+ Det finns ett ansvar både hos den som har ett kafé eller en restaurang men också hos allmänheten.
+
+315
+00:33:27,280 --> 00:33:31,280
+ Att beakta sitt ansvar i det här, att inte gå in på en restaurang där det är många personer.
+
+316
+00:33:31,280 --> 00:33:33,280
+ Vi talade om att det var på regional nivå.
+
+317
+00:33:33,280 --> 00:33:42,280
+ Det är den regionala smittskyddsläkaren som får återkoppling till sig och som kan ta beslut om rekommendationer eller stänga av.
+
+318
+00:33:42,280 --> 00:33:49,280
+ Vi har dagliga möten med de regionala smittskyddsläkare för att fånga upp vad de har för signaler runt om i landet.
+
+319
+00:33:49,280 --> 00:33:51,280
+ Det är det sättet vi får återkoppling.
+
+320
+00:33:51,280 --> 00:33:57,280
+ På hur många håll sker det här redan nu?
+
+321
+00:33:57,280 --> 00:34:01,280
+ Sker det i alla regioner eller rullas det ut så småningom?
+
+322
+00:34:01,280 --> 00:34:02,280
+ Eller är det upp till varje region?
+
+323
+00:34:02,280 --> 00:34:08,280
+ Det är upp till varje region men den återkoppling vi har fått har varit från vissa regioner.
+
+324
+00:34:08,280 --> 00:34:10,280
+ Vi får också privatpersoner som hör av sig till oss.
+
+325
+00:34:10,280 --> 00:34:19,280
+ Att smittskyddsläkarna redan nu har uppmärksammats på det här och gör interventioner, det känner vi till.
+
+326
+00:34:19,280 --> 00:34:26,280
+ Men vi har ingen statistik kring exakt hur många interventioner som görs i olika regioner.
+
+327
+00:34:26,280 --> 00:34:32,280
+ Det får vi väl följa upp kommande veckan och se hur man har jobbat i de olika regionerna.
+
+328
+00:34:32,280 --> 00:34:34,280
+ Så än så länge finns det inga slutsatser?
+
+329
+00:34:34,280 --> 00:34:36,280
+ Det finns inga siffror eller något sånt.
+
+330
+00:34:36,280 --> 00:34:38,280
+ Nej.
+
+331
+00:34:38,280 --> 00:34:45,280
+ Jag har också en fråga till dig Karin.
+
+332
+00:34:45,280 --> 00:34:48,280
+ Fanny Westling på Aftonbladet heter jag också.
+
+333
+00:34:48,280 --> 00:34:56,280
+ En amerikansk doktor har nu sagt att den vanligaste dödsorsaken där är corona.
+
+334
+00:34:56,280 --> 00:35:03,280
+ Om man tittar på här i Sverige, om jag förstår det heller rätt, så är den vanligaste dödsorsaken hjärt- och kärlsjukdomar.
+
+335
+00:35:03,280 --> 00:35:07,280
+ Där det dör ungefär 30 000 om året, vilket skulle vara runt 80 per dag.
+
+336
+00:35:07,280 --> 00:35:12,280
+ Skulle man kunna säga någonting eller dra liknande slutsatser i Sverige just nu?
+
+337
+00:35:12,280 --> 00:35:15,280
+ Jag har inte de siffrorna så jag kan inte uttala mig om det.
+
+338
+00:35:15,280 --> 00:35:17,280
+ Jag vet inte om du har ta hörn?
+
+339
+00:35:17,280 --> 00:35:19,280
+ Jag har inte heller dem.
+
+340
+00:35:19,280 --> 00:35:23,280
+ Vi kan ta med oss den frågan och svara med rätt kompetens.
+
+341
+00:35:23,280 --> 00:35:30,280
+ Skulle man kunna säga någonting om hur många det är som av de som dör i corona nu rapporteras in i statistiken.
+
+342
+00:35:30,280 --> 00:35:40,280
+ Hur många av dem har dött av corona eller covid-19 som anledning, så att säga.
+
+343
+00:35:40,280 --> 00:35:42,280
+ Som en primär orsak.
+
+344
+00:35:42,280 --> 00:35:47,280
+ Exakt. Och hur många har en annan sjukdom och har snarare haft corona samtidigt.
+
+345
+00:35:47,280 --> 00:35:51,280
+ Det vi får titta på sen är om det finns en överdödlighet.
+
+346
+00:35:51,280 --> 00:35:56,280
+ Att jämföra med tidigare år, precis som du är inne på, så dör människor varje dag.
+
+347
+00:35:56,280 --> 00:36:02,280
+ Det är ett ganska stort antal. Då får man titta på statistiken och se hur stor överdödligheten ser ut.
+
+348
+00:36:02,280 --> 00:36:08,280
+ Det gör vi under influensasäsongen också, där vi har rapporter om de faktiska influensafallen.
+
+349
+00:36:08,280 --> 00:36:12,280
+ Som kan jämföras med idag, där vi har de faktiska covid-fallen.
+
+350
+00:36:12,280 --> 00:36:15,280
+ Sen tittar vi också på antalet rapporterade döda.
+
+351
+00:36:15,280 --> 00:36:18,280
+ Hur stor är överdödligheten under den här perioden?
+
+352
+00:36:18,280 --> 00:36:22,280
+ På sikt kommer vi kunna ha den typen av data.
+
+353
+00:36:25,280 --> 00:36:29,280
+ Vad jag förstår så krånglar videon lite grann.
+
+354
+00:36:29,280 --> 00:36:32,280
+ Men jag tror att Anders Tegnell finns med på ljud och kan höra oss.
+
+355
+00:36:32,280 --> 00:36:34,280
+ Så om det är någon som har en fråga till honom?
+
+356
+00:36:34,280 --> 00:36:46,280
+ Jag bara undrar, finns det det här med att man bär på ett virus i fem dagar,
+
+357
+00:36:46,280 --> 00:36:48,280
+ som kom ut på presskonferensen igår?
+
+358
+00:36:48,280 --> 00:36:51,280
+ Jag vet inte om Tegnell ska svara på det, eller du Karin Tegnell?
+
+359
+00:36:51,280 --> 00:36:54,280
+ Vad innebär det? Innebär det att man är sjuk i fem dagar?
+
+360
+00:36:54,280 --> 00:36:57,280
+ Innebär det att man kan smitta i fem dagar?
+
+361
+00:36:57,280 --> 00:37:04,280
+ Det vi menar med det är att när man har haft en mild infektion,
+
+362
+00:37:04,280 --> 00:37:10,280
+ så ser man att nivåerna av odlingsbart virus sjunker väldigt kraftigt efter fem dagar.
+
+363
+00:37:10,280 --> 00:37:12,280
+ Det finns rapporter som visar det.
+
+364
+00:37:12,280 --> 00:37:19,280
+ Virus är i princip en död partikel, som kräver att finnas i våra celler
+
+365
+00:37:19,280 --> 00:37:21,280
+ för att föröka sig och orsaka infektion.
+
+366
+00:37:21,280 --> 00:37:26,280
+ Ett virus, när det kan sprida sig vidare och förflytta sig till nya celler
+
+367
+00:37:26,280 --> 00:37:28,280
+ och fortsätta att orsaka infektion hos en person,
+
+368
+00:37:28,280 --> 00:37:32,280
+ då går det också att odla det i laboratoriet, konstgjort odling.
+
+369
+00:37:32,280 --> 00:37:36,280
+ Då har man sett i vissa studier att har man en relativt mild infektion,
+
+370
+00:37:36,280 --> 00:37:40,280
+ som de allra flesta har, så har man svårt att fortsätta visa på
+
+371
+00:37:40,280 --> 00:37:43,280
+ att viruspartiklarna har förmågan att sprida sig vidare
+
+372
+00:37:43,280 --> 00:37:45,280
+ genom att se om de går att odla i laboratoriet.
+
+373
+00:37:45,280 --> 00:37:49,280
+ Det finns studier som pekar på att de första fem dagarna,
+
+374
+00:37:49,280 --> 00:37:55,280
+ där har man höga nivåer av virus, som också går att smitta vidare
+
+375
+00:37:55,280 --> 00:37:58,280
+ till nya människor, men också till nya celler i laboratoriet.
+
+376
+00:37:58,280 --> 00:38:01,280
+ Efter fem dagar så sjunker de här nivåerna.
+
+377
+00:38:01,280 --> 00:38:03,280
+ Det var det som Anders syftade på.
+
+378
+00:38:03,280 --> 00:38:08,280
+ Det vi också vet är att man kan påvisa arvsmassan av virus väldigt länge.
+
+379
+00:38:08,280 --> 00:38:12,280
+ Det kan variera väldigt mycket beroende på typ av allvarlighetsgrad i infektionen,
+
+380
+00:38:12,280 --> 00:38:17,280
+ men också var man följer upp och tittar var det finns arvsmassa kvar av viruset.
+
+381
+00:38:17,280 --> 00:38:19,280
+ Tack.
+
+382
+00:38:19,280 --> 00:38:26,280
+ Jag kan ställa en fråga till Anders då.
+
+383
+00:38:26,280 --> 00:38:28,280
+ Intressant.
+
+384
+00:38:28,280 --> 00:38:30,280
+ Anders, kan du höra?
+
+385
+00:38:30,280 --> 00:38:32,280
+ Kan Anders höra oss?
+
+386
+00:38:32,280 --> 00:38:34,280
+ Jag hör dig.
+
+387
+00:38:34,280 --> 00:38:36,280
+ Hej Anders.
+
+388
+00:38:36,280 --> 00:38:43,280
+ Jag har en följdfråga bara angående den 60-årsfesten som vi har rapporterat om.
+
+389
+00:38:43,280 --> 00:38:47,280
+ Du kanske hörde TV4s fråga tidigare.
+
+390
+00:38:47,280 --> 00:38:56,280
+ Kan sådana typer av fester ha varit avgörande för den eskalerande allmänspridningen i Sverige?
+
+391
+00:38:56,280 --> 00:39:02,280
+ Alltså att den funkar som en så kallad smittokluster,
+
+392
+00:39:02,280 --> 00:39:05,280
+ eller en superspridarehändelse.
+
+393
+00:39:05,280 --> 00:39:15,280
+ Om ja, faller det då på Folkhälsomyndighetens rekommendationer vid den tidpunkten?
+
+394
+00:39:15,280 --> 00:39:24,280
+ Det är jättesvårt att veta i efterhand.
+
+395
+00:39:24,280 --> 00:39:29,280
+ Man kan väl säga att utvecklingen i Sverige ser inte alls ut som den har gjort på de ställen
+
+396
+00:39:29,280 --> 00:39:32,280
+ som man hade sådana superspridare-event som i Sydkorea till exempel,
+
+397
+00:39:32,280 --> 00:39:36,280
+ där man fick en väldigt dramatisk brandspridning efter ett sådant event.
+
+398
+00:39:36,280 --> 00:39:38,280
+ Så har det inte alls sett ut i Sverige.
+
+399
+00:39:38,280 --> 00:39:41,280
+ Om du tittar på kurvan bakåt så har ju Stockholm och alla delar av landet
+
+400
+00:39:41,280 --> 00:39:44,280
+ haft en ganska långsamt spridning hela tiden.
+
+401
+00:39:44,280 --> 00:39:49,280
+ Så att det är ent det, och det talar ju ganska starkt för att det här eventet
+
+402
+00:39:49,280 --> 00:39:55,280
+ inte alls haft den kick-off-varianten som man har sett i Sydkorea.
+
+403
+00:39:55,280 --> 00:39:57,280
+ Det finns liknande historier både från Italien och Spanien
+
+404
+00:39:57,280 --> 00:40:00,280
+ när man efter ett sådant event såg en väldigt dramatisk ökning.
+
+405
+00:40:00,280 --> 00:40:06,280
+ En till två veckor efteråt. Så ser inte alls våra kurvor ut.
+
+406
+00:40:06,280 --> 00:40:09,280
+ Så jag tror inte alls det här är spännande och intressant.
+
+407
+00:40:09,280 --> 00:40:12,280
+ Jag tror att när man letar i mängden nu så kommer man hitta liknande ställen
+
+408
+00:40:12,280 --> 00:40:14,280
+ där man ser ganska många smittade samtidigt.
+
+409
+00:40:14,280 --> 00:40:18,280
+ Den här episoden i Linköping på tvåaxkliniken där talar ju för att
+
+410
+00:40:18,280 --> 00:40:20,280
+ någon slags liknande event hade hänt där.
+
+411
+00:40:20,280 --> 00:40:23,280
+ Men det är ju långt ifrån allt i den typen av event leder vidare
+
+412
+00:40:23,280 --> 00:40:25,280
+ sin stor spridning i samhället.
+
+413
+00:40:26,280 --> 00:40:33,280
+ Vi får höra kontinuerligt att det är svårt att bedöma.
+
+414
+00:40:33,280 --> 00:40:38,280
+ Det är liksom ögonblicksbilder det talas om hela tiden.
+
+415
+00:40:38,280 --> 00:40:45,280
+ Men med det ni vet idag, jämfört med europeiska länder,
+
+416
+00:40:45,280 --> 00:40:52,280
+ inte minst grannländerna, de åtgärder som har tagits där,
+
+417
+00:40:52,280 --> 00:40:59,280
+ borde restriktioner för folksamlingar ha varit striktare tidigare, anser du?
+
+418
+00:40:59,280 --> 00:41:04,280
+ Jag tycker det är alldeles för tidigt att göra den typen av slutsatser
+
+419
+00:41:04,280 --> 00:41:06,280
+ från någonliga hållet.
+
+420
+00:41:06,280 --> 00:41:09,280
+ Det finns så mycket andra saker som händer samtidigt.
+
+421
+00:41:09,280 --> 00:41:13,280
+ Det finns i Sverige väldigt lite som talar för att stora folksamlingar
+
+422
+00:41:13,280 --> 00:41:16,280
+ hade någon större effekt någonstans, eftersom vi inte har sett
+
+423
+00:41:16,280 --> 00:41:19,280
+ de här pucklarna på kurvan som vi i så fall hade sett.
+
+424
+00:41:19,280 --> 00:41:23,280
+ Vi har haft en långsam spridning som talar väldigt mycket för att vi hade
+
+425
+00:41:23,280 --> 00:41:28,280
+ bred introduktion från början och en successiv spridning på väldigt många
+
+426
+00:41:28,280 --> 00:41:31,280
+ olika ställen med väldigt många smittkedjor.
+
+427
+00:41:31,280 --> 00:41:35,280
+ Mer som man verkar ha haft i våran hand på sin tid än något annat.
+
+428
+00:41:35,280 --> 00:41:40,280
+ Att stora event skulle ha haft betydelse här var väldigt svårt att tro.
+
+429
+00:41:40,280 --> 00:41:44,280
+ Men som sagt, här handlar det jättesvårt.
+
+430
+00:41:44,280 --> 00:41:47,280
+ Jag tror det kommer inte vara lättare efteråt att säga något sånt.
+
+431
+00:41:47,280 --> 00:41:51,280
+ Det finns några tillfällen nu när man verkligen kan peka tillbaka på det
+
+432
+00:41:51,280 --> 00:41:54,280
+ som i Sydkorea som är det mest klassiska man kan se.
+
+433
+00:41:54,280 --> 00:41:57,280
+ Och så finns det misstänkande om någonting liknande i Italien.
+
+434
+00:41:57,280 --> 00:42:00,280
+ Men i övrigt i alla andra länder när man ser på det här så har det inte
+
+435
+00:42:00,280 --> 00:42:05,280
+ startat med event utan det har startat mycket mer gratis.
+
+436
+00:42:05,280 --> 00:42:11,280
+ - När kommer ni att ha en uppfattning om hur många som har varit smittade
+
+437
+00:42:11,280 --> 00:42:13,280
+ i Stockholmsregionen?
+
+438
+00:42:16,280 --> 00:42:18,280
+ Anders Signell.
+
+439
+00:42:18,280 --> 00:42:23,280
+ - Ja, nu har vi en mätpunkt. Vi får en mätpunkt nästa vecka.
+
+440
+00:42:23,280 --> 00:42:28,280
+ Där kan Karin utveckla mer. Vi kommer också att titta på hur många som är
+
+441
+00:42:28,280 --> 00:42:31,280
+ immuna i Stockholm. Efter de två mätpunkterna och en immunitetsmätning
+
+442
+00:42:31,280 --> 00:42:36,280
+ så har vi nog en ganska bra idé om hur många som är smittade i Stockholmsregionen.
+
+443
+00:42:36,280 --> 00:42:38,280
+ - När var det?
+
+444
+00:42:38,280 --> 00:42:40,280
+ - När?
+
+445
+00:42:40,280 --> 00:42:44,280
+ - Nästa uppföljning då med att titta på hur många har förekomst av virusets
+
+446
+00:42:44,280 --> 00:42:49,280
+ arvsmassa. Då börjar vi också insamling av prov från blodcentralen med flera
+
+447
+00:42:49,280 --> 00:42:53,280
+ för att se hur stor andel av dem som har lämnat blod i olika sammanhang
+
+448
+00:42:53,280 --> 00:42:56,280
+ eller provtagits har burit på viruset.
+
+449
+00:42:56,280 --> 00:43:01,280
+ Då tittar vi också på förekomsten av antikroppar parallellt i två
+
+450
+00:43:01,280 --> 00:43:06,280
+ parallella undersökningar. Att titta på förekomsten av antikroppar
+
+451
+00:43:06,280 --> 00:43:10,280
+ kommer att visa hur många har genomgått infektionen.
+
+452
+00:43:11,280 --> 00:43:19,280
+ - En fråga till Socialstyrelsen bara. Nya masker, miljontals masker,
+
+453
+00:43:19,280 --> 00:43:27,280
+ besked om det kom igår. Men det är svårt att få grepp om det totala behovet.
+
+454
+00:43:27,280 --> 00:43:34,280
+ Kan du säga någonting om det? Och även hur många, som jag förstått det här
+
+455
+00:43:34,280 --> 00:43:42,280
+ är mycket engångsartiklar. Hur många sådana behöver varje enskild vårdperson?
+
+456
+00:43:42,280 --> 00:43:49,280
+ - Vi gör precis de frågorna som vi ställer oss också och vi börjar ett kartlägga.
+
+457
+00:43:49,280 --> 00:43:56,280
+ För att det har varit dels så, det kom från början från ECDC, Europeiska
+
+458
+00:43:56,280 --> 00:44:02,280
+ smittskyddsinstitutet. En beräkning av ungefär hur många uppsättningar
+
+459
+00:44:02,280 --> 00:44:07,280
+ som skulle gå åt för att omhänderta en medelsvårdssjukpatient
+
+460
+00:44:07,280 --> 00:44:12,280
+ eller svårdssjukpatient. Hur många uppsättningar som skulle behövas
+
+461
+00:44:12,280 --> 00:44:18,280
+ för någon som är i lokalen eller den som är läkare, behandlande läkare.
+
+462
+00:44:18,280 --> 00:44:28,280
+ Sen har vi fått in begäran om stöd som har gjort att visa på att regionerna
+
+463
+00:44:28,280 --> 00:44:35,280
+ faktiskt nu, kanske de senaste 2-3 veckorna börjar göra sina egna beräkningar.
+
+464
+00:44:35,280 --> 00:44:39,280
+ Men eftersom det varit så otroligt underskott av det här materiellen.
+
+465
+00:44:39,280 --> 00:44:44,280
+ Det har faktiskt varit svårt att kunna följa om man använder
+
+466
+00:44:44,280 --> 00:44:50,280
+ de här FFP2 maskarna till exempel, där man ska använda dem i vården
+
+467
+00:44:50,280 --> 00:44:55,280
+ eller om man har använt dem utifrån förutsättningar.
+
+468
+00:44:55,280 --> 00:45:01,280
+ Fast man inte har behandlat patienter med aerosolbildande moment.
+
+469
+00:45:01,280 --> 00:45:06,280
+ Det första är egentligen den senaste veckan vi börjar få de här
+
+470
+00:45:06,280 --> 00:45:11,280
+ att regionerna själva börjar ha koll på sin egen förbrukning, dagsförbrukning
+
+471
+00:45:11,280 --> 00:45:15,280
+ för att kunna göra de här kalkylerna. Att vi verkligen är motsvarande
+
+472
+00:45:15,280 --> 00:45:19,280
+ 24-48 timmars behovet. Inte alla regioner.
+
+473
+00:45:19,280 --> 00:45:25,280
+ Det är precis det här vi inte har nått grepp om när det kommer till kommunernas behov.
+
+474
+00:45:25,280 --> 00:45:31,280
+ Där har vi bara en beskrivning av att man har ett behov
+
+475
+00:45:31,280 --> 00:45:35,280
+ men inte kopplat till vilket vårdmoment man ska genomföra i.
+
+476
+00:45:35,280 --> 00:45:40,280
+ Jättesvårt att svara på den totala och när det tar slut.
+
+477
+00:45:40,280 --> 00:45:46,280
+ Det enda måttet jag har är att inget stannar kvar på lagren
+
+478
+00:45:46,280 --> 00:45:49,280
+ utan det går ut direkt till regionerna.
+
+479
+00:45:49,280 --> 00:45:52,280
+ Jag hoppas att vi kommer att kunna ha bättre siffror så småningom
+
+480
+00:45:52,280 --> 00:45:55,280
+ när det börjar stabilisera sig lite mer.
+
+481
+00:45:55,280 --> 00:45:58,280
+ Tack! Då tror jag att vi rundar av frågestunden
+
+482
+00:45:58,280 --> 00:46:01,280
+ och vi går över till enskilda intervjuer.
+
+483
+00:46:01,280 --> 00:46:01,680
+ Skönt.
+
+484
+00:46:01,680 --> 00:46:01,940
+ Min.
+
+485
+00:46:01,940 --> 00:46:05,940
+ [Skratt]
+

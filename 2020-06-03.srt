@@ -1,0 +1,2624 @@
+1
+00:00:00,000 --> 00:00:07,940
+ Välkomna hit. Vi börjar med den globala situationen som tyvärr fortsätter åt samma håll.
+
+2
+00:00:07,940 --> 00:00:16,020
+ Vi har ytterligare nya fall varje vecka, nu uppe över en bra bit över 6 miljoner fall i världen
+
+3
+00:00:16,020 --> 00:00:20,820
+ och nästan 400 000 som avlidit enligt de officiella källorna.
+
+4
+00:00:20,820 --> 00:00:24,780
+ Som ni alla vet är det säkert betydligt fler som ligger bakom de här siffrorna.
+
+5
+00:00:24,780 --> 00:00:34,980
+ När det gäller EU och Storbritannien så är situationen oförändrad som vi har haft under veckan.
+
+6
+00:00:34,980 --> 00:00:37,980
+ De tidigare veckorna har varit en viss avstanning.
+
+7
+00:00:37,980 --> 00:00:41,140
+ Var vi kommer att landa den här veckan är fortfarande lite oklart.
+
+8
+00:00:41,140 --> 00:00:47,100
+ Det ser möjligen ut som att det skulle kunna vara en fortsatt minskning, men veckan är inte hel än.
+
+9
+00:00:47,100 --> 00:00:49,700
+ Vi vet inte så mycket om det än.
+
+10
+00:00:49,700 --> 00:00:55,740
+ När det gäller vad som händer globalt så är det ingen större förändring heller där.
+
+11
+00:00:55,740 --> 00:00:59,780
+ Den stora motorn är som sagt Sydamerika i stor utsträckning.
+
+12
+00:00:59,780 --> 00:01:06,820
+ När det gäller antal fall så är det fortfarande USA som är ett av de länderna tillsammans med Brasilien
+
+13
+00:01:06,820 --> 00:01:10,580
+ som har allra flest fall och som är den stora motorn fortfarande.
+
+14
+00:01:10,580 --> 00:01:13,620
+ Även om man där ser en successiv minskning.
+
+15
+00:01:13,620 --> 00:01:19,940
+ I Sverige har vi nu fått ett litet problem med vår inrapportering.
+
+16
+00:01:19,940 --> 00:01:25,100
+ Ett av laboratorierna här i Stockholm hade tyvärr inte fått ordning på sina datasystem i tid.
+
+17
+00:01:25,100 --> 00:01:34,540
+ Där har därför kommit in nästan 1400 nya fall som har provtagits, framförallt i diverse olika studier.
+
+18
+00:01:34,540 --> 00:01:39,700
+ Det är helt och hållet vård- och omsorgspersonal.
+
+19
+00:01:39,700 --> 00:01:44,460
+ Ingen aning om att det var jättesjukt. Vi har till och med dubbelkollat att ingen av dessa 1400 har avlidit.
+
+20
+00:01:44,460 --> 00:01:47,100
+ Det ändrar inte så mycket i statistiken i övrigt.
+
+21
+00:01:47,100 --> 00:01:53,020
+ Men det blir lite konstigt i redovisningen fortsättningsvis, tyvärr.
+
+22
+00:01:53,020 --> 00:02:02,300
+ Tittar man på vad det innebär för spridning över tid så har de en rätt stor spridning,
+
+23
+00:02:02,300 --> 00:02:06,700
+ de här 1400-fallen också, över olika dagar.
+
+24
+00:02:06,700 --> 00:02:13,740
+ Men som sagt, det ändrar egentligen inte alls i vår bedömning av epidemiologin och den utvecklingen.
+
+25
+00:02:13,740 --> 00:02:16,900
+ Eftersom de här ligger lite utanför systemen.
+
+26
+00:02:16,900 --> 00:02:22,340
+ Både allvarlighetsmässigt, men framförallt att de är tagna i studieform.
+
+27
+00:02:22,340 --> 00:02:29,900
+ Vi går istället över till att titta på de här kurvorna som vi tycker är mer illustrativa
+
+28
+00:02:29,900 --> 00:02:33,500
+ när vi har en så pass lång period som vi nu har.
+
+29
+00:02:33,500 --> 00:02:38,340
+ Vi kan se att totalsiffran går lite uppåt.
+
+30
+00:02:38,340 --> 00:02:44,500
+ Den består av en liten blandning av vård- och omsorgspersonal och övriga.
+
+31
+00:02:44,500 --> 00:02:48,060
+ Vi vet att den övriga gruppen har blivit allt större.
+
+32
+00:02:48,060 --> 00:02:50,300
+ Det är fler och fler som provtas i den gruppen.
+
+33
+00:02:50,300 --> 00:02:54,580
+ Vi håller på att titta på hur många prov som tas.
+
+34
+00:02:54,580 --> 00:02:58,900
+ Men ni vet från tidigare presentationer att antalet prover ökar varje vecka.
+
+35
+00:02:58,900 --> 00:03:02,340
+ Det innebär förstås att vi hittar lite fler enkla fall.
+
+36
+00:03:02,340 --> 00:03:07,380
+ Men vi ligger kvar på ungefär samma platå som tidigare.
+
+37
+00:03:07,380 --> 00:03:15,820
+ IVA-fallen har också landat på en slags platå totalt sett i landet på strax under 20 fall per dygn.
+
+38
+00:03:15,820 --> 00:03:25,620
+ Här ser ni de tre stora regionerna i Sverige där huvuddelen av alla IVA-fall vårdas.
+
+39
+00:03:25,620 --> 00:03:28,980
+ Alla de ligger på en rätt flack nivå som ni kan se.
+
+40
+00:03:28,980 --> 00:03:34,020
+ Det har inte varit några stora förändringar över tid.
+
+41
+00:03:34,020 --> 00:03:44,740
+ När det gäller avlidna är vi nu i en period i veckan där vi hämtar in de låga antalet fall som det var i helgen och fram på måndagen.
+
+42
+00:03:44,740 --> 00:03:50,940
+ Men det har inte hänt någonting dramatiskt utan fallen är väl spridda över de sista sju dagarna.
+
+43
+00:03:50,940 --> 00:03:58,500
+ Bara ett fåtal som inte har avlidit en datum än och antalet nya för att vara en onsdag i ovanligt lågt.
+
+44
+00:03:58,500 --> 00:04:01,860
+ Det kan vi se hyfsat positivt på utvecklingen på sikt.
+
+45
+00:04:01,860 --> 00:04:07,580
+ Även om det fortfarande är alldeles för många som avlider.
+
+46
+00:04:07,580 --> 00:04:09,860
+ Vi behöver jobba vidare med det här.
+
+47
+00:04:09,860 --> 00:04:18,460
+ Inte minst nu inför sommaren och med tanke på att vi ser en viss avflackning och inte den fortsatta nedgången i kurvorna som vi hade hoppats på.
+
+48
+00:04:18,460 --> 00:04:23,180
+ Då är det ännu viktigare att vi tänker på att stanna hemma om vi är sjuka.
+
+49
+00:04:23,180 --> 00:04:33,580
+ Om man är 70 år eller äldre eller tillhör någon av de utpekade riskgrupperna att man ska minimera sina nära kontakter så mycket som möjligt.
+
+50
+00:04:33,580 --> 00:04:42,060
+ Tänka på handhygienen, avstå större sociala sammanhang och hålla nere på sitt resande just nu.
+
+51
+00:04:42,060 --> 00:04:56,180
+ Bara för att avsluta det har det spridits en nyhet om att jag, vi på myndigheten, ser att den strategi som vi har för att arbeta med corona har varit felaktig och skulle ändras på något drastiskt sätt.
+
+52
+00:04:56,180 --> 00:04:59,900
+ Det är inte alls så, utan vi menar fortfarande att strategin är bra.
+
+53
+00:04:59,900 --> 00:05:02,460
+ Men sen finns det alltid förbättringar man kan göra.
+
+54
+00:05:02,460 --> 00:05:04,900
+ Speciellt när man tittar bakåt i tiden.
+
+55
+00:05:04,900 --> 00:05:08,940
+ Jag tycker personligen att det vore rätt konstigt om man svarade något annat på en sån här fråga.
+
+56
+00:05:08,940 --> 00:05:11,860
+ Man kan alltid bli bättre i det här arbetet.
+
+57
+00:05:11,860 --> 00:05:13,860
+ Det var det hela, varsågod.
+
+58
+00:05:13,860 --> 00:05:19,060
+ Dagens lägesrapport från Socialstyrelsens operativa organisation.
+
+59
+00:05:19,060 --> 00:05:29,340
+ Med anledning av covid-19 är att det idag vårdas 581 patienter i intensivvården med respirator idag och av dem har 308 covid-19.
+
+60
+00:05:29,340 --> 00:05:35,380
+ Vi ser en ganska plan kurva i intensivvården med inneliggande patienter.
+
+61
+00:05:35,380 --> 00:05:38,380
+ Det varierar bara mellan enstaka patient från dag till dag.
+
+62
+00:05:38,380 --> 00:05:43,140
+ Disponibla intensivvårdsplatser med respirator är idag 838.
+
+63
+00:05:43,140 --> 00:05:48,460
+ Vilket betyder att vi fortsatt har en ungefär 30 procentig tillgänglig kapacitet nationellt.
+
+64
+00:05:48,460 --> 00:05:52,740
+ Därmed en god förmåga att möta ett eventuellt förändrat läge.
+
+65
+00:05:52,740 --> 00:05:56,020
+ Variationen över landet är fortsatt stor.
+
+66
+00:05:56,020 --> 00:05:59,860
+ Tillgängligheten varierar mellan 10 och 100 procent.
+
+67
+00:05:59,860 --> 00:06:07,020
+ Så den intensivvårdssamordning som fungerar väl och transportkapacitet som finns är fortsatt nödvändig.
+
+68
+00:06:07,020 --> 00:06:12,220
+ Vi får regelbundna uppdateringar om regionernas olika beredskapslägen.
+
+69
+00:06:12,220 --> 00:06:16,700
+ Det har rått en viss förvirring kring det de senaste dagarna så jag ska försöka reda ut det.
+
+70
+00:06:16,700 --> 00:06:21,860
+ Vi fokuserar på det samlade beredskapsläget som rapporteras på regional nivå.
+
+71
+00:06:21,860 --> 00:06:26,740
+ Det kan skilja sig från enskilda sjukhusberedskapsnivåer i regionerna.
+
+72
+00:06:26,740 --> 00:06:30,700
+ Den senaste rapporteringen från idag ger följande lägesbild.
+
+73
+00:06:30,700 --> 00:06:35,780
+ Ingen region har ett ej-aktiverat beredskapsläge, det vill säga normalläge.
+
+74
+00:06:35,780 --> 00:06:41,500
+ 9 regioner är i så kallat stabsläge och 12 regioner i förstärkningsläge.
+
+75
+00:06:41,500 --> 00:06:43,980
+ Ingen region är i katastrofläge.
+
+76
+00:06:43,980 --> 00:06:48,500
+ Det betyder att vi har en ansträngd situation i alla våra regioner.
+
+77
+00:06:48,500 --> 00:06:54,820
+ Däremot rapporterar ingen region att man har en allvarlig eller kritisk påverkan
+
+78
+00:06:54,820 --> 00:07:01,100
+ när det gäller infrastruktur, katastrofmedicinsk beredskap, läkemedelsförsörjning eller förbrukningsmaterial.
+
+79
+00:07:01,100 --> 00:07:08,100
+ Den sammanfattande bedömningen vad gäller förbrukningsmaterial just nu är att vi har en betydligt stabilare situation
+
+80
+00:07:08,100 --> 00:07:17,580
+ när det gäller tillgång på skyddsutrustning och att socialstyrelsen nu till stor del kan fylla de akut uppkomna behov som kommuner eller regioner får.
+
+81
+00:07:17,580 --> 00:07:19,580
+ För det får man fortsatt.
+
+82
+00:07:19,580 --> 00:07:28,100
+ Vår princip är och kommer fortsätta vara att komplettera, inte ersätta, det arbete som sker och ska ske i regioner och kommuner
+
+83
+00:07:28,100 --> 00:07:34,700
+ när det gäller inköp och att se till att man har den skyddsutrustning och det förbrukningsmaterial man behöver.
+
+84
+00:07:34,700 --> 00:07:39,500
+ Men vi ser också att de senaste veckorna har antalet begäran om stöd från socialstyrelsen minskat.
+
+85
+00:07:39,500 --> 00:07:46,100
+ Vi ser också det som en signal kring att det är ett stabilare läge även vad gäller inköp i kommuner och regioner.
+
+86
+00:07:46,100 --> 00:07:48,100
+ Slut.
+
+87
+00:07:48,100 --> 00:07:50,100
+ Tack.
+
+88
+00:07:50,100 --> 00:07:55,100
+ Jag ska även idag säga något om äldrevården som har varit aktuell senaste tiden.
+
+89
+00:07:55,100 --> 00:08:06,100
+ Socialstyrelsen vill ge en nyanserad bild av läget vilket innebär att vi försöker berätta att det generellt är bra men också att det finns en hel del som inte fungerar.
+
+90
+00:08:06,100 --> 00:08:14,100
+ Och att det finns bitvis en del problem som är rätt så stora och som vi har påpekat i lägesrapport och analyser tidigare.
+
+91
+00:08:14,100 --> 00:08:18,100
+ Men att det inte är nattsvart och inte likadant överallt.
+
+92
+00:08:18,100 --> 00:08:35,100
+ Vi vill också poängtera att de som arbetar i äldrevården är en mycket viktig pusselbit i att begränsa smittspridning och skydda de äldre som är en viktig del i den strategi vi har.
+
+93
+00:08:35,100 --> 00:08:40,100
+ Vi har också fått en del frågor om läkarbedömning på särskilt boende.
+
+94
+00:08:40,100 --> 00:08:45,100
+ Och en del oro men också frågor om hur det fungerar.
+
+95
+00:08:45,100 --> 00:08:55,100
+ Kommunerna ansvarar för verksamheten, primärvården ansvarar för läkarinsatser och det kan också vara privata utförare på båda sidor.
+
+96
+00:08:55,100 --> 00:09:02,100
+ Och hur får man egentligen en läkarbedömning om man vistas på särskilt boende eller har anhöriga som gör det.
+
+97
+00:09:02,100 --> 00:09:12,100
+ Så idag har vi med oss distriktsläkare Agneta Toremark från Arvika som arbetar med just detta och ska berätta lite grann om hur det fungerar.
+
+98
+00:09:12,100 --> 00:09:14,100
+ Varsågod!
+
+99
+00:09:14,100 --> 00:09:24,100
+ Hej! Jag har jobbat som distriktsläkare i 16 år och de två sista åren har jag jobbat som mobil hemsjukvårdsläkare.
+
+100
+00:09:24,100 --> 00:09:33,100
+ Vilket innebär att jag gör hembesök med kommunens sköterskor och även har ansvar för särskilda boenden.
+
+101
+00:09:33,100 --> 00:09:36,100
+ Fyra stycken utanför Arvika.
+
+102
+00:09:36,100 --> 00:09:41,100
+ Varje vecka åker jag ut och träffar kommunens sköterskor.
+
+103
+00:09:41,100 --> 00:09:50,100
+ Och då har de planerat för hembesök på boenden eller i hemmet.
+
+104
+00:09:50,100 --> 00:09:59,100
+ Grunden för vår verksamhet är att vi har regelbundna kontroller och det planerar jag ihop med sköterskan och kommun.
+
+105
+00:09:59,100 --> 00:10:04,100
+ Och då förbereder vi det med att jag bestämmer vilka prover som ska tas.
+
+106
+00:10:04,100 --> 00:10:07,100
+ Hon tar blodtryck, puls och vikt.
+
+107
+00:10:07,100 --> 00:10:19,100
+ Hon tillsammans med patienten eller med personal om inte patienten kan redogöra för sig, fyller i en symptomenkät.
+
+108
+00:10:19,100 --> 00:10:26,100
+ Så vi får koll på vilka biverkningar och läkemedel som kan förekomma.
+
+109
+00:10:26,100 --> 00:10:29,100
+ Sen gör vi hembesök.
+
+110
+00:10:29,100 --> 00:10:35,100
+ Då erbjuds anhöriga att vara med. Det är vår ambition.
+
+111
+00:10:35,100 --> 00:10:41,100
+ Går inte det så är det min ambition att ringa per telefon för att stämma av hur de ser på det hela.
+
+112
+00:10:41,100 --> 00:10:47,100
+ Det är naturligtvis efter att stämt av med patienten kan det ges ett medgivande.
+
+113
+00:10:47,100 --> 00:10:52,100
+ Men det brukar de vilja att jag pratar med anhöriga.
+
+114
+00:10:52,100 --> 00:11:02,100
+ Då är det också hur anhöriga ser på vilken vårdnivå om patienten blir sämre.
+
+115
+00:11:02,100 --> 00:11:09,100
+ Med detta som grund uppkommer akuta frågeställningar och halva akuta.
+
+116
+00:11:09,100 --> 00:11:13,100
+ Det är oftast personalen och sköterskan som uppmärksammar detta.
+
+117
+00:11:13,100 --> 00:11:16,100
+ Då gör alltid sköterskan en första bedömning.
+
+118
+00:11:16,100 --> 00:11:25,100
+ Behövs det tal om vitalparametrar, alltså puls, blodtryck, tempen, andningsfrekvens och syresättning.
+
+119
+00:11:25,100 --> 00:11:27,100
+ Sen ringer hon mig.
+
+120
+00:11:27,100 --> 00:11:31,100
+ Det är inte alltid jag kan göra ett akutbesök.
+
+121
+00:11:31,100 --> 00:11:36,100
+ Men vi diskuterar och ibland kan jag sätta in behandling direkt.
+
+122
+00:11:36,100 --> 00:11:40,100
+ Då kan sköterskan göra besök senare.
+
+123
+00:11:40,100 --> 00:11:47,100
+ Eller så är det så uppenbart att patienten behöver till sjukhus.
+
+124
+00:11:47,100 --> 00:11:51,100
+ Sen är det vissa som inte har nytta av att åka till sjukhus.
+
+125
+00:11:51,100 --> 00:11:56,100
+ Det har vi oftast diskuterat fram vid de här årliga kontrollerna.
+
+126
+00:11:56,100 --> 00:12:02,100
+ Det sker individuella bedömningar hela tiden.
+
+127
+00:12:02,100 --> 00:12:06,100
+ Jag är tillgänglig på mobiltelefon och sköterskanordning.
+
+128
+00:12:06,100 --> 00:12:10,100
+ Jag vet att många kollegor jobbar så här.
+
+129
+00:12:10,100 --> 00:12:16,100
+ Jag är nöjd med det arbetssättet och tycker att det fungerar.
+
+130
+00:12:16,100 --> 00:12:19,100
+ Det var vad jag hade att säga.
+
+131
+00:12:19,100 --> 00:12:24,100
+ Tack så mycket. Då går vi tillbaka till Svante.
+
+132
+00:12:24,100 --> 00:12:34,100
+ Precis som vid andra kriser så är rollen för Myndigheten för samhällsskydd och beredskap
+
+133
+00:12:34,100 --> 00:12:38,100
+ under coronapandemin att stödja de ansvariga på olika sätt.
+
+134
+00:12:38,100 --> 00:12:41,100
+ Att bidra till att hela samhället kan hantera konsekvenserna.
+
+135
+00:12:41,100 --> 00:12:47,100
+ Och att säkerställa att det finns uthållighet och beredskap för olika slags händelseutvecklingar.
+
+136
+00:12:47,100 --> 00:12:55,100
+ Pandemin och försommarvädret gör att ovanligt många människor tillbringar mycket tid i skog och mark just nu.
+
+137
+00:12:55,100 --> 00:13:01,100
+ Det är bra eftersom risken för smittspridning är mindre, utomhus generellt.
+
+138
+00:13:01,100 --> 00:13:04,100
+ Men det kan också bli problem när vi är så många som vistas i naturen.
+
+139
+00:13:04,100 --> 00:13:07,100
+ Särskilt när brandrisken är så stor som den är nu.
+
+140
+00:13:07,100 --> 00:13:16,100
+ Jag kan nämna att bara det senaste dygnet inträffade 31 gräsbränder och 34 skogsbränder runt om i landet.
+
+141
+00:13:16,100 --> 00:13:19,100
+ Enligt vad som har rapporterats till oss på MSB.
+
+142
+00:13:19,100 --> 00:13:23,100
+ De kommunala räddningstjänsterna har hög beredskap för det här.
+
+143
+00:13:23,100 --> 00:13:30,100
+ Vi på MSB har under de senaste dygnen haft 10 helikoptrar i beredskap på 4 olika platser i landet.
+
+144
+00:13:30,100 --> 00:13:35,100
+ För att snabbt kunna stödja skogsbrändkämpning med vatten från luften.
+
+145
+00:13:35,100 --> 00:13:43,100
+ Nu ökar den här kapaciteten ytterligare med de 2 vattenskopande flygplan som görs tillgängliga via ett avtal mellan MSB och Saab.
+
+146
+00:13:43,100 --> 00:13:46,100
+ Det här är en EU-resurs som Sverige står värd för.
+
+147
+00:13:46,100 --> 00:13:52,100
+ Även de här två flygplanen är nu sedan tidigare eftermiddag också i beredskap.
+
+148
+00:13:52,100 --> 00:13:58,100
+ Men att vi har en god beredskap betyder förstås inte att vi vill att det ska bli vegetationsbränder.
+
+149
+00:13:58,100 --> 00:14:08,100
+ Tvärtom är vi särskilt angelägna nu under pandemin om att det inte inträffar fler stora händelser som måste hanteras av olika samhällsaktörer parallellt med pandemin.
+
+150
+00:14:08,100 --> 00:14:12,100
+ Det är därför viktigt att alla som är ute i naturen tänker sig för.
+
+151
+00:14:12,100 --> 00:14:17,100
+ Om du planerar att grilla till exempel, ta det försiktigt och följ de lokala eldningsförbuden.
+
+152
+00:14:17,100 --> 00:14:25,100
+ Det kanske inte alls är lämpligt eller ens tillåtet att tända en eld eller använda ditt campingkök just där du är.
+
+153
+00:14:25,100 --> 00:14:33,100
+ Det finns naturligtvis också andra saker än brandrisken att tänka på när vi är ute i skog och mark under coronapandemin.
+
+154
+00:14:33,100 --> 00:14:39,100
+ Det här kan Claes Svedlind från Naturvårdsverket berätta mer om. Varsågod.
+
+155
+00:14:39,100 --> 00:14:45,100
+ Tack så mycket. Naturvårdsverket är en nationell miljömyndighet.
+
+156
+00:14:45,100 --> 00:14:51,100
+ Vi jobbar med många olika miljöfrågor och ett par viktiga områden är natur och friluftsliv.
+
+157
+00:14:51,100 --> 00:15:00,100
+ Anledningen till att Naturvårdsverket är med på dagens presskonferens är att vi ser väldigt många som söker sig ut i naturen just nu.
+
+158
+00:15:00,100 --> 00:15:13,100
+ Det här är en svår och annorlunda tid för många människor och då har naturen för många blivit ett andningshål och ett ställe där man kan få energi och också kunna få röra på sig.
+
+159
+00:15:13,100 --> 00:15:24,100
+ Det här är väldigt bra. Naturen har också blivit en plats där många kan mötas, hålla distans och slippa vara inomhus.
+
+160
+00:15:24,100 --> 00:15:38,100
+ Vi har ingen samlad nationell besöksstatistik för skyddade områden i landet men vi hör från hela landet att det är väldigt stora ökningar av antalet besökare till skyddade naturområden.
+
+161
+00:15:38,100 --> 00:15:41,100
+ Särskilt de som ligger nära större tätorter.
+
+162
+00:15:41,100 --> 00:15:49,100
+ Ett exempel är Tyrester nationalpark nära Stockholm där antalet besökare är nu dubbelt så stort som det är normala år.
+
+163
+00:15:49,100 --> 00:15:56,100
+ Det här är förstås väldigt positivt. Naturen får oss att må bra och ge fina upplevelser för många människor.
+
+164
+00:15:56,100 --> 00:16:03,100
+ Men det är också viktigt att visa hänsyn när man är ute, både till andra människor och till naturen i sig.
+
+165
+00:16:03,100 --> 00:16:08,100
+ Allemansrätten är en viktig tillgång för oss i Sverige men den innebär också skyldigheter.
+
+166
+00:16:08,100 --> 00:16:16,100
+ Vi har på vår hemsida samlat information om vad som är särskilt viktigt att tänka på när man är ute.
+
+167
+00:16:16,100 --> 00:16:19,100
+ Jag kan nämna några saker här.
+
+168
+00:16:19,100 --> 00:16:23,100
+ Det är förstås viktigt att hålla avstånd.
+
+169
+00:16:23,100 --> 00:16:31,100
+ Även när man är ute i naturen så handlar det om entréer och platser där man till exempel stannar och rastar, tar sin fikapaus.
+
+170
+00:16:31,100 --> 00:16:34,100
+ Håll distansen, oerhört viktigt.
+
+171
+00:16:34,100 --> 00:16:41,100
+ Ett generellt råd är också att om det är fullt på parkeringsplatsen när man kommer till ett populärt naturreservat
+
+172
+00:16:41,100 --> 00:16:45,100
+ så kanske det är läge att vända och leta upp ett annat område.
+
+173
+00:16:45,100 --> 00:16:53,100
+ Det finns väldigt fina platser. Vi har till exempel 5100 naturreservat, lite drygt, i Sverige.
+
+174
+00:16:53,100 --> 00:17:00,100
+ 30 nationalparker. Vi har många hundra mil vandringsleder spridda runt om i hela landet.
+
+175
+00:17:00,100 --> 00:17:07,100
+ Här finns chansen att utforska nya naturområden, sådana som inte har så mycket besökare.
+
+176
+00:17:07,100 --> 00:17:13,100
+ På länsstyrelsernas hemsidor och även hos många kommuner finns det jättebra information
+
+177
+00:17:13,100 --> 00:17:18,100
+ om skyddade naturområden och värdefulla och besöksvärda områden.
+
+178
+00:17:18,100 --> 00:17:22,100
+ Även sån information som är viktig inför ett besök.
+
+179
+00:17:22,100 --> 00:17:27,100
+ Sen har vi det här med brandrisken som är oerhört viktig, precis som Svante sa.
+
+180
+00:17:27,100 --> 00:17:30,100
+ Det är torrt över i stort sett hela landet just nu.
+
+181
+00:17:30,100 --> 00:17:38,100
+ Det är viktigt att tänka på att absolut inte elda annat än på särskilt anvisade platser.
+
+182
+00:17:38,100 --> 00:17:40,100
+ Kanske avstå helt och hållet från att elda.
+
+183
+00:17:40,100 --> 00:17:45,100
+ Vi vill inte ha bränder som sprids från besökare ute i naturen.
+
+184
+00:17:45,100 --> 00:17:54,100
+ Vår uppmaning är sammanfattningsvis att njuta av naturen, både under denna annorlunda pandemitid
+
+185
+00:17:54,100 --> 00:18:01,100
+ och i framtiden, men visa också hänsyn och respekt till både växter, djur och människor.
+
+186
+00:18:01,100 --> 00:18:04,100
+ Tack! Ekot har en fråga.
+
+187
+00:18:04,100 --> 00:18:12,100
+ Hej, vad adelsade. Ekot, en fråga till Folkens myndighet och Anders Tegnell
+
+188
+00:18:12,100 --> 00:18:16,100
+ om den svenska strategin som du just kommenterade.
+
+189
+00:18:16,100 --> 00:18:21,100
+ Ska man förstå det som att givet vad ni visste då, så skulle strategin
+
+190
+00:18:21,100 --> 00:18:24,100
+ ha kommit att se ut likadant som den har gjort?
+
+191
+00:18:24,100 --> 00:18:32,100
+ Ja, vi gör ständigt så bra anpassningar som vi kan utifrån det läge som vi ser omkring oss.
+
+192
+00:18:32,100 --> 00:18:39,100
+ Det är ingen tvekan om att hade vi hamnat på samma ställe med samma förutsättningar
+
+193
+00:18:39,100 --> 00:18:44,100
+ och samma kunskap så utgår jag från att vi skulle ha agerat ungefär likadant.
+
+194
+00:18:44,100 --> 00:18:48,100
+ Sen har vi hela tiden anpassat oss kontinuerligt genom hela den här perioden.
+
+195
+00:18:48,100 --> 00:18:53,100
+ Det är inte så att vi har ändrat strategin, men vi har ändrat verktygen kontinuerligt.
+
+196
+00:18:53,100 --> 00:18:56,100
+ Det är också så man måste göra. Man behöver hela tiden anpassa sig.
+
+197
+00:18:56,100 --> 00:18:59,100
+ Speciellt till något nytt som vi inte har känt tidigare.
+
+198
+00:18:59,100 --> 00:19:04,100
+ Då förstår jag det som att det inte är någon tvärvändning att plötsligt så
+
+199
+00:19:04,100 --> 00:19:07,100
+ underkänner ni er egen strategi.
+
+200
+00:19:07,100 --> 00:19:09,100
+ Nej, inte alls.
+
+201
+00:19:09,100 --> 00:19:15,100
+ Men du nämner också att man hade kunnat göra saker annorlunda i efterhand.
+
+202
+00:19:15,100 --> 00:19:19,100
+ Kan du ge exempel på något som skulle kunna ha sett annorlunda ut
+
+203
+00:19:19,100 --> 00:19:23,100
+ om ni hade haft den information ni har idag?
+
+204
+00:19:23,100 --> 00:19:25,100
+ Nu är vi inte hela vägen framme.
+
+205
+00:19:25,100 --> 00:19:28,100
+ Det finns mycket som vi fortfarande inte vet effekterna av.
+
+206
+00:19:28,100 --> 00:19:31,100
+ Speciellt vad man har gjort i andra länder som inte helt utvärderat än.
+
+207
+00:19:31,100 --> 00:19:34,100
+ Det kan finnas sånt som vi skulle kunna använda i Sverige.
+
+208
+00:19:34,100 --> 00:19:38,100
+ Man kan säga att det hade varit betydligt bättre om vi hade haft
+
+209
+00:19:38,100 --> 00:19:42,100
+ ännu bättre förberedelse på äldreboende som Thomas berättade alldeles nyss.
+
+210
+00:19:42,100 --> 00:19:45,100
+ Det är definitivt något som vi gärna skulle ha jobbat med tidigare
+
+211
+00:19:45,100 --> 00:19:49,100
+ om vi hade haft tid att veta att testningskapaciteten hade varit bra
+
+212
+00:19:49,100 --> 00:19:51,100
+ om den hade kommit igång snabbare.
+
+213
+00:19:51,100 --> 00:19:53,100
+ Det ska vi också veta att öppna med.
+
+214
+00:19:53,100 --> 00:19:55,100
+ Gymnasieskolorna har vi inte utvärderat färdigt.
+
+215
+00:19:55,100 --> 00:19:58,100
+ Men det kan ha varit så att det hade rätt liten effekt
+
+216
+00:19:58,100 --> 00:20:01,100
+ och att vi kanske inte hade varit helt növvändiga att göra det.
+
+217
+00:20:01,100 --> 00:20:03,100
+ Det finns ett antal saker.
+
+218
+00:20:03,100 --> 00:20:05,100
+ Jag tror att det är hela tiden så man måste tänka.
+
+219
+00:20:05,100 --> 00:20:07,100
+ Det är ingenting konstigt ur min synpunkt.
+
+220
+00:20:07,100 --> 00:20:10,100
+ På det sättet vi jobbar, att vi kontinuerligt funderar på
+
+221
+00:20:10,100 --> 00:20:13,100
+ vad som har blivit rätt och vad som har blivit mindre rätt.
+
+222
+00:20:13,100 --> 00:20:16,100
+ –Aftonbladet. –John Granlund, Aftonbladet.
+
+223
+00:20:16,100 --> 00:20:19,100
+ Om man tittar i backspegeln, hur ser du på hur Folkhälsomyndigheten
+
+224
+00:20:19,100 --> 00:20:22,100
+ har sett på den asymptomatiska smittan?
+
+225
+00:20:22,100 --> 00:20:24,100
+ –Där står vi kvar.
+
+226
+00:20:24,100 --> 00:20:28,100
+ Vår bedömning är att det finns en asymptomatisk smitta.
+
+227
+00:20:28,100 --> 00:20:31,100
+ Hur stor den är är fortfarande väldigt oklart.
+
+228
+00:20:31,100 --> 00:20:34,100
+ Det kommer nog alltid att vara det, för det är väldigt svårt att mäta något sånt.
+
+229
+00:20:34,100 --> 00:20:37,100
+ Speciellt när gränsen mellan symptom och asymptomatisk
+
+230
+00:20:37,100 --> 00:20:40,100
+ är så extremt vag som den är i den här sjukdomen.
+
+231
+00:20:40,100 --> 00:20:44,100
+ Vi har hela tiden tagit höjd för att det kan finnas en sån aspekt
+
+232
+00:20:44,100 --> 00:20:48,100
+ i de rekommendationer och de regler vi har satt upp.
+
+233
+00:20:48,100 --> 00:20:51,100
+ –DN har vi här.
+
+234
+00:20:51,100 --> 00:20:56,100
+ –En fråga till Anders Tegnell.
+
+235
+00:20:56,100 --> 00:21:02,100
+ Den här intervjun som sändes i morse i Ekot har fått enorm internationell uppmärksamhet.
+
+236
+00:21:02,100 --> 00:21:05,100
+ Hur har du reagerat på det?
+
+237
+00:21:05,100 --> 00:21:11,100
+ –Jag försöker svara på de frågor jag får för att klargöra vad jag har sagt
+
+238
+00:21:11,100 --> 00:21:17,100
+ och vad som är de som intervjuade mig, deras bedömningar.
+
+239
+00:21:17,100 --> 00:21:22,100
+ Vad jag har sagt är väldigt klart att man måste alltid kunna vara självkritisk
+
+240
+00:21:22,100 --> 00:21:25,100
+ och fundera på om det man gör är rätt eller inte.
+
+241
+00:21:25,100 --> 00:21:29,100
+ Självklart kan allting alltid göras bättre inom det här området.
+
+242
+00:21:29,100 --> 00:21:35,100
+ –Finns det en antydan till skadeglädje i den internationella rapporteringen?
+
+243
+00:21:35,100 --> 00:21:40,100
+ –Ja, det är möjligt.
+
+244
+00:21:40,100 --> 00:21:49,100
+ Det har funnits en lite ambivalens till den svenska sättet att hantera pandemin
+
+245
+00:21:49,100 --> 00:21:51,100
+ på många håll kan jag hålla med om.
+
+246
+00:21:51,100 --> 00:21:54,100
+ Ibland har man tyckt att det är spännande, kan vi lära oss.
+
+247
+00:21:54,100 --> 00:21:59,100
+ Ibland har det setts som ett hot för att man har kunnat underkänna
+
+248
+00:21:59,100 --> 00:22:02,100
+ ganska drastiska åtgärder som man har vidtagit själva.
+
+249
+00:22:02,100 --> 00:22:04,100
+ –TV4.
+
+250
+00:22:04,100 --> 00:22:07,100
+ –TV4, nedtända till Folkhälsomyndigheten.
+
+251
+00:22:07,100 --> 00:22:13,100
+ Självkritik har blivit rubriken på det här. Känner du dig felciterad i det?
+
+252
+00:22:13,100 --> 00:22:21,100
+ –Nej, inte i grunden. Men om man med självkritik tolkar det som att vi har gjort fel
+
+253
+00:22:21,100 --> 00:22:27,100
+ då har man övertolkat. Att man alltid är självkritisk och granskar vad man gör.
+
+254
+00:22:27,100 --> 00:22:30,100
+ Det tycker jag att man måste göra.
+
+255
+00:22:30,100 --> 00:22:34,100
+ Sen behöver det inte alltid betyda att man varenda gång är självkritisk
+
+256
+00:22:34,100 --> 00:22:36,100
+ kommer fram till att man har haft fel.
+
+257
+00:22:36,100 --> 00:22:40,100
+ –Du säger i den här intervjun att Sveriges strategi hade kunnat ligga
+
+258
+00:22:40,100 --> 00:22:46,100
+ någonstans mellan den vägen vi har valt och den vägen som resten av världen har valt.
+
+259
+00:22:46,100 --> 00:22:50,100
+ Det här mellanläget, kan du konkretisera det?
+
+260
+00:22:50,100 --> 00:22:52,100
+ –Nej, det kan jag inte.
+
+261
+00:22:52,100 --> 00:22:55,100
+ Vad jag egentligen pekade på var, och frågan i grunden var,
+
+262
+00:22:55,100 --> 00:22:59,100
+ vad skulle världen, vad skulle Sverige ha gjort om vi hamnade i samma läge igen?
+
+263
+00:22:59,100 --> 00:23:04,100
+ Och visste allt. Då var min snabba bedömning att det finns saker som vi
+
+264
+00:23:04,100 --> 00:23:06,100
+ skulle förmodligen kunna ta med oss från andra länder.
+
+265
+00:23:06,100 --> 00:23:08,100
+ Exakt vilka vet vi inte än.
+
+266
+00:23:08,100 --> 00:23:12,100
+ Det finns definitivt saker som vi har gjort, som att hålla skolorna öppna
+
+267
+00:23:12,100 --> 00:23:14,100
+ och sånt som jag tror andra länder gärna skulle ha tagit med sig.
+
+268
+00:23:14,100 --> 00:23:17,100
+ Det finns sånt som till exempel gymnasieskolorna, där vi nog kunde
+
+269
+00:23:17,100 --> 00:23:20,100
+ fundera några varv till på om det var helt rätt saker att göra.
+
+270
+00:23:20,100 --> 00:23:24,100
+ Så det är det jag menar, med en anpassning från bägge håll så hade vi väl hamnat
+
+271
+00:23:24,100 --> 00:23:28,100
+ inte mittemellan, men någonstans mellan de här två varianterna.
+
+272
+00:23:28,100 --> 00:23:31,100
+ Men lite mer här, lite mindre där och så vidare.
+
+273
+00:23:31,100 --> 00:23:34,100
+ –Daniel Ingmo, Expressen. Om man kollar runt om i landet så ser man att
+
+274
+00:23:34,100 --> 00:23:40,100
+ olika delar har påverkats olika mycket. Kan man säga att Sveriges coronastrategi
+
+275
+00:23:40,100 --> 00:23:46,100
+ har fungerat lika bra i olika områden, eller är den speciellt anpassad
+
+276
+00:23:46,100 --> 00:23:53,100
+ för mer glesbebyggt plats än Stockholm, som har varit värst drabbat?
+
+277
+00:23:53,100 --> 00:23:57,100
+ –Nej, jag skulle nog säga att det är tvärtom. Vi vet från många länder
+
+278
+00:23:57,100 --> 00:24:03,100
+ att den här pandemin slår väldigt olika i olika regioner.
+
+279
+00:24:03,100 --> 00:24:08,100
+ Den verkar ha en förkärlek för stora städer med tät befolkning,
+
+280
+00:24:08,100 --> 00:24:11,100
+ att där blir det värre när det kommer dit ordentligt.
+
+281
+00:24:11,100 --> 00:24:14,100
+ Samtidigt finns det stora städer som har klarat sig, Rom till exempel,
+
+282
+00:24:14,100 --> 00:24:19,100
+ medan andra stora städer som New York är extremt hårt belastade.
+
+283
+00:24:19,100 --> 00:24:25,100
+ I Sverige är Stockholm hårt belastad, men Malmö, Lund, Helsingborg, regionerna
+
+284
+00:24:25,100 --> 00:24:30,100
+ har klarat sig väldigt bra. Varför det är så är väldigt svårt att förstå.
+
+285
+00:24:30,100 --> 00:24:35,100
+ Jag tror att det har ett inslag av slump med sig. När man har kommit
+
+286
+00:24:35,100 --> 00:24:39,100
+ till en viss nivå i de här storstäderna, då blir det väldigt stort tvikt.
+
+287
+00:24:39,100 --> 00:24:42,100
+ Men ute i de glesbebyggda så tror jag att man har betydligt lättare
+
+288
+00:24:42,100 --> 00:24:45,100
+ att kontrollera den i glesbebyggda områden.
+
+289
+00:24:45,100 --> 00:24:49,100
+ –Vi har tittat mycket tillbaka i backspegeln under dagen.
+
+290
+00:24:49,100 --> 00:24:54,100
+ Men givet det vi pratar om, tycker du att man inte borde ha delat upp det
+
+291
+00:24:54,100 --> 00:24:59,100
+ med olika strategier i olika områden?
+
+292
+00:24:59,100 --> 00:25:02,100
+ –Jag tror att i ett land som Sverige som är relativt lite,
+
+293
+00:25:02,100 --> 00:25:06,100
+ där vi är väldigt rörliga och det är svårt att kommunicera på något annat sätt,
+
+294
+00:25:06,100 --> 00:25:09,100
+ så tror jag att det finns väldigt stora fördelar med att ha
+
+295
+00:25:09,100 --> 00:25:13,100
+ samma strategi i hela landet. Sen har vi ett kommunalt självstyre.
+
+296
+00:25:13,100 --> 00:25:17,100
+ Man har också gjort ganska olika i olika delar av landet.
+
+297
+00:25:17,100 --> 00:25:21,100
+ Det vet vi. Mindre regioner i landet som haft rätt fåfall har fortsatt
+
+298
+00:25:21,100 --> 00:25:25,100
+ att smittspåra och jobbat hårt med det. Det är säkert en del av anledningen
+
+299
+00:25:25,100 --> 00:25:29,100
+ till att man har lyckats hålla ner smittan så bra som man har gjort.
+
+300
+00:25:29,100 --> 00:25:34,100
+ Vi har en lätt anpassning, men vi har en samlad nationell strategi.
+
+301
+00:25:34,100 --> 00:25:38,100
+ Det tror jag är ett bra upplägg för Sverige.
+
+302
+00:25:38,100 --> 00:25:41,100
+ –Erik Paulsen Rönnbeck här från TTNU-utsbyrån.
+
+303
+00:25:41,100 --> 00:25:46,100
+ Jag har en fråga till Anders Tegnell. Jag undrar om ni tog ordentlig höjd
+
+304
+00:25:46,100 --> 00:25:52,100
+ för att utvecklingen skulle se mer negativ ut än vad ni trodde?
+
+305
+00:25:52,100 --> 00:25:56,100
+ Hade det inte varit klokt att tillämpa försiktighetsprincipen
+
+306
+00:25:56,100 --> 00:26:00,100
+ och införa strängare restriktioner för säkerhetsskull?
+
+307
+00:26:00,100 --> 00:26:04,100
+ –Försiktighetsprincipen är ett begrepp som man måste hantera
+
+308
+00:26:04,100 --> 00:26:07,100
+ väldigt försiktigt om man får vara sån.
+
+309
+00:26:07,100 --> 00:26:10,100
+ Att göra mer är inte att följa försiktighetsprincipen.
+
+310
+00:26:10,100 --> 00:26:13,100
+ Att göra mer kan ofta betyda att man gör mer skada.
+
+311
+00:26:13,100 --> 00:26:16,100
+ Det är visserligen inget samband mellan att göra mycket
+
+312
+00:26:16,100 --> 00:26:20,100
+ och att vara försiktig. Det måste man börja med att tänka på.
+
+313
+00:26:20,100 --> 00:26:26,100
+ Ur den synpunkten finns ingenting som tydligt talar för att vi
+
+314
+00:26:26,100 --> 00:26:29,100
+ hade haft en helt annorlunda utveckling om vi hade tagit till
+
+315
+00:26:29,100 --> 00:26:32,100
+ mer drastiska åtgärder. Här finns exempel på bägge hållen.
+
+316
+00:26:32,100 --> 00:26:36,100
+ Det finns exempel som Norge som har fått bra effekter.
+
+317
+00:26:36,100 --> 00:26:38,100
+ Det finns exempel som Storbritannien har gjort samma sak
+
+318
+00:26:38,100 --> 00:26:41,100
+ och inte fått bra effekter. Jag tror att om vi en gång
+
+319
+00:26:41,100 --> 00:26:44,100
+ om några år utvärderar det här så kommer det inte bli helt lätt
+
+320
+00:26:44,100 --> 00:26:47,100
+ att säga exakt vad det är för faktorer som har gett framgång
+
+321
+00:26:47,100 --> 00:26:50,100
+ på vissa strategier på vissa ställen men inte på andra.
+
+322
+00:26:50,100 --> 00:26:55,100
+ –Då ska vi se på länk. Har vi med Svenska Dagbladet?
+
+323
+00:26:55,100 --> 00:27:01,100
+ Svenska Dagbladet?
+
+324
+00:27:03,100 --> 00:27:06,100
+ Förlåt, Erik Westerberg från Svenska Dagbladet. Hörs jag nu?
+
+325
+00:27:06,100 --> 00:27:08,100
+ –Nu hörs du.
+
+326
+00:27:08,100 --> 00:27:12,100
+ –Fint. Min fråga gäller smittspårningen till Anders Signell.
+
+327
+00:27:12,100 --> 00:27:15,100
+ Vad finns det för plan när det gäller smittspårningen?
+
+328
+00:27:15,100 --> 00:27:18,100
+ När ska man smittspåra och hur?
+
+329
+00:27:18,100 --> 00:27:27,100
+ –Det beror på hur du menar. Vi är i en fas där smittan
+
+330
+00:27:27,100 --> 00:27:31,100
+ börjat lugna ner sig. Som sagt var smittspår man redan
+
+331
+00:27:31,100 --> 00:27:35,100
+ en hel del i mindre regioner där man har få fall.
+
+332
+00:27:35,100 --> 00:27:38,100
+ Det kommer att bli en anpassning i region efter region
+
+333
+00:27:38,100 --> 00:27:42,100
+ som jag ser det. Man kommer att smittspåra allt mer
+
+334
+00:27:42,100 --> 00:27:46,100
+ när man får färre fall. På det sättet trycka ner kurvan ytterligare.
+
+335
+00:27:46,100 --> 00:27:49,100
+ Sen beror det på vad man tycker är viktigt att smittspåra.
+
+336
+00:27:49,100 --> 00:27:53,100
+ Vi vet att i alla regioner smittspårar på äldreboende
+
+337
+00:27:53,100 --> 00:27:56,100
+ inom sjukvården. Där är det väldigt viktigt att man snabbt
+
+338
+00:27:56,100 --> 00:27:59,100
+ får kontroll på smittan. Att smittspåra ute i samhället
+
+339
+00:27:59,100 --> 00:28:04,100
+ är en mer resurskrävande verksamhet. Har man mycket fall
+
+340
+00:28:04,100 --> 00:28:06,100
+ som man har i Stockholm och de stora regionerna
+
+341
+00:28:06,100 --> 00:28:08,100
+ så är det svårt att klara av det. Då får man lägna sig
+
+342
+00:28:08,100 --> 00:28:11,100
+ åt annat istället. Tills man kommer ner till den nivån
+
+343
+00:28:11,100 --> 00:28:14,100
+ när smittspårningen återigen blir en effektiv åtgärd.
+
+344
+00:28:14,100 --> 00:28:20,100
+ –Vad är ert budskap? Var tycker ni att man ska smittspåra?
+
+345
+00:28:20,100 --> 00:28:23,100
+ Och hur, givet hur läget ser ut just nu?
+
+346
+00:28:23,100 --> 00:28:27,100
+ –Det kanske inte ska gå in på de tekniska detaljerna.
+
+347
+00:28:27,100 --> 00:28:29,100
+ Det finns handböcker och liknande som vi har gett ut
+
+348
+00:28:29,100 --> 00:28:35,100
+ hur man smittspårar. Vi menar att det är viktigt
+
+349
+00:28:35,100 --> 00:28:37,100
+ att smittspåra precis som man gör i äldreboende.
+
+350
+00:28:37,100 --> 00:28:40,100
+ Det kom vi ut med i fredags med ett dokument
+
+351
+00:28:40,100 --> 00:28:43,100
+ där vi tryckte ytterligare på det. I de miljöer
+
+352
+00:28:43,100 --> 00:28:45,100
+ där man kan ha en smittspridning bland personer
+
+353
+00:28:45,100 --> 00:28:48,100
+ som är känsla av olika skäl så är det jätteviktigt
+
+354
+00:28:48,100 --> 00:28:51,100
+ att man smittspårar. Om man gör det i fler miljöer
+
+355
+00:28:51,100 --> 00:28:55,100
+ så får det mer och mer bero på resurser och hur
+
+356
+00:28:55,100 --> 00:28:58,100
+ epidemiologin ser ut i den geografiska områden
+
+357
+00:28:58,100 --> 00:28:59,100
+ man befinner sig.
+
+358
+00:28:59,100 --> 00:29:01,100
+ –Tack. Reuters.
+
+359
+00:29:01,100 --> 00:29:09,100
+ –Hej. Ni säger i efterhand att ni kanske har gjort
+
+360
+00:29:09,100 --> 00:29:12,100
+ saker lite annorlunda. Men ni fick kritik redan
+
+361
+00:29:12,100 --> 00:29:15,100
+ från början för att ni behandlade den här rätt mycket
+
+362
+00:29:15,100 --> 00:29:22,100
+ som en vanlig influensasjukdom. Vad säger ni
+
+363
+00:29:22,100 --> 00:29:26,100
+ om den kritiken? Givet att det var så mycket osäkert
+
+364
+00:29:26,100 --> 00:29:32,100
+ kring corona, borde man kanske inte ha antagit
+
+365
+00:29:32,100 --> 00:29:34,100
+ försiktighetsprincipen?
+
+366
+00:29:34,100 --> 00:29:38,100
+ –Jag svarade på frågan om försiktighetsprincipen
+
+367
+00:29:38,100 --> 00:29:41,100
+ alldeles nyss. Det gäller fortfarande att vara försiktig
+
+368
+00:29:41,100 --> 00:29:43,100
+ och inte alltid göra mer, utan göra rätt.
+
+369
+00:29:43,100 --> 00:29:46,100
+ Anpassa sig efter den situation man befinner sig i.
+
+370
+00:29:46,100 --> 00:29:48,100
+ Det är det vi har jobbat med hela tiden.
+
+371
+00:29:48,100 --> 00:29:53,100
+ –Men gjorde ni fel som behandlare av detta som en
+
+372
+00:29:53,100 --> 00:29:55,100
+ vanlig influensa?
+
+373
+00:29:55,100 --> 00:29:58,100
+ –Att vi använde, och det gjorde alla länder,
+
+374
+00:29:58,100 --> 00:30:01,100
+ att man använde de pandemiplaner man har på plats.
+
+375
+00:30:01,100 --> 00:30:05,100
+ De är i första hand skrivna ur ett influensaperspektiv.
+
+376
+00:30:05,100 --> 00:30:08,100
+ Eftersom det är influensan som orsakat flest pandemier
+
+377
+00:30:08,100 --> 00:30:11,100
+ genom tiden. Det är ganska logiskt. Men det finns
+
+378
+00:30:11,100 --> 00:30:13,100
+ absolut aspekter på de planerna som man kan använda
+
+379
+00:30:13,100 --> 00:30:15,100
+ vid vilken pandemi som helst. Det är hela upplägget
+
+380
+00:30:15,100 --> 00:30:18,100
+ på de planerna. Självklart fortsätter vi att använda dem.
+
+381
+00:30:18,100 --> 00:30:22,100
+ –Financial Times är med också.
+
+382
+00:30:23,100 --> 00:30:26,100
+ –Hej, Richard Milne från Financial Times.
+
+383
+00:30:26,100 --> 00:30:30,100
+ Jag förstår att du inte kan säga exakt vad du
+
+384
+00:30:30,100 --> 00:30:33,100
+ skulle ha gjort annorlunda. Min fråga är lite annorlunda.
+
+385
+00:30:33,100 --> 00:30:37,100
+ Har du några tankar om varför du gjorde de saker
+
+386
+00:30:37,100 --> 00:30:40,100
+ som du tror att du kan förbättra? Var det något
+
+387
+00:30:40,100 --> 00:30:45,100
+ specifikt med covid-19 som du tror att du missjudgade?
+
+388
+00:30:45,100 --> 00:30:51,100
+ –Jag tror att det är ett par saker. En av de sakerna
+
+389
+00:30:51,100 --> 00:30:55,100
+ är hur lätt det blir att komma in i långsiktiga
+
+390
+00:30:55,100 --> 00:31:00,100
+ förhållanden. Även lättare än att få en flu.
+
+391
+00:31:00,100 --> 00:31:03,100
+ Det blir också långsiktiga förhållanden, men inte
+
+392
+00:31:03,100 --> 00:31:10,100
+ till den nivå som covid-19 gör. Jag tror att det är
+
+393
+00:31:10,100 --> 00:31:15,100
+ också lite svårt att handla osäkerheten om hur
+
+394
+00:31:15,100 --> 00:31:18,100
+ det spreds. Det brukar spredas väldigt mycket
+
+395
+00:31:18,100 --> 00:31:21,100
+ ibland, men inte alls. Många gånger.
+
+396
+00:31:21,100 --> 00:31:26,100
+ Det här med superspreadar, eller vad man vill kalla
+
+397
+00:31:26,100 --> 00:31:30,100
+ dem, ger en typ av apacertitet till epidemiologin.
+
+398
+00:31:30,100 --> 00:31:33,100
+ Det är lite svårt att handla med vilken strategi
+
+399
+00:31:33,100 --> 00:31:36,100
+ man har. I Sverige har vi inte sett någon av dem.
+
+400
+00:31:36,100 --> 00:31:41,100
+ Men de finns i många länder. Det är svårt att ha
+
+401
+00:31:41,100 --> 00:31:44,100
+ en strategi som fungerar överallt för den
+
+402
+00:31:44,100 --> 00:31:46,100
+ typen av osäkerhet.
+
+403
+00:31:46,100 --> 00:31:53,100
+ En följande fråga. Känner du att Sverige har blivit
+
+404
+00:31:53,100 --> 00:31:57,100
+ en global "punch bag" och använt av folk som
+
+405
+00:31:57,100 --> 00:32:03,100
+ tror på "hördimmunitet" eller inte har en lockdown
+
+406
+00:32:03,100 --> 00:32:07,100
+ och därför har din strategi blivit för förståelig?
+
+407
+00:32:07,100 --> 00:32:11,100
+ Kanske. Ibland känns det som en personlig
+
+408
+00:32:11,100 --> 00:32:14,100
+ "punch bag", men det är okej. Jag kan leva med det.
+
+409
+00:32:14,100 --> 00:32:17,100
+ Tack. The Local.
+
+410
+00:32:17,100 --> 00:32:27,100
+ Hej, hör ni mig?
+
+411
+00:32:27,100 --> 00:32:30,100
+ Ja, vi hör er.
+
+412
+00:32:30,100 --> 00:32:33,100
+ Hej, jag har en fråga till Anders Tegnell.
+
+413
+00:32:33,100 --> 00:32:35,100
+ Vilka var de förhållanden till att introducera
+
+414
+00:32:35,100 --> 00:32:38,100
+ mer överspråklig testning nära början av
+
+415
+00:32:38,100 --> 00:32:41,100
+ smittan? Kan det ha hjälpt att lämna
+
+416
+00:32:41,100 --> 00:32:43,100
+ infektionsspråket?
+
+417
+00:32:43,100 --> 00:32:50,100
+ I början var det mycket laboratorisk kapacitet.
+
+418
+00:32:50,100 --> 00:32:54,100
+ Men också sjukvårdskapacitet. Testning är en
+
+419
+00:32:54,100 --> 00:32:57,100
+ väldigt komplicerad gäng som måste ske.
+
+420
+00:32:57,100 --> 00:33:01,100
+ Man måste ha staff och resurser i alla de
+
+421
+00:33:01,100 --> 00:33:04,100
+ olika delarna av gängen. I början var det
+
+422
+00:33:04,100 --> 00:33:07,100
+ mest labo. Nu har vi mycket labokapacitet, men
+
+423
+00:33:07,100 --> 00:33:09,100
+ det finns fortfarande en förlust av kapacitet
+
+424
+00:33:09,100 --> 00:33:14,100
+ i sjukvårdssektorn. Att göra så många test som
+
+425
+00:33:14,100 --> 00:33:18,100
+ labokapaciteten gör det möjligt.
+
+426
+00:33:18,100 --> 00:33:20,100
+ Om jag hade gjort mer testning, hade det
+
+427
+00:33:20,100 --> 00:33:23,100
+ gjort skillnad i början? Jag är inte säker.
+
+428
+00:33:23,100 --> 00:33:25,100
+ Jag pratade med min norvegiska kollega om det.
+
+429
+00:33:25,100 --> 00:33:28,100
+ Han var inte säker på att en massiv testning
+
+430
+00:33:28,100 --> 00:33:30,100
+ hade gjort så stor skillnad. Men det är
+
+431
+00:33:30,100 --> 00:33:33,100
+ svårt att syssla. Ibland har massivt testning
+
+432
+00:33:33,100 --> 00:33:35,100
+ gjort skillnad, som i South Korea. I andra
+
+433
+00:33:35,100 --> 00:33:38,100
+ länder har det inte gjort så stor skillnad.
+
+434
+00:33:38,100 --> 00:33:42,100
+ Kan det bli något som du byter till
+
+435
+00:33:42,100 --> 00:33:45,100
+ för att förhandla med i framtiden?
+
+436
+00:33:45,100 --> 00:33:47,100
+ Jag tror att Sverige kommer att diskutera mycket
+
+437
+00:33:47,100 --> 00:33:51,100
+ om förberedelser i framtiden. Kapacitet i många
+
+438
+00:33:51,100 --> 00:33:54,100
+ olika sektorer. Kanske inte minst i sjukvårdssektorn.
+
+439
+00:33:54,100 --> 00:33:56,100
+ Jag tror att National Board of Health kan
+
+440
+00:33:56,100 --> 00:33:58,100
+ säga mer om det.
+
+441
+00:33:58,100 --> 00:34:03,100
+ LeMond?
+
+442
+00:34:03,100 --> 00:34:06,100
+ Kan ni höra mig?
+
+443
+00:34:06,100 --> 00:34:08,100
+ Eftersom ni pratade om det, så vill jag
+
+444
+00:34:08,100 --> 00:34:10,100
+ säga som en representant av internationella
+
+445
+00:34:10,100 --> 00:34:12,100
+ medier att det är många av oss som hoppade
+
+446
+00:34:12,100 --> 00:34:16,100
+ att vi skulle få ett utmärkt resultat i Sverige.
+
+447
+00:34:16,100 --> 00:34:20,100
+ Det skulle ha betydat att vi hade mycket färre
+
+448
+00:34:20,100 --> 00:34:24,100
+ döda med mycket mindre restriktioner.
+
+449
+00:34:24,100 --> 00:34:28,100
+ Det ville jag säga.
+
+450
+00:34:28,100 --> 00:34:32,100
+ Du pratade om äldreboende och om att ni
+
+451
+00:34:32,100 --> 00:34:36,100
+ kunde ha gjort annorlunda om ni hade vettat.
+
+452
+00:34:36,100 --> 00:34:39,100
+ Jag undrar lite om att i samma tid i Frankrike,
+
+453
+00:34:39,100 --> 00:34:42,100
+ i början av mars redan, i Spanien och Italien,
+
+454
+00:34:42,100 --> 00:34:45,100
+ man kunde se att smittningen hade kommit till
+
+455
+00:34:45,100 --> 00:34:49,100
+ äldreboende väldigt starkt.
+
+456
+00:34:49,100 --> 00:34:53,100
+ Då undrade man lite varför Sverige reagerade
+
+457
+00:34:53,100 --> 00:34:56,100
+ mycket tydligare än man kunde säga det hände
+
+458
+00:34:56,100 --> 00:34:58,100
+ i andra länder.
+
+459
+00:34:58,100 --> 00:35:01,100
+ Man har klagat mycket i Sverige om att andra
+
+460
+00:35:01,100 --> 00:35:03,100
+ länder har tittat mycket på Sverige.
+
+461
+00:35:03,100 --> 00:35:05,100
+ Har ni inte tittat tillräckligt på vad som
+
+462
+00:35:05,100 --> 00:35:07,100
+ hände i andra länder?
+
+463
+00:35:07,100 --> 00:35:09,100
+ Vi har absolut tittat på vad som hände i andra
+
+464
+00:35:09,100 --> 00:35:11,100
+ länder. Vi var också väldigt tidigt ute med
+
+465
+00:35:11,100 --> 00:35:14,100
+ att peka på just att personer över 85 är de som
+
+466
+00:35:14,100 --> 00:35:17,100
+ har absolut högst risk att råka illa ut.
+
+467
+00:35:17,100 --> 00:35:20,100
+ Redan väldigt tidigt i pandemin pekar vi på
+
+468
+00:35:20,100 --> 00:35:25,100
+ den risken. Det här gäller också långt tillbaka.
+
+469
+00:35:25,100 --> 00:35:28,100
+ Socialstyrelsen kan berätta mer om det.
+
+470
+00:35:28,100 --> 00:35:34,100
+ Vi vet att det har funnits en del kvalitetsproblem
+
+471
+00:35:34,100 --> 00:35:37,100
+ i äldreboende. Det finns många bra äldreboende,
+
+472
+00:35:37,100 --> 00:35:39,100
+ men det finns också sådana som inte har fungerat
+
+473
+00:35:39,100 --> 00:35:44,100
+ jättebra kvalitetsmässigt. Det är många ställen.
+
+474
+00:35:44,100 --> 00:35:46,100
+ Det är inte helt lätt att nå fram till dem
+
+475
+00:35:46,100 --> 00:35:49,100
+ på olika sätt. Det finns ett antal olika faktorer.
+
+476
+00:35:49,100 --> 00:35:51,100
+ Jag tror inte att man kan hävda att vi inte
+
+477
+00:35:51,100 --> 00:35:55,100
+ pekade på risken redan tidigt. Vi var väldigt
+
+478
+00:35:55,100 --> 00:35:57,100
+ väl medvetna om det. Vi hade bland annat besök
+
+479
+00:35:57,100 --> 00:35:59,100
+ av Italiens ambassadör som berättade för oss
+
+480
+00:35:59,100 --> 00:36:01,100
+ om situationen i Italien. Jag tror att vi var
+
+481
+00:36:01,100 --> 00:36:04,100
+ väldigt väl informerade om att risken fanns.
+
+482
+00:36:04,100 --> 00:36:09,100
+ Varför gjorde man inte mer? Hur mycket har man
+
+483
+00:36:09,100 --> 00:36:13,100
+ satsat på IVA-sängar? Det har varit mycket
+
+484
+00:36:13,100 --> 00:36:15,100
+ investering i sjukhuset. Man skulle vara
+
+485
+00:36:15,100 --> 00:36:18,100
+ beredd där. Varför satsade man inte mer på
+
+486
+00:36:18,100 --> 00:36:22,100
+ äldreboende med kylutrustning, flera anställda
+
+487
+00:36:22,100 --> 00:36:26,100
+ med systematiska tester, till exempel? Mycket tidigt.
+
+488
+00:36:26,100 --> 00:36:29,100
+ Man var medveten om riskerna.
+
+489
+00:36:29,100 --> 00:36:32,100
+ Thomas, vill du?
+
+490
+00:36:32,100 --> 00:36:35,100
+ Socialstyrelsen har inte börjat nu med att
+
+491
+00:36:35,100 --> 00:36:38,100
+ följa upp äldrevården, utan det gör vi regelbundet.
+
+492
+00:36:38,100 --> 00:36:41,100
+ Vi lämnade en lägesrapport förra året om
+
+493
+00:36:41,100 --> 00:36:44,100
+ äldrevården, där vi konstaterade att väldigt
+
+494
+00:36:44,100 --> 00:36:46,100
+ mycket är bra. Det fungerar på en bra nivå.
+
+495
+00:36:46,100 --> 00:36:49,100
+ Men vi pekar också ut några områden där det
+
+496
+00:36:49,100 --> 00:36:53,100
+ finns särskilt stora problem, eller vanliga problem.
+
+497
+00:36:53,100 --> 00:36:56,100
+ Ett är personalens utbildningsnivå. Man behöver
+
+498
+00:36:56,100 --> 00:36:59,100
+ förbättra utbildningen när det gäller hygienrutiner
+
+499
+00:36:59,100 --> 00:37:02,100
+ och så vidare, och även ha tillgång till handledning.
+
+500
+00:37:02,100 --> 00:37:06,100
+ Ett annat är att det förstår rotation mellan
+
+501
+00:37:06,100 --> 00:37:09,100
+ en patientträffa för många olika personal.
+
+502
+00:37:09,100 --> 00:37:11,100
+ Det borde vara mer av kontinuitet.
+
+503
+00:37:11,100 --> 00:37:14,100
+ En tredje punkt som vi pekar ut är att
+
+504
+00:37:14,100 --> 00:37:17,100
+ de insatser som kommer från olika huvudmän,
+
+505
+00:37:17,100 --> 00:37:20,100
+ från sjukhus, kommun, primärvård,
+
+506
+00:37:20,100 --> 00:37:23,100
+ de borde samordnas under en gemensam plan
+
+507
+00:37:23,100 --> 00:37:27,100
+ för varje patient. Det är några saker som vi pekar ut.
+
+508
+00:37:27,100 --> 00:37:30,100
+ Sen är det ett särskilt problem att variationen är stor
+
+509
+00:37:30,100 --> 00:37:33,100
+ mellan hur det fungerar mellan olika kommuner
+
+510
+00:37:33,100 --> 00:37:36,100
+ och även mellan olika boenden.
+
+511
+00:37:36,100 --> 00:37:39,100
+ Det här såg vi i vår lägesrapport förra året,
+
+512
+00:37:39,100 --> 00:37:42,100
+ alltså innan covid började.
+
+513
+00:37:42,100 --> 00:37:45,100
+ Med skyddsutrustning och test, är det ingenting
+
+514
+00:37:45,100 --> 00:37:48,100
+ med organisation att göra?
+
+515
+00:37:48,100 --> 00:37:51,100
+ Det var inte de sakerna vi pekade ut i rapporten.
+
+516
+00:37:51,100 --> 00:37:55,100
+ Det är mer en beredskapsfråga där globala
+
+517
+00:37:55,100 --> 00:37:59,100
+ logistiksystem har havererat och så vidare.
+
+518
+00:37:59,100 --> 00:38:03,100
+ Basala hygienrutiner är fortfarande det viktigaste
+
+519
+00:38:03,100 --> 00:38:07,100
+ verktyget vi har för att hindra smittspridning
+
+520
+00:38:07,100 --> 00:38:10,100
+ och skydda de äldre. Om inte det fungerar
+
+521
+00:38:10,100 --> 00:38:14,100
+ så tror jag inte att skyddsutrustning hjälper så mycket.
+
+522
+00:38:14,100 --> 00:38:18,100
+ Tack! Vi ska till Gotland, Sveriges Radio Gotland.
+
+523
+00:38:18,100 --> 00:38:27,100
+ Sådär hörde jag mig!
+
+524
+00:38:27,100 --> 00:38:31,100
+ Vi undrar såklart om det här med sommarbeskedet.
+
+525
+00:38:31,100 --> 00:38:35,100
+ För en vecka sedan fick vi höra i TV4 Nyhetsmorgon
+
+526
+00:38:35,100 --> 00:38:39,100
+ av Anders Tegnell att vi skulle få besked på fredag.
+
+527
+00:38:39,100 --> 00:38:42,100
+ Det är väldigt många på Gotland som undrar
+
+528
+00:38:42,100 --> 00:38:46,100
+ när beskedet kommer. Vet ni det, Folkhälsomyndigheten?
+
+529
+00:38:46,100 --> 00:38:51,100
+ Under veckan hoppas vi. Men vi äger inte frågan
+
+530
+00:38:51,100 --> 00:38:53,100
+ helt och hållet själva. Det är många involverade
+
+531
+00:38:53,100 --> 00:38:56,100
+ och många som kommer att bli påverkade av ett sånt beslut.
+
+532
+00:38:56,100 --> 00:38:59,100
+ Det är viktigt att det blir ett bra beslut
+
+533
+00:38:59,100 --> 00:39:04,100
+ och att alla som behöver förstå beslutet
+
+534
+00:39:04,100 --> 00:39:06,100
+ verkligen förstår dess effekter.
+
+535
+00:39:06,100 --> 00:39:08,100
+ Vi hoppas på att vi ska få det klart den här veckan.
+
+536
+00:39:08,100 --> 00:39:12,100
+ Vad är det som avgör vad det blir för besked?
+
+537
+00:39:12,100 --> 00:39:17,100
+ En rad olika faktorer. Dels vilka effekter man skulle få
+
+538
+00:39:17,100 --> 00:39:20,100
+ av ett ökat resande, men förstås också möjligheten
+
+539
+00:39:20,100 --> 00:39:24,100
+ att hantera de effekterna på lokal och regional nivå.
+
+540
+00:39:24,100 --> 00:39:27,100
+ Vilka är med och påverkar?
+
+541
+00:39:27,100 --> 00:39:30,100
+ Alla som behöver, hoppas vi.
+
+542
+00:39:30,100 --> 00:39:33,100
+ Tack! Hela Gotland också.
+
+543
+00:39:35,100 --> 00:39:40,100
+ Jag hade i stort sett likvärdiga frågor som P4 hade innan.
+
+544
+00:39:40,100 --> 00:39:43,100
+ När det gäller beskedet om sommaren.
+
+545
+00:39:43,100 --> 00:39:48,100
+ Först sa dets det 3 juni, sen i fredags.
+
+546
+00:39:48,100 --> 00:39:51,100
+ Nu finns det inget riktigt klart besked.
+
+547
+00:39:51,100 --> 00:39:54,100
+ Jag tänker trovärdigheten kring Folkhälsomyndigheten
+
+548
+00:39:54,100 --> 00:39:57,100
+ när man hoppar mellan datumet med en så pass viktig fråga.
+
+549
+00:39:57,100 --> 00:39:59,100
+ Hur tänker du kring det, Anders Tegnell?
+
+550
+00:39:59,100 --> 00:40:03,100
+ Jag tror att vår trovärdighet hänger med på att vi tar
+
+551
+00:40:03,100 --> 00:40:07,100
+ bra och väl genomtänkta beslut, än att vi gör dem på ett visst datum.
+
+552
+00:40:07,100 --> 00:40:11,100
+ Vi satsar fortfarande på att ta bra och väl genomtänkta beslut.
+
+553
+00:40:11,100 --> 00:40:14,100
+ Ibland tar det lite längre tid än vi hoppas.
+
+554
+00:40:14,100 --> 00:40:16,100
+ Då får du göra det, för det är bättre att det blir rätt
+
+555
+00:40:16,100 --> 00:40:18,100
+ än att det blir snabbt.
+
+556
+00:40:18,100 --> 00:40:20,100
+ Tack! Då ska vi tillbaka till lokalerna.
+
+557
+00:40:21,100 --> 00:40:23,100
+ Jag vill prata om andra vägen.
+
+558
+00:40:23,100 --> 00:40:28,100
+ En av principerna var en långsiktig strategi för att förhindra en andra väg.
+
+559
+00:40:28,100 --> 00:40:34,100
+ Många andra länder som är öppna idag ser inte en andra väg.
+
+560
+00:40:34,100 --> 00:40:37,100
+ De är säkra på att de kan hålla det under kontroll för nu.
+
+561
+00:40:37,100 --> 00:40:42,100
+ Tror du att att förhindra sjukdomen
+
+562
+00:40:42,100 --> 00:40:46,100
+ skulle ha varit en bättre lösning?
+
+563
+00:40:46,100 --> 00:40:52,100
+ Eller tror du fortfarande att den långsiktiga strategin är vägen?
+
+564
+00:40:52,100 --> 00:40:58,100
+ Vi tror fortfarande att det är den rätt strategin för Sverige.
+
+565
+00:40:58,100 --> 00:41:03,100
+ Om det var rätt att sluta helt,
+
+566
+00:41:03,100 --> 00:41:05,100
+ och sen slå upp det igen,
+
+567
+00:41:05,100 --> 00:41:08,100
+ och sen sluta igen, som några länder säger,
+
+568
+00:41:08,100 --> 00:41:11,100
+ om det fungerar eller inte, det är ännu att se.
+
+569
+00:41:11,100 --> 00:41:15,100
+ Det vi pratar om här är långsiktiga saker.
+
+570
+00:41:15,100 --> 00:41:19,100
+ I Sverige tog det åtminstone tre eller fyra veckor
+
+571
+00:41:19,100 --> 00:41:22,100
+ efter introduktionen under sommarvågen.
+
+572
+00:41:22,100 --> 00:41:25,100
+ Vi såg den stora utbryten i Stockholm.
+
+573
+00:41:25,100 --> 00:41:27,100
+ Vi pratar om det länge.
+
+574
+00:41:27,100 --> 00:41:30,100
+ Det är som att ha en sjöbåg och försöka styra den
+
+575
+00:41:30,100 --> 00:41:34,100
+ med en förlust på tre eller fyra veckor.
+
+576
+00:41:34,100 --> 00:41:39,100
+ Jag tror att vi är för tidiga att säga att Sverige var rätt
+
+577
+00:41:39,100 --> 00:41:41,100
+ och att alla var rätt.
+
+578
+00:41:41,100 --> 00:41:44,100
+ I Danmark, Austria och Italien öppnar de länderna
+
+579
+00:41:44,100 --> 00:41:48,100
+ och ser inte de här utbryten igen.
+
+580
+00:41:48,100 --> 00:41:51,100
+ Det kan se ut som små utbryter som de kan kontrollera.
+
+581
+00:41:51,100 --> 00:41:53,100
+ Men de verkar ha det under kontroll.
+
+582
+00:41:53,100 --> 00:41:55,100
+ Är det ditt avsnitt?
+
+583
+00:41:55,100 --> 00:41:58,100
+ Tror du att de länderna har det under kontroll
+
+584
+00:41:58,100 --> 00:42:00,100
+ och att vi inte ser en andra väg där?
+
+585
+00:42:00,100 --> 00:42:04,100
+ Jag vet inte. Jag tror att ingen vet.
+
+586
+00:42:04,100 --> 00:42:07,100
+ Vi vet från historien,
+
+587
+00:42:07,100 --> 00:42:09,100
+ under de senaste tre, fyra månaderna,
+
+588
+00:42:09,100 --> 00:42:11,100
+ att den här utbryten har hög kapacitet
+
+589
+00:42:11,100 --> 00:42:13,100
+ att börja spreda sig igen.
+
+590
+00:42:13,100 --> 00:42:16,100
+ Vi har sett det i Singapore, i South Korea
+
+591
+00:42:16,100 --> 00:42:19,100
+ och även i Kina.
+
+592
+00:42:19,100 --> 00:42:24,100
+ Man måste vara extremt viktig att handla det.
+
+593
+00:42:24,100 --> 00:42:26,100
+ Hur länge man kan hålla det uppe
+
+594
+00:42:26,100 --> 00:42:28,100
+ och vilka resurser det tar,
+
+595
+00:42:28,100 --> 00:42:30,100
+ det blir inte visst.
+
+596
+00:42:30,100 --> 00:42:33,100
+ Det kan vara möjligt, och det är fantastiskt för oss alla.
+
+597
+00:42:33,100 --> 00:42:35,100
+ Eller det kan komma tillbaka
+
+598
+00:42:35,100 --> 00:42:37,100
+ och vi måste handla det.
+
+599
+00:42:37,100 --> 00:42:39,100
+ Men jag tror inte att vi vet än.
+
+600
+00:42:41,100 --> 00:42:45,100
+ Hej, Marianne Sundholm från Yle i Finland.
+
+601
+00:42:45,100 --> 00:42:48,100
+ Först en fråga till dig, Anders Stegnell.
+
+602
+00:42:48,100 --> 00:42:51,100
+ När det talas om dödligheten på äldreboendena,
+
+603
+00:42:51,100 --> 00:42:56,100
+ hur ser du på kopplingen till spridningen i samhället?
+
+604
+00:42:56,100 --> 00:42:58,100
+ Jag tycker att de ofta kopplas ifrån varandra,
+
+605
+00:42:58,100 --> 00:43:00,100
+ de två frågorna.
+
+606
+00:43:00,100 --> 00:43:02,100
+ Sen till Socialstyrelsen.
+
+607
+00:43:02,100 --> 00:43:04,100
+ Det har rört sig de senaste dagarna
+
+608
+00:43:04,100 --> 00:43:06,100
+ väldigt olika förklaringar och siffror
+
+609
+00:43:06,100 --> 00:43:08,100
+ om överdödligheten på äldreboendena
+
+610
+00:43:08,100 --> 00:43:10,100
+ jämfört med tidigare år.
+
+611
+00:43:10,100 --> 00:43:12,100
+ Det ska jag gärna höra mer om.
+
+612
+00:43:12,100 --> 00:43:14,100
+ Vad jämför man med överdödligheten
+
+613
+00:43:14,100 --> 00:43:16,100
+ överlag i år i Sverige?
+
+614
+00:43:16,100 --> 00:43:18,100
+ Det är ju hög.
+
+615
+00:43:18,100 --> 00:43:21,100
+ Jag tror att sambandet mellan
+
+616
+00:43:21,100 --> 00:43:23,100
+ spridningen i samhället och hur mycket introduktion
+
+617
+00:43:23,100 --> 00:43:25,100
+ man får i äldreboendet är rätt komplicerat.
+
+618
+00:43:25,100 --> 00:43:27,100
+ Vi kan se, nu i Sverige,
+
+619
+00:43:27,100 --> 00:43:29,100
+ när man har börjat jobba väldigt hårt
+
+620
+00:43:29,100 --> 00:43:31,100
+ med det på olika ställen,
+
+621
+00:43:31,100 --> 00:43:33,100
+ så ser vi en ganska snabb minskning
+
+622
+00:43:33,100 --> 00:43:35,100
+ av antal uppfäll på äldreboendet.
+
+623
+00:43:35,100 --> 00:43:37,100
+ Vilket för mig i alla fall betyder att
+
+624
+00:43:37,100 --> 00:43:39,100
+ det går att ha en ganska stor spridning
+
+625
+00:43:39,100 --> 00:43:41,100
+ i samhället och en väldigt låg spridning
+
+626
+00:43:41,100 --> 00:43:43,100
+ på äldreboendet om man har
+
+627
+00:43:43,100 --> 00:43:45,100
+ en väldigt hög nivå på säkerhet
+
+628
+00:43:45,100 --> 00:43:47,100
+ på äldreboendet.
+
+629
+00:43:47,100 --> 00:43:49,100
+ Äldreboendet behöver ha
+
+630
+00:43:49,100 --> 00:43:51,100
+ väldigt mycket besök.
+
+631
+00:43:51,100 --> 00:43:53,100
+ Oberoende om du har en hel
+
+632
+00:43:53,100 --> 00:43:55,100
+ lockdown eller vad du har
+
+633
+00:43:55,100 --> 00:43:57,100
+ så är de här personerna
+
+634
+00:43:57,100 --> 00:43:59,100
+ vårdkrävande och kräver väldigt många besök.
+
+635
+00:43:59,100 --> 00:44:01,100
+ Man behöver väldigt mycket kontakt
+
+636
+00:44:01,100 --> 00:44:03,100
+ med omvärlden, hur man än vänder ovinnen på det.
+
+637
+00:44:03,100 --> 00:44:05,100
+ Det intresserar ju en risk hela tiden.
+
+638
+00:44:05,100 --> 00:44:07,100
+ Men jag tror inte
+
+639
+00:44:07,100 --> 00:44:09,100
+ att sambandet är väldigt lätt att förstå.
+
+640
+00:44:09,100 --> 00:44:11,100
+ Det kan finnas ett, men som sagt,
+
+641
+00:44:11,100 --> 00:44:13,100
+ vad jag tycker är en erfarenheten i Sverige på sistone
+
+642
+00:44:13,100 --> 00:44:15,100
+ talar för att sambandet inte är jättestark.
+
+643
+00:44:15,100 --> 00:44:17,100
+ Tack!
+
+644
+00:44:17,100 --> 00:44:19,100
+ Då är vi klara för idag.
+
+645
+00:44:19,100 --> 00:44:21,100
+ Det är många journalister
+
+646
+00:44:21,100 --> 00:44:23,100
+ uppskrivna på listan, så det blir korta intervjuer
+
+647
+00:44:23,100 --> 00:44:25,100
+ och det blir inomhus här ute.
+
+648
+00:44:25,100 --> 00:44:27,100
+ Så ni kan vänta kvar här så
+
+649
+00:44:27,100 --> 00:44:29,100
+ kallar vi ni som vill
+
+650
+00:44:29,100 --> 00:44:31,100
+ intervjua Anders Tegnell. Tack för att ni kom hit!
+
+651
+00:44:31,100 --> 00:44:33,100
+ Tack!
+
+652
+00:44:33,100 --> 00:44:33,420
+ Över.
+
+653
+00:44:33,420 --> 00:44:34,420
+ Över.
+
+654
+00:44:34,420 --> 00:44:34,740
+ Över.
+
+655
+00:44:34,740 --> 00:44:35,420
+ Lundgren.
+
+656
+00:44:35,420 --> 00:44:35,920
+ Tack!
+

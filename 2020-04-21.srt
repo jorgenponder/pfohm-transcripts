@@ -1,0 +1,1636 @@
+1
+00:00:00,000 --> 00:00:02,000
+ Tack så mycket.
+
+2
+00:00:02,000 --> 00:00:04,000
+ Då börjar vi.
+
+3
+00:00:04,000 --> 00:00:10,000
+ Det är den 21 april och första bilden här är över världsläget.
+
+4
+00:00:10,000 --> 00:00:17,000
+ Vi har nu omkring 2,4 miljoner fall och 170 000 dödsfall i världen.
+
+5
+00:00:17,000 --> 00:00:23,000
+ Knappt en miljon av de här fallen har inträffat i Europa och 100 000 dödsfall.
+
+6
+00:00:26,000 --> 00:00:34,000
+ Om vi fokuserar på Sverige så tittar vi på diagrammet över fall som rapporteras dag för dag.
+
+7
+00:00:34,000 --> 00:00:40,000
+ Man kan se viss upphämtning efter helgen men inte så mycket.
+
+8
+00:00:40,000 --> 00:00:46,000
+ Det talar för att det här är den här platån vi pratar om.
+
+9
+00:00:46,000 --> 00:00:52,000
+ Om man tittar på den svarta linjen är det ett medelvärde av sju dagar hela tiden.
+
+10
+00:00:52,000 --> 00:01:00,000
+ Det kallas rullande medelvärde och det ger en bättre bild av utvecklingen en dag till dag som kan variera rätt mycket.
+
+11
+00:01:00,000 --> 00:01:06,000
+ Ni ser att den stannar lite innan och eftersom dagens värde är osäkert.
+
+12
+00:01:06,000 --> 00:01:10,000
+ Men där kan man också se att det ligger ganska platt ändå.
+
+13
+00:01:12,000 --> 00:01:22,000
+ Tittar vi på antal fall i Sverige och antal IVA-fall så har inte IVA-fallen rört på sig i någon stor utsträckning utan ligger kvar stabilt.
+
+14
+00:01:22,000 --> 00:01:28,000
+ Vi har 15 000 nya fall drygt anmälda.
+
+15
+00:01:28,000 --> 00:01:36,000
+ 15 000 totalt, 545 sista dygnet och 1158 personer som vårdas på IVA hittills.
+
+16
+00:01:36,000 --> 00:01:48,000
+ Om vi delar upp det på Stockholm och övriga regioner så ser vi fortfarande att det är ungefär hälften i Stockholm.
+
+17
+00:01:48,000 --> 00:01:52,000
+ Antal avlidna per dag.
+
+18
+00:01:52,000 --> 00:01:58,000
+ Då har det varit helg och nu kommer ett större antal fall in samma dag.
+
+19
+00:01:58,000 --> 00:02:02,000
+ Men egentligen är de utspridda på många dagar bakåt.
+
+20
+00:02:02,000 --> 00:02:10,000
+ De gröna staplarna som lagts till ovanpå de rosa är de nya fallen som har tillkommit.
+
+21
+00:02:10,000 --> 00:02:14,000
+ De kommer till långt bak i tiden vissa av dem.
+
+22
+00:02:14,000 --> 00:02:16,000
+ Allt eftersom de rapporteras med fördröjning.
+
+23
+00:02:16,000 --> 00:02:22,000
+ Även här har man lagt in det här rullande medelvärdet på grafen.
+
+24
+00:02:22,000 --> 00:02:30,000
+ Även här ser det ut att vara en plateau på det här svarta stäcket som har inträffat och antagligen håller i sig.
+
+25
+00:02:30,000 --> 00:02:40,000
+ Men eftersom det är sån osäkerhet bakåt så upphör den här svarta kurvan sju dagar innan.
+
+26
+00:02:40,000 --> 00:02:50,000
+ Sedan tänkte jag idag passa på att rapportera modellering av spridning av covid-19 i Stockholmsregionen.
+
+27
+00:02:50,000 --> 00:02:53,000
+ Det baseras på två källor.
+
+28
+00:02:53,000 --> 00:02:58,000
+ Dels de här rapporterade fallen som presenteras här på den dagliga konferensen varje dag.
+
+29
+00:02:58,000 --> 00:03:08,000
+ På den undersökning ni säkert kommer ihåg att vi pratade om där vi gick ut och provtog ett slumpvis urval.
+
+30
+00:03:08,000 --> 00:03:14,000
+ Det som representerar bakgrundspopulationen i Stockholm som inte sökt vård och såg hur många som var smittade.
+
+31
+00:03:14,000 --> 00:03:19,000
+ Det var ungefär 2,5 procent som var på smittan just då.
+
+32
+00:03:19,000 --> 00:03:31,000
+ Tillsammans med när man låter våra statistiker och matematiker räkna på det här så har de kommit fram till att flest nya fall i Stockholm inträffade 15 april.
+
+33
+00:03:31,000 --> 00:03:38,000
+ Redan för en knapp vecka sedan så kanske enligt den här modellen var toppen nådd.
+
+34
+00:03:38,000 --> 00:03:41,000
+ Sedan kan vi förvänta oss färre fall per dag.
+
+35
+00:03:41,000 --> 00:03:47,000
+ Men det innebär inte att smittan upphör utan bara att det kanske var toppen på den här kurvan som nåddes då.
+
+36
+00:03:47,000 --> 00:04:02,000
+ Den här modelleringen säger också att 1 maj, drygt en vecka framåt, så kan en tredjedel av Stockholms läns invånare varit infekterade.
+
+37
+00:04:02,000 --> 00:04:07,000
+ Det talar för en rätt stor... Många har utsatts före.
+
+38
+00:04:07,000 --> 00:04:15,000
+ Men man ska också komma ihåg att det betalar sig också att två tredjedelar inte haft smittan och fortfarande kan få den.
+
+39
+00:04:15,000 --> 00:04:29,000
+ Sen har vi också beräkningar från den här studien som tyder på att det går ungefär... För varje bekräftat fall så finns det 999 andra.
+
+40
+00:04:29,000 --> 00:04:37,000
+ Som inte har behövt nå vården utan är milda fall som har kunnat hanteras i hemmet.
+
+41
+00:04:37,000 --> 00:04:46,000
+ Det talar för att det är väldigt många som aldrig får en diagnos men å andra sidan så behövs det inte.
+
+42
+00:04:46,000 --> 00:04:53,000
+ Det är inte viktigt att ha en diagnos i sig utan att det är de som behöver vård som ska diagnostiseras i vården.
+
+43
+00:04:53,000 --> 00:04:55,000
+ Och vi mäter ju inte alla andra.
+
+44
+00:04:55,000 --> 00:05:05,000
+ Den här modelleringen ligger väl i linje med den som presenterades av Tom Britton i veckan.
+
+45
+00:05:05,000 --> 00:05:15,000
+ Vi tycker att det är ett bra utgångsvärde att ha som stöd i vårt arbete.
+
+46
+00:05:15,000 --> 00:05:20,000
+ Men man ska också komma ihåg att den här kan förfinas allt eftersom vi får in mer data.
+
+47
+00:05:20,000 --> 00:05:31,000
+ Som vi har nämnt så kommer vi göra en större studie över hela Sverige där vi tar in och testar hur många är sjuka just nu i ett statistiskt urval i befolkningen.
+
+48
+00:05:31,000 --> 00:05:35,000
+ Det kommer kunna göra den här uträkningen ännu mer noggrann.
+
+49
+00:05:35,000 --> 00:05:45,000
+ Liksom när vi så småningom kan göra studier på immunitet och se hur många som har haft sjukdomen genom att mäta antikroppsreaktion.
+
+50
+00:05:45,000 --> 00:05:52,000
+ Så det här kommer säkert bli bättre men det här är det utgångsvärde vi har nu baserat på de undersökningar vi gjort hittills.
+
+51
+00:05:52,000 --> 00:05:59,000
+ Allt det här syftar ju till att hjälpa oss förstå hur vi ska agera.
+
+52
+00:05:59,000 --> 00:06:06,000
+ Och det är också grunden till vår strategi.
+
+53
+00:06:06,000 --> 00:06:13,000
+ Att det hjälper oss att förstå var vi ligger i den här kurvan som vi pratar om.
+
+54
+00:06:13,000 --> 00:06:20,000
+ Vi har försökt uppnå de blå kurvorna på bilden genom att se till att sjukvården klarar av det tryck som uppstår.
+
+55
+00:06:20,000 --> 00:06:23,000
+ Och att smittspridningen därför inte går allt för fort.
+
+56
+00:06:23,000 --> 00:06:25,000
+ Än så länge så verkar det ju så.
+
+57
+00:06:25,000 --> 00:06:30,000
+ Då skulle vi kanske vara på toppen av den här ungefär.
+
+58
+00:06:30,000 --> 00:06:34,000
+ Tillsammans kan vi ju bromsa den här smittan.
+
+59
+00:06:34,000 --> 00:06:36,000
+ Och vi måste fortsätta göra det.
+
+60
+00:06:36,000 --> 00:06:45,000
+ Även om det nu känns som att vi har nått den här platån, det ökar inte längre så innebär det inte att det inte sker mycket smittspridning.
+
+61
+00:06:45,000 --> 00:06:51,000
+ Och som jag sa, två tredjedelar även enligt den här modellen är osmittade och kan ju smittas.
+
+62
+00:06:51,000 --> 00:06:55,000
+ Så det gäller fortfarande att stanna hemma även om du bara känner dig lite sjuk.
+
+63
+00:06:55,000 --> 00:06:58,000
+ Tvätta händerna med tålvatten ofta.
+
+64
+00:06:58,000 --> 00:07:03,000
+ Avstå från sociala sammanhang med större antal deltagare.
+
+65
+00:07:03,000 --> 00:07:07,000
+ Och håll avstånd till andra både inomhus och utomhus.
+
+66
+00:07:07,000 --> 00:07:09,000
+ Och avstå från onödiga resor.
+
+67
+00:07:09,000 --> 00:07:14,000
+ Och är du 70 år eller äldre så stanna hemma och undvik nära sociala kontakter.
+
+68
+00:07:14,000 --> 00:07:17,000
+ Tack så mycket.
+
+69
+00:07:17,000 --> 00:07:19,000
+ Ta.
+
+70
+00:07:19,000 --> 00:07:20,000
+ Tack.
+
+71
+00:07:20,000 --> 00:07:22,000
+ God eftermiddag.
+
+72
+00:07:22,000 --> 00:07:33,000
+ På Socialstyrelsen fortsätter arbetet med att stödja svensk vård i den enormt krävande omställning och mobilisering som faktiskt genomförs i hela landet.
+
+73
+00:07:33,000 --> 00:07:36,000
+ Låt oss inte glömma bort det.
+
+74
+00:07:36,000 --> 00:07:48,000
+ Att alla siffror som går upp i disponibla vårdplatser och allt arbete som görs bedrivs av människor som inte direkt var lediga innan den här epidemin.
+
+75
+00:07:48,000 --> 00:07:51,000
+ Och de kommer nog inte vara lediga efter den här heller.
+
+76
+00:07:51,000 --> 00:08:01,000
+ Precis som resten av samhället och det väldiga arbetet som genomförts i både regioner och kommuner så ställer vi på Socialstyrelsen kontinuerligt om.
+
+77
+00:08:01,000 --> 00:08:10,000
+ Vi stärker vår organisation för att fortsätta och kontinuerligt kunna möta nya behov, nya risker och ny belastning med rätt åtgärder i rätt tid.
+
+78
+00:08:10,000 --> 00:08:21,000
+ Det stöd som vi får från bland annat Försvarsmakten, Försvarsmaterialverket, MSB, Läkemedelsverket, Ivo och flera, flera aktörer.
+
+79
+00:08:21,000 --> 00:08:28,000
+ Det stärker vår förmåga att tillsammans kunna hantera den här epidemin och konsekvenserna på bästa sätt.
+
+80
+00:08:28,000 --> 00:08:32,000
+ Både här och nu men också över tid.
+
+81
+00:08:32,000 --> 00:08:44,000
+ De kunskapsstöd, riktlinjer och utbildningspaket som Socialstyrelsen har tagit fram är just framtagna för att stödja arbetsgivare och vårdgivare.
+
+82
+00:08:44,000 --> 00:08:51,000
+ Så att de i sin tur kan stärka sin personal och omhänderta sina patienter.
+
+83
+00:08:51,000 --> 00:09:00,000
+ Det betyder att vi, även om vi inte pekar med hela handen eller beordrar eller kommer fram med nya lagar och förordningar,
+
+84
+00:09:00,000 --> 00:09:06,000
+ så förutsätter vi att man nyttjar de kunskapsstöd och utbildningspaket som finns tillgängliga.
+
+85
+00:09:06,000 --> 00:09:11,000
+ Och därmed säkerställer att det finns en följsamhet.
+
+86
+00:09:11,000 --> 00:09:16,000
+ Hur man exempelvis upprätthåller god vårdhygien för att skydda våra sköra.
+
+87
+00:09:16,000 --> 00:09:26,000
+ Men också att den skyddsutrustning som är till för att skydda personal mot smitta inte används felaktigt utan används för att skydda personal.
+
+88
+00:09:26,000 --> 00:09:38,000
+ Det finns en diskrepans mellan vad man tror vårdhygien betyder, vilken skyddsutrustning som ska användas i vilket tillfälle.
+
+89
+00:09:38,000 --> 00:09:48,000
+ Skyddsutrustning och andningsskydd är till för att personalen inte ska bli smittad av smittade patienter.
+
+90
+00:09:48,000 --> 00:09:52,000
+ Patienten med bekräftad eller missnänk Covid-19.
+
+91
+00:09:52,000 --> 00:10:00,000
+ Tvärtom, vårdhygieniska rutiner är till för att skydda våra sköra och de som är i riskgrupperna.
+
+92
+00:10:00,000 --> 00:10:11,000
+ Det finns väldigt goda exempel på det här i landet och jag hoppas att de lyfts fram ännu mer om hur man arbetar enligt de här rutinerna.
+
+93
+00:10:11,000 --> 00:10:16,000
+ Att säkra tillgång till skyddsutrustning är en fortsatt utmaning.
+
+94
+00:10:16,000 --> 00:10:28,000
+ Även om vissa artiklar nu är med de kvantiteter så att de inte behöver prioriteras mellan regioner eller mellan regioner och de länsstyrelser som samordnar sina kommuners behov.
+
+95
+00:10:28,000 --> 00:10:33,000
+ Exempel på det här har vi lyft tidigare, handsprit exempelvis.
+
+96
+00:10:33,000 --> 00:10:44,000
+ Handskar behöver vi inte prioritera men så finns det andra typer av skyddsutrustning som fortfarande på grund av den globala bristsituationen är svår att säkerställa.
+
+97
+00:10:44,000 --> 00:10:46,000
+ Men vi fortsätter.
+
+98
+00:10:46,000 --> 00:10:52,000
+ Regionernas omställningsarbete för att tillskapa fler disponibla intensivvårdsplatser.
+
+99
+00:10:52,000 --> 00:11:03,000
+ Jag påminner om att en disponibel vårdplats är inte bara en plats med respirator och en yta utan det finns också en personal som kan arbeta på den här vårdplatsen.
+
+100
+00:11:03,000 --> 00:11:08,000
+ Den fortsätter i samma takt, ungefär samma takt.
+
+101
+00:11:08,000 --> 00:11:12,000
+ Dagens siffra är 1125.
+
+102
+00:11:12,000 --> 00:11:23,000
+ Och för inneliggande på intensivvården med anledning av covid-19 är dagens siffra 533.
+
+103
+00:11:23,000 --> 00:11:28,000
+ Igår var den 543, dagen innan 545.
+
+104
+00:11:28,000 --> 00:11:32,000
+ Vi kommer inte dra några konklusioner om att det här kommer stanna av.
+
+105
+00:11:32,000 --> 00:11:46,000
+ Vi ser trender men vi fortsätter kvalitetssäkra siffrorna och också komma fram till mer data om vad siffrorna betyder när det gäller hur personerna faktiskt mår.
+
+106
+00:11:46,000 --> 00:11:56,000
+ Där ingår det bland annat behovet av rehabilitering och andra typer av åtgärder när du skrivs ut från IVA.
+
+107
+00:11:56,000 --> 00:12:02,000
+ Det här är bland annat kunskapssätt som vi tittar på just nu och som kommer kunna presenteras framöver.
+
+108
+00:12:02,000 --> 00:12:18,000
+ Jag ska också nämna att den här arbetsgruppen och det arbetet som har genomförts för sjuktransport och med stöd av Försvarsmakten och Försvarsmaktens helikopter för sekundärtransporter av IVA-patienter.
+
+109
+00:12:18,000 --> 00:12:20,000
+ Det är driftstart den här veckan.
+
+110
+00:12:20,000 --> 00:12:26,000
+ Det kommer gå i tre olika omgångar så där är vi väldigt glada för att det är i mål.
+
+111
+00:12:26,000 --> 00:12:42,000
+ Men också den nationella samordningen som vi har tryckt på väldigt länge för även om IVA-belastningen nationellt ser ut att vara ganska plan den här veckan så är det en stor diskrepans fortfarande i landets olika regioner.
+
+112
+00:12:42,000 --> 00:12:50,000
+ Där är vi väldigt glada att det nu finns en nationell koordineringsgrupp som är operativ från och med i går eller idag.
+
+113
+00:12:50,000 --> 00:13:08,000
+ Den utgår då från de sex sjukvårdsregionerna och det är då inte att blanda ihop med de 21 regionerna, de sex sjukvårdsregionerna som omhändertar samordningen och koordineringen för de ingående regioner i den sjukvårdsregionen.
+
+114
+00:13:08,000 --> 00:13:10,000
+ Jag stannar där. Tack!
+
+115
+00:13:12,000 --> 00:13:20,000
+ Hej på er! Myndigheten för samhällsskydd och beredskap. Vårt arbete fortsätter självklart men just idag har vi inget speciellt nytt att berätta.
+
+116
+00:13:20,000 --> 00:13:30,000
+ Så jag finns tillgänglig att svara på frågor om ni har sådana och framförallt då frågor som inte är under Folkhälsomyndighetens eller Socialstyrelsens ansvar.
+
+117
+00:13:30,000 --> 00:13:35,000
+ Tack! Då tar vi frågorna. Ska vi börja ekot här?
+
+118
+00:13:35,000 --> 00:13:54,000
+ Hej! Nao Milomot Berisha från Ekot här. Jag tänkte börja med att fråga om Danmark som kan komma att tillåta folksamlingar på upp till 500 personer efter 11 maj meddelade man idag.
+
+119
+00:13:54,000 --> 00:13:57,000
+ Är det något som ni också överväger?
+
+120
+00:13:57,000 --> 00:14:13,000
+ Nej inte i nuläget. Vi har inga planer på det just nu. Vi håller på att titta på när det kan vara aktuellt med olika lättnader och vilka man i så fall ska göra först.
+
+121
+00:14:13,000 --> 00:14:22,000
+ Men som ni ser vi är inne på en plateau. Det är inte så att det här är faran över. Vi ligger ju också på en annan nivå än vad Danmark gör redan i och med att vi har skolor öppna och affärer och liknande.
+
+122
+00:14:22,000 --> 00:14:30,000
+ Så det är ett annat läge. Vi har inte lika bråttom att göra den här typen av saker medan de är ett annat läge.
+
+123
+00:14:30,000 --> 00:14:43,000
+ Jag tänkte också fråga EU-kommissionens ordförande Ursula von der Leyen pratade om att resande i sommar kommer att vara möjligt. Hur reagerade ni när ni hörde det? Vad tänker ni om den möjligheten?
+
+124
+00:14:43,000 --> 00:14:53,000
+ Jag tycker personligen och mina kollegor också tycker att det är ganska svårt att se att man redan nu kan säga att det är ett så bra läge att man kan resa i sommar.
+
+125
+00:14:53,000 --> 00:15:03,000
+ Joakim Karpner, Aftonbladet har två frågor. Det första du säger är att dödsfallen ligger på en plateau nu. När kan de börja vända neråt?
+
+126
+00:15:03,000 --> 00:15:12,000
+ Dödsfallen är ju en längre eftersläpning eftersom de först ska bli ordentligt sjuka innan man tyvärr avlider ibland.
+
+127
+00:15:12,000 --> 00:15:23,000
+ Den kommer att släpa efter den kurvan. Riktigt när den vänder neråt vet jag inte. Det är inte så att fallkurvan har vänt neråt heller. Så vi är inte där än.
+
+128
+00:15:23,000 --> 00:15:32,000
+ Den 5 april sa Karin Tegmark-Wiesell på Folkets myndighet att inom några veckor vill vi kunna testa 100 000 personer i veckan.
+
+129
+00:15:32,000 --> 00:15:39,000
+ Nu har det gått två veckor och förra veckan analyserades 20 000 prover. När blir det verklighet med 100 000 prover?
+
+130
+00:15:39,000 --> 00:15:55,000
+ Vad jag förstår så har kapaciteten byggts upp så att fler och fler laboratorier kopplas in. Dels har inte antalet analyser i vården ökat i den omfattning det kanske har kunnat.
+
+131
+00:15:55,000 --> 00:16:11,000
+ Men också att den här typen av kapacitet kan bli lite av en catch up-effekt när mycket plötsligt kommer till. När alla steg i en lång process som krävs för att man ska kunna ansluta ett nytt labb med allt vad rutiner för provtagning och analys och medel av provsvar och liknande.
+
+132
+00:16:11,000 --> 00:16:20,000
+ När allt det är på plats så frigörs mycket. Strategin presenterades i fredags och det kommer ju nu hända inom den närmaste tiden.
+
+133
+00:16:20,000 --> 00:16:25,000
+ Men det går nog lite långsammare i början för att sen öka rätt rejält.
+
+134
+00:16:25,000 --> 00:16:35,000
+ Mia Holmgren, Dagens Nyheter. Fråga till Folkhälsomyndigheten. Du sa att det är ett bekräftat fall av covid-19 per 1000 tester.
+
+135
+00:16:35,000 --> 00:16:41,000
+ Betyder det att de andra har så lindriga symptom att de inte märker av dem?
+
+136
+00:16:41,000 --> 00:16:51,000
+ Nej, inte nödvändigtvis. Snarare att de är hemma och förkylda. Det är väl många av dem som är. De har inte behövt söka vård eller inte gjort det i alla fall.
+
+137
+00:16:51,000 --> 00:16:58,000
+ Hur många skulle ni säga har så lindriga symptom att de inte märker någonting?
+
+138
+00:16:58,000 --> 00:17:09,000
+ Den är ju svårare att veta eftersom då måste man nästan ha svar från de här serologiska studierna och veta att den personen verkligen inte haft symptom när den personen var sjuk.
+
+139
+00:17:09,000 --> 00:17:14,000
+ De uppgifterna har vi inte om exakt hur stor den delen är under svenska förhållanden.
+
+140
+00:17:14,000 --> 00:17:21,000
+ Ofta har man också i sådana undersökningar efterhand förstått att man kanske hade milda symptom och liknande när man har gått djupare på det.
+
+141
+00:17:21,000 --> 00:17:27,000
+ Det är klart att det är en fin gräns, men man har väldigt små, väldigt vaga symptom och inga alls.
+
+142
+00:17:27,000 --> 00:17:31,000
+ Men att många har väldigt lindriga symptom, det är inget tvivl om det.
+
+143
+00:17:31,000 --> 00:17:42,000
+ Göran Spolander, TT här. Till Socialstyrelsen pratar man om det är en fortsatt utmaning att hålla ett lag med skyddsutrustning och ha beredskap där.
+
+144
+00:17:42,000 --> 00:17:48,000
+ Vad är det nu för typ av skyddsutrustning som det framför allt är svårt att få fram?
+
+145
+00:17:48,000 --> 00:17:56,000
+ Just nu så har vi brist på skyddsoberålar, långärmade och plockar har varit svårt att få tag på.
+
+146
+00:17:56,000 --> 00:18:02,000
+ Med rätt kvalitet, rätt C-märkning och rätta tester.
+
+147
+00:18:02,000 --> 00:18:12,000
+ Det betyder inte att det inte är beställningar lagda, utan det har varit på väg på ingång och så har det inte dykt upp helt enkelt.
+
+148
+00:18:12,000 --> 00:18:33,000
+ När det gäller andningsskydden, FFP2 och framförallt FFP3 som är den andningsskydden som alla skriker efter, så har vi stora förhoppningar om större leveranser i närtid.
+
+149
+00:18:33,000 --> 00:18:43,000
+ De är inte slut, de fördelas fortfarande, men där är det fortfarande baserat på den kritiska påverkan, 24-48 timmars behovet.
+
+150
+00:18:43,000 --> 00:18:52,000
+ Fråga till MSB, ni fick i uppdrag att ta fram en app för smittspridningsspårning i slutet av mars.
+
+151
+00:18:52,000 --> 00:18:56,000
+ Den har inte kommit fram, men varför går det så trögt?
+
+152
+00:18:56,000 --> 00:19:04,000
+ Vi har det mesta på plats, det handlar om att förankra och vi har ett gott samarbete med Folkhälsomyndigheten och Socialstyrelsen.
+
+153
+00:19:04,000 --> 00:19:09,000
+ Så när kommer den?
+
+154
+00:19:09,000 --> 00:19:13,000
+ Så fort det bara går, så fort vi är klara så kommer vi att komma ut med den.
+
+155
+00:19:13,000 --> 00:19:14,000
+ En vecka?
+
+156
+00:19:14,000 --> 00:19:21,000
+ Vi har satt tider tidigare och nu lär man sig av erfarenhet att det är bättre att ha det förankrat och klart.
+
+157
+00:19:21,000 --> 00:19:24,000
+ Sen går vi ut och berättar tillsammans hur det kommer att bli.
+
+158
+00:19:24,000 --> 00:19:26,000
+ Men innan pandemin är över?
+
+159
+00:19:26,000 --> 00:19:30,000
+ Det hoppas jag verkligen, annars kommer det inte finnas någon anledning att göra.
+
+160
+00:19:30,000 --> 00:19:38,000
+ Ritva Rönnberg, TV4, jag har några frågor fram till Anders Wallenstern.
+
+161
+00:19:38,000 --> 00:19:50,000
+ En av dina företrädare, Johan Giesecke, har pratat om att 99% av befolkningen kommer att bli smittad.
+
+162
+00:19:50,000 --> 00:19:54,000
+ Det kommer vi inte att märka i de allra flesta fall.
+
+163
+00:19:54,000 --> 00:19:56,000
+ Vad säger du om det uttalandet?
+
+164
+00:19:56,000 --> 00:20:02,000
+ Han gjorde ett uttalande i SVT och han är citerad sedan i TT idag.
+
+165
+00:20:02,000 --> 00:20:04,000
+ Det kan jag inte kommentera.
+
+166
+00:20:04,000 --> 00:20:10,000
+ Menar han kanske att folk har milda symptom och inte kan säkert säga att det är covid?
+
+167
+00:20:10,000 --> 00:20:12,000
+ Jag kan inte riktigt veta exakt vad han har sagt.
+
+168
+00:20:12,000 --> 00:20:22,000
+ Han har bland annat sagt att redan nu säger han att studierna visar att 500 000 stockholmare har redan haft det här.
+
+169
+00:20:22,000 --> 00:20:24,000
+ De flesta utan att känna till det.
+
+170
+00:20:24,000 --> 00:20:26,000
+ Är det en siffra som du är med på?
+
+171
+00:20:26,000 --> 00:20:30,000
+ Ja, utan att ha sökt för det och fått en diagnos.
+
+172
+00:20:30,000 --> 00:20:32,000
+ På så sätt känner man inte till det.
+
+173
+00:20:32,000 --> 00:20:35,000
+ Man vet kanske inte att man har haft just den förkylningen eller den smittan.
+
+174
+00:20:35,000 --> 00:20:37,000
+ Det är nog det han menar skulle jag gissa.
+
+175
+00:20:37,000 --> 00:20:43,000
+ Det kan stämma med att en tredjedel 1 maj kommer att ha varit smittade i Stockholmsregionen.
+
+176
+00:20:43,000 --> 00:20:45,000
+ Sedan har jag en fråga.
+
+177
+00:20:45,000 --> 00:20:49,000
+ De här testen som skulle gå iväg till 100 000 personer.
+
+178
+00:20:49,000 --> 00:20:53,000
+ Vi har fått uppgifter till redaktionen att de har gått iväg.
+
+179
+00:20:53,000 --> 00:20:58,000
+ Förlåt, tester som ska gå iväg till 100 000 personer?
+
+180
+00:20:58,000 --> 00:21:00,000
+ Var det inte 100 000 tester?
+
+181
+00:21:00,000 --> 00:21:03,000
+ Vi ska ha kapacitet att hantera 100 000 tester i veckan.
+
+182
+00:21:03,000 --> 00:21:06,000
+ Är det den siffran du är ute efter?
+
+183
+00:21:06,000 --> 00:21:08,000
+ Ja, det är någon typ av studie i alla fall.
+
+184
+00:21:08,000 --> 00:21:15,000
+ De som har fått testkit nu ska tydligen hämta ut dem på posten eller postombud.
+
+185
+00:21:15,000 --> 00:21:17,000
+ Stämmer det?
+
+186
+00:21:17,000 --> 00:21:20,000
+ Det här är inte en studie jag känner till från Folkhälsomyndigheten.
+
+187
+00:21:20,000 --> 00:21:22,000
+ Det måste vara någon annan som ligger bakom.
+
+188
+00:21:22,000 --> 00:21:24,000
+ Kan det vara något fel? Fel uppgifter?
+
+189
+00:21:24,000 --> 00:21:25,000
+ Jag känner inte till den.
+
+190
+00:21:25,000 --> 00:21:29,000
+ Hur många döda var det i dag? Jag missade den uppgiften.
+
+191
+00:21:29,000 --> 00:21:31,000
+ Jag har inte den exakta siffran.
+
+192
+00:21:31,000 --> 00:21:36,000
+ Det var ett flertal döda men de var uppdelade på många dagar.
+
+193
+00:21:36,000 --> 00:21:38,000
+ Under de senaste dagarna eftersom det har varit helg.
+
+194
+00:21:38,000 --> 00:21:40,000
+ Det är en viss efterrapportering.
+
+195
+00:21:40,000 --> 00:21:43,000
+ I går rapporterade det inte så högt.
+
+196
+00:21:43,000 --> 00:21:49,000
+ Vi rapporterade väldigt lågt igår och nu kom det knappt 200.
+
+197
+00:21:49,000 --> 00:21:51,000
+ Det har vi absolut.
+
+198
+00:21:51,000 --> 00:21:54,000
+ Den finns på stapeln men jag har den inte i huvudet så just dagens.
+
+199
+00:21:54,000 --> 00:21:57,000
+ Däremot är det en klump som man vill presentera idag.
+
+200
+00:21:57,000 --> 00:21:59,000
+ Men vi kan titta på stapeln tillsammans så får vi det exakt.
+
+201
+00:21:59,000 --> 00:22:06,000
+ Daniel Rigmor, Expressen. Du sa att den 15 april var det väldigt många som insjuknade.
+
+202
+00:22:06,000 --> 00:22:13,000
+ Innebär det här att ni förväntar er någon slags topp den 6 maj i början på maj i antalet dödsfall?
+
+203
+00:22:13,000 --> 00:22:15,000
+ Kan du säga något om hur många det kan handla om?
+
+204
+00:22:15,000 --> 00:22:20,000
+ Det är klart att dödsfall är kopplade i tid till hur många som smittas.
+
+205
+00:22:20,000 --> 00:22:22,000
+ Men det beror också på var smittan sker.
+
+206
+00:22:22,000 --> 00:22:27,000
+ Är det drabbade de grupper som riskerar att avlida den här sjukdomen?
+
+207
+00:22:27,000 --> 00:22:29,000
+ Det kan ju variera lite.
+
+208
+00:22:29,000 --> 00:22:32,000
+ Vi vet att vi haft smittspridning på äldreboende och liknande.
+
+209
+00:22:32,000 --> 00:22:36,000
+ Vi hoppas att de åtgärder som görs påverkar det.
+
+210
+00:22:36,000 --> 00:22:40,000
+ Riktigt exakt när den toppen kommer vet jag inte.
+
+211
+00:22:40,000 --> 00:22:43,000
+ Men att det kommer att vara en förskjutning på några veckor, det skulle jag säga.
+
+212
+00:22:43,000 --> 00:22:51,000
+ Mia Pettersson, Göteborgs Post. En fråga till Anders.
+
+213
+00:22:51,000 --> 00:22:59,000
+ Igår sa Anders Tegnell att det inte bara är flockimmunitet och huruvida man kan lätta på restriktioner.
+
+214
+00:22:59,000 --> 00:23:02,000
+ Att det inte bara är flockimmunitet som kommer påverka det.
+
+215
+00:23:02,000 --> 00:23:05,000
+ Vad är det mer för sak som spelar in?
+
+216
+00:23:05,000 --> 00:23:07,000
+ Det är en bra poäng.
+
+217
+00:23:07,000 --> 00:23:15,000
+ Det är viktigt att komma ihåg att även om vi får en nedgång i fall, det beror inte bara på att folk blir immuna.
+
+218
+00:23:15,000 --> 00:23:19,000
+ Det beror också på att vi har de här restriktionerna och upprätthåller dem.
+
+219
+00:23:19,000 --> 00:23:27,000
+ Kombinationen av restriktioner och antal immuna i samhället som gör att viruset får svårt att smitta vidare.
+
+220
+00:23:27,000 --> 00:23:29,000
+ Det är två faktorer.
+
+221
+00:23:29,000 --> 00:23:36,000
+ Sen finns det en tredje osäkerhetsfaktor om väder, klimatet, ändrat beteende i samband med sommar och liknande också påverkar.
+
+222
+00:23:36,000 --> 00:23:40,000
+ Det vet vi inte än, men om man tänker liket med andra virus så kan det vara så.
+
+223
+00:23:40,000 --> 00:23:44,000
+ Det kan vara flera orsaker som påverkar att smittan går ner.
+
+224
+00:23:44,000 --> 00:23:55,000
+ Men det viktiga är att komma ihåg att så länge det finns många som inte har smittats kvar i samhället så finns risken att smittan kommer tillbaka så småningom.
+
+225
+00:23:55,000 --> 00:23:58,000
+ Det är något som man inte ska glömma.
+
+226
+00:23:58,000 --> 00:24:01,000
+ Om man lättar på restriktioner så kan smittspridningen öka igen.
+
+227
+00:24:01,000 --> 00:24:10,000
+ Så länge man inte har sån flockimmunitet som du pratar om, där det är så pass många som redan har haft smittan, att viruset statistiskt sett inte lyckas smitta fler.
+
+228
+00:24:10,000 --> 00:24:21,000
+ I och med att man ligger före med flockimmuniteten här i Stockholm, kan det bli en situation där man lättar på restriktionerna tidigare här eller kommer det att ske nationellt?
+
+229
+00:24:21,000 --> 00:24:26,000
+ Det är också en jättebra poäng. Vi har ett väldigt Stockholmsfokus nu på den här presentationen.
+
+230
+00:24:26,000 --> 00:24:29,000
+ Det är ju för att epidemin framför allt är här.
+
+231
+00:24:29,000 --> 00:24:33,000
+ Men det är inte en garanti för att det inte kommer skjuta fart i andra delar av landet.
+
+232
+00:24:33,000 --> 00:24:39,000
+ Därför har vi än så länge de här restriktionerna för hela landet.
+
+233
+00:24:39,000 --> 00:24:43,000
+ Vi kommer att titta på om det kan gå att regionaliseras, men jag är inte säker på det.
+
+234
+00:24:43,000 --> 00:24:49,000
+ En sak som är viktig nu, just när vi har sån här skillnad i spridning, är att det faktiskt är rimligt att hålla smittan.
+
+235
+00:24:49,000 --> 00:24:57,000
+ Så att vi inte... Att man håller igen med resor till exempel från Stockholm ut i landet för att minska risken för att det tar fart på andra ställen.
+
+236
+00:24:57,000 --> 00:25:03,000
+ Så det kan bli att man kan sitta i sommar, kan man sitta på utserveringar i Stockholm, men inte i Göteborg?
+
+237
+00:25:03,000 --> 00:25:06,000
+ Jag vågar inte säga än så länge hur vi väljer att lätta på det.
+
+238
+00:25:06,000 --> 00:25:12,000
+ Men vi tittar ju på alla alternativ nu och hur situationen ser ut i landet är ju en faktor.
+
+239
+00:25:12,000 --> 00:25:18,000
+ Jag tänkte just ställa frågan, hur ser det ut i övriga landet? Har ni gjort några modelleringar för Göteborg eller andra ställen?
+
+240
+00:25:18,000 --> 00:25:21,000
+ Det har inte gjorts på samma sätt.
+
+241
+00:25:21,000 --> 00:25:27,000
+ Nästa vecka kommer resultaten av den Sveriges studien.
+
+242
+00:25:27,000 --> 00:25:33,000
+ Vi har tittat och fått ett mätvärde på hur mycket smittspridning det är i resten av landet också, vid en viss tidpunkt.
+
+243
+00:25:33,000 --> 00:25:36,000
+ Utifrån det kan man sen göra den här typen av modeller också.
+
+244
+00:25:36,000 --> 00:25:41,000
+ Så vi får avvakta det. Vi har inte den data så vi kan göra en likadan än så länge. Tack.
+
+245
+00:25:41,000 --> 00:25:43,000
+ Niklas Svensson Expressen här.
+
+246
+00:25:43,000 --> 00:25:46,000
+ På samma tema där, det geografiska.
+
+247
+00:25:46,000 --> 00:25:55,000
+ Jag undrar om det kan bli aktuellt att öppna gymnasieskolorna i Stockholm innan man öppnar dem på andra ställen i landet?
+
+248
+00:25:55,000 --> 00:26:05,000
+ Det är också en bra fråga. Instinktivt tänker jag att det kanske är att man öppnar det samtidigt i hela landet.
+
+249
+00:26:05,000 --> 00:26:09,000
+ Men vi är inte där än. Vi kommer ha diskussioner med Skolverket bland annat.
+
+250
+00:26:09,000 --> 00:26:13,000
+ Det har varit mycket frågor kring skolsläpp och liknande.
+
+251
+00:26:13,000 --> 00:26:15,000
+ Vi kommer diskutera de här sakerna och se vad vi kan göra.
+
+252
+00:26:15,000 --> 00:26:20,000
+ Men det är ju en fråga om framförallt hur smittspridningen ser ut.
+
+253
+00:26:20,000 --> 00:26:27,000
+ Jag tror att i första hand så är mitt tips att det kommer att vara regler som gäller hela landet.
+
+254
+00:26:27,000 --> 00:26:34,000
+ Ni säger nu att ni tror att en tredjedel av stockholmarna kommer att ha varit infekterade.
+
+255
+00:26:34,000 --> 00:26:38,000
+ Det handlar om 6-700 000 stockholmare.
+
+256
+00:26:38,000 --> 00:26:45,000
+ Har ni någon koll på hur skillnaderna ser ut i åldersgrupper bland dessa?
+
+257
+00:26:45,000 --> 00:26:54,000
+ Jag har inte bakgrundsdata till det. Vi har ju från de fall som vi presenterar här och som finns på vår hemsida.
+
+258
+00:26:54,000 --> 00:26:55,000
+ Men det är de som har nått vården.
+
+259
+00:26:55,000 --> 00:27:04,000
+ Ålderstrukturen ute i samhället kan man delvis titta på utifrån det här slumpvisa urvalet som vi gjorde den andra studien.
+
+260
+00:27:04,000 --> 00:27:08,000
+ Men det är tyvärr för litet än så länge för att kunna uttala sig om enskilda åldersgrupper.
+
+261
+00:27:08,000 --> 00:27:15,000
+ Det kommer vi nog att veta mer om när vi gör de här serologiska studierna och tittar framöver.
+
+262
+00:27:15,000 --> 00:27:21,000
+ Jag ska säga också Lisa Brauer som har gjort den här studien. Hon finns och kan bli intervjuad efteråt.
+
+263
+00:27:21,000 --> 00:27:24,000
+ Vi har en fråga från Euronews.
+
+264
+00:27:24,000 --> 00:27:30,000
+ Hej, det är jag från Euronews. Jag har en fråga för Anas.
+
+265
+00:27:30,000 --> 00:27:40,000
+ Det är en stor fråga, men om du skulle förklara vad som är den stora strenga eller fördelen av Sveriges Covid-19-strategi
+
+266
+00:27:40,000 --> 00:27:47,000
+ att fokusera på att skydda det svaga, främst, utan att släppa landet ner som vi sett i andra länder.
+
+267
+00:27:47,000 --> 00:27:50,000
+ Kan du berätta lite om det? Tack.
+
+268
+00:27:50,000 --> 00:27:53,000
+ Ja, som du säger är det en stor fråga.
+
+269
+00:27:53,000 --> 00:28:03,000
+ Men om du tittar på fördelarna, så är det att de mer volatila restriktionerna kan upphållas längre.
+
+270
+00:28:03,000 --> 00:28:10,000
+ Om du släpper samhället helt, så är det förstås mer stress på ekonomin, etc.
+
+271
+00:28:10,000 --> 00:28:20,000
+ Men det är lite mörkt i det här sättet, vilket betyder att det är mer accepterat av folk i allmänhet.
+
+272
+00:28:20,000 --> 00:28:24,000
+ Och jag tror också att det är mer effektivt i det här sättet.
+
+273
+00:28:24,000 --> 00:28:29,000
+ Så det är en kombination av dem. Tack.
+
+274
+00:28:29,000 --> 00:28:32,000
+ The Local.
+
+275
+00:28:32,000 --> 00:28:37,000
+ Det ska finnas med, som pratar svenska tror jag.
+
+276
+00:28:37,000 --> 00:28:41,000
+ Hejsan, Emma Löfven från The Local här.
+
+277
+00:28:41,000 --> 00:28:45,000
+ Jag har två frågor till Anders Wallenstern.
+
+278
+00:28:45,000 --> 00:28:54,000
+ Socialminister Lena Hallengren nämnde social distansering vid en presskonferens den 24 mars.
+
+279
+00:28:54,000 --> 00:29:02,000
+ Vad jag vet var att det var första gången vi hörde någon ansvarig i Sverige prata om social distansering som koncept.
+
+280
+00:29:02,000 --> 00:29:10,000
+ Vi frågade Folkhälsomyndigheten vad rekommendationerna för det var, och fick svaret att det inte fanns några sådana rekommendationer.
+
+281
+00:29:10,000 --> 00:29:18,000
+ Nu däremot ser jag ett råd överallt från diverse myndigheter om att man ska hålla avståndet i tvåmetersrägen, och så vidare.
+
+282
+00:29:18,000 --> 00:29:28,000
+ Så vad jag undrar är varför ansågs sådana råd om att hålla avståndet inte behövas tidigare, vart ansett ska det behövas nu?
+
+283
+00:29:28,000 --> 00:29:40,000
+ Vår strategi har varit att lägga till de åtgärder som ansett behövs vid en viss tidpunkt i smittspridningsskedet.
+
+284
+00:29:40,000 --> 00:29:47,000
+ Det är i förhållande till det som de allmänna råden om social distansering kom till.
+
+285
+00:29:47,000 --> 00:29:51,000
+ Kanske lite senare i vårt land än i andra länder.
+
+286
+00:29:51,000 --> 00:29:55,000
+ Men som sagt, det har varit vår ambition.
+
+287
+00:29:55,000 --> 00:30:01,000
+ Min andra fråga handlar också om social distansering kan man säga.
+
+288
+00:30:01,000 --> 00:30:12,000
+ Chefen för den danska motsvarigheten till Folkhälsomyndigheten sa vi i en presskonferens igår att det är bra att fortsätta ha sex trots smittorisken vid närkontakt.
+
+289
+00:30:12,000 --> 00:30:19,000
+ Det kanske låter som en liten oseriös fråga, men vi har en hel del läsare som är singlar och undrar över detta.
+
+290
+00:30:19,000 --> 00:30:27,000
+ Är det okej att fortsätta det och inte ha sex? Jag undrar hur Folkhälsomyndigheten ser på den saken.
+
+291
+00:30:27,000 --> 00:30:35,000
+ Ja, det är väl en svår fråga. Vi har ju som sagt, social distansering är en av faktorerna.
+
+292
+00:30:35,000 --> 00:30:39,000
+ Sen har vi ju inom nära relationer är det en annan sak.
+
+293
+00:30:39,000 --> 00:30:49,000
+ Om man är i ett förhållande och liknande. Men vi undviker ju folksamlingar framför allt och resor.
+
+294
+00:30:49,000 --> 00:30:53,000
+ Det är de allmänna råden framför allt som gäller.
+
+295
+00:30:53,000 --> 00:30:57,000
+ Ja, Ekot finns med också.
+
+296
+00:30:57,000 --> 00:31:05,000
+ Sven Karlsson här på Ekot. En fråga till MSB om den nationella enkäten ni förbereder.
+
+297
+00:31:05,000 --> 00:31:09,000
+ När man pratar om en app så tror jag att det är det de menar. Ni får gärna klargöra det också.
+
+298
+00:31:09,000 --> 00:31:16,000
+ Men Amazon har ju varit aktuella som molnleverantörer där. Det var er bild häromdagen.
+
+299
+00:31:16,000 --> 00:31:23,000
+ Senare har ni inte velat kommentera det. Så jag undrar, är Amazon uteslutna som leverantörer?
+
+300
+00:31:23,000 --> 00:31:31,000
+ Och sen undrar jag också hur ni ser på riskerna med att lagra data hos företag utanför Europa?
+
+301
+00:31:31,000 --> 00:31:35,000
+ Ja, det är ju en massa frågor. Och vi kommer ju komma fram till när vi har testat det här.
+
+302
+00:31:35,000 --> 00:31:38,000
+ Vi kommer ju göra en pilot ihop och så.
+
+303
+00:31:38,000 --> 00:31:43,000
+ Nej, Amazon är inte uteslutna. Men det betyder inte att data kommer lagras utanför Sverige.
+
+304
+00:31:43,000 --> 00:31:51,000
+ För det är ju tanken. Att vi ska inte släppa iväg våra data någon annanstans än innanför vårt landsgränser.
+
+305
+00:31:51,000 --> 00:32:01,000
+ Men exakt detaljer får vi återkomma till när vi är redo och är klara med förankringsarbetet oss emellan och tillsammans med andra aktörer som är inblandade.
+
+306
+00:32:01,000 --> 00:32:05,000
+ Dagens utsättningar. Ja, hade du en följdfråga där?
+
+307
+00:32:05,000 --> 00:32:12,000
+ Jag tänker väl på att det finns de som menar att amerikanska företag till exempel lyder under amerikansk lagstiftning
+
+308
+00:32:12,000 --> 00:32:19,000
+ och att det finns en konflikt här mellan vad som tillåts inom EU och Sverige och andra länder. Hur ser ni på det?
+
+309
+00:32:19,000 --> 00:32:29,000
+ Vi ser mycket allvarligt på integriteten. I det här arbetet handlar det om att rädda liv och hälsa, upprätthålla samhällets funktionalitet och de grundläggande värderingarna.
+
+310
+00:32:29,000 --> 00:32:38,000
+ Demokrati, mänskliga fri- och rättigheter. Integritet är en alldeles helt avgörande fråga för alla oss tre och myndigheter generellt som jobbar med de här sakerna.
+
+311
+00:32:38,000 --> 00:32:40,000
+ Det handlar ju om att se till att säkra det.
+
+312
+00:32:40,000 --> 00:32:46,000
+ Svaret är att vi inte tänker göra någonting som på något sätt äventyrar något av samhällets mål för säkerheten.
+
+313
+00:32:46,000 --> 00:32:51,000
+ Som är de där tre. Liv och hälsa, samhällets funktionaliteter och grundläggande värderingarna.
+
+314
+00:32:51,000 --> 00:32:57,000
+ Vi vill ha ett samhälle som klarar av att hantera såväl demokrati som människors liv och hälsa.
+
+315
+00:32:57,000 --> 00:32:59,000
+ Dagens Etsättra.
+
+316
+00:32:59,000 --> 00:33:10,000
+ Hej, Sam Linderoth från Dagens Etsättra här. Jag har ett par frågor till Anders Wallensten.
+
+317
+00:33:10,000 --> 00:33:24,000
+ Världshälsoorganisationen gick ut igår och sa att oväntat få personer i andra länder har påvisat antikroppar mot covid-19.
+
+318
+00:33:24,000 --> 00:33:27,000
+ Man uppskattar det kring 2-3 procent.
+
+319
+00:33:27,000 --> 00:33:33,000
+ Det skiljer sig ganska stort från de signaler man får här i Sverige.
+
+320
+00:33:33,000 --> 00:33:39,000
+ Jag undrar helt enkelt vad det beror på. Kan det ha att göra med våra olika strategier?
+
+321
+00:33:39,000 --> 00:33:48,000
+ Världshälsoorganisationen säger att påvisade antikroppar inte är någon garanti för immunitet.
+
+322
+00:33:48,000 --> 00:33:54,000
+ Hur stora förhoppningar vågar man ha kring de här testerna?
+
+323
+00:33:54,000 --> 00:33:58,000
+ Det är många bra frågor du ställer.
+
+324
+00:33:58,000 --> 00:34:03,000
+ Vad gäller att man ser ganska låg prevalens av antikroppar i andra länder.
+
+325
+00:34:03,000 --> 00:34:08,000
+ Det kan finnas många förklaringar. En kan vara att det inte har varit så stor smittspridning.
+
+326
+00:34:08,000 --> 00:34:12,000
+ En annan kan vara att testerna inte är så känsliga och plockar upp särskilt många.
+
+327
+00:34:12,000 --> 00:34:19,000
+ En tredje kan vara att man inte utsönder så mycket antikroppar som kan upptäckas av testerna.
+
+328
+00:34:19,000 --> 00:34:24,000
+ Det finns många variabler som vi lär oss mer om eftersom testerna börjar användas.
+
+329
+00:34:24,000 --> 00:34:29,000
+ Sen har vi nu börjat få data i Sverige. Vi själva ska göra undersökningar.
+
+330
+00:34:29,000 --> 00:34:35,000
+ Jag hörde om någon Stockholmsstudie där man har hittat uppåt 10-11 procent för någon vecka sedan.
+
+331
+00:34:35,000 --> 00:34:40,000
+ Det är saker som talar för att det kanske ligger lite högre i Sverige.
+
+332
+00:34:40,000 --> 00:34:43,000
+ Det skulle kunna tala för att smittspridningen varit större.
+
+333
+00:34:43,000 --> 00:34:49,000
+ Jag vågar inte säga något än så länge. Man vet inte hur immuniteten fungerar.
+
+334
+00:34:49,000 --> 00:34:55,000
+ Man vet att det blir antikroppar. Hur gott skyddar de? Hur långvarigt skyddar de?
+
+335
+00:34:55,000 --> 00:34:57,000
+ Det är många frågor kvar att besvara.
+
+336
+00:34:57,000 --> 00:35:01,000
+ Tidningen Hela Gotland är med också.
+
+337
+00:35:01,000 --> 00:35:05,000
+ Det var Simon på Hela Gotland.
+
+338
+00:35:05,000 --> 00:35:11,000
+ En fråga till Anders. Inför påsken var det tydligt att man ska avstå från att resa till exempelvis stugor.
+
+339
+00:35:11,000 --> 00:35:15,000
+ Hur ser ni på resor under valårsveckan och tills till himmelfärdshelgen?
+
+340
+00:35:15,000 --> 00:35:18,000
+ Det är många som vill resa hit.
+
+341
+00:35:18,000 --> 00:35:21,000
+ Vi har information på gång om det.
+
+342
+00:35:21,000 --> 00:35:23,000
+ Men generellt kan man säga att läget har inte ändrats.
+
+343
+00:35:23,000 --> 00:35:27,000
+ Det är mycket smitta i Stockholm och mindre i andra delar av landet.
+
+344
+00:35:27,000 --> 00:35:30,000
+ Det talar för att de här principerna ska gälla.
+
+345
+00:35:30,000 --> 00:35:34,000
+ En fråga till. Det har pratats mycket om dag noll.
+
+346
+00:35:34,000 --> 00:35:40,000
+ När kan Gotland få sin dag noll och när kan i så fall piken komma hit?
+
+347
+00:35:40,000 --> 00:35:42,000
+ Det får jag titta på specifikt.
+
+348
+00:35:42,000 --> 00:35:45,000
+ Men det är svårare att bedöma när det är ganska få fall.
+
+349
+00:35:45,000 --> 00:35:51,000
+ Om det är bara några tillfall per dag så kan kurvan ändra utseende ganska tydligt.
+
+350
+00:35:51,000 --> 00:35:53,000
+ Så jag tror att det blir svårare att räkna på den nivån.
+
+351
+00:35:53,000 --> 00:36:00,000
+ Vi har alla siffror på vår hemsida så man kan titta själv och se hur det går.
+
+352
+00:36:00,000 --> 00:36:04,000
+ Men man får ta det med stor osäkerhet i och med att siffrorna är mindre.
+
+353
+00:36:04,000 --> 00:36:08,000
+ Men vi räknar med att Stockholm ligger först i den här epidemin vad gäller smittspridning.
+
+354
+00:36:08,000 --> 00:36:11,000
+ En sista fråga vi har länkt.
+
+355
+00:36:11,000 --> 00:36:13,000
+ Emanuel Karlsten.
+
+356
+00:36:13,000 --> 00:36:16,000
+ Jag har en fråga om immunitet också.
+
+357
+00:36:16,000 --> 00:36:18,000
+ Men först måste jag bara få ett förtydligande.
+
+358
+00:36:18,000 --> 00:36:23,000
+ Jag tror Anders att för varje bekräftat fall av covid-19 så finns tusen till.
+
+359
+00:36:23,000 --> 00:36:25,000
+ Jag frågar för att jag inte får ihop matten.
+
+360
+00:36:25,000 --> 00:36:27,000
+ Det är väl 6000 bekräftade fall i Stockholm?
+
+361
+00:36:27,000 --> 00:36:31,000
+ Nej, utan generellt så.
+
+362
+00:36:31,000 --> 00:36:35,000
+ Om man utgår från det materialet om man räknar för varje bekräftat fall
+
+363
+00:36:35,000 --> 00:36:41,000
+ så är det ett mörkertal på 999 till som inte blir diagnosterade i vården.
+
+364
+00:36:41,000 --> 00:36:46,000
+ Det är inte ett absolut mat på hur många som har fått diagnosterat i vården.
+
+365
+00:36:46,000 --> 00:36:50,000
+ Det kan man utgå från det och räkna och få fram de här siffrorna.
+
+366
+00:36:50,000 --> 00:36:55,000
+ Som vi säger att en tredjedel har smittats kring första maj.
+
+367
+00:36:55,000 --> 00:37:02,000
+ Önskar du särskilda förtydlingar kring metoden så är Lisa Bravers här och svarar på frågor.
+
+368
+00:37:02,000 --> 00:37:05,000
+ Då pratar jag om immunitet.
+
+369
+00:37:05,000 --> 00:37:08,000
+ Jag är också inne på det som Etcetera pratar om.
+
+370
+00:37:08,000 --> 00:37:13,000
+ Sveriges strategi grundar sig på att vi blir immuna.
+
+371
+00:37:13,000 --> 00:37:19,000
+ Även om det handlar om att hålla platta kurvan så har det varit idén
+
+372
+00:37:19,000 --> 00:37:22,000
+ att på sikt kommer vi upp någon typ av flockimmunitet.
+
+373
+00:37:22,000 --> 00:37:25,000
+ Tegnell har sagt att han tror att vi är upp någon typ av flockimmunitet före vaccin.
+
+374
+00:37:25,000 --> 00:37:31,000
+ Kan ni tydliggöra vad Sverige hittills har grundat det antagandet på?
+
+375
+00:37:31,000 --> 00:37:35,000
+ Inte bara nu men kanske också för en månad senare när man pratar om det här.
+
+376
+00:37:35,000 --> 00:37:37,000
+ Om att vi får immunitet efteråt.
+
+377
+00:37:37,000 --> 00:37:41,000
+ Vi har faktiskt inte jobbat efter det utan det är att klara vården
+
+378
+00:37:41,000 --> 00:37:45,000
+ under den här svåra situationen som uppstått.
+
+379
+00:37:45,000 --> 00:37:47,000
+ Det har varit målet.
+
+380
+00:37:47,000 --> 00:37:52,000
+ Sen blir det så att eftersom vi inte har försökt stoppa all smittspridning
+
+381
+00:37:52,000 --> 00:37:55,000
+ så får vi också fall i samhället.
+
+382
+00:37:55,000 --> 00:37:57,000
+ Då blir folk också immuna.
+
+383
+00:37:57,000 --> 00:38:01,000
+ Men vi har inte vetat något om immuniteten annat än antaganden.
+
+384
+00:38:01,000 --> 00:38:05,000
+ Därför har det varit svårt att lägga upp en strategi utifrån att man ska uppnå flockimmunitet
+
+385
+00:38:05,000 --> 00:38:07,000
+ vid en viss tidpunkt eller liknande.
+
+386
+00:38:07,000 --> 00:38:11,000
+ Målet har varit att hålla den här kurvan som vi har pratat om hela tiden.
+
+387
+00:38:11,000 --> 00:38:14,000
+ Sen blir folk immuna under tiden.
+
+388
+00:38:14,000 --> 00:38:18,000
+ Det är positivt för det gör att det blir svårare för smittan att spridas längre fram.
+
+389
+00:38:18,000 --> 00:38:21,000
+ Men det är vårdens situation som vi har utgått från.
+
+390
+00:38:21,000 --> 00:38:27,000
+ Tidigt talades det om att läkare som insjuknade tidigt såg något ljust.
+
+391
+00:38:27,000 --> 00:38:32,000
+ Att de sen skulle kunna komma tillbaka och arbeta i vården med mindre skyddsutrustning.
+
+392
+00:38:32,000 --> 00:38:36,000
+ Eftersom de hade utvecklat en viss typ av immunitet.
+
+393
+00:38:36,000 --> 00:38:38,000
+ Tror du att vi kommer kunna nå till den punkten?
+
+394
+00:38:38,000 --> 00:38:45,000
+ Att vi kommer vara så säkra att sjukvårdspersonal skulle kunna arbeta med mindre skyddsutrustning?
+
+395
+00:38:45,000 --> 00:38:49,000
+ Det kräver att man vet mer om hur bra immunitet är.
+
+396
+00:38:49,000 --> 00:38:53,000
+ Men man kan vara ganska säker på att om man har insjuknat så är det ganska osannolikt
+
+397
+00:38:53,000 --> 00:38:57,000
+ att man insjuknar igen inom en kortare tidsperiod.
+
+398
+00:38:57,000 --> 00:39:01,000
+ Det kan göra att man kan känna sig tryggare när man jobbar i vården.
+
+399
+00:39:01,000 --> 00:39:04,000
+ Men det säger inte att man inte ska använda skyddsutrustning.
+
+400
+00:39:04,000 --> 00:39:06,000
+ Det är något man får titta på.
+
+401
+00:39:06,000 --> 00:39:09,000
+ Då måste man vara väldigt säker på att det fungerar.
+
+402
+00:39:09,000 --> 00:39:14,000
+ Jag tror snarare att det kan vara ett stöd i att risken är mindre att man skulle infektera sig
+
+403
+00:39:14,000 --> 00:39:16,000
+ och smitta en patient till exempel.
+
+404
+00:39:16,000 --> 00:39:18,000
+ Men att man fortfarande använder skyddsutrustning.
+
+405
+00:39:18,000 --> 00:39:20,000
+ Det här är det som antikroppstesterna kan hjälpa oss med.
+
+406
+00:39:20,000 --> 00:39:23,000
+ Att få den typen av bedömningar.
+
+407
+00:39:23,000 --> 00:39:25,000
+ Tack! Då är vi klara här inne.
+
+408
+00:39:25,000 --> 00:39:28,000
+ Förberedelser för intervjuer utomhus då.
+
+409
+00:39:28,000 --> 00:39:31,880
+ Tack till elever och personal vid Säkerhetssäkerhetssäkerheten.
+

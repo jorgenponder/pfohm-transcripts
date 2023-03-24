@@ -1,0 +1,1404 @@
+1
+00:00:00,000 --> 00:00:06,400
+ Välkomna hit! Vi börjar som sagt med en snabb översikt över var vi är någonstans i världen.
+
+2
+00:00:06,400 --> 00:00:11,000
+ Vi börjar närma oss 400 000 fall totalt i världen.
+
+3
+00:00:11,000 --> 00:00:15,100
+ Av dem är nu mer än hälften i Europa.
+
+4
+00:00:15,100 --> 00:00:21,500
+ Och också mer än hälften av dödsfallen har skett i Europa så här långt.
+
+5
+00:00:21,500 --> 00:00:26,880
+ Annars har vi inte jättemycket att säga om det fortsätter att vara mer och mer fall över hela världen.
+
+6
+00:00:26,880 --> 00:00:34,040
+ Orosmomentet just nu som jag eller vi tänker är nog framförallt i USA.
+
+7
+00:00:34,040 --> 00:00:36,600
+ Där väldigt mycket händer väldigt fort.
+
+8
+00:00:36,600 --> 00:00:43,260
+ Där har vi den potentialen att bli väldigt problematiskt.
+
+9
+00:00:43,260 --> 00:00:50,180
+ Om vi går över till Sverige så har vi en för den här vanen rätt stabil situation kan man säga.
+
+10
+00:00:50,180 --> 00:00:57,100
+ Vi har strax mellan 100 och 200 fall dagligen nu sedan mer än en vecka tillbaks.
+
+11
+00:00:57,100 --> 00:01:05,020
+ Vi ser en viss ökning av antalet fall över 70 som följer den allmänna utvecklingen.
+
+12
+00:01:05,020 --> 00:01:14,500
+ Den här nedåtgående biten i slutet på kurvan beror mer på att vi inte har data riktigt fullt än för den dagen.
+
+13
+00:01:14,500 --> 00:01:17,580
+ Utan den kommer nog ligga på samma nivå som tidigare.
+
+14
+00:01:17,580 --> 00:01:23,940
+ Ungefär 2 500 fall i Sverige så här långt. 40-tal dödsfall.
+
+15
+00:01:23,940 --> 00:01:32,380
+ På IVA har man hittills vårdat 144 patienter. Några är utskrivna och några är avblivna.
+
+16
+00:01:32,380 --> 00:01:45,180
+ Den informationen vi får från regionerna och intensivvården är att det fortfarande är så att det är framförallt i Stockholm som det är tryck.
+
+17
+00:01:45,180 --> 00:01:57,220
+ Även lite i de andra storstäderna i resten av landet med undantag av Östergötland och Sörmland och de här närliggande regionerna är det fortfarande ganska lugnt.
+
+18
+00:01:57,220 --> 00:02:03,620
+ Man ser tecken på spridning i nästan alla delar av Sverige just nu men på låg nivå.
+
+19
+00:02:03,620 --> 00:02:07,700
+ Så vi har fortfarande en rätt stabil situation.
+
+20
+00:02:07,700 --> 00:02:18,460
+ När det gäller de intensivvårdade och hur de åldersmässigt ser ut så har vi fortfarande en hög andel av alla som är mellan 50 och 59 år.
+
+21
+00:02:18,460 --> 00:02:29,020
+ Vi bedömer fortfarande att detta är ett resultat av att den introducerades i den åldersgruppen av mycket resande framförallt i Alperna under en period för några veckor sedan.
+
+22
+00:02:29,020 --> 00:02:33,140
+ Och att det fortfarande ligger kvar mest fall i den åldersgruppen.
+
+23
+00:02:33,140 --> 00:02:37,660
+ Det reflekteras också av att det blir mer IVA-fall i de grupperna.
+
+24
+00:02:37,660 --> 00:02:50,780
+ Vi har fortfarande relativt få personer i de äldre åldersgrupperna som är smittade och ganska få fall så här långt som ligger på IVA i de åldersgrupperna där man blir väldigt sjuk.
+
+25
+00:02:50,780 --> 00:02:58,980
+ Ett medskick är också att tänka på att det här är förstås en farlig sjukdom, kan vara en farlig sjukdom också i andra åldersgrupper.
+
+26
+00:02:58,980 --> 00:03:10,340
+ Även de som vårdas på IVA i yngre åldersgrupper och med den här sjukdomen, där är mortaliteten, alltså andelen dödsfall, väldigt låg.
+
+27
+00:03:10,340 --> 00:03:15,860
+ De allra flesta blir bra, kommer ut från IVA och fortsätter leva ett friskt liv efter det.
+
+28
+00:03:15,860 --> 00:03:23,300
+ Så det här är inte riktigt, tar både resurser men det är inte riktigt så allvarligt som det ser ut med den här åldersgruppen på IVA.
+
+29
+00:03:23,300 --> 00:03:28,020
+ Det har pratats mycket om tester, varför testar Sverige så lite?
+
+30
+00:03:28,020 --> 00:03:33,380
+ Vi kan se här att vi testar mer och mer för varje vecka som går.
+
+31
+00:03:33,380 --> 00:03:41,460
+ Vi testar så mycket som laboratorium och vården hinner med just nu och det utvecklas vecka för vecka.
+
+32
+00:03:41,460 --> 00:03:50,260
+ Den stora bristen är inte på laboratoriet, vi får väldigt mycket erbjudande från olika privata aktörer, från akademin och andra.
+
+33
+00:03:50,260 --> 00:03:54,900
+ Eller vi får inte, men regionerna får väldigt mycket erbjudande om att använda deras resurser.
+
+34
+00:03:54,900 --> 00:03:59,380
+ Man tittar på möjligheterna att göra det, men det är inte det som är den trånga sektorn just nu.
+
+35
+00:03:59,380 --> 00:04:06,180
+ Det är för vården att faktiskt genomföra provtagning och annat på ett vettigt sätt och ta hand om provsvaren på ett vettigt sätt.
+
+36
+00:04:06,180 --> 00:04:11,540
+ Men det här kommer att fortsätta öka så vi kommer att testa allt mer och mer.
+
+37
+00:04:11,540 --> 00:04:16,660
+ Poängen med att testa är att det ska påverka hur man hanterar vilka åtgärder man gör.
+
+38
+00:04:16,660 --> 00:04:24,340
+ Just nu testar man ut i regionerna, framför allt de som ska in i sjukvården så att vi hindrar smittan för att de kommer in där.
+
+39
+00:04:24,340 --> 00:04:29,460
+ Och i andra hand också personal som jobbar med äldre för att hindra smittan ska komma in där.
+
+40
+00:04:29,460 --> 00:04:35,860
+ Att testa ut i samhället under den period vi är inne i just nu i den här epidemin, det leder inte till några förändringar av hantering av någonting.
+
+41
+00:04:35,860 --> 00:04:39,700
+ Så det är ingenting som någon satsar på just nu.
+
+42
+00:04:39,700 --> 00:04:43,540
+ Strategierna vi jobbar med är de samma.
+
+43
+00:04:43,540 --> 00:04:52,500
+ Vi fortsätter ihärdigt att försöka minska hastigheten i smittspridning och det gör vi framför allt genom att allmänheten nyvigar alla att stanna hemma när man blir sjuk.
+
+44
+00:04:52,500 --> 00:04:55,060
+ Och stanna hemma ytterligare två dygn.
+
+45
+00:04:55,060 --> 00:04:57,620
+ Sen kan man lägga på lite andra saker.
+
+46
+00:04:57,620 --> 00:05:04,020
+ Fundera på sina resor, framför allt att man inte ska resa och hälsa på sina gamla anhöriga nu under påsk.
+
+47
+00:05:04,020 --> 00:05:05,300
+ Det är inte lämpligt.
+
+48
+00:05:05,300 --> 00:05:09,780
+ Det finns ett förbud mot större sammankomster för att få ner smittspridningen där.
+
+49
+00:05:09,780 --> 00:05:21,940
+ Vi har som vi har pratat om de sista dagarna nu också en del föreskrifterna eller hur man ska hantera sin verksamhet på restauranger, bar och kaféer och sånt för att minska smittspridningen där.
+
+50
+00:05:21,940 --> 00:05:29,940
+ Vi tycker fortfarande att det är bra att jobba hemifrån men det måste ju vara på ett sätt så att det fungerar på arbetsplatsen och fungerar för arbetstagaren.
+
+51
+00:05:29,940 --> 00:05:37,300
+ Så här gäller det att man har en bra dialog mellan arbetstagare och arbetsgivare så att det här inte stör varken arbetsgivare eller arbetstagare.
+
+52
+00:05:37,300 --> 00:05:44,980
+ Och som ni vet så är ju gymnasieskolor och universitet och så vidare bedriver sin undervisning på distans just nu.
+
+53
+00:05:44,980 --> 00:05:50,100
+ Och sen den andra biten handlar det här om att vi måste hålla borta smittan för de äldre.
+
+54
+00:05:50,100 --> 00:05:54,180
+ För deras skull, för deras anhöriga skull men inte minst för sjukvårdens skull.
+
+55
+00:05:54,180 --> 00:06:04,180
+ De hamnar kanske inte på IVA-sättet ofta men när de gör det så är det väldigt långa vårdtider och väldigt mycket resurser och väldigt mycket lidande både för dem och deras omgivning.
+
+56
+00:06:04,180 --> 00:06:10,580
+ Så det är väldigt viktigt att vi kan fortsätta hålla den här strukturen att inte så många av de äldre döpas.
+
+57
+00:06:10,580 --> 00:06:25,940
+ Och som sagt, det här är ju det vi försöker åstadkomma. Att slippa de här höga snabba pikarna som ger väldigt mycket, kräver väldigt mycket resurser i vården, ger mycket problem där.
+
+58
+00:06:25,940 --> 00:06:34,900
+ Så att vi istället får en lång platt kurva där sjukvård och samhället hinner med att anpassa sig och hantera de som blir sjuka på ett bra sätt.
+
+59
+00:06:34,900 --> 00:06:38,740
+ Det var det hela. Tack så mycket.
+
+60
+00:06:38,740 --> 00:06:44,900
+ Tack Anders. Jag ska kort beskriva lite om Socialstyrelsens arbete.
+
+61
+00:06:44,900 --> 00:06:50,260
+ Pågående arbete, jag ska försöka fatta mig kort så att alla andra hinner komma till tals.
+
+62
+00:06:50,260 --> 00:06:56,020
+ Som Anders beskrev så är läget även i regionerna stort sett oförändrat sen igår.
+
+63
+00:06:56,020 --> 00:07:02,500
+ Det är storstadsregionerna som har de flesta fallen och det är även den lägesbild som vi får via våra kanaler.
+
+64
+00:07:02,500 --> 00:07:08,900
+ De regionala särskilda sjukvårdsledningarna men också chefsläkarnätverk och andra forum.
+
+65
+00:07:08,900 --> 00:07:16,820
+ Jag vill lyfta fram några punkter av samarbete och där vi gör väldigt gott.
+
+66
+00:07:16,820 --> 00:07:36,660
+ Jag vet att vi tidigare har pratat om vikten av att vi samarbetar med Försvarets materielverk för att säkerställa att det här uppdraget vi har om att vara en national inköpscentral genomförs så effektivt som möjligt.
+
+67
+00:07:36,660 --> 00:07:45,060
+ Så att vi verkligen hinner med. Försvarets materielverk och FNV, deras kompetens är enastående i det här.
+
+68
+00:07:45,060 --> 00:07:49,860
+ Vi har redan sen tidigare en väldigt god erfarenhet av det här samarbetet.
+
+69
+00:07:49,860 --> 00:07:57,380
+ Ytterligare bevis på det nationella samarbetet är det stöd sjukvården får just nu av Försvarsmakten.
+
+70
+00:07:57,380 --> 00:08:02,500
+ Även här bygger det på tillit, förtroende och samarbete som har funnits över en lång tid.
+
+71
+00:08:02,500 --> 00:08:10,180
+ Det här är ingenting som vi har hittat på för stunden utan det finns ett gott samarbete mellan sjukvårdens aktörer och Försvarsmakten.
+
+72
+00:08:10,180 --> 00:08:18,340
+ Ett konkret exempel på det här samarbetet är den förstärkningsresurs som Socialstyrelsen i dagarna också kommer lämna som stöd till region Skåne.
+
+73
+00:08:18,340 --> 00:08:25,540
+ Det här är en akut medicinsk förstärkning som vi har utvecklats tillsammans med FNV och Försvarsmakten över de senaste åren.
+
+74
+00:08:25,540 --> 00:08:31,380
+ Och som skulle ha övats i Skåne nu under totalförsvarsövningen i maj men som nu begärs skarpt.
+
+75
+00:08:31,380 --> 00:08:38,420
+ Anledningen till att jag nämner det här, och det ligger lite grann i linje med också de som ska upp på podiet sen.
+
+76
+00:08:38,420 --> 00:08:48,020
+ Det är för att den omstödning som nu sker i hela landet kan dels förstärkas med att vi tillför specifika och ytterligare IVA-vårdplatser.
+
+77
+00:08:48,020 --> 00:08:51,780
+ Vi försöker samordna personalresurserna i bästa möjliga mån.
+
+78
+00:08:51,780 --> 00:08:58,180
+ Men det handlar också om att vi försöker understödja och avlasta med tillskott till annan verksamhet.
+
+79
+00:08:58,180 --> 00:09:02,020
+ Och det är i sig också en förstärkning och det är oerhört viktigt att komma ihåg det.
+
+80
+00:09:02,020 --> 00:09:12,740
+ Att vi kommer inte kunna tråla fram allting som är unika behov men vi kan arbeta väldigt aktivt för att förstärka i olika spår.
+
+81
+00:09:12,740 --> 00:09:19,140
+ Jag vill också lyfta fram att regionerna ska ju givetvis fortsätta stödja varandra.
+
+82
+00:09:19,140 --> 00:09:26,180
+ Inga nationella åtgärder oavsett vilka regeringsuppdrag som kommer in ska ju kortsluta det här systemet.
+
+83
+00:09:26,180 --> 00:09:33,220
+ Utan hela syftet med det nationella uppdraget och vår roll som statlig aktör är att stödja och förstärka.
+
+84
+00:09:33,220 --> 00:09:38,980
+ Och när vi har identifierat särskilda behov säkerställa att det finns en nationell samordning.
+
+85
+00:09:38,980 --> 00:09:51,140
+ Oavsett vilket uppdrag vi får från regeringen, oavsett vad behovet är så kommer Socialstyrelsens arbete alltid att baseras på inhämtning av fakta.
+
+86
+00:09:51,140 --> 00:09:54,900
+ Och de här lägesbilderna som rapporteras in från regionerna.
+
+87
+00:09:54,900 --> 00:10:04,500
+ Och vi måste kunna analysera dem för att på ett väldigt tydligt sätt kunna inrikta och samordna nationellt i det här läget vi har just nu.
+
+88
+00:10:04,500 --> 00:10:06,820
+ Sen måste vi förstärka det här.
+
+89
+00:10:06,820 --> 00:10:08,820
+ Jag tog ett exempel med FNV.
+
+90
+00:10:08,820 --> 00:10:22,260
+ När det kopplar till IVA-samordningen exempelvis så har vi förstärkt och intensifierat det här tidskritiska arbetet med förstärkning av exempelvis då svenska intensivvårdsregistret och andra referensnätverk.
+
+91
+00:10:22,260 --> 00:10:28,020
+ Så återigen där ska vi inte hitta på saker ad hoc utan vi ska använda de system som redan finns.
+
+92
+00:10:28,020 --> 00:10:47,700
+ Slutligen så vill jag betona att i rollen som nationell samordnare av alla de här uppdragen så ingår det också att när vi får bekräftad information från beredskapsorganisationerna eller de regionala särskilda sjukvårdsledningarna.
+
+93
+00:10:47,700 --> 00:10:55,700
+ Att det behövs ytterligare tydlighet och råd när det kommer till rekommendationer av olika slag.
+
+94
+00:10:55,700 --> 00:11:00,020
+ Så agerar vi givetvis på det och återkopplar till just regionerna.
+
+95
+00:11:00,020 --> 00:11:07,540
+ Regionerna gör just nu sitt yttersta för att säkerställa befolkningens behov men också personalens säkerhet.
+
+96
+00:11:07,540 --> 00:11:22,740
+ Det är väldigt viktigt att vi tydligar med det här att det inte bara handlar om att öka med tillskott av resurser utan också säkerställa att de får de beslutsstöd och de rekommendationer som de har behov av och att de här är tydliga.
+
+97
+00:11:22,740 --> 00:11:24,740
+ Jag stannar där, tack.
+
+98
+00:11:24,740 --> 00:11:30,900
+ Svante Werger från MSB, myndigheten för samhällsskydd och beredskap.
+
+99
+00:11:30,900 --> 00:11:42,100
+ Vi arbetar nu för att hela samhället ska kunna klara av att hantera även ett förvärrat läge och att det ska finnas uthållighet över tid särskilt inom samhällsviktig verksamhet.
+
+100
+00:11:42,100 --> 00:11:48,340
+ Vi identifierar brister och behov så att stödet och resurserna hamnar där de behövs bäst.
+
+101
+00:11:48,340 --> 00:11:51,860
+ Jag vill rikta ett tack till alla som bidrar, för det är många.
+
+102
+00:11:51,860 --> 00:12:02,340
+ I början av förra veckan gick Folkhälsomyndigheten ut med rekommendationen att äldre människor och personer som av andra skäl ingår i riskgrupper ska minska sina sociala kontakter.
+
+103
+00:12:02,340 --> 00:12:04,340
+ Det rådet gäller fortfarande.
+
+104
+00:12:04,340 --> 00:12:10,900
+ Det här ställer större krav på oss alla andra att hjälpa till och det ställer större krav på kommunerna.
+
+105
+00:12:10,900 --> 00:12:13,780
+ Det här identifierade vi tidigt.
+
+106
+00:12:13,780 --> 00:12:24,340
+ I fredags bad Länsstyrelsernas samordningsgrupp MSB att bidra till en mer samlad lösning på frågan hur kommunerna kunde få stöd med det här.
+
+107
+00:12:24,340 --> 00:12:36,820
+ Tidigare idag gick MSB och några andra organisationer ut med information om det här och hur vi nu tar oss an den här utmaningen tillsammans med ett stort antal organisationer.
+
+108
+00:12:36,820 --> 00:12:47,060
+ Det tänkte jag, som jag nämnts tidigare, berätta mer om tillsammans med några av de här organisationerna direkt efter den gemensamma frågestunden men före de enskilda intervjuerna.
+
+109
+00:12:47,060 --> 00:12:49,060
+ Tack, jag stannar där faktiskt.
+
+110
+00:12:49,060 --> 00:12:55,060
+ Då öppnar vi upp för en frågestund.
+
+111
+00:12:55,060 --> 00:12:59,780
+ Den kommer att vara något kortare idag eftersom vi kommer att hålla en presentation till strax.
+
+112
+00:12:59,780 --> 00:13:03,140
+ Vi kan börja med första frågan.
+
+113
+00:13:03,140 --> 00:13:07,780
+ Hej, Hewa Abdelzadeh, Ekot.
+
+114
+00:13:07,780 --> 00:13:16,180
+ En fråga till Socialstyrelsen om skyddsutrustning för vårdspersonal som börjar ta slut.
+
+115
+00:13:16,180 --> 00:13:21,940
+ Vårdförbundet slår larm idag om att det kan ta slut bara inom några dagar.
+
+116
+00:13:21,940 --> 00:13:26,500
+ Vad är planen när skyddsutrustningen för de som vårdar tar slut?
+
+117
+00:13:26,500 --> 00:13:35,220
+ Målsättningen är att skyddsutrustningen för den personal som vårdar inte ska ta slut.
+
+118
+00:13:35,220 --> 00:13:46,340
+ Målsättningen är att vi arbetar utifrån uppdaterade rekommendationer och säkerställer att den personal som behöver den skyddsutrustningen ska ha tillgång till det.
+
+119
+00:13:46,340 --> 00:13:57,300
+ Vi lämnar stöd dagligen för att säkerställa det här direkta och akuta behovet.
+
+120
+00:13:57,300 --> 00:14:01,300
+ Det finns inga överskott och stora lager att ta ifrån.
+
+121
+00:14:01,300 --> 00:14:07,300
+ Det är 6-8 begäran om stöd på daglig basis som vi försöker försörja.
+
+122
+00:14:07,300 --> 00:14:10,740
+ Det är inte slut på skyddsutrustning i landet.
+
+123
+00:14:10,740 --> 00:14:15,300
+ Vi kan snabba upp processen med att samordna det här bättre.
+
+124
+00:14:15,300 --> 00:14:24,500
+ Det är den fasen vi går in i att försöka omfördela nationellt för att det inte ska uppstå det här behovet.
+
+125
+00:14:24,500 --> 00:14:31,300
+ Det finns ingen uthållighet som socialstyrelsen själva har sagt hela tiden.
+
+126
+00:14:31,300 --> 00:14:35,300
+ Hur länge kan man hålla på så här utan att få leveranser?
+
+127
+00:14:35,300 --> 00:14:41,300
+ Finns det någon katastrofplan för när det tar slut?
+
+128
+00:14:41,300 --> 00:14:49,300
+ Hela planen är den här successiva katastrofplanen eller krisplanen.
+
+129
+00:14:49,300 --> 00:14:55,300
+ Det vi har gått ut med har varit tydlig med att det inte kommer stora leveranser.
+
+130
+00:14:55,300 --> 00:14:57,300
+ Däremot kommer det leveranser hela tiden.
+
+131
+00:14:57,300 --> 00:15:03,300
+ Vi bedömer just nu att vi har förmåga att stötta upp med det akuta behovet.
+
+132
+00:15:03,300 --> 00:15:05,300
+ Men nej, det finns inte uthållighet över tid.
+
+133
+00:15:05,300 --> 00:15:09,300
+ Det finns en hel del inköp som är på gång.
+
+134
+00:15:09,300 --> 00:15:15,300
+ Jag bedömer inte att vi just nu ska behöva tänka att personal ska arbeta utan skyddsutrustning.
+
+135
+00:15:15,300 --> 00:15:27,300
+ Jag kan bara fylla på att vi håller på att ta fram uppdaterade rekommendationer för hur man ska använda skyddsutrustning.
+
+136
+00:15:27,300 --> 00:15:29,300
+ Vi började på en ganska hög nivå.
+
+137
+00:15:29,300 --> 00:15:31,300
+ Nu har vi lärt oss väldigt mycket mer om den här sjukdomen.
+
+138
+00:15:31,300 --> 00:15:35,300
+ Vilket gör att vi kan fokusera användningen av skyddsutrustning på ett helt annat sätt.
+
+139
+00:15:35,300 --> 00:15:39,300
+ Vilket också kommer tillsammans med det som Socialstyrelsen gör.
+
+140
+00:15:39,300 --> 00:15:45,300
+ Att inte heller vi har några signaler om att det finns några akuta problem ute i verksamheten just nu.
+
+141
+00:15:45,300 --> 00:15:47,300
+ Utan skyddsutrustningen ska användas där den behövs som bäst.
+
+142
+00:15:47,300 --> 00:15:51,300
+ Och det görs den just nu. Och då kommer den också att räcka mycket längre.
+
+143
+00:15:51,300 --> 00:15:57,300
+ Johan Ilsson, TT. Jag har en fråga till Anders.
+
+144
+00:15:57,300 --> 00:16:01,300
+ Många av de som har avlidit sig har haft underliggande sjukdomar.
+
+145
+00:16:01,300 --> 00:16:07,300
+ Där diabetes och högt blodtryck har varit de vanligaste.
+
+146
+00:16:07,300 --> 00:16:11,300
+ Men det är två väldigt vanliga tillstånd bland äldre.
+
+147
+00:16:11,300 --> 00:16:19,300
+ Vet man i vilken mån de här sjukdomarna har bidragit till att de har dött eller inte?
+
+148
+00:16:19,300 --> 00:16:21,300
+ Eller är de kraftigt överrepresenterade?
+
+149
+00:16:21,300 --> 00:16:23,300
+ Eller vad vet man?
+
+150
+00:16:23,300 --> 00:16:29,300
+ Jag vet inte riktigt vad frågan handlar om.
+
+151
+00:16:29,300 --> 00:16:34,300
+ Högt blodtryck och diabetes sägs vara riskfaktorer.
+
+152
+00:16:34,300 --> 00:16:39,300
+ Men hur vet man det om väldigt många i de här åldersgrupperna har riskfaktorer?
+
+153
+00:16:39,300 --> 00:16:41,300
+ Eller de sjukdomarna menar du?
+
+154
+00:16:41,300 --> 00:16:45,300
+ Vi håller på att titta på de svenska data.
+
+155
+00:16:45,300 --> 00:16:49,300
+ Det är fortfarande som tur är ganska få avlidna i Sverige.
+
+156
+00:16:49,300 --> 00:16:51,300
+ Så vi har haft lite svårt att räkna på det hittills.
+
+157
+00:16:51,300 --> 00:16:53,300
+ Nu börjar vi titta på det.
+
+158
+00:16:53,300 --> 00:16:57,300
+ Utifrån vad man vet från andra länder så är det en överrisk att ha diabetes.
+
+159
+00:16:57,300 --> 00:16:59,300
+ Men det är inte jättestor.
+
+160
+00:16:59,300 --> 00:17:01,300
+ Det är ålder som slår igenom.
+
+161
+00:17:01,300 --> 00:17:07,300
+ Man måste komma ihåg att av alla de som har diabetes så är det en försvinnande liten andel som dör.
+
+162
+00:17:07,300 --> 00:17:12,300
+ Men om jag då har 60 år och har typ 2 diabetes hur ska jag tänka då?
+
+163
+00:17:12,300 --> 00:17:16,300
+ Tillhör jag en riskgrupp eller tillhör jag inte en riskgrupp?
+
+164
+00:17:16,300 --> 00:17:20,300
+ Vårt allmänna råd är att vi pekar på de över 70 som helt klart är en riskgrupp.
+
+165
+00:17:20,300 --> 00:17:24,300
+ Övriga kan också tillhöra en riskgrupp.
+
+166
+00:17:24,300 --> 00:17:28,300
+ Då behöver man faktiskt ha en dialog med sin behandlare eller läkare.
+
+167
+00:17:28,300 --> 00:17:30,300
+ De allra flesta har haft det på olika sätt.
+
+168
+00:17:30,300 --> 00:17:33,300
+ För det här är ju inte något totalt unikt sjukdom.
+
+169
+00:17:33,300 --> 00:17:37,300
+ Det finns mycket som talar för att man reagerar på liknande sätt som man gör vid en flänsa.
+
+170
+00:17:37,300 --> 00:17:41,300
+ De årliga är flänsaepidemier och vi har andra liknande luftväxlinfektioner.
+
+171
+00:17:41,300 --> 00:17:46,300
+ Har man klarat dem väldigt bra så finns det väldigt mycket som talar för att även det här kommer att fungera väldigt bra.
+
+172
+00:17:46,300 --> 00:17:49,300
+ Man behöver inte bita några speciella åtgärder.
+
+173
+00:17:49,300 --> 00:17:51,300
+ Tack!
+
+174
+00:17:51,300 --> 00:17:53,300
+ Frank?
+
+175
+00:17:53,300 --> 00:17:56,300
+ Frank Perdozovic, Radio Sverige.
+
+176
+00:17:56,300 --> 00:17:58,300
+ En fråga på engelska till Anders Tegnell.
+
+177
+00:17:58,300 --> 00:18:03,300
+ Mycket av det som händer just nu är att Sverige litar på folk som tar personliga ansvar
+
+178
+00:18:03,300 --> 00:18:07,300
+ och följer rekommendationer som de har fått.
+
+179
+00:18:07,300 --> 00:18:09,300
+ Några säger att det inte är tillräckligt.
+
+180
+00:18:09,300 --> 00:18:11,300
+ Att det behövs mer styrka.
+
+181
+00:18:11,300 --> 00:18:14,300
+ Beroende på vad du hör och ser över hela landet,
+
+182
+00:18:14,300 --> 00:18:20,300
+ är rekommendationerna tillräckligt eller vill du se mer styrka från auktoriteter?
+
+183
+00:18:20,300 --> 00:18:25,300
+ Jag skulle säga att vi är glada över vad vi ser och hör.
+
+184
+00:18:25,300 --> 00:18:32,300
+ Många organisationer och människor hittar innovativa sätt att undvika många kontakter,
+
+185
+00:18:32,300 --> 00:18:35,300
+ många kommunikativa sjukdomar.
+
+186
+00:18:35,300 --> 00:18:37,300
+ Vi kan titta på kurvan.
+
+187
+00:18:37,300 --> 00:18:41,300
+ Kurvan går fortfarande inte upp i någon katastrofisk mån.
+
+188
+00:18:41,300 --> 00:18:44,300
+ Vi är glada över det så länge.
+
+189
+00:18:44,300 --> 00:18:48,300
+ Vi tror att vi kan fortsätta på den sätt vi normalt jobbar,
+
+190
+00:18:48,300 --> 00:18:51,300
+ i svenskt kommunikativ sjukvårds- och sjukvårds- kontroller,
+
+191
+00:18:51,300 --> 00:18:53,300
+ att vi jobbar med volatila styrkor.
+
+192
+00:18:53,300 --> 00:18:55,300
+ Folk är väldigt ansvariga.
+
+193
+00:18:55,300 --> 00:18:58,300
+ Folk tar detta som är rätt, de flesta gånger.
+
+194
+00:18:58,300 --> 00:19:01,300
+ Vi får se vad som händer i framtiden,
+
+195
+00:19:01,300 --> 00:19:05,300
+ om det finns någon anledning att fortsätta med mer styrka.
+
+196
+00:19:05,300 --> 00:19:08,300
+ Vi följer också utvecklingen i andra länder.
+
+197
+00:19:08,300 --> 00:19:10,300
+ Om styrka verkligen gör skillnad,
+
+198
+00:19:10,300 --> 00:19:14,300
+ eller om det vi gör nu är lika bra,
+
+199
+00:19:14,300 --> 00:19:17,300
+ eller kanske ännu bättre, än att försöka förfå folk att göra saker.
+
+200
+00:19:19,300 --> 00:19:23,300
+ Christian Stichler, jag jobbar för Tysk TV som korrespondent.
+
+201
+00:19:23,300 --> 00:19:25,300
+ Ursäkta, jag måste fråga en gång till.
+
+202
+00:19:25,300 --> 00:19:27,300
+ Jag har varit här igår.
+
+203
+00:19:27,300 --> 00:19:32,300
+ Du vet att i Tyskland är det en helt annan läge och restriktioner.
+
+204
+00:19:32,300 --> 00:19:39,300
+ En sak som är väldigt olika är smittsamheten av folk utan symptomer.
+
+205
+00:19:39,300 --> 00:19:43,300
+ I Tyskland diskuteras just nu en studie från Hongkong University,
+
+206
+00:19:43,300 --> 00:19:52,300
+ att de har undersökt att 44 procent smittar innan de har en symptom.
+
+207
+00:19:52,300 --> 00:19:55,300
+ De har undersökt ungefär 100 stycken.
+
+208
+00:19:55,300 --> 00:19:57,300
+ Jag vet att det finns många studier,
+
+209
+00:19:57,300 --> 00:20:00,300
+ men just nu går den här studien runt i Tyskland.
+
+210
+00:20:00,300 --> 00:20:04,300
+ Det betyder att folk utan symptomer kan vara smittsamma.
+
+211
+00:20:04,300 --> 00:20:07,300
+ Men det är en sak som ni ser på,
+
+212
+00:20:07,300 --> 00:20:09,300
+ jag läste på er hemsida,
+
+213
+00:20:09,300 --> 00:20:13,300
+ ni ser det annorlunda, att man först smittar när man har symptom.
+
+214
+00:20:13,300 --> 00:20:15,300
+ Kan du förklara det en gång till?
+
+215
+00:20:15,300 --> 00:20:18,300
+ Hur är det? Känner du till den här studien från Hongkong?
+
+216
+00:20:18,300 --> 00:20:20,300
+ Jag förmodar att det är den studien som jag tänker på.
+
+217
+00:20:20,300 --> 00:20:22,300
+ Då pratar man inte om personer utan symptom,
+
+218
+00:20:22,300 --> 00:20:25,300
+ utan man pratar om undocumented cases.
+
+219
+00:20:25,300 --> 00:20:28,300
+ Alltså personer som inte har kommit till hälso- och sjukvården.
+
+220
+00:20:28,300 --> 00:20:32,300
+ Vi lägger ribban när vi ger rekommendationer mycket lägre.
+
+221
+00:20:32,300 --> 00:20:35,300
+ Det här handlar om personer som vi ber att stanna hemma.
+
+222
+00:20:35,300 --> 00:20:37,300
+ Det är personer som börjar få väldigt lätta symtom.
+
+223
+00:20:37,300 --> 00:20:40,300
+ Personer som inte alls skulle dyka upp i sjukvården,
+
+224
+00:20:40,300 --> 00:20:45,300
+ som aldrig testas och därmed definitivt skulle höra till dem som kallas undocumented.
+
+225
+00:20:45,300 --> 00:20:49,300
+ Självklart tar man med dem också så kommer man få en ganska stor grupp
+
+226
+00:20:49,300 --> 00:20:52,300
+ av personer som möjligen kan vara smittsamma.
+
+227
+00:20:52,300 --> 00:20:58,300
+ Det är säkert så att det finns smitta från personer helt utan symptom.
+
+228
+00:20:58,300 --> 00:21:04,300
+ Men det är väldigt ovanligt jämfört med hur mycket smitta som sprids av dem med symptom.
+
+229
+00:21:04,300 --> 00:21:08,300
+ Vad vi nu jobbar med är inte att få bort smittanhet och hållet.
+
+230
+00:21:08,300 --> 00:21:11,300
+ Det kommer inte att gå. Den här sjukdomen är här för att stanna.
+
+231
+00:21:11,300 --> 00:21:15,300
+ Utan vad vi jobbar med nu är att få ner smittan i samhället så långt ner som möjligt
+
+232
+00:21:15,300 --> 00:21:18,300
+ med rimliga åtgärder för att vi ska platta ut kurvan
+
+233
+00:21:18,300 --> 00:21:23,300
+ och skapa en möjlig situation för hälso- och sjukvården att fortsätta fungera.
+
+234
+00:21:23,300 --> 00:21:28,300
+ Det är vår bedömning att det är möjligt att göra genom att ta bort den gruppen
+
+235
+00:21:28,300 --> 00:21:30,300
+ av smittsamma som har symptom.
+
+236
+00:21:30,300 --> 00:21:34,300
+ Den lilla gruppen som inte har symptom kommer att fortsätta sprida smitta.
+
+237
+00:21:34,300 --> 00:21:39,300
+ Det gör man var man än hittar på. Det finns inga möjligheter att få bort smittan från samhället.
+
+238
+00:21:39,300 --> 00:21:45,300
+ Det gäller att sikta in sig på de områden där vi ser stor del av smittspridningen.
+
+239
+00:21:45,300 --> 00:21:51,300
+ Reglera dem, ge råd om dem på ett bra sätt och på så sätt minska hastigheten av smittspridning i samhället.
+
+240
+00:21:51,300 --> 00:21:55,300
+ Det är vår tanke och vår strategi bakom det vi gör.
+
+241
+00:21:55,300 --> 00:22:01,300
+ Jag tror att det är en annan studie. De har undersökt par.
+
+242
+00:22:01,300 --> 00:22:05,300
+ Både har fått den här sjukdomen, men den enda har fått den först.
+
+243
+00:22:05,300 --> 00:22:09,300
+ Sedan har de provat hur länge det har tagit innan de andra har fått den.
+
+244
+00:22:09,300 --> 00:22:12,300
+ Det var en ganska ny från Gabriela.
+
+245
+00:22:12,300 --> 00:22:17,300
+ Jag har sett den också. Det är en liten studie och vi har låtit våra statistiker titta på den.
+
+246
+00:22:17,300 --> 00:22:22,300
+ Det är rätt svårt. Det bygger bland annat på att man förutsätter att man inte har något mörkertal
+
+247
+00:22:22,300 --> 00:22:25,300
+ överhuvudtaget, vilket ju helt säkert inte är sant.
+
+248
+00:22:25,300 --> 00:22:30,300
+ Det finns mycket i den studien som man kan fundera på om den modellen verkligen speglar verkligheten eller inte.
+
+249
+00:22:30,300 --> 00:22:33,300
+ Men den här diskussionen om mörkertal är väldigt viktig för den.
+
+250
+00:22:33,300 --> 00:22:35,300
+ Och det har man inte räknat in i den studien överhuvudtaget.
+
+251
+00:22:35,300 --> 00:22:37,300
+ Då vet jag vilken studie du menar.
+
+252
+00:22:37,300 --> 00:22:47,300
+ Har vi någon mer? Då är det kanske dags att avsluta.
+
+253
+00:22:47,300 --> 00:22:51,300
+ Tacka för den här presentationen och bjuda upp nästa gäng.
+
+254
+00:22:51,300 --> 00:22:55,300
+ Efter nästa presentation finns det möjlighet att göra enskilda intervjuer.
+
+255
+00:22:55,300 --> 00:22:58,300
+ Men vi väntar tills den presentationen är klar.
+
+256
+00:22:58,300 --> 00:23:00,300
+ Så varsågoda.
+
+257
+00:23:02,300 --> 00:23:04,300
+ (Skratt)
+
+258
+00:23:24,300 --> 00:23:31,300
+ ...chef på Sveriges kommuner och regioner, Martin Ernlöf, som är generalsekreterare för Svenska Röda Korset.
+
+259
+00:23:31,300 --> 00:23:37,300
+ Och Georgios Kontourinis som är förbundsordförande för Svenska civilförsvarsförbundet.
+
+260
+00:23:37,300 --> 00:23:39,300
+ Välkomna.
+
+261
+00:23:39,300 --> 00:23:43,300
+ Ja, tack så mycket.
+
+262
+00:23:43,300 --> 00:23:47,300
+ Det här är då det som jag har gått ut information om nyligen.
+
+263
+00:23:47,300 --> 00:23:53,300
+ Så här ser det ut sammanfattningsvis när man försöker sammanfatta det på en enda bild.
+
+264
+00:23:53,300 --> 00:24:01,300
+ Vi har två olika modeller som tillsammans blir en samlad lösning för frivillig stöd till kommunerna.
+
+265
+00:24:01,300 --> 00:24:06,300
+ I stödet till framförallt äldre människor som ska minskas in av sociala kontakter så mycket som möjligt.
+
+266
+00:24:06,300 --> 00:24:11,300
+ Och som kanske då inte kan få stöd av familj, vänner, grannar eller på annat sätt.
+
+267
+00:24:11,300 --> 00:24:18,300
+ Den första modellen handlar om att lyfta fram och förstärka frivilliga resursgrupper, FRG.
+
+268
+00:24:18,300 --> 00:24:20,300
+ Som är ett koncept där det finns.
+
+269
+00:24:20,300 --> 00:24:24,300
+ Det här är ett etablerat koncept i 155 kommuner.
+
+270
+00:24:24,300 --> 00:24:27,300
+ Det är den blå färgen här på kartan.
+
+271
+00:24:27,300 --> 00:24:34,300
+ Och det är ett koncept som redan finns för samlat frivillig stöd till kommunerna.
+
+272
+00:24:34,300 --> 00:24:39,300
+ Civilförsvarsförbundet har länge haft uppdraget att utbilda frivilliga för den här uppgiften.
+
+273
+00:24:39,300 --> 00:24:45,300
+ Men de frivilliga som ingår i en FRG kan komma från alla frivilliga försvarsorganisationer.
+
+274
+00:24:45,300 --> 00:24:53,300
+ Och nu ger vi i en särskild överenskommelse civilförsvarsförbundet en nationell samordningsroll
+
+275
+00:24:53,300 --> 00:24:58,300
+ för hanteringen av den här förstärkningslösningen inom ramen för den här coronahanteringen.
+
+276
+00:24:58,300 --> 00:25:03,300
+ Vi ser också till att det finns ett centralt samordningskansli för alla frivilliga försvarsorganisationer
+
+277
+00:25:03,300 --> 00:25:08,300
+ till stöd för detta. Så att alla de organisationer känner att de kan jacka in i det här på ett bra sätt.
+
+278
+00:25:08,300 --> 00:25:17,300
+ Den andra modellen är mer av en akutlösning för de kommuner som inte har en frivillig resursgrupp
+
+279
+00:25:17,300 --> 00:25:22,300
+ eller på ett annat sätt har löst frågan om samordning av frivilliga resurser vid kriser.
+
+280
+00:25:22,300 --> 00:25:27,300
+ Här har vi tecknat en gemensam avsiktsförklaring med Sveriges kommuner och regioner,
+
+281
+00:25:27,300 --> 00:25:34,300
+ Riksidrottsförbundet, Rädda Barnen, Svenska kyrkan, Svenska Röda Korset och Sveriges statsmissioner.
+
+282
+00:25:34,300 --> 00:25:40,300
+ Det här är ett erbjudande som kan startas upp för kommuner som så vill.
+
+283
+00:25:40,300 --> 00:25:45,300
+ Så det är inte någon struktur som finns utan det är en beredskap hos de här organisationerna
+
+284
+00:25:45,300 --> 00:25:50,300
+ att starta upp för kommuner som önskar få samlat stöd och en struktur för det.
+
+285
+00:25:50,300 --> 00:25:54,300
+ Svenska Röda Korset får en samordningsroll på nationell nivå i den här modellen.
+
+286
+00:25:54,300 --> 00:26:01,300
+ Samordningsansvaret lokalt kan variera mellan de här organisationerna beroende på lokala förhållanden.
+
+287
+00:26:01,300 --> 00:26:08,300
+ Nu tänkte jag lämna över ordet först till Civilförsvarsförbundet och sen till Röda Korset
+
+288
+00:26:08,300 --> 00:26:14,300
+ som då får berätta om hur ni ser på ert arbete i ljuset av den här överenskommelsen
+
+289
+00:26:14,300 --> 00:26:17,300
+ och den gemensamma avsiktsförklaringen.
+
+290
+00:26:17,300 --> 00:26:22,300
+ Därefter kommer även Sveriges kommuner och regioner att ge en kommentar.
+
+291
+00:26:22,300 --> 00:26:27,300
+ Sen öppnar vi för frågor. I de enskilda intervjuerna finns det även möjlighet att tala med representanter
+
+292
+00:26:27,300 --> 00:26:34,300
+ för Svenska Kyrkan, Riksidrottsförbundet, Rädda Barnen och Lotta Kåren.
+
+293
+00:26:34,300 --> 00:26:44,300
+ Det här är stort faktiskt. Det här är en samhälls-mobilisering i den här situationen.
+
+294
+00:26:44,300 --> 00:26:48,300
+ En mobilisering av människors kraft och vilja att bidra och göra nytta
+
+295
+00:26:48,300 --> 00:26:53,300
+ och hjälpa i samhällets hantering i en svår situation. Tack!
+
+296
+00:26:53,300 --> 00:26:59,300
+ Tack så mycket! Georgios Kontourinis, ordförande i Civilförsvarsförbundet.
+
+297
+00:26:59,300 --> 00:27:05,300
+ I samarbete med MSB, Sveriges kommuner och regioner och Svenska Röda Korset
+
+298
+00:27:05,300 --> 00:27:12,300
+ och de övriga frivilliga försvarsorganisationer gör vi allt vi kan för att minska risken av spridningen
+
+299
+00:27:12,300 --> 00:27:20,300
+ av coronavirus och för att öka triheten för de äldre samt andra riskgrupper i samhället.
+
+300
+00:27:20,300 --> 00:27:27,300
+ Överenskommelser som tecknades idag mellan Civilförsvarsförbundet och MSB
+
+301
+00:27:27,300 --> 00:27:35,300
+ stärker avsevärt de frivilliga resursgrupper som finns i mer än hälften av Sveriges kommuner.
+
+302
+00:27:35,300 --> 00:27:41,300
+ Frivilliga resursgrupper består av utbildade frivilliga som under kommunal regi
+
+303
+00:27:41,300 --> 00:27:48,300
+ är ett stöd för samhället i samband med kriser eller andra extraordinära händelser.
+
+304
+00:27:48,300 --> 00:27:54,300
+ Exempel på tidigare insatser när det gäller frivilliga resursgrupper kan vi se på
+
+305
+00:27:54,300 --> 00:28:03,300
+ skogsbränderna i Västmanland, skogsbränderna 2018, vattenförorening i Skellefteå 2011
+
+306
+00:28:03,300 --> 00:28:07,300
+ och den stora migrationsstillstånden 2015.
+
+307
+00:28:07,300 --> 00:28:15,300
+ Vad kan FRG användas till? Det kan vara kommunikationsinsatser, det kan vara information
+
+308
+00:28:15,300 --> 00:28:23,300
+ stöd inom äldreomsorgen, medmänsklig stöd helt enkelt, administration, avspärring och
+
+309
+00:28:23,300 --> 00:28:32,300
+ övervakning, fordonsförare, tolkhjälp, fungerar som extra armar och bänn för kommunerna.
+
+310
+00:28:32,300 --> 00:28:40,300
+ Om man tittar några konkreta exempel där vi redan idag har hemleverans av livsmedel
+
+311
+00:28:40,300 --> 00:28:50,300
+ och receptfria läkemedel i Älvkalleby i Uppsala och Nottelje och Kungsälv.
+
+312
+00:28:50,300 --> 00:28:55,300
+ Tack så mycket.
+
+313
+00:28:55,300 --> 00:29:00,300
+ Martin Nelvet, jag är generalsekreterare för Svenska Röda Korset.
+
+314
+00:29:00,300 --> 00:29:07,300
+ När ett samhälle är i en krissituation så blir frivillighet med en gång någonting som aktiveras spontant.
+
+315
+00:29:07,300 --> 00:29:13,300
+ Goda grannar frågar efter varandra på ett annat sätt, det organiseras grupper i trappuppgångar,
+
+316
+00:29:13,300 --> 00:29:16,300
+ bostadsrättföreningar, man bryr sig om lite extra.
+
+317
+00:29:16,300 --> 00:29:24,300
+ Det vi har i Sverige nu är kanske en period framför oss där människor som identifieras som riskgrupper,
+
+318
+00:29:24,300 --> 00:29:32,300
+ 70+ andra som i vanliga fall känner sig helt friska och helt vanliga medborgare nu isoleras.
+
+319
+00:29:32,300 --> 00:29:39,300
+ Då har vi från ett antal organisationer känt tillsammans med MSB och Sveriges kommuner och regioner
+
+320
+00:29:39,300 --> 00:29:42,300
+ att vi behöver hitta en annan modell för att jobba tillsammans.
+
+321
+00:29:42,300 --> 00:29:50,300
+ Röda banen, Röda Korset, Sveriges Statsmissioner, Riksidrottsförbundet och Svenska kyrkan och dess församlingar
+
+322
+00:29:50,300 --> 00:29:57,300
+ har därför skapat en modell där vi i samverkan med en kommun kommer kunna mobilisera lokala frivilliga
+
+323
+00:29:57,300 --> 00:30:04,300
+ alltså som är kända på orten, som är kända på platsen för att göra den här typen av stödinsatser
+
+324
+00:30:04,300 --> 00:30:11,300
+ i ett läge där det antingen inte finns en frivillig resursgrupp eller där den inte fungerar på ett optimalt sätt.
+
+325
+00:30:11,300 --> 00:30:17,300
+ Jag tror att detta kommer kunna vara en insats som växer i betydelse de kommande veckorna.
+
+326
+00:30:17,300 --> 00:30:24,300
+ Vi står beredda att göra det, precis som Svante från MSB nämnde så kommer vi hitta den lokala koordineringen
+
+327
+00:30:24,300 --> 00:30:31,300
+ vilken av våra organisationer är starkast lokalt för att organisera det på platsen i nära samverkan med kommunen
+
+328
+00:30:31,300 --> 00:30:37,300
+ och Svenska Röda Korset har lovat att ta en övergripande roll för att koordinera strukturen.
+
+329
+00:30:37,300 --> 00:30:43,300
+ Jag är helt säker på att vi kommer kunna klara av detta på ett bra sätt i de flesta situationer.
+
+330
+00:30:43,300 --> 00:30:48,300
+ Vi driver starkt av bilden av att ingen ska lämnas ensam i en kris eller katastrof
+
+331
+00:30:48,300 --> 00:30:54,300
+ och vi tror att vi kan vara med och bygga ett kit i att hantera den här situationen tillsammans.
+
+332
+00:30:54,300 --> 00:31:05,300
+ Vi från Sveriges kommuner och regionsida såg att trycket på kommunerna har ökat och riskerar att öka än mer nu
+
+333
+00:31:05,300 --> 00:31:13,300
+ när äldre och andra riskgrupper behöver hjälp med matinköp och andra tjänster i samband med att de måste stanna hemma.
+
+334
+00:31:13,300 --> 00:31:22,300
+ Kommunerna behöver avlastning med uppdraget att ge stöd och förutsättningar för de som måste stanna hemma med enklare tjänster.
+
+335
+00:31:22,300 --> 00:31:29,300
+ Därför är det så glädjande att vi från Sveriges kommuner och regionsida tillsammans med MSB
+
+336
+00:31:29,300 --> 00:31:37,300
+ och ledande företrädare för civilsamhället har kunnat enats om att samverka och lösa det här tillsammans
+
+337
+00:31:37,300 --> 00:31:43,300
+ och att samverka för att stärka stödet till de invånare som behöver det.
+
+338
+00:31:43,300 --> 00:31:50,300
+ Jag håller med MSB att det är en stor manifestation att vi löser det här tillsammans och i god samverkan.
+
+339
+00:31:50,300 --> 00:32:00,300
+ Det är ungefär 1,5 miljon personer som är över 70 år och vi såg också en risk att de här personerna i ökad utsträckning
+
+340
+00:32:00,300 --> 00:32:09,300
+ skulle behöva vända sig till en redan hårt ansträngd hemtjänst som också belastas av höga sjukskrivningstal.
+
+341
+00:32:09,300 --> 00:32:15,300
+ Det var mot den bakgrunden som vi från SKR-sidan tog kontakt med Röda Korset och inledde diskussionerna
+
+342
+00:32:15,300 --> 00:32:19,300
+ om att vi kan hitta något sätt att få till det här tillsammans.
+
+343
+00:32:19,300 --> 00:32:24,300
+ Det är mot den bakgrunden som vi står här idag och jag tycker det är väldigt glädjande.
+
+344
+00:32:24,300 --> 00:32:33,300
+ Någonting som både är värdefullt för de som behöver det här stödet, det är en väldigt välkommen avlastning för de kommunerna som behöver det.
+
+345
+00:32:33,300 --> 00:32:39,300
+ Men också en manifestation just kring att vi samlar oss kring det här tillsammans.
+
+346
+00:32:39,300 --> 00:32:45,300
+ Tack. Frågor?
+
+347
+00:32:45,300 --> 00:32:59,300
+ Då finns det nu tillfälle att göra enskilda intervjuer.
+
+348
+00:33:00,300 --> 00:33:02,300
+ Tack.
+
+349
+00:33:03,300 --> 00:33:07,300
+ Tack till elever och personal vid SKR-sidan.
+
+350
+00:33:07,300 --> 00:33:14,300
+ Tack till elever och personal vid SKR-sidan.
+
+351
+00:33:14,300 --> 00:33:16,300
+ [Text]
+

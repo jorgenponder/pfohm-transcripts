@@ -1,0 +1,1440 @@
+1
+00:00:00,000 --> 00:00:07,400
+ Välkommen till Folkhälsomyndigheten och Virushuset till ännu en pressträff om det nya coronaviruset.
+
+2
+00:00:07,400 --> 00:00:13,000
+ Vi har Socialstyrelsens delföreträdande krisberedskapschef, Taha Alexandersson.
+
+3
+00:00:13,000 --> 00:00:18,000
+ Anneli Bergholm Söder, operativ chef på Myndigheten för samhällsskydd och beredskap.
+
+4
+00:00:18,000 --> 00:00:23,800
+ Anders Wallensten, biträdande statsepidemiolog på Folkhälsomyndigheten.
+
+5
+00:00:23,800 --> 00:00:27,400
+ Och Anders Tegnell, vår statsepidemiolog.
+
+6
+00:00:27,400 --> 00:00:35,200
+ Per Folin, smittskyddsläkare i Region Stockholm, är också här och kan svara på frågor efter pressträffen.
+
+7
+00:00:35,200 --> 00:00:40,800
+ Vi har också en teckenspråkstolk som är bra om han kan få komma med på bild.
+
+8
+00:00:40,800 --> 00:00:46,800
+ Jag ska påminna också om att det är fotoförbud generellt i byggnaden,
+
+9
+00:00:46,800 --> 00:00:50,600
+ men inte här inne såklart.
+
+10
+00:00:50,600 --> 00:00:53,800
+ Det går också bra att göra intervjuer här ute i lobbyn.
+
+11
+00:00:53,800 --> 00:01:00,000
+ Efter presentationerna så går det bra att ställa frågor till hela gruppen.
+
+12
+00:01:00,000 --> 00:01:05,400
+ Sen går det också bra med individuella intervjuer när allting är klart.
+
+13
+00:01:05,400 --> 00:01:10,800
+ Jag börjar med att lämna över till biträdande statsepidemiolog Anders Wallensten.
+
+14
+00:01:10,800 --> 00:01:14,200
+ God eftermiddag och välkomna.
+
+15
+00:01:14,200 --> 00:01:20,200
+ Vi börjar med en uppdatering av det epidemiologiska läget som vi gjort tidigare dagar.
+
+16
+00:01:20,200 --> 00:01:30,800
+ Om man ser på utvecklingen i världen så fortsätter den med väldigt många länder som är påverkade som ni ser på kartan här.
+
+17
+00:01:30,800 --> 00:01:36,000
+ Vi har ungefär 120 000 fall, bara 4 300 har dött.
+
+18
+00:01:36,000 --> 00:01:41,800
+ För svensk del så är det just nu 461 fall som vi har inrapporterade.
+
+19
+00:01:41,800 --> 00:01:47,000
+ Men som ni vet är det en siffra som kan hända oss under dagen när allt eftersom fall rapporteras in.
+
+20
+00:01:47,000 --> 00:01:53,800
+ Här kan vi se grafiskt hur fall har rapporterats in.
+
+21
+00:01:53,800 --> 00:02:01,000
+ Notera att det kan vara en eftersläpning på fall så att sista staplarna behöver inte vara helt korrekta.
+
+22
+00:02:01,000 --> 00:02:09,800
+ Men det är i alla fall en indikation på hur utvecklingen ser ut vad gäller de som är provtagna och visat sig positiva.
+
+23
+00:02:09,800 --> 00:02:18,000
+ Vi har även åldersfördelningen bredvid i de blå staplarna och det har inte förändrats sen det jag berättade om igår.
+
+24
+00:02:18,000 --> 00:02:23,200
+ Den stora majoriteten är i åldersgrupperna ungefär 40-60 år.
+
+25
+00:02:23,200 --> 00:02:26,200
+ I övrigt finns det från andra åldersgrupper också.
+
+26
+00:02:26,200 --> 00:02:32,800
+ Men det är de som dominerar och vi tror att det här fortfarande speglar mycket vilka som har rest i norra Italien.
+
+27
+00:02:32,800 --> 00:02:37,000
+ Eftersom majoriteten av alla fall är diagnostiserade efter resa där.
+
+28
+00:02:37,000 --> 00:02:43,200
+ Igår berättade vi om att det fanns tecken till samhällsbrytning.
+
+29
+00:02:43,200 --> 00:02:52,000
+ Vi har inte fått några indikationer idag på att det skulle ha upptäckts fler sådana misstänkta fall.
+
+30
+00:02:52,000 --> 00:03:01,600
+ Vi står kvar på samma risknivå som igår där vi har sett tecken vid ett par tillfällen och vi fortsätter att följa läget.
+
+31
+00:03:01,600 --> 00:03:08,400
+ Med det så låter jag Anders Tegnell berätta om de åtgärder som vi tar.
+
+32
+00:03:08,400 --> 00:03:13,200
+ God eftermiddag som sagt.
+
+33
+00:03:13,200 --> 00:03:23,200
+ Den här sakta förändrade epidemiologiska situationen gör att fokus på åtgärder successivt också kommer att förändras.
+
+34
+00:03:23,200 --> 00:03:24,800
+ Det är viktigt att komma ihåg.
+
+35
+00:03:24,800 --> 00:03:32,400
+ Ibland tycker man att man glömmer bort i den här epidemin vi nu har att olika åtgärder passar bra vid olika tillfällen.
+
+36
+00:03:32,400 --> 00:03:37,600
+ Man kan inte göra samma sak hela tiden i den här typen av epidemier utan man måste anpassa sig till var man befinner sig.
+
+37
+00:03:37,600 --> 00:03:41,400
+ Därför har vi nu ändrat litegrann.
+
+38
+00:03:41,400 --> 00:03:47,400
+ Vi kommer inte längre att ta med så stort fokus på resenärer från andra länder i riskområden.
+
+39
+00:03:47,400 --> 00:03:51,000
+ Eftersom riskområdena har blivit mer och mer diffusa.
+
+40
+00:03:51,000 --> 00:03:58,200
+ Det kan komma resenärer från nästan var som helst nu och ha med sig smittan och möjligen har vi också viss smitta i landet.
+
+41
+00:03:58,200 --> 00:04:01,600
+ Även om den hittills verkar väldigt begränsad.
+
+42
+00:04:01,600 --> 00:04:12,400
+ Därför behöver vi nu lägga fokus på att istället fånga de som håller på med vård av de äldre äldre som vi vet i den här utsatta gruppen.
+
+43
+00:04:12,400 --> 00:04:22,000
+ Det här har också lett till att det blir ett större fokus på att alla personer här i Sverige behöver stanna hemma.
+
+44
+00:04:22,000 --> 00:04:26,800
+ Om man har tecken på någon luftväxthjälp eller börjar känna sig sjuk i en luftväxthjälpsinfektion.
+
+45
+00:04:26,800 --> 00:04:31,400
+ Vilket man ju på många ställen bör göra även i vanliga fall men det är ännu viktigare nu.
+
+46
+00:04:31,400 --> 00:04:39,400
+ För att göra det lätt så har vi ju haft en dialog med regeringen och har just fått höra att det så kallade carensavdraget
+
+47
+00:04:39,400 --> 00:04:43,400
+ är nu borttaget tillsvida under den här epidemin.
+
+48
+00:04:43,400 --> 00:04:47,800
+ För att incitamenten att stanna hemma ska bli enklare.
+
+49
+00:04:47,800 --> 00:04:50,600
+ Det ska bli enklare att stanna hemma och inte bli så kostsamt.
+
+50
+00:04:50,600 --> 00:05:00,000
+ Så det känns ju väldigt bra att alla hinder för att göra rätt under den här epidemin tas bort.
+
+51
+00:05:00,000 --> 00:05:04,000
+ Så nu jobbar vi framförallt fortsättningsvis på två områden.
+
+52
+00:05:04,000 --> 00:05:08,800
+ Dels att minska samhällsspridningen och det kan man göra på lite olika sätt.
+
+53
+00:05:08,800 --> 00:05:14,000
+ Men framförallt är det här som jag nämnde tidigare att stanna hemma om man känner sig sjuk.
+
+54
+00:05:14,000 --> 00:05:20,000
+ Liksom grundbulten. Börjar man känna sig sjuk, det börjar hålla ont i halsen eller något liknande.
+
+55
+00:05:20,000 --> 00:05:29,800
+ Stanna hemma. Och stanna hemma gärna en till två dagar efter att symptomet har gått över.
+
+56
+00:05:29,800 --> 00:05:39,200
+ Det är viktigt på alla ställen men absolut allra viktigast om man jobbar med de äldre äldre som är kvar.
+
+57
+00:05:39,200 --> 00:05:43,800
+ Till det så ligger ju förstås som tidigare rekommendationen om god handhygien.
+
+58
+00:05:43,800 --> 00:05:53,600
+ Det finns ju fortfarande kvar. Kan man undvika att komma i kontakt med sjuka människor som har den här smittan så ska man göra det.
+
+59
+00:05:53,600 --> 00:06:00,800
+ Vi håller just idag under dagen på att ha en dialog med regeringen om det här med större evenemang och hur vi ska se på dem.
+
+60
+00:06:00,800 --> 00:06:04,200
+ Men ännu så länge har ingenting landat i den frågan.
+
+61
+00:06:04,200 --> 00:06:10,200
+ Och som sagt, det kommer bli ett jättestort fokus fortsättningsvis på att skydda de äldre äldre.
+
+62
+00:06:10,200 --> 00:06:17,800
+ Redan i de kinesiska sammanställningarna så var de den väldigt utsatta gruppen och rapporterna från Italien understryker det ännu mer.
+
+63
+00:06:17,800 --> 00:06:26,600
+ Det är väldigt mycket de riktigt gamla 80-85 år äldre som dör i den här sjukdomen som blir allvarligt sjuka i den här sjukdomen.
+
+64
+00:06:26,600 --> 00:06:31,000
+ Medan resten av befolkningen nästan alltid får väldigt linjer symptom.
+
+65
+00:06:31,000 --> 00:06:40,000
+ Så därför är det väldigt viktigt att skydda dem både för deras egen skull men också för att inte sjukvården ska överbelastas med fall från den gruppen.
+
+66
+00:06:40,000 --> 00:06:46,200
+ Dels handlar det om att de som arbetar där måste vara ännu mer noga med att inte komma dit om man håller på att bli sjuk.
+
+67
+00:06:46,200 --> 00:06:49,400
+ För anhöriga gäller det samma sak.
+
+68
+00:06:49,400 --> 00:06:55,400
+ Det är möjligt att vi också kommer att hamna i ett läge där man inskränker den här typen av besök ännu mer.
+
+69
+00:06:55,400 --> 00:07:00,000
+ Just för att skydda den gruppen om vi får en stor spridning utilsammat.
+
+70
+00:07:00,000 --> 00:07:12,200
+ Så det var lite kort om de sakta men successiva omställningarna vi gör bara åtgärder nu när epidemin förändras.
+
+71
+00:07:12,200 --> 00:07:17,400
+ Tack från Socialstyrelsens håll har jag verkligen en väldigt kort uppdatering.
+
+72
+00:07:17,400 --> 00:07:33,400
+ Vi jobbar fortfarande intensivt, likadant som jag rapporterade igår, med att främst säkerställa att vi stödjer regionernas arbete och även kommunernas på ett relevant sätt.
+
+73
+00:07:33,400 --> 00:07:44,000
+ Det som har framkommit tidigare kvarstår tillgången till skyddsmateriel som man bedömer som det största behovet just nu.
+
+74
+00:07:44,000 --> 00:07:46,200
+ Ett säkerställande av det här över tid.
+
+75
+00:07:46,200 --> 00:07:50,000
+ Det fortsätter vi att arbeta enligt de spår som jag förmedlade igår.
+
+76
+00:07:50,000 --> 00:07:57,400
+ Det är dels den EU gemensamma upphandlingen men också att vi själva är aktiva på marknaden.
+
+77
+00:07:57,400 --> 00:08:03,400
+ Många aktörer har sagt att man bara säljer till statliga aktörer.
+
+78
+00:08:03,400 --> 00:08:13,400
+ Det gör inte vi för att konkurrera med regionerna utan för att säkerställa att Sverige är med i säkerställandet av skyddsmateriel generellt.
+
+79
+00:08:13,400 --> 00:08:20,000
+ Jag vill också trycka på det här som jag sa igår, tillgången till 1177.
+
+80
+00:08:20,000 --> 00:08:30,800
+ Vi har en dialog med SKR, Sveriges kommuner och regioner för att verkligen försöka säkerställa att 1177 fortsätter vara funktionellt i hela landet.
+
+81
+00:08:30,800 --> 00:08:42,800
+ Hänvisar personer som har allmänna frågor om viruset till 113.13 och annan typ av information så att vi verkligen säkerställer att 1177 fortsätter vara relevant.
+
+82
+00:08:42,800 --> 00:08:46,800
+ I övrigt så stannar jag där och finns tillgänglig för frågor.
+
+83
+00:08:46,800 --> 00:08:55,800
+ Från myndigheten för samhällsskydd och beredskap MSB så har jag inte särskilt mycket nytt heller att kommunicera.
+
+84
+00:08:55,800 --> 00:09:06,800
+ Men vill betona vikten av att alla som har samhällsviktig verksamhet planerar för ett stort personalbottfall men också materiell bottfall.
+
+85
+00:09:06,800 --> 00:09:19,800
+ Och sen också betona vikten av att vi alla håller oss uppdaterade kring den myndighetsgemensamma bekräftade informationen som finns att tillgå på krisinformation.se.
+
+86
+00:09:19,800 --> 00:09:23,800
+ Och med det stannar jag och finns tillgänglig förstås om ni har frågor.
+
+87
+00:09:23,800 --> 00:09:26,800
+ Tack, vi öppnar upp för frågor.
+
+88
+00:09:26,800 --> 00:09:28,800
+ DN.
+
+89
+00:09:28,800 --> 00:09:41,800
+ Du sa att ni har en dialog om det här med större sammankomster. Kan du berätta lite mer om den och vad det är som gör att ni inte har fattat den här typen av beslut som till exempel Norge har fattat för två dagar sedan?
+
+90
+00:09:41,800 --> 00:09:48,800
+ Det är komplext att få ihop lagstiftning med den medicinska och epidemiologiska situationen vi befinner oss i.
+
+91
+00:09:48,800 --> 00:09:51,800
+ Och det här är ett arbete som vi egentligen startade nu på morgonen.
+
+92
+00:09:51,800 --> 00:09:55,800
+ Och vi räknar med att få det klart under dagen.
+
+93
+00:09:55,800 --> 00:10:03,800
+ När det gäller oppositionspartierna så finns det någon slags delad uppfattning om vilken beslutsgång egentligen som krävs för att fatta ett sådant här beslut.
+
+94
+00:10:03,800 --> 00:10:08,800
+ Vad är din bild av det här? Vad är det för något som krävs för att ni ska göra en sådan här rekommendation?
+
+95
+00:10:08,800 --> 00:10:18,800
+ Vi kan ju som självständig myndighet ta massor med olika initiativ, bland annat det här utifrån vårt grundägande uppdrag om att samordna smittskyddet i landet.
+
+96
+00:10:18,800 --> 00:10:24,800
+ Men det krävs inget besked från regeringen från er sida för att ni ska gå vidare?
+
+97
+00:10:24,800 --> 00:10:29,800
+ Nej, det är ju självständiga myndigheter som kan komma in med den här typen av hemställning till regeringen.
+
+98
+00:10:29,800 --> 00:10:32,800
+ När det är ett uppstått läge så är det behövt.
+
+99
+00:10:32,800 --> 00:10:35,800
+ Och som likheten för att ni gör det under dagen eller under veckan?
+
+100
+00:10:35,800 --> 00:10:37,800
+ Den är hög.
+
+101
+00:10:37,800 --> 00:10:39,800
+ Jag har en fråga här.
+
+102
+00:10:39,800 --> 00:10:50,800
+ Jag har en fråga till Anders Stengdahl. Varför rekommenderar ni inte genast att man besöksförbud på äldreboenden om det nu är så känsligt med äldre och vi ska värna dem?
+
+103
+00:10:50,800 --> 00:10:56,800
+ Vi befinner oss i en fas nu när vi går från en typ av strategi och åtgärder till en annan.
+
+104
+00:10:56,800 --> 00:11:00,800
+ Den typen av omställning måste få ta lite tid.
+
+105
+00:11:00,800 --> 00:11:06,800
+ De här verksamheterna är spreda i hela landet, finns överallt, stora och små, ligger ute i kommunerna.
+
+106
+00:11:06,800 --> 00:11:11,800
+ Det här budskapet måste hinna ifatt om på ett rimligt sätt via olika kanaler.
+
+107
+00:11:11,800 --> 00:11:18,800
+ Och det är ju också verksamheten själva som sen kommer att besluta på vilken nivå man vill lägga den här restriktionen av besök.
+
+108
+00:11:18,800 --> 00:11:21,800
+ Vad krävs för att ni ska rekommendera det besöksförbud?
+
+109
+00:11:21,800 --> 00:11:24,800
+ I princip har vi redan gjort det i olika texter.
+
+110
+00:11:24,800 --> 00:11:35,800
+ Vi kommer att fortsätta att man måste titta på hur man kan begränsa besöken till de som är viktiga så att man verkligen skyddar den här gruppen äldre.
+
+111
+00:11:35,800 --> 00:11:39,800
+ Dessutom är det så att vi befinner oss inte i det läget idag.
+
+112
+00:11:39,800 --> 00:11:44,800
+ Att vi har en stor spridning i samhället så att det här är ett akut behov att stänga idag.
+
+113
+00:11:44,800 --> 00:11:48,800
+ Än så länge har vi väldigt liten om någon all spridning ute i samhället.
+
+114
+00:11:48,800 --> 00:11:53,800
+ Därför är det bra att vi nu skickar ut den här signalen när det börjar röra på oss ordentligt.
+
+115
+00:11:53,800 --> 00:11:57,800
+ Tänk på efterordentligt hur ni kan hindra smittan från att nå era äldre.
+
+116
+00:11:57,800 --> 00:12:04,800
+ Redan idag rekommenderar ni att undvika onödiga beslut. Vad är onödiga besök?
+
+117
+00:12:04,800 --> 00:12:09,800
+ Jag tror att man på varje ställe måste ha en dialog med anhöriga.
+
+118
+00:12:09,800 --> 00:12:15,800
+ Jag tror att de är minst lika angelägna om att den här gruppen skyddas.
+
+119
+00:12:15,800 --> 00:12:20,800
+ Att man förklarar för dem vad som gäller. Förklara för dem hur viktigt det är att man inte kommer dit när man är sjuk.
+
+120
+00:12:20,800 --> 00:12:26,800
+ Och att i vissa lägen med väldigt stor spridning ute i samhället också kan vara aktuellt under vissa perioder att inte ha några besök alls.
+
+121
+00:12:26,800 --> 00:12:32,800
+ Så att man återigen förbereder det här så att det finns en medvetenhet om en acceptans i samhället.
+
+122
+00:12:32,800 --> 00:12:34,800
+ För det här kan vara en vettig och bra åtgärd att vi ta.
+
+123
+00:12:34,800 --> 00:12:45,800
+ DN. Ja era systermyndigheter i Danmark har i morse gått ut med en ny beräkning av hur coronaviruset skulle träffa i Danmark.
+
+124
+00:12:45,800 --> 00:12:52,800
+ Man räknar med att 580 000 människor skulle insjukna. 11 000 patienter behöver sjukhusvård.
+
+125
+00:12:52,800 --> 00:12:59,800
+ Nästan 3 000 patienter behöver intensivvård. Vilka bedömningar gör ni här i Sverige?
+
+126
+00:12:59,800 --> 00:13:08,800
+ Vi har en pågående dialog tillsammans med Socialstyrelsen och regionerna om olika nivåer på belastning som kan komma upp i vården.
+
+127
+00:13:08,800 --> 00:13:15,800
+ Det är inte bara de absoluta talen som är viktiga utan egentligen är det viktigast hur många fall vi får i den veckan när det är som värst.
+
+128
+00:13:15,800 --> 00:13:23,800
+ Då håller vi på att titta på olika sätt och ha en dialog med det så att man kan jobba vidare med förberedelserna även inom sjukvården i Sverige.
+
+129
+00:13:23,800 --> 00:13:29,800
+ Är det inte rimligt att svenska invånare får en bedömning av vad ni väntar er?
+
+130
+00:13:29,800 --> 00:13:36,800
+ Andra länders myndigheter är ju kapabla att ge den här informationen. Varför kan inte ni ge den?
+
+131
+00:13:36,800 --> 00:13:43,800
+ Vi är ju som alltid väldigt transparenta i hur vi jobbar och det ska vi definitivt fortsätta vara.
+
+132
+00:13:43,800 --> 00:13:50,800
+ Men det viktiga att få veta det här och kunna arbeta med siffrorna är hälso- och sjukvården för det är de som ska omsätta dem i verksamhet.
+
+133
+00:13:50,800 --> 00:13:59,800
+ Dessutom finns det många problem med att vi inte alltid riktigt talar om exakt samma saker på olika sätt.
+
+134
+00:13:59,800 --> 00:14:05,800
+ Bland annat att man blandar ihop hur många patienter man kommer att få totalt med hur många man kommer att få på en vecka.
+
+135
+00:14:05,800 --> 00:14:12,800
+ Man blandar ihop hur många som möjligen kommer att insjukna i den här epidemin med hur många som kommer att behöva sjukvård.
+
+136
+00:14:12,800 --> 00:14:17,800
+ Sen måste vi också vara fullständigt medvetna om att vi vet inte. Ingen vet.
+
+137
+00:14:17,800 --> 00:14:22,800
+ Vad vi gissar, vad Danmark gissar, vad Norge gissar, alla gissar olika för att vi egentligen inte vet.
+
+138
+00:14:22,800 --> 00:14:27,800
+ Det enda stället som har haft en riktigt stor och omfattande epidemi är i centrala Kina.
+
+139
+00:14:27,800 --> 00:14:32,800
+ Där var en väldigt liten andel av befolkningen som hamnade inom sjukvården.
+
+140
+00:14:32,800 --> 00:14:36,800
+ Utvecklingen i Italien vet vi inte hur den kommer att utvecklas vidare.
+
+141
+00:14:36,800 --> 00:14:44,800
+ Vi har inga realistiska exempel att gå tillbaka till. Därför blir det väldigt teoretiska siffror som kommer att hanteras på olika ställen i världen.
+
+142
+00:14:44,800 --> 00:14:50,800
+ Då får man leva med dem. Det viktiga är att hälso- och sjukvården tar åt sig det här.
+
+143
+00:14:50,800 --> 00:14:56,800
+ Att man jobbar väldigt aktivt med hur man kan ställa om sin sjukvård för att ta hand om ett större antal patienter.
+
+144
+00:14:56,800 --> 00:14:58,800
+ Kanske framförallt respiratorkrävande patienter.
+
+145
+00:14:58,800 --> 00:15:06,800
+ Ett större antal, men förhållandena i Italien är närmast krigsliknande i de områden som de först drabbade.
+
+146
+00:15:06,800 --> 00:15:13,800
+ Vilka siffror ska regionerna, vi har 21 regioner i Sverige, vilka siffror ska regionerna räkna på?
+
+147
+00:15:13,800 --> 00:15:19,800
+ Vilken information får de av er för att de ska vara beredda om det går lika illa där som här?
+
+148
+00:15:19,800 --> 00:15:25,800
+ De få siffror där vi omsätter både de italienska erfarenheterna och de kinesiska erfarenheterna
+
+149
+00:15:25,800 --> 00:15:28,800
+ omsatta till sina befolkningar att jobba med.
+
+150
+00:15:28,800 --> 00:15:32,800
+ Och hur många procent av deras befolkning räknar de med ska drabbas?
+
+151
+00:15:32,800 --> 00:15:38,800
+ Men återigen procentandelen, hur många som drabbas av en epidemi vet man inte från efteråt.
+
+152
+00:15:38,800 --> 00:15:43,800
+ Frågan är hur många man behöver vårda vid olika tillfällen under epidemins gång.
+
+153
+00:15:43,800 --> 00:15:47,800
+ Det finns underlag som man håller på att jobba med tillsammans med hälso- och sjukvården
+
+154
+00:15:47,800 --> 00:15:51,800
+ så att vi kan komma fram med realistiska siffror som går att hantera i en verklighet.
+
+155
+00:15:51,800 --> 00:15:53,800
+ Finns det siffror eller håller ni på att jobba med siffror?
+
+156
+00:15:53,800 --> 00:15:55,800
+ Vi håller på att jobba med siffror.
+
+157
+00:15:55,800 --> 00:15:57,800
+ Och när blir de offentliga?
+
+158
+00:15:57,800 --> 00:16:02,800
+ Det måste vi diskutera vidare för att en del av de här siffrorna som kommer ner på så lokal nivå
+
+159
+00:16:02,800 --> 00:16:07,800
+ är ju inte alltid möjliga att lämna ut av olika säkerhetsskäl som säkert både MSB och Socialstyrelsen kan förklara.
+
+160
+00:16:07,800 --> 00:16:13,800
+ Men klarar svensk sjukvård en utveckling liknande den i norra Italien?
+
+161
+00:16:13,800 --> 00:16:18,800
+ Det är ju den diskussionen vi håller på att föra.
+
+162
+00:16:18,800 --> 00:16:22,800
+ Jag är ju helt personligen helt övertygad om att vi kommer att klara den minst lika bra som Italien.
+
+163
+00:16:22,800 --> 00:16:28,800
+ Och betydligt bättre förutsättningar både att hantera den och att jobba med så att vi slipper hamna i det läget.
+
+164
+00:16:28,800 --> 00:16:31,800
+ Okej, en fråga där.
+
+165
+00:16:31,800 --> 00:16:34,800
+ Också till Anders Tegnell från DN.
+
+166
+00:16:34,800 --> 00:16:38,800
+ Just när det gäller den här situationen i sjukvården så har ni pratat om äldrevården
+
+167
+00:16:38,800 --> 00:16:42,800
+ och att man rekommenderar inte onödiga besök där.
+
+168
+00:16:42,800 --> 00:16:47,800
+ Men i Stockholm så har man nu fyra akutsjukhus som är i stabsläge på grund av den här smittan.
+
+169
+00:16:47,800 --> 00:16:54,800
+ Och det är ju omvittnat att det är många äldre som kommer in på akutsjukhusen i Stockholm.
+
+170
+00:16:54,800 --> 00:16:58,800
+ Där skiljer sig Stockholm från andra delar av landet.
+
+171
+00:16:58,800 --> 00:17:00,800
+ Så hur resonerar ni här?
+
+172
+00:17:00,800 --> 00:17:06,800
+ Finns det någon diskussion om att man vill ha besöksförbud på sjukhusen?
+
+173
+00:17:06,800 --> 00:17:12,800
+ Egentligen så skulle du ställa den frågan till Per Fadim som kommer att vara tillgänglig här efter.
+
+174
+00:17:12,800 --> 00:17:17,800
+ Vi har inte fört någon diskussion om besöksförbud eller liknande.
+
+175
+00:17:17,800 --> 00:17:21,800
+ Men även i hälso- och sjukvården gäller samma sak som det gäller hela samhället nu.
+
+176
+00:17:21,800 --> 00:17:27,800
+ Att man inte ska bege sig till ställen där det finns personer som kan drabbas av sjukdomen på ett allvarligt sätt.
+
+177
+00:17:27,800 --> 00:17:29,800
+ Om man har symtom själv.
+
+178
+00:17:29,800 --> 00:17:31,800
+ Det gäller alla sådana tillfällen.
+
+179
+00:17:31,800 --> 00:17:34,800
+ Sjukvård eller vård, vilket som.
+
+180
+00:17:34,800 --> 00:17:39,800
+ I huvud taget så bör man i det här läget hålla sig hemma när man är småsjuk på olika sätt.
+
+181
+00:17:39,800 --> 00:17:42,800
+ Jag har en fråga när det gäller tillgängligheten till vård.
+
+182
+00:17:42,800 --> 00:17:45,800
+ Det är också omvittnat att det är svårt att nå fram till 1177.
+
+183
+00:17:45,800 --> 00:17:55,800
+ Då får vi många tips till redaktionen om samtidigt som det är stabsläge på fyra akutsjukhus i Stockholm.
+
+184
+00:17:55,800 --> 00:18:02,800
+ Kan ni garantera att människor får vård just i nuläget?
+
+185
+00:18:07,800 --> 00:18:14,800
+ Jag ska inte stå här och gissa från nationellt håll.
+
+186
+00:18:14,800 --> 00:18:22,800
+ Vi har en daglig dialog med alla regioner som är sjukvårdens huvudmän.
+
+187
+00:18:22,800 --> 00:18:31,800
+ Vi jobbar aktivt på att regionerna inom regionen ska ha förmåga att omfördela.
+
+188
+00:18:31,800 --> 00:18:36,800
+ Just ett stabsläge på ett sjukhus betyder inte att alla resurser är slut i hela regionen.
+
+189
+00:18:36,800 --> 00:18:41,800
+ Vi reagerar på signaler som skickas upp från regional nivå.
+
+190
+00:18:41,800 --> 00:18:46,800
+ De signaler vi får just nu är att det är på regional nivå.
+
+191
+00:18:46,800 --> 00:18:52,800
+ Inte så att man har bedömt att det är något katastrofläge på den nivån.
+
+192
+00:18:52,800 --> 00:18:55,800
+ Än så länge är det de här två perspektiven som jag lyfter.
+
+193
+00:18:55,800 --> 00:18:59,800
+ Det är skyddsutrustningstillgången man vill säkerställa över tid.
+
+194
+00:18:59,800 --> 00:19:03,800
+ Men absolut det här du lyfter om 1177.
+
+195
+00:19:03,800 --> 00:19:06,800
+ Det jobbar vi väldigt aktivt med.
+
+196
+00:19:06,800 --> 00:19:11,800
+ Det är Sveriges kommuner och landsting SKR som ansvarar för 1177.
+
+197
+00:19:11,800 --> 00:19:13,800
+ Det är många som har tryckt på det här.
+
+198
+00:19:13,800 --> 00:19:19,800
+ Vi försöker göra det bästa vi kan för att stödja SKR och 1177.
+
+199
+00:19:19,800 --> 00:19:22,800
+ Att det här fortsätter vara funktionellt hela tiden.
+
+200
+00:19:22,800 --> 00:19:24,800
+ För det är jätteviktigt.
+
+201
+00:19:24,800 --> 00:19:29,800
+ Jag har en annan fråga till Socialstyrelsen som gäller just den här materialtillgången.
+
+202
+00:19:29,800 --> 00:19:33,800
+ Vi har ställt frågor till regionerna och till universitetssjukhusen.
+
+203
+00:19:33,800 --> 00:19:37,800
+ Då är det många som inte svarar på grund av sekretessen.
+
+204
+00:19:37,800 --> 00:19:40,800
+ Vi undrar vad anledningen är till den här sekretessen.
+
+205
+00:19:40,800 --> 00:19:46,800
+ Det är många som vi pratar med inom sjukvården som tycker att sekretessfrågan är problematisk.
+
+206
+00:19:46,800 --> 00:19:49,800
+ Att de inte kan yttra sig om de utmaningar som finns.
+
+207
+00:19:49,800 --> 00:19:58,800
+ Vad är det för sekretess som ni grundar era beslut att sekretessbelägga den här materialtillgången?
+
+208
+00:19:58,800 --> 00:20:02,800
+ Nu har det varit många frågor igen.
+
+209
+00:20:02,800 --> 00:20:10,800
+ Varje myndighet och region har gjort sin egen bedömning av värdet av den information man sitter på.
+
+210
+00:20:10,800 --> 00:20:15,800
+ Den sekretessbedömning som vi har gjort har kopplat till kapitel 18.3.
+
+211
+00:20:15,800 --> 00:20:18,800
+ Som har varit den här risk- och sårbarhetsanalyssekretessen.
+
+212
+00:20:18,800 --> 00:20:23,800
+ Vi har bedömt att de frågor som har ställts till oss på Socialstyrelsen.
+
+213
+00:20:23,800 --> 00:20:29,800
+ Att tillgängliggörandet av den informationen inte nödvändigtvis är relevant i sammanhanget.
+
+214
+00:20:29,800 --> 00:20:34,800
+ Utan det blir en så pass aggregerad och detaljerik bild.
+
+215
+00:20:34,800 --> 00:20:38,800
+ Som ska säkerställa att vi kan stödja regionerna på bästa sätt.
+
+216
+00:20:38,800 --> 00:20:43,800
+ Hur man gör den här bedömningen utifrån vägledningar som existerar.
+
+217
+00:20:43,800 --> 00:20:46,800
+ Utifrån hur du ska pröva vad som är samhällsviktig verksamhet.
+
+218
+00:20:46,800 --> 00:20:49,800
+ Vad som är viktigt att säkerställa över tid.
+
+219
+00:20:49,800 --> 00:20:53,800
+ Det ansvarar vi alla för att göra på relevant sätt.
+
+220
+00:20:53,800 --> 00:20:57,800
+ Om ni har fått signaler från sjukhus att det här inte stämmer.
+
+221
+00:20:57,800 --> 00:21:04,800
+ Då hoppas jag också att de sjukhusen får stöd och råd i den här bedömningen.
+
+222
+00:21:04,800 --> 00:21:09,800
+ Vi ansvarar inte för att göra bedömningen hos andra aktörer.
+
+223
+00:21:09,800 --> 00:21:12,800
+ Men sjukhusen hänvisar ju till Socialstyrelsen och sekretessen.
+
+224
+00:21:12,800 --> 00:21:16,800
+ Som Socialstyrelsen har lagt på de här uppgifterna.
+
+225
+00:21:16,800 --> 00:21:18,800
+ Till exempel om vårdplatser.
+
+226
+00:21:18,800 --> 00:21:26,800
+ Det är ingen myndighet eller aktör, och här kanske MSB kan bestämma en annan myndighet.
+
+227
+00:21:26,800 --> 00:21:30,800
+ Eller aktörs bedömning. Var och en bedömer ju själv.
+
+228
+00:21:30,800 --> 00:21:35,800
+ Återigen, den sekretessbedömning vi gör handlar ju inte...
+
+229
+00:21:35,800 --> 00:21:39,800
+ Till syvende och sist handlar ju allting om att vi ska ha så god förmåga som möjligt.
+
+230
+00:21:39,800 --> 00:21:43,800
+ Utifrån nationellt perspektiv för att kunna stödja på ett relevant sätt.
+
+231
+00:21:43,800 --> 00:21:53,800
+ Vi har bedömt att en kvantitet i platser utan att man har relevant information om tillgänglig med personal eller skyddsutrustning.
+
+232
+00:21:53,800 --> 00:21:59,800
+ Om den försvårar arbetet så har vi valt att göra en bedömning utifrån det.
+
+233
+00:21:59,800 --> 00:22:03,800
+ Men var och en får ansvara för sin egen bedömning.
+
+234
+00:22:03,800 --> 00:22:07,800
+ En sista fråga när det gäller materialtillgången.
+
+235
+00:22:07,800 --> 00:22:12,800
+ Om det finns några planer på omställning till inhemsk produktion av skyddsutrustning?
+
+236
+00:22:12,800 --> 00:22:16,800
+ Ja, och det kanske är en fin övergång till MSB.
+
+237
+00:22:16,800 --> 00:22:27,800
+ Vi får ju samtal tillsammans med Socialstyrelsen och Folkhälsomyndigheten i att titta över var skyddsutrustning finns någonstans.
+
+238
+00:22:27,800 --> 00:22:30,800
+ Och hur vi skulle kunna tillgodogöra oss den.
+
+239
+00:22:30,800 --> 00:22:34,800
+ Men det handlar också om de upphandlingar som Socialstyrelsen gör.
+
+240
+00:22:34,800 --> 00:22:41,800
+ Men det handlar också om hur vi kan hantera den här så effektivt som möjligt, skyddsutrustningen alltså.
+
+241
+00:22:41,800 --> 00:22:47,800
+ Där får vi helt enkelt hjälpas åt och föra diskussioner och det gör vi just nu.
+
+242
+00:22:47,800 --> 00:22:52,800
+ Men frågan om inhemsk produktion, finns det sådana tankar?
+
+243
+00:22:52,800 --> 00:22:56,800
+ Inhemsk produktion har vi ännu inte fört in i det.
+
+244
+00:22:56,800 --> 00:23:01,800
+ Men naturligtvis så följer vi läget i Europa och ser hur man hanterar de här sakerna.
+
+245
+00:23:01,800 --> 00:23:07,800
+ Och det är ganska svåra beslut och juridiska överväganden som ligger till grund för det här.
+
+246
+00:23:07,800 --> 00:23:11,800
+ Så vi för diskussionen absolut och vi återkommer i de delarna.
+
+247
+00:23:11,800 --> 00:23:16,800
+ Men om utrustningen tar slut, kan man då ens intensivvårda patienter?
+
+248
+00:23:16,800 --> 00:23:23,800
+ Det låter som en hypotetisk fråga men jag förstår inte.
+
+249
+00:23:23,800 --> 00:23:26,800
+ Nej jag förstår, jag förstår absolut din fråga.
+
+250
+00:23:26,800 --> 00:23:31,800
+ Och det är ju lite därför som jag försökte trycka på både igår och idag.
+
+251
+00:23:31,800 --> 00:23:36,800
+ Att det som vi måste säkerställa, vi arbetar ju dels med den här EU-gemensamma upphandlingen.
+
+252
+00:23:36,800 --> 00:23:39,800
+ Vi försöker säkerställa materiellt på andra sätt.
+
+253
+00:23:39,800 --> 00:23:46,800
+ Självklart så är ju hela syftet med den här samordningen att se vad vi faktiskt har i landet just nu.
+
+254
+00:23:46,800 --> 00:23:50,800
+ Går ju ut på att täppa igen där det kan uppstå bristsituationer.
+
+255
+00:23:50,800 --> 00:23:54,800
+ Just nu är det ingen som har rapporterat en akut brist.
+
+256
+00:23:54,800 --> 00:23:57,800
+ Däremot så finns det absolut inte några överskott.
+
+257
+00:23:57,800 --> 00:24:01,800
+ Så det som det handlar om nu, både den beställning vi har gjort till Karolinska institutet.
+
+258
+00:24:01,800 --> 00:24:04,800
+ Men också att följa Folkhalsmyndighetens rekommendationer.
+
+259
+00:24:04,800 --> 00:24:10,800
+ Går ju ut på att använda skyddsutrustningen på ett så resurseffektivt sätt.
+
+260
+00:24:10,800 --> 00:24:15,800
+ Så att de som verkligen, precis som du nämner, de som behöver den för att behandla intensivvårdspatienter.
+
+261
+00:24:15,800 --> 00:24:21,800
+ Att det faktiskt är de som har tillgången till den här mest relevanta skyddsutrustningen.
+
+262
+00:24:21,800 --> 00:24:29,800
+ Sen så bygger ju katastrofmyndighetsplaneringen, eller hela beredskapsplaneringen, på olika scenarion.
+
+263
+00:24:29,800 --> 00:24:33,800
+ Men just nu har vi inte planerat utifrån ett scenario att allting tar slut.
+
+264
+00:24:33,800 --> 00:24:35,800
+ Okej, Astrid.
+
+265
+00:24:35,800 --> 00:24:38,800
+ Jag frågar till Anders Tegnell.
+
+266
+00:24:38,800 --> 00:24:43,800
+ Du var inne på tidigare om det här med större sammankomster.
+
+267
+00:24:43,800 --> 00:24:48,800
+ Du sa också att sannolikheten att man tar ett beslut om detta idag är hög.
+
+268
+00:24:48,800 --> 00:24:49,800
+ Förstår jag det rätt om det var så?
+
+269
+00:24:49,800 --> 00:24:53,800
+ Vad krävs för att man ska ställa in en större sammankomst?
+
+270
+00:24:53,800 --> 00:24:55,800
+ Pratar vi om antalet smittade?
+
+271
+00:24:55,800 --> 00:25:00,800
+ Vad är det som ni väger om, eller fortfarande diskuterar?
+
+272
+00:25:00,800 --> 00:25:05,800
+ Nej, men det kommer att komma i det beslutet som så småningom kommer.
+
+273
+00:25:05,800 --> 00:25:11,800
+ Då kommer det att finnas kriterier för vilken typ av sammankomster som bör stängas, när och hur och varför.
+
+274
+00:25:11,800 --> 00:25:14,800
+ Så jag kan inte gå in på det nu, för det är fortfarande under utredning.
+
+275
+00:25:14,800 --> 00:25:18,800
+ Och då kommer det komma ett beslut om...
+
+276
+00:25:18,800 --> 00:25:21,800
+ Ja, när beslutet kommer så kommer det att innehålla den typen av detaljer också.
+
+277
+00:25:21,800 --> 00:25:26,800
+ Så att det blir en tydlighet om vilken typ av evenemang som ska ställas in.
+
+278
+00:25:26,800 --> 00:25:27,800
+ Och så vidare.
+
+279
+00:25:27,800 --> 00:25:31,800
+ Och det kommer alltså att komma ett beslut om att evenemang kommer att ställas in?
+
+280
+00:25:31,800 --> 00:25:35,800
+ Det får vi se. Det är det som vi jobbar på här under dagen.
+
+281
+00:25:35,800 --> 00:25:38,800
+ Under dagen så kommer det att finnas en tydlighet till det.
+
+282
+00:25:38,800 --> 00:25:39,800
+ Och när kommer det i så fall?
+
+283
+00:25:39,800 --> 00:25:42,800
+ Vi hoppas att det ska kunna vara klart innan dagen är över.
+
+284
+00:25:42,800 --> 00:25:45,800
+ Sen får vi se när dagen är över. Det är väl olika för oss.
+
+285
+00:25:45,800 --> 00:25:49,800
+ Absolut. Sen så har jag en fråga till Anneli Bergholm Söder.
+
+286
+00:25:49,800 --> 00:25:52,800
+ Jag vet inte om den är rätt att ställa till dig, men jag testar.
+
+287
+00:25:52,800 --> 00:25:53,800
+ Vi prövar.
+
+288
+00:25:53,800 --> 00:25:58,800
+ Den här krisen ligger ju ganska mycket på den enskilda människan.
+
+289
+00:25:58,800 --> 00:26:00,800
+ Man uppmanar att stanna hemma om man är sjuk.
+
+290
+00:26:00,800 --> 00:26:02,800
+ Tar sitt samhällsansvar och så vidare.
+
+291
+00:26:02,800 --> 00:26:06,800
+ Många jobbar just nu med att bunkra.
+
+292
+00:26:06,800 --> 00:26:09,800
+ Alltså att man går och handlar saker som man lägger i sitt hem.
+
+293
+00:26:09,800 --> 00:26:11,800
+ För att man eventuellt skulle uppmanas att stanna hemma.
+
+294
+00:26:11,800 --> 00:26:13,800
+ Är det någonting ni rekommenderar?
+
+295
+00:26:13,800 --> 00:26:21,800
+ Vi från MSB säger att man alltid ska ha en personlig beredskap utifrån ett hushåll eller en person.
+
+296
+00:26:21,800 --> 00:26:23,800
+ Vi tycker det är bra.
+
+297
+00:26:23,800 --> 00:26:28,800
+ Men vi säger att än så länge så ser vi inga avbrott i försörjningskedjorna.
+
+298
+00:26:28,800 --> 00:26:32,800
+ Men det gör ju inte att det imorgon kan bli ett elbortfall.
+
+299
+00:26:32,800 --> 00:26:36,800
+ Eller att det kan behövas i den här situationen.
+
+300
+00:26:36,800 --> 00:26:39,800
+ Eller någon annan situation. Det kan komma en storm.
+
+301
+00:26:39,800 --> 00:26:42,800
+ Därför uppmanar vi generellt.
+
+302
+00:26:42,800 --> 00:26:45,800
+ Och säger att det är jättebra att man har en beredskap.
+
+303
+00:26:45,800 --> 00:26:47,800
+ Okej, tack.
+
+304
+00:26:47,800 --> 00:26:49,800
+ Vi har en fråga till Hemsa.
+
+305
+00:26:49,800 --> 00:26:55,800
+ Vad är det som gör just nu att den här hemställaren inte ligger redo på bordet just nu?
+
+306
+00:26:55,800 --> 00:26:59,800
+ Arbetet inledningsmorse.
+
+307
+00:26:59,800 --> 00:27:03,800
+ Om det blir klart idag så är det förmodligen världens snabbaste lagstiftning som vi håller på med.
+
+308
+00:27:03,800 --> 00:27:06,800
+ Så lite lugn tycker jag vi kan ha.
+
+309
+00:27:06,800 --> 00:27:08,800
+ Just det sliter.
+
+310
+00:27:08,800 --> 00:27:12,800
+ En till fråga om risken för allmän smittspridning.
+
+311
+00:27:12,800 --> 00:27:15,800
+ Är läget egentligen identiskt med igår?
+
+312
+00:27:15,800 --> 00:27:23,800
+ Vad skulle den stora skillnaden vara om ni bekräftar att ja, det är en allmän smittspridning mot läget vi har just nu?
+
+313
+00:27:23,800 --> 00:27:25,800
+ Ja, den är ju identiskt med igår.
+
+314
+00:27:25,800 --> 00:27:28,800
+ För vi har inte sett fler fall som vi inte kan spåra tillbaka.
+
+315
+00:27:28,800 --> 00:27:32,800
+ Eller som inte regionerna kan spåra tillbaka till resande eller resenärer.
+
+316
+00:27:32,800 --> 00:27:34,800
+ Så den är identiskt med igår.
+
+317
+00:27:34,800 --> 00:27:39,800
+ Det är en situation där vi får se åt vilket håll det går.
+
+318
+00:27:39,800 --> 00:27:42,800
+ I andra länder så har det tagit slut på det här.
+
+319
+00:27:42,800 --> 00:27:44,800
+ Det har inte blivit mer efter de här enstaka fallen.
+
+320
+00:27:44,800 --> 00:27:46,800
+ Och ibland så går det igång och blir mer.
+
+321
+00:27:46,800 --> 00:27:51,800
+ Det skulle jag väl hävda fullständigt omöjligt att veta i förväg vilket håll Sverige kommer att gå åt.
+
+322
+00:27:51,800 --> 00:27:58,800
+ Vi jobbar förstås jättehårt på att så snabbt som möjligt hitta sådana här härdar och begränsa dem så mycket som möjligt.
+
+323
+00:27:58,800 --> 00:28:06,800
+ Men de närmsta dagarna så skulle jag vilja påstå är bestämmande för om det här verkligen är signaler om någonting är på gång.
+
+324
+00:28:06,800 --> 00:28:09,800
+ Eller om det bara är slumpmässiga fall ute i samhället vi ser.
+
+325
+00:28:09,800 --> 00:28:12,800
+ Då vet vi vart det bär så att säga. De närmsta dagarna.
+
+326
+00:28:12,800 --> 00:28:15,800
+ Ja, åtminstone vad det bär just nu.
+
+327
+00:28:15,800 --> 00:28:19,800
+ Sen är det alltid prognoser i hyfsade tillmån och övermån.
+
+328
+00:28:19,800 --> 00:28:22,800
+ Men sen blir de väldigt svåra ju längre bort man går.
+
+329
+00:28:22,800 --> 00:28:23,800
+ Tack.
+
+330
+00:28:23,800 --> 00:28:24,800
+ TV4.
+
+331
+00:28:24,800 --> 00:28:30,800
+ Kollektivtrafik, tåg och tunnelbanor är ju platser där många samlas.
+
+332
+00:28:30,800 --> 00:28:38,800
+ Får ni någon diskussion om att begränsa resemöjligheter?
+
+333
+00:28:38,800 --> 00:28:43,800
+ Ingenting som ingår i just det arbetet som vi håller på med nu, nej.
+
+334
+00:28:43,800 --> 00:28:52,800
+ Så de kontakterna bedöms fortfarande inte vara kritiska i det här att begränsa risken för vidare smittning?
+
+335
+00:28:52,800 --> 00:28:59,800
+ När vi går in i den här fasen, när vi pratar om att vi försöker hålla ner smittspastigheten framför allt.
+
+336
+00:28:59,800 --> 00:29:09,800
+ Då gäller det att hitta åtgärder där man har någon slags hyfsad evidens för att de påverkar på det sättet utan att ge för mycket negativa effekter.
+
+337
+00:29:09,800 --> 00:29:12,800
+ Då är det väl så att det här med att stanna hemma om man är sjuk.
+
+338
+00:29:12,800 --> 00:29:16,800
+ Det ligger högt upp på listan. Tvätta händerna ser också bra ut.
+
+339
+00:29:16,800 --> 00:29:23,800
+ Ävenemang är svårt att veta. Kollektivtrafiken ligger betydligt längre ner på listan på möjligheter.
+
+340
+00:29:23,800 --> 00:29:26,800
+ Men vi följer situationen för det här är också en lärandefas.
+
+341
+00:29:26,800 --> 00:29:32,800
+ Vi vet vad man håller på med i Kina. Lite utvärderingar kommer därifrån lite successivt.
+
+342
+00:29:32,800 --> 00:29:38,800
+ Nu har man väldigt mycket liknande åtgärder i Italien vilket på många sätt är väldigt mycket mer intressant för oss.
+
+343
+00:29:38,800 --> 00:29:41,800
+ För det är ett samhälle som liknar vårt mycket mer.
+
+344
+00:29:41,800 --> 00:29:46,800
+ Om man har effekter där som kan härledas tillbaka till den typen av insatser så kommer vi förstås att titta på dem.
+
+345
+00:29:46,800 --> 00:29:56,800
+ Men just nu så är det den här skålen med insatser som vi pratar om som är de där vi känner att vi har bäst underlag för att gå den vägen.
+
+346
+00:29:56,800 --> 00:30:02,800
+ Men är bilden fortfarande att det är framförallt i nära längre kontakter som det här smittar?
+
+347
+00:30:02,800 --> 00:30:08,800
+ Ja, så är det. Och att det smittar från personer med symptom till friska personer.
+
+348
+00:30:08,800 --> 00:30:11,800
+ Det är det som vi nu också gäller fokus på med de åtgärder vi föreslår.
+
+349
+00:30:11,800 --> 00:30:14,800
+ Så kollektivtrafik är ingen riskmiljö med andra ord?
+
+350
+00:30:14,800 --> 00:30:16,800
+ Inte en hög riskmiljö såvitt vi kan bedöma det så här långt.
+
+351
+00:30:16,800 --> 00:30:18,800
+ Hur kan man inte utesluta?
+
+352
+00:30:18,800 --> 00:30:23,800
+ Jag har sagt det förut. Sådana här biologiska processer kan man inte utesluta någonting.
+
+353
+00:30:23,800 --> 00:30:28,800
+ Allting är en sån här gausskurva. Det finns alltid outliers långt här borta.
+
+354
+00:30:28,800 --> 00:30:33,800
+ Men när vi jobbar med smittskydd i den här typen av situationer så måste vi hantera den här mittbiten.
+
+355
+00:30:33,800 --> 00:30:39,800
+ För det är där vi får effekter. Det är där vi kan bryta så många sprittkedjor så vi faktiskt får en effekt på spridningen i samhället.
+
+356
+00:30:39,800 --> 00:30:45,800
+ Att hålla på med de här borta, det tar väldigt mycket kraft och tid och kommer inte att ge någon effekt på samhällssmittan.
+
+357
+00:30:45,800 --> 00:30:50,800
+ Är vi klara med frågor? Ingen till? Så avslutar vi pressträffen.
+
+358
+00:30:50,800 --> 00:30:54,800
+ Tack för att ni kom hit och gör oss redo för enskilda intervjuer.
+
+359
+00:30:54,800 --> 00:30:56,880
+ Svt.
+
+360
+00:30:56,880 --> 00:30:58,880
+ -Ni blir glad.
+

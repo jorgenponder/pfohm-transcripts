@@ -1,0 +1,1720 @@
+1
+00:00:00,000 --> 00:00:02,000
+ Tack så mycket.
+
+2
+00:00:02,000 --> 00:00:06,320
+ Vi börjar dagen som vanligt med en utblick i världen.
+
+3
+00:00:06,320 --> 00:00:11,080
+ Vi är nu uppe i 2,6 miljoner rapporterade fall, 183 000 döda.
+
+4
+00:00:11,080 --> 00:00:16,120
+ Varav en miljon i Europa och ungefär 100 000 döda.
+
+5
+00:00:16,120 --> 00:00:21,080
+ Utvecklingen fortsätter allt jämnt.
+
+6
+00:00:21,080 --> 00:00:25,760
+ Om vi fokuserar på Sverige, antal nya fall per dag i den här grafen.
+
+7
+00:00:25,760 --> 00:00:32,280
+ Ser vi att vad som har rapporterats fram till idag är ett ganska högt värde.
+
+8
+00:00:32,280 --> 00:00:37,120
+ Som vi får titta närmare på.
+
+9
+00:00:37,120 --> 00:00:41,680
+ Jag kommer att göra det, men det är inte så att vi ser någon nedgång.
+
+10
+00:00:41,680 --> 00:00:48,560
+ Om man ska nämna siffrorna så är det 16 755 fall totalt.
+
+11
+00:00:48,560 --> 00:00:51,360
+ Varav 751 anmälda senaste dygnet.
+
+12
+00:00:51,360 --> 00:00:54,760
+ Och 1 217 personer har vårdats på IVA.
+
+13
+00:00:54,760 --> 00:00:56,760
+ Hittills.
+
+14
+00:00:56,760 --> 00:01:04,760
+ Tittar vi över IVA vårdade så ser vi att allt ligger rätt stabilt.
+
+15
+00:01:04,760 --> 00:01:10,160
+ Men det blir en viss eftersläpning i det här också.
+
+16
+00:01:10,160 --> 00:01:22,600
+ Om vi tittar lite noggrannare på gårdagensstapeln så ser vi att Stockholm står för en ganska stor andel av de här nya fallen.
+
+17
+00:01:22,600 --> 00:01:29,560
+ Det har dragit iväg i Stockholm just den här gången.
+
+18
+00:01:29,560 --> 00:01:33,360
+ Men det är en enskild dag ska vi komma ihåg och kanske inte dra för stora växlar.
+
+19
+00:01:33,360 --> 00:01:35,760
+ Men det är absolut inte så att det är en nedgång.
+
+20
+00:01:35,760 --> 00:01:38,760
+ Tvärtom ligger det fortsatt högt.
+
+21
+00:01:38,760 --> 00:01:49,760
+ Om vi tittar på fallen i Stockholm så ser man tydligare att det var ett kraftigt anmälda fall igår och fram till idag.
+
+22
+00:01:49,760 --> 00:01:55,360
+ En del förklaring kan vara att man testar mer personal men vi tror inte bara det.
+
+23
+00:01:55,360 --> 00:01:58,360
+ Vi har hört lite med Stockholm och de kan rapportera bättre själva sen.
+
+24
+00:01:58,360 --> 00:02:01,360
+ Men det är inte hela förklaringen.
+
+25
+00:02:01,360 --> 00:02:06,560
+ Däremot så verkar det inte vara så att det är en överrepresentation av folk överskjutt i utan snarare tvärtom.
+
+26
+00:02:06,560 --> 00:02:11,760
+ Så förhoppningsvis är det här inte fall i den grupp som drabbas hårdast.
+
+27
+00:02:11,760 --> 00:02:19,760
+ Om vi blickar utåt i landet så har vi Västra Götaland som vi pratade om hade en uppgång igår.
+
+28
+00:02:19,760 --> 00:02:21,760
+ Vi fick inte lika många fall där idag.
+
+29
+00:02:21,760 --> 00:02:26,760
+ Vi har pratat lite mer om och vet att det sker en del personalprovtagning där nu.
+
+30
+00:02:26,760 --> 00:02:29,760
+ Det här kommer förstås att påverka kurvan.
+
+31
+00:02:29,760 --> 00:02:36,760
+ Vi har påbörjat ett samarbete för att få in data över hur många av de anmälda som är vårdpersonal.
+
+32
+00:02:36,760 --> 00:02:43,760
+ Så att vi kan märka det på kurvan så att man ser vilka fall som söker vård för det här.
+
+33
+00:02:43,760 --> 00:02:48,760
+ Eftersom personalen antagligen mest har milda symptom och inte behöver vård.
+
+34
+00:02:48,760 --> 00:02:53,760
+ Tittar vi i Jönköping så ser vi en liknande bild.
+
+35
+00:02:53,760 --> 00:02:58,760
+ Även här har man en hel del personalprovtagning som vi fick reda på när vi pratade med smittskyddsläkarna.
+
+36
+00:02:58,760 --> 00:03:01,760
+ Men inte lika många rapporterade idag.
+
+37
+00:03:01,760 --> 00:03:07,760
+ Tittar vi på Uppsala, där har man haft personalprovtagning under en viss tid.
+
+38
+00:03:07,760 --> 00:03:10,760
+ Men kanske inte mer just de senaste dagarna.
+
+39
+00:03:10,760 --> 00:03:14,760
+ Här ligger det jämnt kan man säga.
+
+40
+00:03:14,760 --> 00:03:17,760
+ Som tidigare dagar denna vecka.
+
+41
+00:03:17,760 --> 00:03:21,760
+ Det här var de vi tittade på.
+
+42
+00:03:21,760 --> 00:03:25,760
+ Eftersom vi tog upp dem igår så talade de om en ökning.
+
+43
+00:03:25,760 --> 00:03:27,760
+ Nu har vi uppdaterat det.
+
+44
+00:03:27,760 --> 00:03:32,760
+ Om vi tittar på antalet avlidna så är det som vanligt så att det fylls på bakåt.
+
+45
+00:03:32,760 --> 00:03:34,760
+ Totalt är det nu uppe i 2021.
+
+46
+00:03:34,760 --> 00:03:38,760
+ Vi ser där de gröna har fyllts på bakåt.
+
+47
+00:03:38,760 --> 00:03:46,760
+ Så tittar vi på den här svarta kurvan som är ett medelvärde.
+
+48
+00:03:46,760 --> 00:03:50,760
+ Över sju dagar så ligger det stabilt.
+
+49
+00:03:50,760 --> 00:03:53,760
+ Kanske någon liten lätt uppgång på slutet här.
+
+50
+00:03:53,760 --> 00:03:55,760
+ Men vi får se hur det blir de närmaste dagarna.
+
+51
+00:03:55,760 --> 00:03:59,760
+ Det är ett osäkert värde och speglar tiden tillbaka i tiden.
+
+52
+00:03:59,760 --> 00:04:01,760
+ Inte de senaste dagarna.
+
+53
+00:04:01,760 --> 00:04:08,760
+ Det som rapporterades fel vid förra presskonferensen som jag var med på.
+
+54
+00:04:08,760 --> 00:04:13,760
+ Så var det den här modelleringen av spridningen av covid i Stockholms län som utfördes.
+
+55
+00:04:13,760 --> 00:04:15,760
+ Nu har man gått igenom det här.
+
+56
+00:04:15,760 --> 00:04:21,760
+ Hittat en invariabel som hade ställts på fel värde.
+
+57
+00:04:21,760 --> 00:04:23,760
+ Det påverkade hela analysen.
+
+58
+00:04:23,760 --> 00:04:27,760
+ Det påverkade inte så jättemycket.
+
+59
+00:04:27,760 --> 00:04:29,760
+ Nu har man justerat den.
+
+60
+00:04:29,760 --> 00:04:33,760
+ Till exempel vad gäller datum då man beräknar att flest var smittsamma i Stockholm.
+
+61
+00:04:33,760 --> 00:04:38,760
+ Bedömer man inträffa den 8 april istället för den 15 april.
+
+62
+00:04:38,760 --> 00:04:46,760
+ Nu säger man att ca 26% av invånarna i Stockholms län beräknas vara eller har varit infekterade den 1 maj.
+
+63
+00:04:46,760 --> 00:04:49,760
+ Så det är lite lägre också.
+
+64
+00:04:49,760 --> 00:05:01,760
+ Det som däremot var helt fel förra gången var beräkningarna på hur många som är smittade på varje fall som rapporteras.
+
+65
+00:05:01,760 --> 00:05:10,760
+ Beräkningarna nu tyder på att det för närvarande är ca 1 bekräftat fall på 75 som inte är bekräftade ute i samhället.
+
+66
+00:05:10,760 --> 00:05:16,760
+ Så det här är en siffra som ligger bättre till om man jämför med andra länder som har rapporterat.
+
+67
+00:05:16,760 --> 00:05:20,760
+ Då är det mer rimligt också om man tänker med influens och annat.
+
+68
+00:05:20,760 --> 00:05:25,760
+ Så det var bra att det upptäcktes snabbt och att vi kunde åtgärda det felet.
+
+69
+00:05:25,760 --> 00:05:28,760
+ Vi ska komma ihåg att det här är en modellering.
+
+70
+00:05:28,760 --> 00:05:33,760
+ En modellering är ett verktyg som man kan använda för att förstå epidemins förlopp.
+
+71
+00:05:33,760 --> 00:05:38,760
+ Det är inte nödvändigtvis en helt korrekt bild av verkligheten.
+
+72
+00:05:38,760 --> 00:05:44,760
+ Men den är väldigt användbar till exempel för att se vad som händer om man ändrar på smittsamheten.
+
+73
+00:05:44,760 --> 00:05:47,760
+ Eller hur många som är smittsamma vid ett tillfälle. Hur påverkar det?
+
+74
+00:05:47,760 --> 00:05:53,760
+ Då kan man dra vissa slutsatser kring vad som kan hända om vi inför vissa åtgärder.
+
+75
+00:05:53,760 --> 00:05:59,760
+ Så det är användbart med modelleringar men man ska också, om det är en vecka hit eller dit, det är inte jätteviktigt för oss.
+
+76
+00:05:59,760 --> 00:06:04,760
+ Det är ett verktyg vi har när vi bedömer utvecklingen.
+
+77
+00:06:04,760 --> 00:06:08,760
+ Förstås är det hårddata på antal fall som rapporteras in.
+
+78
+00:06:08,760 --> 00:06:12,760
+ Ett väldigt värdefullt verktyg till exempel.
+
+79
+00:06:12,760 --> 00:06:15,760
+ Som inte heller representerar hela verkligheten som ni vet.
+
+80
+00:06:15,760 --> 00:06:17,760
+ Det är ett urval som har sina begränsningar.
+
+81
+00:06:17,760 --> 00:06:22,760
+ Vi har till exempel tagit upp det här med att en del beror på att man ökar personalpåtagningen.
+
+82
+00:06:22,760 --> 00:06:26,760
+ Så alla såna här ska man ju inte se som hård fakta.
+
+83
+00:06:26,760 --> 00:06:31,760
+ Däremot så vet man vissa saker, andra antar man lite om.
+
+84
+00:06:31,760 --> 00:06:35,760
+ Men det är som sagt ett användbart verktyg och väl värt att göra.
+
+85
+00:06:35,760 --> 00:06:42,760
+ Så där stannar jag idag och ger ordet till Tao.
+
+86
+00:06:42,760 --> 00:06:45,760
+ Förlåt, jag var lite snabb.
+
+87
+00:06:45,760 --> 00:06:50,760
+ Vårt gamla budskap som vi tar varje dag förstås.
+
+88
+00:06:50,760 --> 00:06:56,760
+ Vår främsta åtgärd är att hålla nere antalet sjuka som behöver vård.
+
+89
+00:06:56,760 --> 00:07:01,760
+ Så att vården klarar av att hantera de som är sjuka.
+
+90
+00:07:01,760 --> 00:07:05,760
+ Så att antalet smittade, så att det inte blir så många så att vården överlastas.
+
+91
+00:07:05,760 --> 00:07:10,760
+ Och riktråden som gäller har inte heller ändrats.
+
+92
+00:07:10,760 --> 00:07:14,760
+ Utan det är att stanna hemma även om du bara känner dig lite sjuk.
+
+93
+00:07:14,760 --> 00:07:16,760
+ Det här ska nog uppmärksammas igen.
+
+94
+00:07:16,760 --> 00:07:20,760
+ Jag kanske inte tog upp det tidigare.
+
+95
+00:07:20,760 --> 00:07:23,760
+ Det är vårsol, det är skönt och fint ute.
+
+96
+00:07:23,760 --> 00:07:25,760
+ Vi har börjat prata vid den här konferensen till exempel.
+
+97
+00:07:25,760 --> 00:07:30,760
+ Vi har fått frågor om hur man lättar på restriktioner och liknande.
+
+98
+00:07:30,760 --> 00:07:32,760
+ Andra länder har börjat lätta lite på restriktioner.
+
+99
+00:07:32,760 --> 00:07:34,760
+ Det blir lätt att få bilden att det är faran över.
+
+100
+00:07:34,760 --> 00:07:36,760
+ Det är inte det.
+
+101
+00:07:36,760 --> 00:07:41,760
+ Verkligen inte. Vi ser här idag att antalet fall vi fick idag var högt som igår.
+
+102
+00:07:41,760 --> 00:07:45,760
+ Vi får signal från vården att det fortfarande är väldigt tufft.
+
+103
+00:07:45,760 --> 00:07:47,760
+ Vi måste hålla ut med de här åtgärderna.
+
+104
+00:07:47,760 --> 00:07:49,760
+ Det är på riktigt.
+
+105
+00:07:49,760 --> 00:07:53,760
+ Vi måste hjälpas åt att skydda de gamla.
+
+106
+00:07:53,760 --> 00:07:57,760
+ Och klara vården så att alla får den vård de behöver när de är sjuka.
+
+107
+00:07:57,760 --> 00:08:05,760
+ Därmed gäller det här på att även när vi är ute att hålla avstånd.
+
+108
+00:08:05,760 --> 00:08:09,760
+ Och inte umgås friare än vad vi gjort tidigare.
+
+109
+00:08:09,760 --> 00:08:12,760
+ Utan hålla i, fortsatt. Tack.
+
+110
+00:08:14,760 --> 00:08:16,760
+ Tack. God eftermiddag.
+
+111
+00:08:16,760 --> 00:08:19,760
+ Dagens lägesrapport från Socialstyrelsen.
+
+112
+00:08:19,760 --> 00:08:21,760
+ Vi börjar med skyddsutrustning.
+
+113
+00:08:21,760 --> 00:08:27,760
+ Det är fortfarande en region som rapporterar en kritisk påverkan på tillgången till skyddsutrustning.
+
+114
+00:08:27,760 --> 00:08:34,760
+ Medan fortfarande så är det 90% av landets regioner som rapporterar en betydande till allvarlig påverkan.
+
+115
+00:08:34,760 --> 00:08:36,760
+ Så även om saker och ting kommer in.
+
+116
+00:08:36,760 --> 00:08:41,760
+ Och de kommer in via oss, de kommer in via kommuner, de kommer in via regioner.
+
+117
+00:08:41,760 --> 00:08:47,760
+ Så det är inte tillfredsställt på lång sikt än.
+
+118
+00:08:47,760 --> 00:08:51,760
+ Kvalitetssäkring och uppföljning av kommunernas lägesbilder.
+
+119
+00:08:51,760 --> 00:08:58,760
+ Den fortgår och bedömningar avseende inkomna behov genomfördes även idag i morse.
+
+120
+00:08:58,760 --> 00:09:05,760
+ Och även idag så har vi kunnat möta majoriteten av de behov som regioner och länsstyrelser inkommit med.
+
+121
+00:09:05,760 --> 00:09:07,760
+ Gällande det mest kritiska.
+
+122
+00:09:07,760 --> 00:09:12,760
+ Så det är fortfarande det mest kritiska som vi kan möta.
+
+123
+00:09:12,760 --> 00:09:14,760
+ De här 24-48 timmarna.
+
+124
+00:09:14,760 --> 00:09:19,760
+ Det vill säga ingen uthållighet i majoriteten av den här utrustningen.
+
+125
+00:09:19,760 --> 00:09:26,760
+ Igår fick Socialstyrelsen regeringens uppdrag att erbjuda alla kommuner att efter ett enklare ansökningsförfarande
+
+126
+00:09:26,760 --> 00:09:32,760
+ ta del av handsprit avseende kommunalt finansierad verksamhet inom vård och omsorg.
+
+127
+00:09:32,760 --> 00:09:39,760
+ Dialog från vårt håll är redan inledd med SKR, Sveriges kommuner och regioner.
+
+128
+00:09:39,760 --> 00:09:46,760
+ Så att myndigheten i samband med den här fördelningen av handsprit kan genomföra en förstärkt informationsinsats.
+
+129
+00:09:46,760 --> 00:09:52,760
+ Riktad till just personal i kommunerna om bland annat skyddsutrustning och basala vårdhygien.
+
+130
+00:09:52,760 --> 00:10:03,760
+ Rutiner baserat på det redan publicerade informationsmaterial och digitala utbildningar som finns på Socialstyrelsens hemsida.
+
+131
+00:10:03,760 --> 00:10:12,760
+ Den kontinuerligt goda dialogen med SKR, Sveriges kommuner och regioner pågår givetvis i samtliga insatser.
+
+132
+00:10:12,760 --> 00:10:19,760
+ Där Socialstyrelsen agerar aktivt för att förstärka de huvudmän som har det grundläggande ansvaret för verksamheterna.
+
+133
+00:10:19,760 --> 00:10:23,760
+ Enligt rådande ansvarsprincip.
+
+134
+00:10:23,760 --> 00:10:29,760
+ Som en påminnelse så gäller alltså ansvarsprincipen i Sverige även vid samhällskriser.
+
+135
+00:10:29,760 --> 00:10:35,760
+ Ansvarsprincipen är en kvalitetsindikator, inte ett skällsord.
+
+136
+00:10:35,760 --> 00:10:41,760
+ Och att bygga helt nya system under pågående kris kommer inte att gynna någon.
+
+137
+00:10:41,760 --> 00:10:47,760
+ Däremot så innebär ansvarsprincipen också ett ansvar att samhällets aktörer ska stödja och förstärka varandra.
+
+138
+00:10:47,760 --> 00:10:58,760
+ Utifrån det här stödjande och förstärkande uppdraget som Socialstyrelsen vid dags datum under pågående pandemi har köpt in och förmedlat vidare.
+
+139
+00:10:58,760 --> 00:11:06,760
+ Över 650 000 andningsskydd exempelvis och nästan 400 000 skyddskläder.
+
+140
+00:11:06,760 --> 00:11:14,760
+ Stöd och förstärkningar för att vi ska kunna hantera pågående pandemi sker givetvis även i andra former.
+
+141
+00:11:14,760 --> 00:11:23,760
+ Samordning och förstärkning av intensivvården som även denna sker i god samverkan med SKR.
+
+142
+00:11:23,760 --> 00:11:35,760
+ Dagens siffra på 1131 disponibla intensivvårdsplatser, dvs. den mer än 100% ökningen av antalet disponibla platser ytterligare.
+
+143
+00:11:35,760 --> 00:11:41,760
+ Är tecken på den enorma mobilisering och förmåga som finns inom svensk hälso- och sjukvård.
+
+144
+00:11:41,760 --> 00:11:49,760
+ Men förstärkning och förmåga säkerställs även genom kunskapsstöd, genom riktlinjer och rekommendationer.
+
+145
+00:11:49,760 --> 00:11:54,760
+ Dagens siffra på patienter med covid-19 som vårdas på IVA är 524.
+
+146
+00:11:54,760 --> 00:12:07,760
+ De senaste fem dagarna dessförinnan har inneliggande på IVA med anledning av covid-19 legat mellan 527 och 545 patienter.
+
+147
+00:12:07,760 --> 00:12:18,760
+ Med andra ord är kapacitetstaket inte nått i ett nationellt perspektiv, även om regionala variationer förekommer.
+
+148
+00:12:18,760 --> 00:12:26,760
+ De regionala variationerna kan ytterligare stödjas genom samordningen av intensivvården.
+
+149
+00:12:26,760 --> 00:12:33,760
+ Men också den transportkoordinering som vi pratat om tidigare i veckan som nu är operativ.
+
+150
+00:12:33,760 --> 00:12:39,760
+ Jag vill poängtera ytterligare att kapacitetstaket inte är nått.
+
+151
+00:12:39,760 --> 00:12:43,760
+ Den som behöver vård i Sverige ska få vård.
+
+152
+00:12:43,760 --> 00:12:53,760
+ Finns inte vården att tillgå i den regionen eller kommunen så är vi här för att tillsammans försöka förstärka det här.
+
+153
+00:12:53,760 --> 00:12:58,760
+ Och koordinerar det på bästa sätt så att man kan få det i Sverige just nu.
+
+154
+00:12:58,760 --> 00:13:00,760
+ Jag stannar där, tack.
+
+155
+00:13:02,760 --> 00:13:10,760
+ Jag tänkte nämna några ord om de organiserade frivilliginsatser som görs runt om i landet för att bidra till samhällets hantering av pandemin.
+
+156
+00:13:10,760 --> 00:13:23,760
+ När jag säger organiserade frivilliginsatser så innebär det att det är organisationer som har någon form av formaliserad relation med kommuner, regioner eller andra myndigheter.
+
+157
+00:13:23,760 --> 00:13:36,760
+ Vi har berättat här tidigare från MSBs myndigheten för samhällsskydd och beredskapssida att vi har gjort ett arbete för att alla kommuner ska ha möjlighet att få ett organiserat frivilligstöd.
+
+158
+00:13:36,760 --> 00:13:44,760
+ När det gäller till exempel stöd till äldre och andra riskgrupper med mathandling och andra praktiska frågor.
+
+159
+00:13:44,760 --> 00:13:53,760
+ Det har vi gjort genom ett samordningsuppdrag till civilsförsvarsförbundet där vi har stärkt de frivilliga resursgrupperna som finns i många kommuner.
+
+160
+00:13:53,760 --> 00:14:03,760
+ Och vi har tillsammans, som ett komplement, tillsammans med Sveriges kommuner och regioner, Riksidrottsförbundet, Rädda barnen, Svenska kyrkan, Svenska röda korset och statsmissionerna
+
+161
+00:14:03,760 --> 00:14:08,760
+ tagit fram ett erbjudande om akutstöd för kommuner som inte har någon sån här frivillig resursgrupp.
+
+162
+00:14:08,760 --> 00:14:10,760
+ Och det här har vi berättat om här tidigare.
+
+163
+00:14:10,760 --> 00:14:18,760
+ Just nu är läget att något av de här frivilligstöden är etablerat hos över 200 av landets kommuner.
+
+164
+00:14:18,760 --> 00:14:27,760
+ Och i över 100 kommuner så stöttar de frivilliga aktivt kommunerna med exempelvis matinköp till äldre och liknande tjänster.
+
+165
+00:14:27,760 --> 00:14:34,760
+ Och i ytterligare 100 kommuner så finns det frivilliga resursgrupper som kan aktiveras av kommunen om det behövs.
+
+166
+00:14:34,760 --> 00:14:44,760
+ Och det innebär att gruppen kan användas för matinköp och annat, eller till andra uppgifter som de har särskild utbildning för om läget försvåras och behoven ökas.
+
+167
+00:14:44,760 --> 00:14:48,760
+ Det finns också annat organiserat frivillig stöd.
+
+168
+00:14:48,760 --> 00:14:56,760
+ Ett exempel är arbetet med sjuktransporter för att se till att sänkplatser på sjukhusen ska vara tillgängliga för de som behöver de mest.
+
+169
+00:14:56,760 --> 00:15:07,760
+ Och här bidrar MSB till en samordnad förmedling av utbildade frivilliga, bland annat sjukvårdare, som kan följa med de här sjuktransporterna.
+
+170
+00:15:07,760 --> 00:15:15,760
+ Ett resultat konkret är samverkan mellan ambulansverksamheten här i Stockholmsregionen och den frivilliga försvarsorganisationen Försvarsutbildarna.
+
+171
+00:15:15,760 --> 00:15:29,760
+ Här i region Stockholm har utbildade frivilliga sjukvårdare varit igång i ungefär tre veckor och hittills genomfört över 1 700 sjuktransporter, eller medverkat i de här sjuktransporterna.
+
+172
+00:15:29,760 --> 00:15:32,760
+ Slutligen något helt annat.
+
+173
+00:15:32,760 --> 00:15:40,760
+ Det är torrt och varmt och råder stor risk för brand i skog och mark i hela södra Sverige de kommande dagarna.
+
+174
+00:15:40,760 --> 00:15:44,760
+ Har detta med covid-19 att göra?
+
+175
+00:15:44,760 --> 00:15:46,760
+ Ja, faktiskt.
+
+176
+00:15:46,760 --> 00:15:51,760
+ Vi märker ju att många människor ger sig ut i skogen, inte minst under helgerna.
+
+177
+00:15:51,760 --> 00:15:56,760
+ Kanske fler än vanligt, eftersom man vill undvika trängseln i städerna.
+
+178
+00:15:56,760 --> 00:16:00,760
+ Det är picknickar och korvgrillning lite överallt.
+
+179
+00:16:00,760 --> 00:16:05,760
+ Samtidigt är stora delar av samhället hårt ansträngt i hanteringen av pandemin.
+
+180
+00:16:05,760 --> 00:16:11,760
+ Och även om vi har beredskap, naturligtvis, så önskar vi inte fler stora händelser.
+
+181
+00:16:11,760 --> 00:16:19,760
+ Jag skulle därför vilja lägga ytterligare ett myndighetsråd till de som ni brukar höra från den här scenen.
+
+182
+00:16:19,760 --> 00:16:24,760
+ Det är att vara försiktiga ute i skog och mark de kommande dagarna.
+
+183
+00:16:24,760 --> 00:16:27,760
+ Ta ansvar. Tack.
+
+184
+00:16:27,760 --> 00:16:30,760
+ Expressen har en fråga.
+
+185
+00:16:30,760 --> 00:16:34,760
+ Daniel Ingmo, Expressen. Fråga till Folkhälsomyndigheten.
+
+186
+00:16:34,760 --> 00:16:38,760
+ Vi ser på grafen att det ser väldigt olika ut i olika delar av landet.
+
+187
+00:16:38,760 --> 00:16:45,760
+ Har ni övervägt att sätta in lokala restriktioner och att de här rekommendationerna
+
+188
+00:16:45,760 --> 00:16:49,760
+ att de kan skilja sig runtom i landet beroende på hur smittspridningen ser ut?
+
+189
+00:16:49,760 --> 00:16:51,760
+ Inte i det här skedet.
+
+190
+00:16:51,760 --> 00:16:56,760
+ Nu vet vi att det behövs fortsatta restriktioner för att hålla tillbaka nu.
+
+191
+00:16:56,760 --> 00:16:58,760
+ Det är inte så att vi kan lätta på dem.
+
+192
+00:16:58,760 --> 00:17:00,760
+ Det gäller i hela landet.
+
+193
+00:17:00,760 --> 00:17:06,760
+ Även om man kanske har haft en mer fördelaktig utveckling hittills så kan det delvis bero på restriktionerna.
+
+194
+00:17:06,760 --> 00:17:08,760
+ Det ska vi inte ta bort dem nu.
+
+195
+00:17:08,760 --> 00:17:13,760
+ Vi får se vart det går. Om det är ett extremt läge där det är en stor skillnad på smitta så kanske man kan tänka sig det.
+
+196
+00:17:13,760 --> 00:17:17,760
+ Men just nu så är det hela riket som gäller för restriktionerna.
+
+197
+00:17:17,760 --> 00:17:21,760
+ En annan fråga som jag vet att du har fått tidigare.
+
+198
+00:17:21,760 --> 00:17:25,760
+ Angående rådet att man ska stanna hemma om man känner sig det minsta sjuk.
+
+199
+00:17:25,760 --> 00:17:29,760
+ Nu har vi hört Johan Giesecke säga att den största delen av smittspridningen
+
+200
+00:17:29,760 --> 00:17:34,760
+ det sker från en person som inte känner av att den är sjuk som smittar en person som inte heller känner av att den är sjuk.
+
+201
+00:17:34,760 --> 00:17:36,760
+ Och så sprids det vidare.
+
+202
+00:17:36,760 --> 00:17:39,760
+ Räcker det verkligen att stanna hemma om man känner sig det minsta sjuk?
+
+203
+00:17:39,760 --> 00:17:45,760
+ Om det är så att den största delen av smittspridningen sker mellan personer som inte ens känner av att de har den här smittan.
+
+204
+00:17:45,760 --> 00:17:49,760
+ Jag vet inte om Johan riktigt menar det så.
+
+205
+00:17:49,760 --> 00:17:51,760
+ Och om det verkligen var så.
+
+206
+00:17:51,760 --> 00:17:54,760
+ För det vi menar är att väldigt många kan ha väldigt milda symptom.
+
+207
+00:17:54,760 --> 00:17:59,760
+ Det kan vara att man inte i normala fall skulle man inte ha reagerat på att man är sjuk.
+
+208
+00:17:59,760 --> 00:18:02,760
+ Man känner sig lite sjuk och då hade man gått till jobbet.
+
+209
+00:18:02,760 --> 00:18:03,760
+ Nu ska man stanna hemma istället.
+
+210
+00:18:03,760 --> 00:18:07,760
+ Vi tror att det är en väldigt viktig åtgärd som man kan göra för att skydda.
+
+211
+00:18:07,760 --> 00:18:09,760
+ Sen om det finns andra som smittar.
+
+212
+00:18:09,760 --> 00:18:12,760
+ Vi tror inte att det är den majoriteten men om det finns det.
+
+213
+00:18:12,760 --> 00:18:18,760
+ De skyddas av de här andra åtgärderna som vi har med att hålla avstånd och tvätta händerna.
+
+214
+00:18:18,760 --> 00:18:21,760
+ Och de här social distansering och de övriga åtgärderna.
+
+215
+00:18:21,760 --> 00:18:24,760
+ Så att de tar ju höjd för det också.
+
+216
+00:18:24,760 --> 00:18:29,760
+ Men det viktigaste som man kan göra på egen hand det är att verkligen vara hemma när man är sjuk.
+
+217
+00:18:29,760 --> 00:18:35,760
+ Jörns Polander, TT. Jag undrar med vården lite grann.
+
+218
+00:18:35,760 --> 00:18:39,760
+ Har ni gjort någon utvärdering av nedstängningen av gymnasieskolorna?
+
+219
+00:18:39,760 --> 00:18:43,760
+ Vad den har bidragit med när det gäller smittspridningstopp?
+
+220
+00:18:43,760 --> 00:18:49,760
+ Det är ju svårt att utvärdera enskilda insatser i en helt ny situation.
+
+221
+00:18:49,760 --> 00:18:55,760
+ Och kunna bedöma vad exakt orsakar var under pågående epidemi.
+
+222
+00:18:55,760 --> 00:18:58,760
+ Det är möjligt att man kan lära sig mer av det så småningom.
+
+223
+00:18:58,760 --> 00:19:01,760
+ Och kanske när man öppnar upp i andra länder och ser vad som händer.
+
+224
+00:19:01,760 --> 00:19:08,760
+ Men just nu har vi ett läge där det kanske är lite stabilt eller en plateau som vi talar om.
+
+225
+00:19:08,760 --> 00:19:12,760
+ Då vill vi hålla i det vi har och inte göra snabba ändringar.
+
+226
+00:19:12,760 --> 00:19:17,760
+ Så det är inte aktuellt med att man öppnar upp någon gymnasieskola nu under våren?
+
+227
+00:19:17,760 --> 00:19:22,760
+ Nej, vi för diskussioner bland annat med Skolverket och kommer komma med förtydligande.
+
+228
+00:19:22,760 --> 00:19:27,760
+ I princip så har ju inte läget förändrats på det sättet att vi vill göra större lättnader.
+
+229
+00:19:27,760 --> 00:19:31,760
+ Magnus Liljeskjöld, Ekot.
+
+230
+00:19:31,760 --> 00:19:35,760
+ Jag tänkte fråga, efter en ganska lång period där smittspridningen har ökat.
+
+231
+00:19:35,760 --> 00:19:40,760
+ Så ser man ganska tydligt att det är den här plateaufasen som man pratar om.
+
+232
+00:19:40,760 --> 00:19:45,760
+ Går det att säga att över tid framåt, hur länge det här varar?
+
+233
+00:19:45,760 --> 00:19:48,760
+ Och om det kommer att bli en ökning igen eller om det kommer att minska så?
+
+234
+00:19:48,760 --> 00:19:51,760
+ Den här frågan har vi haft tidigare på bordet såklart.
+
+235
+00:19:51,760 --> 00:19:54,760
+ Nej, vi säger att det är en plateaufas.
+
+236
+00:19:54,760 --> 00:19:58,760
+ Våra modellerare säger att den kan, enligt deras modeller, också kanske vara ganska lång.
+
+237
+00:19:58,760 --> 00:20:01,760
+ Riktigt hur lång den blir vet jag inte.
+
+238
+00:20:01,760 --> 00:20:05,760
+ Men en sak är jag säker på, att om vi plötsligt börjar leva som vanligt igen
+
+239
+00:20:05,760 --> 00:20:07,760
+ då kan det här få en helt annan utveckling.
+
+240
+00:20:07,760 --> 00:20:13,760
+ Därför så, även om det kan verka dåligt med en plateau och inte en nedgång
+
+241
+00:20:13,760 --> 00:20:16,760
+ så är det ändå mycket bättre än alternativet att det går upp igen.
+
+242
+00:20:16,760 --> 00:20:19,760
+ Så vi måste hålla ut nu och se till att hjälpas åt.
+
+243
+00:20:19,760 --> 00:20:22,760
+ Hej, Mia Pertsson, Göteborgs Post.
+
+244
+00:20:22,760 --> 00:20:24,760
+ Jag har en fråga till Anders Wallensten.
+
+245
+00:20:24,760 --> 00:20:29,760
+ Först undrar jag, de här, att ett bekräftat fall av 75 så finns det ytterligare 75.
+
+246
+00:20:29,760 --> 00:20:31,760
+ Är det applicerbart på resten av Sverige eller är det bara Stockholm?
+
+247
+00:20:31,760 --> 00:20:33,760
+ Nej, förlåt, bara Stockholm.
+
+248
+00:20:33,760 --> 00:20:41,760
+ Sen undrar jag, igår sa Per Folin i Aktuellt att alla ska bete sig som 70-plusarna.
+
+249
+00:20:41,760 --> 00:20:45,760
+ Ni står ju alltid här att de ska begränsa sina sociala kontakter.
+
+250
+00:20:45,760 --> 00:20:49,760
+ Jag undrar hur du tänker kring det.
+
+251
+00:20:49,760 --> 00:20:53,760
+ Sen nämnde han att det här är en kritisk period.
+
+252
+00:20:53,760 --> 00:20:58,760
+ Betyder det att vi är i en ännu mer kritisk period nu än vad vi har varit i?
+
+253
+00:20:58,760 --> 00:21:02,760
+ Jag tror kanske så här, att det blir en allt mer kritisk period.
+
+254
+00:21:02,760 --> 00:21:06,760
+ Även om inte antalet fall går upp så är det en hög belastning i vården.
+
+255
+00:21:06,760 --> 00:21:11,760
+ Ju längre tiden höga belastningen är, ju mer tär det är på resurserna.
+
+256
+00:21:11,760 --> 00:21:16,760
+ På det sättet når vi hela tiden en mer kritisk nivå tills det börjar minska.
+
+257
+00:21:16,760 --> 00:21:18,760
+ Där är vi inte än.
+
+258
+00:21:18,760 --> 00:21:25,760
+ Sen det här om att vi alla borde bete oss som 70-plus, vi har sagt att det behövs inte.
+
+259
+00:21:25,760 --> 00:21:32,760
+ Men vi får inte börja tänka att det är 70-plus som ska skydda sig och vi andra behöver inte bry oss.
+
+260
+00:21:32,760 --> 00:21:37,760
+ Vi ska hålla oss till de här rekommendationerna som vi så tydligt gått ut med under lång tid.
+
+261
+00:21:37,760 --> 00:21:42,760
+ Erik Karlsson från Aftonbladet. En fråga till Folkhälsomyndigheten.
+
+262
+00:21:42,760 --> 00:21:46,760
+ Du säger att man ska hålla i begränsningen i det sociala umgänget.
+
+263
+00:21:46,760 --> 00:21:50,760
+ Ni meddelar idag att valdborgsmässig firande inte kommer att se ut som vanligt.
+
+264
+00:21:50,760 --> 00:21:56,760
+ Ytterligare en chans då som normalt sett är en chans att träffa sin familj, resa över landet och samla familjen.
+
+265
+00:21:56,760 --> 00:21:59,760
+ När ska man börja kunna planera för sånt här?
+
+266
+00:21:59,760 --> 00:22:05,760
+ Pratar vi missommar, är det en realistisk plan för någon att kunna träffa sin familj i en annan del av landet till exempel?
+
+267
+00:22:05,760 --> 00:22:09,760
+ Det här är en helt ny situation i världen.
+
+268
+00:22:09,760 --> 00:22:11,760
+ Vi har aldrig haft det här viruset innan.
+
+269
+00:22:11,760 --> 00:22:19,760
+ Om jag stod här och sa att om två veckor kan ni börja boka resor så skulle det väldigt lätt kunna bli fel.
+
+270
+00:22:19,760 --> 00:22:26,760
+ Jag tror att vi måste räkna med att det finns, även med våra beräkningar och modellering, så visserligen kommer många ha varit smittade.
+
+271
+00:22:26,760 --> 00:22:32,760
+ Men det kommer även i maj vara många fler till exempel i Stockholm som inte har varit smittade, ännu fler ute i landet.
+
+272
+00:22:32,760 --> 00:22:35,760
+ Det finns inget där som talar för att det här ska gå över jättefort.
+
+273
+00:22:35,760 --> 00:22:44,760
+ Det skulle vara om det är andra saker som gör att smittspridningen avtar plötsligt, att det blir sommar och liknande.
+
+274
+00:22:44,760 --> 00:22:47,760
+ Men det är inget som vi kan ta ut för säkert än så länge.
+
+275
+00:22:47,760 --> 00:22:50,760
+ Man kanske tänker att andra länder gör lättnader.
+
+276
+00:22:50,760 --> 00:22:55,760
+ Ja, men det är från ett läge som var väldigt låst i landet som är extremt svårt att hålla ute i.
+
+277
+00:22:55,760 --> 00:23:01,760
+ Den nivån vi ligger på är tack och lov lite lättare att hålla ute i, även om den också är en jätteansträngning för alla i hela landet.
+
+278
+00:23:01,760 --> 00:23:05,760
+ Det låter på dig som att man snarare ska hoppas på julafton än midsommarafton.
+
+279
+00:23:05,760 --> 00:23:08,760
+ Ja, jag säger ingenting.
+
+280
+00:23:08,760 --> 00:23:11,760
+ Ja, Amanda Dahl, DN.
+
+281
+00:23:11,760 --> 00:23:15,760
+ Först bara vill jag fråga om antalet smittade där.
+
+282
+00:23:15,760 --> 00:23:21,760
+ Det såg ut på stapeln som att dagens siffra är den högsta hittills.
+
+283
+00:23:21,760 --> 00:23:24,760
+ Ja, eller nästhögsta eller så.
+
+284
+00:23:24,760 --> 00:23:27,760
+ Högsta i Stockholm om jag minns rätt.
+
+285
+00:23:27,760 --> 00:23:31,760
+ Och sen undrar jag också gällande det här.
+
+286
+00:23:31,760 --> 00:23:41,760
+ Det har kommit vissa rapporter om att man misstänker att ju högre smittdos du får desto högre risker för att du blir allvarligt sjuk.
+
+287
+00:23:41,760 --> 00:23:43,760
+ Har ni någon mer kunskap om det?
+
+288
+00:23:43,760 --> 00:23:47,760
+ Jag har inte sett det, men denna analogin finns ju med andra sjukdomar.
+
+289
+00:23:47,760 --> 00:23:53,760
+ Om man får en kraftig exposition kan sjukdomsförloppet vara hastigare och kanske mer allvarligt.
+
+290
+00:23:53,760 --> 00:23:57,760
+ Det är inte uteslutet, men jag har inte sett någon tydlig rapport som har sagt det.
+
+291
+00:23:57,760 --> 00:24:03,760
+ Men om ni då misstänker det, hur påverkar det hur sjukvårdspersonal ska agera?
+
+292
+00:24:03,760 --> 00:24:10,760
+ Och om man bor i samma hushåll som någon som blir allvarligt sjuk, ska man ta med det här i beräkningen?
+
+293
+00:24:10,760 --> 00:24:11,760
+ Hur ska man då göra?
+
+294
+00:24:11,760 --> 00:24:14,760
+ I sjukvården har man med det i beräkningen.
+
+295
+00:24:14,760 --> 00:24:21,760
+ Vid särskilda procedurer kan det bli mer generering av virus och utsöndring i luften.
+
+296
+00:24:21,760 --> 00:24:25,760
+ Så har man skydd på ett annat sätt, där man har med sig skyddskläder.
+
+297
+00:24:25,760 --> 00:24:32,760
+ Det är svårare i hemmet förstås, men om man är så allvarligt sjuk så kanske man å andra sidan ska vara inom sjukvården.
+
+298
+00:24:32,760 --> 00:24:35,760
+ Vi har en fråga från BBC News.
+
+299
+00:24:35,760 --> 00:24:40,760
+ BBC.
+
+300
+00:24:40,760 --> 00:24:43,760
+ Ja, hallå? Kan du höra mig?
+
+301
+00:24:43,760 --> 00:24:44,760
+ Okej.
+
+302
+00:24:44,760 --> 00:24:46,760
+ Två snabba frågor på engelska.
+
+303
+00:24:46,760 --> 00:24:55,760
+ Hur ser du på potentialen för sjukvårdsimmuniteten på hur Stockholmare kan leva de kommande månaderna
+
+304
+00:24:55,760 --> 00:25:03,760
+ jämfört med andra länder där folk är mindre nöjda med att bli immun efter långa lockdowns?
+
+305
+00:25:03,760 --> 00:25:05,760
+ Det är en bra fråga.
+
+306
+00:25:05,760 --> 00:25:09,760
+ Jag tror att det är för tidigt att säga det, som jag brukar säga dessa dagar.
+
+307
+00:25:09,760 --> 00:25:13,760
+ Vi vet inte så mycket om immunitet än.
+
+308
+00:25:13,760 --> 00:25:27,760
+ Vi vet mer om det när fler människor testas för antibiotika, men också om fler infektionsnedsättningar är rapporterade.
+
+309
+00:25:27,760 --> 00:25:32,760
+ Men vi tror att det har skydd på minst under den pågående säsongen.
+
+310
+00:25:32,760 --> 00:25:39,760
+ Så klart kommer fler Stockholmare att bli skyddad, och i länder där inte så många har blivit upptäckta.
+
+311
+00:25:39,760 --> 00:25:45,760
+ Men jag är inte säker på att det kommer att påverka hur vi lever på kort sikt.
+
+312
+00:25:45,760 --> 00:25:53,760
+ För som jag sa, även om 30-23 procent av Stockholmare har blivit infektade i maj,
+
+313
+00:25:53,760 --> 00:25:57,760
+ så betyder det att de flesta inte har blivit infektade.
+
+314
+00:25:57,760 --> 00:26:03,760
+ Med tanke på misslyckan i projekten, som folkhälsomyndigheten har uttryckt,
+
+315
+00:26:03,760 --> 00:26:08,760
+ så är det förfåsligt för Sverige när många av världen tittar på den här anläggningen.
+
+316
+00:26:08,760 --> 00:26:13,760
+ Hur trött kan globala tittare vara i statistiken i Sverige i allmänhet?
+
+317
+00:26:13,760 --> 00:26:20,760
+ Jag tror inte att det ska representeras av statistiken i Sverige i allmänhet.
+
+318
+00:26:20,760 --> 00:26:23,760
+ Det var ett misslyckande.
+
+319
+00:26:23,760 --> 00:26:28,760
+ Många förstår att vi jobbar hårt och att saker går snabbare än vanligt.
+
+320
+00:26:28,760 --> 00:26:31,760
+ Tyvärr var det inte upptäckt innan det gick ut.
+
+321
+00:26:31,760 --> 00:26:35,760
+ Vi har korrektat det relativt snabbt, tack vare många.
+
+322
+00:26:35,760 --> 00:26:40,760
+ Alla våra kalkyler och data finns online, så att andra kan se hur vi har räknat.
+
+323
+00:26:40,760 --> 00:26:49,760
+ Med den här öppenheten och det faktum att fel kan ske, så tror jag att det blir en förståelse.
+
+324
+00:26:49,760 --> 00:26:53,760
+ Tack. Polis Radio också.
+
+325
+00:26:53,760 --> 00:27:01,760
+ Jag har en fråga till Folkhälsomyndigheten.
+
+326
+00:27:01,760 --> 00:27:08,760
+ Ni har flera gånger understrykit vikten att förböga och bromsa smittspridningen i samhället.
+
+327
+00:27:08,760 --> 00:27:12,760
+ Ni rekommenderar individer att hålla avstånd till andra.
+
+328
+00:27:12,760 --> 00:27:18,760
+ Varför har ni avstått från att rekommendera användning av munskydd
+
+329
+00:27:18,760 --> 00:27:22,760
+ när man vistas ute på publika platser?
+
+330
+00:27:22,760 --> 00:27:28,760
+ Det finns flera studier, bland annat belgiska och finska, som visar att just munskydd
+
+331
+00:27:28,760 --> 00:27:34,760
+ är effektivare på att minska spridningen av coronavirus från de som bär på den.
+
+332
+00:27:34,760 --> 00:27:42,760
+ Vår bedömning är såklart att vi tror att de rekommendationer vi har
+
+333
+00:27:42,760 --> 00:27:45,760
+ är de som spelar störst roll och är nödvändiga.
+
+334
+00:27:45,760 --> 00:27:49,760
+ Sen kan man kanske uppnå något mer med munskydd, kanske inte.
+
+335
+00:27:49,760 --> 00:27:53,760
+ Det finns andra risker med munskydd om man inte hanterar dem korrekt.
+
+336
+00:27:53,760 --> 00:27:57,760
+ Vi har landat i att det inte är något vi rekommenderar för närvarande.
+
+337
+00:27:57,760 --> 00:28:02,760
+ Det kommer att komma mer om de närmaste dagarna där vi diskuterar den frågan.
+
+338
+00:28:02,760 --> 00:28:08,760
+ Jag tror att ni kommer att få mer information om användning av munskydd, framförallt inom vården.
+
+339
+00:28:08,760 --> 00:28:11,760
+ Men just nu har jag inget mer att säga om det.
+
+340
+00:28:11,760 --> 00:28:14,760
+ Kan det vara aktuellt i framtiden?
+
+341
+00:28:14,760 --> 00:28:21,760
+ Vi är helt klart öppna. Om vi ser studier som pekar på att det här är det som är skillnad
+
+342
+00:28:21,760 --> 00:28:24,760
+ så är det självklart så att vi tar ställning även till det.
+
+343
+00:28:24,760 --> 00:28:29,760
+ Men för närvarande har vi inte sett att det är något som i det här skedet
+
+344
+00:28:29,760 --> 00:28:32,760
+ behövs rekommenderas.
+
+345
+00:28:32,760 --> 00:28:35,760
+ Tack. Finska Ylle.
+
+346
+00:28:35,760 --> 00:28:39,760
+ Hej från Helsingfors.
+
+347
+00:28:39,760 --> 00:28:47,760
+ Modelleringen visar att 26 procent av stockholmare skulle vara sjuka eller har haft sjukan.
+
+348
+00:28:47,760 --> 00:28:53,760
+ Jag antar att ni utgår ifrån att Stockholm kommer att nå flockimmunitet någon gång i nära framtiden.
+
+349
+00:28:53,760 --> 00:28:59,760
+ Vad skulle ett läge med flockimmunitet i Stockholm innebära för individen?
+
+350
+00:28:59,760 --> 00:29:06,760
+ Kan man fritt framträffas med andra eller finns det risk för att man blir smittad återigen?
+
+351
+00:29:06,760 --> 00:29:12,760
+ Som jag har sagt tidigare så även om vi projicerar att en stor del har varit smittade
+
+352
+00:29:12,760 --> 00:29:15,760
+ så är det även där så att många inte har varit det.
+
+353
+00:29:15,760 --> 00:29:21,760
+ Om vi når flockimmunitet eller inte det är också beroende på hur många som verkligen behövs
+
+354
+00:29:21,760 --> 00:29:23,760
+ för att uppnå det. Det här är ingen som riktigt vet.
+
+355
+00:29:23,760 --> 00:29:25,760
+ Det är ingen som kan säga att ett land har det.
+
+356
+00:29:25,760 --> 00:29:33,760
+ Vad skulle krävas? Om folk har haft mild sjukdom har de då riktigt skydd för en svårare sjukdom
+
+357
+00:29:33,760 --> 00:29:35,760
+ eller att bli återinfekterade.
+
+358
+00:29:35,760 --> 00:29:37,760
+ Det finns många frågetecken kvar.
+
+359
+00:29:37,760 --> 00:29:41,760
+ Jag tror att de immunologiska studier som nu har påbörjats och som kommer i större utsträckning
+
+360
+00:29:41,760 --> 00:29:44,760
+ där man kan titta på det här kommer att ge mer svar.
+
+361
+00:29:44,760 --> 00:29:49,760
+ Men i nuläget så skulle jag inte från den här modelleringen säga att vi kommer att kunna
+
+362
+00:29:49,760 --> 00:29:51,760
+ bete oss annorlunda än på andra ställen i Sverige.
+
+363
+00:29:51,760 --> 00:29:58,760
+ Statsepidemiolog Anders Tegnell sa senast igår att det inte är så viktigt med dödstal
+
+364
+00:29:58,760 --> 00:30:01,760
+ när man väljer strategier. Varför är det så?
+
+365
+00:30:01,760 --> 00:30:04,760
+ Nu vet jag inte riktigt vad han syftade till.
+
+366
+00:30:04,760 --> 00:30:09,760
+ Men han menar väl att det viktiga dödsfall kan bero på många saker.
+
+367
+00:30:09,760 --> 00:30:15,760
+ Som vi har sett så kan det bero på om det tyvärr drabbar sårbara grupper
+
+368
+00:30:15,760 --> 00:30:17,760
+ så kan man få rätt höga dödsfall.
+
+369
+00:30:17,760 --> 00:30:21,760
+ Så strategin börjar ju snarare vara att skydda dem så att man inte får höga dödsfall.
+
+370
+00:30:21,760 --> 00:30:23,760
+ Det är väl kanske det han menar.
+
+371
+00:30:23,760 --> 00:30:27,760
+ Strategin i sig kan se ut på ett sätt för samhället
+
+372
+00:30:27,760 --> 00:30:31,760
+ att man skyddar dem som är sköra i det vi har satsat på.
+
+373
+00:30:31,760 --> 00:30:36,760
+ Sen kan dödsfallen bli så ändå om viruset kommer in olyckligt från ett sätt man inte har tänkt.
+
+374
+00:30:36,760 --> 00:30:41,760
+ Eller att man har en ålderstruktur som är annorlunda än andra länder.
+
+375
+00:30:41,760 --> 00:30:43,760
+ Eller hur man räknar fallen och liknande.
+
+376
+00:30:43,760 --> 00:30:46,760
+ Så det finns många variabler kring dödsfall.
+
+377
+00:30:46,760 --> 00:30:48,760
+ Det tror jag det Anders syftar på.
+
+378
+00:30:48,760 --> 00:30:52,760
+ Som kanske förvirrar mer.
+
+379
+00:30:52,760 --> 00:30:57,760
+ Det är bättre att välja en strategi som man tror skyddar dem som är sköra
+
+380
+00:30:57,760 --> 00:30:59,760
+ och räddar sjukvården. Det är den strategin vi har valt.
+
+381
+00:30:59,760 --> 00:31:01,760
+ Tack! Dagens Etc.
+
+382
+00:31:01,760 --> 00:31:06,760
+ Hej! Sam Linderoth på Dagens Etc.
+
+383
+00:31:06,760 --> 00:31:12,760
+ Jag vet inte om det är Folkhälsomyndigheten eller Socialstyrelsen som ska ta den här frågan.
+
+384
+00:31:12,760 --> 00:31:21,760
+ Antalet avlidna idag är betydligt högre än antalet personer som varit inskrivna på IVA.
+
+385
+00:31:21,760 --> 00:31:32,760
+ Räknar man dessutom in att en hel del IVA-patienter överlever så är det uppenbart så att många av dem som har avlidit aldrig har fått intensivvård.
+
+386
+00:31:32,760 --> 00:31:35,760
+ Jag undrar helt enkelt vad det beror på.
+
+387
+00:31:35,760 --> 00:31:39,760
+ Är det här en konsekvens av prioriteringar i vården?
+
+388
+00:31:39,760 --> 00:31:42,760
+ Eller är det att folk inte hinner söka vård i tid?
+
+389
+00:31:42,760 --> 00:31:46,760
+ Har ni någon uppfattning kring det här?
+
+390
+00:31:46,760 --> 00:31:50,760
+ Jag börjar med dig.
+
+391
+00:31:50,760 --> 00:31:59,760
+ Våra register på dödsorsak när vi tittar på just de här som kommer har en två veckors lagg.
+
+392
+00:31:59,760 --> 00:32:02,760
+ Det kommer komma mer information och statistik.
+
+393
+00:32:02,760 --> 00:32:10,760
+ Där vi faktiskt tittar på inte bara om du är covid-19 och har avlidit utan också dödsorsaken i sig.
+
+394
+00:32:10,760 --> 00:32:17,760
+ Vi har just nu inga sådana data på var de här befinner sig.
+
+395
+00:32:17,760 --> 00:32:24,760
+ Däremot så pågår det ett arbete för att titta i de här registrerna och samköra de olika registrerna som finns för att faktiskt se.
+
+396
+00:32:24,760 --> 00:32:29,760
+ Precis som du nämner, hur går det för de som ligger på intensivvården?
+
+397
+00:32:29,760 --> 00:32:32,760
+ Hur är kvaliteten i vården och så vidare?
+
+398
+00:32:32,760 --> 00:32:44,760
+ Att prata om att de som behöver vård och intensivvård i vårt land inte skulle få det när det finns resurser.
+
+399
+00:32:44,760 --> 00:32:51,760
+ Vården mobiliserar så enormt mycket för att det ska finnas resurser för att vårda dem.
+
+400
+00:32:51,760 --> 00:32:54,760
+ Det tror jag inte ett dugg på.
+
+401
+00:32:54,760 --> 00:32:59,760
+ Sen kan jag inte uttala mig om särskilda och specifika fall.
+
+402
+00:32:59,760 --> 00:33:08,760
+ Men vi får titta närmare på det där och det finns även ytterligare myndigheter i inspektionen för vård och omsorg som ska titta på det här med just intensivvården.
+
+403
+00:33:08,760 --> 00:33:19,760
+ Sen har jag en annan fråga till Folkhälsomyndigheten också angående den här nya modelleringsrapporten.
+
+404
+00:33:19,760 --> 00:33:27,760
+ Nu har jag av uppenbara skäl inte hunnit läsa igenom den ordentligt än.
+
+405
+00:33:27,760 --> 00:33:40,760
+ Jag undrar hur man kan göra en sån här avsevärd förändring av en variabel, i det här fallet andelen obekräftade fall,
+
+406
+00:33:40,760 --> 00:33:44,760
+ och ändå få ett snarlikt resultat.
+
+407
+00:33:44,760 --> 00:33:51,760
+ Innebär inte det att man måste ändra någon av de andra parametrarna i modellen då?
+
+408
+00:33:51,760 --> 00:33:55,760
+ Hur motiverar man en sån förändring?
+
+409
+00:33:55,760 --> 00:34:02,760
+ Det rent matematiska bakom får ni gärna ta med Lisa Brauer som är tillgänglig efteråt på telefon om ni vill ringa henne och diskutera.
+
+410
+00:34:02,760 --> 00:34:04,760
+ Det är nästan bäst.
+
+411
+00:34:04,760 --> 00:34:06,760
+ Tack! Vi går vidare här inne.
+
+412
+00:34:06,760 --> 00:34:09,760
+ Jan Söderström, Aktuellt i politiken.
+
+413
+00:34:09,760 --> 00:34:14,760
+ Vi har ju sett skyddsombud som har utfärdt skyddsstopp på vissa arbetsplatser,
+
+414
+00:34:14,760 --> 00:34:22,760
+ medan andra arbetsplatser fortsätter verksamheten som vanligt trots att det är ungefär samma förutsättningar.
+
+415
+00:34:22,760 --> 00:34:28,760
+ Nu diskuteras en ökad tillgänglighet för skyddsombud på arbetsplatser.
+
+416
+00:34:28,760 --> 00:34:34,760
+ Vilken erfarenhet har ni av hur viktigt det här är för att kunna få vettiga rutiner,
+
+417
+00:34:34,760 --> 00:34:39,760
+ till exempel inom äldreomsorgen? Kanske Socialstyrelsen först?
+
+418
+00:34:43,760 --> 00:34:53,760
+ Jag tänker att alla system som vi har, vare sig det är våra skyddsombud eller om det är andra typer av inspektioner som görs,
+
+419
+00:34:53,760 --> 00:35:04,760
+ tillför att vi ska kunna ge vård och för att vi ska kunna göra ett jobb så bra som möjligt.
+
+420
+00:35:04,760 --> 00:35:11,760
+ Jag ser det positivt att vi i Sverige har det riggat på det systemet och att även de systemen är igång
+
+421
+00:35:11,760 --> 00:35:18,760
+ för att vi ska värna om både våra medarbetare och de patienter som behöver få vård.
+
+422
+00:35:18,760 --> 00:35:26,760
+ Men ni gör ingen bedömning av hur omfattande verksamheten, om den behöver förstärkas eller vad den får för effekt?
+
+423
+00:35:26,760 --> 00:35:34,760
+ Nej, vi är ju ingen tillsynsmyndighet, men däremot så finns ju en tillsynsmyndighet,
+
+424
+00:35:34,760 --> 00:35:41,760
+ inspektionen för vård och omsorg och de agerar ju på de signaler som finns och gör de här inspektionerna.
+
+425
+00:35:41,760 --> 00:35:48,760
+ Vi är ju till för att erbjuda bäst kunskap så kommer det fram information om att det beror på att det saknas saker
+
+426
+00:35:48,760 --> 00:35:53,760
+ som ligger inom vårt ansvarsområde så ska vi givetvis se till att omhänderta dem.
+
+427
+00:35:53,760 --> 00:35:58,760
+ Tack, då är vi klara. Tack för att ni kom hit. Det är många på listan, 14 medier anmälds,
+
+428
+00:35:58,760 --> 00:36:04,760
+ så vi måste ta korta intervjuer. Alla görs utomhus.
+
+429
+00:36:04,760 --> 00:36:06,760
+ Tack så mycket.
+
+430
+00:36:06,760 --> 00:36:11,760
+ [Textet av Nicolai Winther]
+
